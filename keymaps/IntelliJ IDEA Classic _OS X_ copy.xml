@@ -1,11 +1,6 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="Macro.php-cs and save">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
-  <action id="SaveAll">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
+  <action id="EditorSelectWord" />
 </keymap>
