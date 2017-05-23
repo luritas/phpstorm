@@ -88,6 +88,9 @@
         <mark key="^" line="533" column="22" />
         <mark key="." line="532" column="0" />
       </file>
+      <file name="$USER_HOME$/git/laravel/composer.json" timestamp="1495543329291">
+        <mark key="'" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/index.html" timestamp="1490016148070">
         <mark key="[" line="26" column="42" />
         <mark key="]" line="26" column="42" />
@@ -469,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="923" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="898" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="918" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="148" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -569,6 +571,7 @@
       <jump line="8" column="18" filename="$USER_HOME$/git/pas/view/index.php" />
       <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="13" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="5" column="12" filename="$USER_HOME$/git/laravel/composer.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
