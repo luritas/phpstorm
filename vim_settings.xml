@@ -40,10 +40,11 @@
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/ignitiondeck-functions.php" timestamp="1495554030033">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/ignitiondeck-functions.php" timestamp="1495735985250">
+        <mark key="[" line="93" column="74" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
+        <mark key="^" line="91" column="18" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/default-constants.php" timestamp="1494345233764">
         <mark key="[" line="348" column="0" />
@@ -235,11 +236,11 @@
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" timestamp="1495551013294">
-        <mark key="[" line="612" column="182" />
-        <mark key="]" line="612" column="186" />
-        <mark key="^" line="612" column="186" />
-        <mark key="." line="612" column="186" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" timestamp="1495735326715">
+        <mark key="'" line="430" column="0" />
+        <mark key="[" line="897" column="0" />
+        <mark key="]" line="897" column="0" />
+        <mark key="." line="897" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp.php" timestamp="1494737373688">
         <mark key="[" line="714" column="8" />
@@ -285,6 +286,13 @@
         <mark key="]" line="13" column="20" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
+        <mark key="'" line="116" column="57" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="88" column="23" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck.php" timestamp="1494727974684">
         <mark key="'" line="986" column="0" />
@@ -490,12 +498,10 @@
         <mark key="." line="251" column="20" />
         <mark key="^" line="251" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" timestamp="1495554151217">
-        <mark key="'" line="41" column="16" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="72" column="18" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" timestamp="1495736722120">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="39" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/content.php" timestamp="1494733974878">
         <mark key="[" line="3" column="3" />
@@ -568,21 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="198" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="41" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="40" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="203" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="46" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="211" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="250" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="64" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="245" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="72" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="122" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="175" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="196" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="197" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="222" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="227" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="232" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -668,55 +659,70 @@
       <jump line="23" column="0" filename="$USER_HOME$/git/snsl.dev/view/wp-load.php" />
       <jump line="36" column="0" filename="$USER_HOME$/git/snsl.dev/view/wp-config.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/snsl.dev/view/wp-settings.php" />
+      <jump line="395" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="235" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="39" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="937" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="176" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="528" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="983" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="430" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" />
+      <jump line="71" column="17" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
+      <jump line="125" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
+      <jump line="122" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
+      <jump line="117" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
+      <jump line="116" column="57" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJICAgIGVjaG8gJHdwZGItPnByZXBhcmUoICJTRUxFQ1Qgb3B0aW9uX3ZhbHVlIEZST00gJHdwZGItPm9wdGlvbnMgV0hFUkUgb3B0aW9uX25hbWUgPSAlcyBMSU1JVCAxIiwgJG9wdGlvbiApIDsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJtYWxpbmtcPg==</text>
+        <text encoding="base64">XDxvcHRpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>!include_once( WPCACHEHOME . 'wp-cache-phase1.php'</text>
+        <text>apply_filters( &quot;option_{$option}&quot;, maybe_unserialize( $value ), $option )</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJICAgIGVjaG8gJHdwZGItPnByZXBhcmUoICJTRUxFQ1Qgb3B0aW9uX3ZhbHVlIEZST00gJHdwZGItPm9wdGlvbnMgV0hFUkUgb3B0aW9uX25hbWUgPSAlcyBMSU1JVCAxIiwgJG9wdGlvbiApIDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">CQkJZWNobyAkdmFsdWU7CgkJCWRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">CQkJZ2V0RGF0YSgkdmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcm93OwogICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICBkaWUoKTsK</text>
+        <text encoding="base64">CQllY2hvICRyb3c7CgkJZGllKCk7ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyBXUENBQ0hFSE9NRTsK</text>
+        <text encoding="base64">CWVjaG8gJG9wdGlvbjsKCWRpZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUENBQ0hFSE9NRScsICcuLycpOwo=</text>
+        <text encoding="base64">CWVjaG8gIm9wdGlvbl97JG9wdGlvbn0iOwoJZGllKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5jbHVkZV9vbmNlKCBXUENBQ0hFSE9NRSAuICd3cC1jYWNoZS1waGFzZTEucGhwJyApOwo=</text>
+        <text encoding="base64">ICAgIGlmICgkb3B0aW9uID09ICdtZF9kYXNoX3NldHRpbmdzJykgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyBXUENBQ0hFSE9NRSAuICd3cC1jYWNoZS1waGFzZTEucGhwJzsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICJwcmVfb3B0aW9uX3skb3B0aW9ufSI7CiAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>192</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJtYWxpbmtcPg==</last-search>
+      <last-search encoding="base64">XDxvcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJtYWxpbmtcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpb25cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -724,12 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzsnpTsl6ztiKzsnpDquIjslaFcPg==</entry>
-        <entry encoding="base64">XDztj4nqt6DtiKzsnpDsiJjsnbXrpaBf7IS47ZuEXD4=</entry>
-        <entry encoding="base64">XDzqsbDrnpjrgrTsl61cPg==</entry>
-        <entry encoding="base64">PA==</entry>
-        <entry encoding="base64">XDxpbnN0YWxsbWVudFw+</entry>
-        <entry>style</entry>
         <entry>item</entry>
         <entry>Log</entry>
         <entry>log</entry>
@@ -741,9 +741,15 @@
         <entry encoding="base64">XDxrcm93bl9jdXN0b21fbG9naW5fbG9nb1w+</entry>
         <entry>items</entry>
         <entry>tag</entry>
-        <entry>login</entry>
         <entry>Krown_Nav_Walker</entry>
         <entry encoding="base64">XDxwZXJtYWxpbmtcPg==</entry>
+        <entry>login</entry>
+        <entry>pasword</entry>
+        <entry>case</entry>
+        <entry>swithc</entry>
+        <entry>switch</entry>
+        <entry>case 'login'</entry>
+        <entry encoding="base64">XDxvcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
@@ -782,6 +788,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
