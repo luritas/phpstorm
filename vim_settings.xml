@@ -15,13 +15,253 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/default-constants.php" timestamp="1494345233764">
+        <mark key="[" line="348" column="0" />
+        <mark key="]" line="348" column="0" />
+        <mark key="." line="348" column="0" />
+        <mark key="^" line="349" column="53" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1495548969726">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="61" column="31" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1495880166968">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1494738368614">
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/snsl.dev/view/wp-includes/functions.wp-scripts.php" timestamp="1495730630782">
+        <mark key="[" line="189" column="5" />
+        <mark key="]" line="192" column="5" />
+        <mark key="^" line="192" column="5" />
+        <mark key="." line="192" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/test-share/resources/views/oauth.blade.php" timestamp="1495098386520">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/git/myapp/app/Http/Controllers/Admin/AdminController.php" timestamp="1493140076052">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-includes/class-wp.php" timestamp="1494675038881">
+        <mark key="[" line="532" column="0" />
+        <mark key="]" line="532" column="0" />
+        <mark key="^" line="533" column="22" />
+        <mark key="." line="532" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/index.html" timestamp="1490016148070">
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="26" column="42" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl/view/wp-content/themes/backer/functions.php" timestamp="1494646835684">
+        <mark key="[" line="646" column="9" />
+        <mark key="]" line="647" column="9" />
+        <mark key="^" line="647" column="9" />
+        <mark key="." line="647" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/class-wp-theme.php" timestamp="1494345146300">
+        <mark key="[" line="895" column="8" />
+        <mark key="]" line="895" column="9" />
+        <mark key="^" line="895" column="9" />
+        <mark key="." line="895" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl.dev/index.php" timestamp="1494653939988">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="3" column="12" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/404.php" timestamp="1494788417386">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/test-share/public/index.php" timestamp="1495086501923">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/page.php" timestamp="1494738238295">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" timestamp="1495735326715">
+        <mark key="'" line="430" column="0" />
+        <mark key="[" line="897" column="0" />
+        <mark key="]" line="897" column="0" />
+        <mark key="." line="897" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp.php" timestamp="1494737373688">
+        <mark key="[" line="714" column="8" />
+        <mark key="]" line="714" column="8" />
+        <mark key="." line="714" column="8" />
+        <mark key="^" line="714" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" timestamp="1494737824184">
+        <mark key="'" line="771" column="63" />
+        <mark key="[" line="1284" column="0" />
+        <mark key="]" line="1284" column="0" />
+        <mark key="." line="1284" column="0" />
+        <mark key="^" line="1284" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl.dev/index.html" timestamp="1494652927776">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/themes/backer/functions.php" timestamp="1494728316143">
+        <mark key="'" line="19" column="26" />
+        <mark key="[" line="1214" column="25" />
+        <mark key="]" line="1215" column="9" />
+        <mark key="^" line="1215" column="9" />
+        <mark key="." line="1215" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/investment.php" timestamp="1495543030474">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/test-share/vendor/ch0p/naver-api/src/Naver/Auth.php" timestamp="1495087421711">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="31" column="17" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl.dev/view/index.php" timestamp="1495549131601">
+        <mark key="'" line="313" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/funding.php" timestamp="1494738258901">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/test-share/routes/web.php" timestamp="1495098431784">
+        <mark key="'" line="69" column="14" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/myapp/database/migrations/2017_04_27_154016_create_tags_table.php" timestamp="1493307670295">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="18" column="43" />
+        <mark key="^" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/pineapples/view/wp-includes/post-template.php" timestamp="1494338077716">
+        <mark key="[" line="104" column="13" />
+        <mark key="]" line="104" column="13" />
+        <mark key="^" line="104" column="13" />
+        <mark key="." line="104" column="13" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/deposit.php" timestamp="1495880498437">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="26" column="64" />
+        <mark key="]" line="26" column="64" />
+        <mark key="^" line="26" column="64" />
+        <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1495546223369">
+        <mark key="'" line="379" column="0" />
+        <mark key="[" line="183" column="19" />
+        <mark key="]" line="183" column="19" />
+        <mark key="." line="183" column="19" />
+        <mark key="^" line="183" column="19" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1494737197852">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/faq.php" timestamp="1495260875478">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-post.php" timestamp="1495248487792">
+        <mark key="[" line="251" column="20" />
+        <mark key="]" line="251" column="20" />
+        <mark key="." line="251" column="20" />
+        <mark key="^" line="251" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/content.php" timestamp="1494733974878">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/snipe/app/bootstrap.php" timestamp="1490004546533">
+        <mark key="[" line="318" column="45" />
+        <mark key="]" line="318" column="45" />
+        <mark key="." line="318" column="45" />
+        <mark key="^" line="318" column="45" />
+      </file>
+      <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="55" />
+        <mark key="^" line="24" column="55" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-postmeta.php" timestamp="1494731695794">
+        <mark key="'" line="212" column="26" />
+        <mark key="[" line="20" column="34" />
+        <mark key="]" line="20" column="37" />
+        <mark key="^" line="20" column="37" />
+        <mark key="." line="20" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1495160460683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="42" column="95" />
+        <mark key="^" line="42" column="95" />
+        <mark key="." line="42" column="95" />
+      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/index.php" timestamp="1495730656720">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1495299360204">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/theme.php" timestamp="1494345184270">
         <mark key="[" line="196" column="0" />
@@ -46,30 +286,11 @@
         <mark key="." line="91" column="18" />
         <mark key="^" line="91" column="18" />
       </file>
-      <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/default-constants.php" timestamp="1494345233764">
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="348" column="0" />
-        <mark key="." line="348" column="0" />
-        <mark key="^" line="349" column="53" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1495548969726">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="61" column="31" />
-        <mark key="^" line="61" column="31" />
-        <mark key="." line="61" column="31" />
-      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-load.php" timestamp="1495730765993">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1494738368614">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-query.php" timestamp="1494738129808">
         <mark key="'" line="4115" column="4" />
@@ -97,53 +318,17 @@
         <mark key="." line="175" column="8" />
         <mark key="^" line="175" column="8" />
       </file>
-      <file name="$USER_HOME$/git/snsl.dev/view/wp-includes/functions.wp-scripts.php" timestamp="1495730630782">
-        <mark key="[" line="189" column="5" />
-        <mark key="]" line="192" column="5" />
-        <mark key="^" line="192" column="5" />
-        <mark key="." line="192" column="5" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/test-share/resources/views/oauth.blade.php" timestamp="1495098386520">
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/themes/backer/template-slider.php" timestamp="1495730696226">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="3" column="9" />
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/git/myapp/app/Http/Controllers/Admin/AdminController.php" timestamp="1493140076052">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-includes/class-wp.php" timestamp="1494675038881">
-        <mark key="[" line="532" column="0" />
-        <mark key="]" line="532" column="0" />
-        <mark key="^" line="533" column="22" />
-        <mark key="." line="532" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/index.html" timestamp="1490016148070">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="26" column="42" />
-      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-settings.php" timestamp="1495730863774">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/dev.snsl/view/wp-content/themes/backer/functions.php" timestamp="1494646835684">
-        <mark key="[" line="646" column="9" />
-        <mark key="]" line="647" column="9" />
-        <mark key="^" line="647" column="9" />
-        <mark key="." line="647" column="9" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1495553451831">
         <mark key="'" line="1099" column="47" />
@@ -165,18 +350,6 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/class-wp-theme.php" timestamp="1494345146300">
-        <mark key="[" line="895" column="8" />
-        <mark key="]" line="895" column="9" />
-        <mark key="^" line="895" column="9" />
-        <mark key="." line="895" column="9" />
-      </file>
-      <file name="$USER_HOME$/git/dev.snsl.dev/index.php" timestamp="1494653939988">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="3" column="12" />
-      </file>
       <file name="$USER_HOME$/git/myapp/resources/views/home.blade.php" timestamp="1493137894426">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="5" />
@@ -195,12 +368,6 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/404.php" timestamp="1494788417386">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view/funding.php" timestamp="1495549220162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -211,24 +378,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/git/ptp/test-share/public/index.php" timestamp="1495086501923">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-content/themes/backer/content-ignition_product.php" timestamp="1494003330021">
         <mark key="[" line="197" column="82" />
         <mark key="]" line="197" column="86" />
         <mark key="^" line="197" column="86" />
         <mark key="." line="197" column="86" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/page.php" timestamp="1494738238295">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" timestamp="1494734780216">
         <mark key="[" line="35" column="28" />
@@ -236,56 +390,11 @@
         <mark key="." line="35" column="28" />
         <mark key="^" line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-login.php" timestamp="1495735326715">
-        <mark key="'" line="430" column="0" />
-        <mark key="[" line="897" column="0" />
-        <mark key="]" line="897" column="0" />
-        <mark key="." line="897" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp.php" timestamp="1494737373688">
-        <mark key="[" line="714" column="8" />
-        <mark key="]" line="714" column="8" />
-        <mark key="." line="714" column="8" />
-        <mark key="^" line="714" column="9" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" timestamp="1494737824184">
-        <mark key="'" line="771" column="63" />
-        <mark key="[" line="1284" column="0" />
-        <mark key="]" line="1284" column="0" />
-        <mark key="." line="1284" column="0" />
-        <mark key="^" line="1284" column="24" />
-      </file>
       <file name="$USER_HOME$/git/myapp/routes/welcome/web.php" timestamp="1493302459889">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/git/dev.snsl.dev/index.html" timestamp="1494652927776">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/themes/backer/functions.php" timestamp="1494728316143">
-        <mark key="'" line="19" column="26" />
-        <mark key="[" line="1214" column="25" />
-        <mark key="]" line="1215" column="9" />
-        <mark key="^" line="1215" column="9" />
-        <mark key="." line="1215" column="9" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1495550056790">
-        <mark key="'" line="12" column="0" />
-        <mark key="k" line="14" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/investment.php" timestamp="1495543030474">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
@@ -313,12 +422,6 @@
         <mark key="^" line="22" column="111" />
         <mark key="." line="22" column="111" />
       </file>
-      <file name="$USER_HOME$/git/ptp/test-share/vendor/ch0p/naver-api/src/Naver/Auth.php" timestamp="1495087421711">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/git/myapp/database/migrations/2017_04_25_153631_create_authors_table.php" timestamp="1493134781834">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="18" column="42" />
@@ -331,12 +434,6 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/git/dev.snsl.dev/view/index.php" timestamp="1495549131601">
-        <mark key="'" line="313" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer-child/style.css" timestamp="1495115075811">
         <mark key="'" line="3" column="27" />
         <mark key="[" line="11" column="16" />
@@ -344,38 +441,17 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/funding.php" timestamp="1494738258901">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/test-share/routes/web.php" timestamp="1495098431784">
-        <mark key="'" line="69" column="14" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/git/myapp/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1493304697387">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="17" />
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="/PHP Console" timestamp="1495549340342">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/myapp/database/migrations/2017_04_27_154016_create_tags_table.php" timestamp="1493307670295">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/git/pineapples/view/wp-includes/post-template.php" timestamp="1494338077716">
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="104" column="13" />
-        <mark key="^" line="104" column="13" />
-        <mark key="." line="104" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/transactions.php" timestamp="1495880489298">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/git/laravel/app/Http/routes.php" timestamp="1494519818530">
         <mark key="[" line="20" column="46" />
@@ -415,16 +491,6 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495553824129">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="26" column="64" />
-        <mark key="]" line="26" column="64" />
-        <mark key="^" line="26" column="64" />
-        <mark key="." line="20" column="19" />
-      </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
         <mark key="[" line="14" column="39" />
         <mark key="]" line="14" column="39" />
@@ -438,33 +504,11 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1495546223369">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="183" column="19" />
-        <mark key="]" line="183" column="19" />
-        <mark key="." line="183" column="19" />
-        <mark key="^" line="183" column="19" />
-      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-config.php" timestamp="1495730787737">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1494737197852">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1495549023607">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-signup.php" timestamp="1495546610002">
         <mark key="'" line="415" column="26" />
@@ -486,34 +530,10 @@
         <mark key="^" line="2023" column="127" />
         <mark key="." line="2023" column="127" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/faq.php" timestamp="1495260875478">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-post.php" timestamp="1495248487792">
-        <mark key="[" line="251" column="20" />
-        <mark key="]" line="251" column="20" />
-        <mark key="." line="251" column="20" />
-        <mark key="^" line="251" column="20" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" timestamp="1495736722120">
         <mark key="[" line="56" column="24" />
         <mark key="]" line="56" column="39" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/content.php" timestamp="1494733974878">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/snipe/app/bootstrap.php" timestamp="1490004546533">
-        <mark key="[" line="318" column="45" />
-        <mark key="]" line="318" column="45" />
-        <mark key="." line="318" column="45" />
-        <mark key="^" line="318" column="45" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1495554195083">
         <mark key="'" line="216" column="65" />
@@ -528,17 +548,18 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" timestamp="1495880477603">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/git/myapp/app/Http/Controllers/WelcomeController.php" timestamp="1493135748592">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="55" />
-        <mark key="^" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck.php" timestamp="1494761054651">
         <mark key="'" line="1761" column="26" />
@@ -553,19 +574,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-postmeta.php" timestamp="1494731695794">
-        <mark key="'" line="212" column="26" />
-        <mark key="[" line="20" column="34" />
-        <mark key="]" line="20" column="37" />
-        <mark key="^" line="20" column="37" />
-        <mark key="." line="20" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/ptp/duseAPI/.env" timestamp="1495160460683">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="95" />
-        <mark key="^" line="42" column="95" />
-        <mark key="." line="42" column="95" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/index.php" timestamp="1494733956719">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="12" column="5" />
@@ -574,11 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="227" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="232" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="236" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="242" column="43" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="246" column="67" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="53" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="258" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -674,46 +677,51 @@
       <jump line="122" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
       <jump line="117" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
       <jump line="116" column="57" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="88" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/deposit.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJICAgIGVjaG8gJHdwZGItPnByZXBhcmUoICJTRUxFQ1Qgb3B0aW9uX3ZhbHVlIEZST00gJHdwZGItPm9wdGlvbnMgV0hFUkUgb3B0aW9uX25hbWUgPSAlcyBMSU1JVCAxIiwgJG9wdGlvbiApIDsK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>apply_filters( &quot;option_{$option}&quot;, maybe_unserialize( $value ), $option )</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyoqCiogVGVtcGxhdGUgbmFtZTogdHJhbnNhY3Rpb25zIHBhZ2UKKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJICAgIGVjaG8gJHdwZGItPnByZXBhcmUoICJTRUxFQ1Qgb3B0aW9uX3ZhbHVlIEZST00gJHdwZGItPm9wdGlvbnMgV0hFUkUgb3B0aW9uX25hbWUgPSAlcyBMSU1JVCAxIiwgJG9wdGlvbiApIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZWNobyAkdmFsdWU7CgkJCWRpZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZ2V0RGF0YSgkdmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcm93OwogICAgICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">dHJhbnNhY3Rpb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQllY2hvICRyb3c7CgkJZGllKCk7ICAK</text>
+        <text encoding="base64">dHJhbnNhY3Rpb25zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWVjaG8gJG9wdGlvbjsKCWRpZSgpOwo=</text>
+        <text encoding="base64">CQkJICAgIGVjaG8gJHdwZGItPnByZXBhcmUoICJTRUxFQ1Qgb3B0aW9uX3ZhbHVlIEZST00gJHdwZGItPm9wdGlvbnMgV0hFUkUgb3B0aW9uX25hbWUgPSAlcyBMSU1JVCAxIiwgJG9wdGlvbiApIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWVjaG8gIm9wdGlvbl97JG9wdGlvbn0iOwoJZGllKCk7Cg==</text>
+        <text encoding="base64">CQkJZWNobyAkdmFsdWU7CgkJCWRpZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgkb3B0aW9uID09ICdtZF9kYXNoX3NldHRpbmdzJykgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">CQkJZ2V0RGF0YSgkdmFsdWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICJwcmVfb3B0aW9uX3skb3B0aW9ufSI7CiAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkcm93OwogICAgICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>192</text>
