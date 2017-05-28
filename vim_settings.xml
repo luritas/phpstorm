@@ -427,6 +427,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1495948030654">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="26" column="64" />
