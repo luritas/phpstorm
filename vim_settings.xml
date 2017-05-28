@@ -499,7 +499,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495948030654">
+      <file name="/Dummy.txt" timestamp="1495952701615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -547,10 +547,10 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" timestamp="1495736722120">
-        <mark key="[" line="56" column="24" />
-        <mark key="]" line="56" column="39" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" timestamp="1495952700409">
+        <mark key="[" line="860" column="20" />
+        <mark key="]" line="860" column="20" />
+        <mark key="." line="860" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1495554195083">
         <mark key="'" line="216" column="65" />
@@ -701,11 +701,11 @@
       <jump line="271" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGFwaSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlcPg==</text>
