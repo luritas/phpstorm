@@ -197,6 +197,9 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" timestamp="1495956435444">
+        <mark key="'" line="12" column="14" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1495950304639">
         <mark key="'" line="271" column="12" />
         <mark key="[" line="272" column="0" />
@@ -239,6 +242,11 @@
         <mark key="]" line="318" column="45" />
         <mark key="." line="318" column="45" />
         <mark key="^" line="318" column="45" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1495955949355">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
         <mark key="[" line="0" column="0" />
@@ -370,6 +378,7 @@
         <mark key="." line="248" column="0" />
         <mark key="^" line="248" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_protectedPage.php" timestamp="1495956424481" />
       <file name="$USER_HOME$/git/myapp/database/migrations/2017_04_25_153518_create_posts_table.php" timestamp="1493134758325">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="18" column="32" />
@@ -499,7 +508,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495952701615">
+      <file name="/Dummy.txt" timestamp="1495956370857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -599,8 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="13" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="5" column="12" filename="$USER_HOME$/git/laravel/composer.json" />
       <jump line="529" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/view/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" />
       <jump line="2063" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/view/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" />
@@ -699,55 +706,57 @@
       <jump line="272" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="45" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="271" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="109" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
+      <jump line="12" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldERhdGEoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlcPg==</text>
+        <text>include</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD9waHAKLyoqCiAqIFRlbXBsYXRlIG5hbWU6IGxpc3QgcGFnZQogKi8KZ2V0X2hlYWRlcigpOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGFwaSk7Cg==</text>
+        <text encoding="base64">ICAgIGdldERhdGEoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2V0RGF0YSgkYXBpKTsgIAo=</text>
+        <text encoding="base64">CSRjb250ZW50ID0gZ2V0X3RoZV9jb250ZW50KCAkbW9yZV9saW5rX3RleHQsICRzdHJpcF90ZWFzZXIgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGFwaSA9IGdldEFQSUxpc3QoKTsKZ2V0RGF0YSgkYXBpKTsgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAkYXBpOwo=</text>
+        <text encoding="base64">CS8vJGNvbnRlbnQgPSBtYWtlSFRNTCgpOyAgICAvL0pPRSDsvZjthZDsuKAg64Sj64qUIOu2gOu2gOyduOuNsCDroZzqt7jsnbgg67aA67aE7J2064KYIOyXrO2DgCDri6TrpbggUE9TVOqwgCDrrLTsobDqsbQg6rGw7LOQ6rCA64qUIOuTryEhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPic7CiAgICBlY2hvICJtb3JlIGxpbmsgdGVzdDogeyRtb3JlX2xpbmtfdGV4dH0gPGJyPiBzdHJpcF90ZWFzZXI6IHskc3RyaXBfdGVhc2VyfSI7CiAgICBlY2hvICc8YnI+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGFycmF5KTsKICAgICRhcnJheSA9IGFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIm1vcmUgbGluayB0ZXN0OiB7JG1vcmVfbGlua190ZXh0fSAvIHN0cmlwX3RlYXNlcjogeyRzdHJpcF90ZWFzZXJ9IjsKCSRjb250ZW50ID0gZ2V0X3RoZV9jb250ZW50KCAkbW9yZV9saW5rX3RleHQsICRzdHJpcF90ZWFzZXIgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJHJlc3VsdCk7CiAgICAkYXJyYXkgPSBhcnJheSgpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGFwaTsK</text>
+        <text encoding="base64">ICAgIGdldERhdGEoJGFwaSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlcPg==</last-search>
+      <last-search>include</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlcPg==</last-pattern>
+      <last-pattern>include</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -755,7 +764,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
         <entry>Krown_Nav_Walker</entry>
         <entry encoding="base64">XDxwZXJtYWxpbmtcPg==</entry>
         <entry>login</entry>
@@ -775,6 +783,7 @@
         <entry>die9)</entry>
         <entry>die()</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry>include</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
