@@ -190,6 +190,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/abcd.php" timestamp="1496140714901">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="26" column="64" />
@@ -200,11 +206,11 @@
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" timestamp="1496066297287">
         <mark key="'" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1495950304639">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1496140441271">
         <mark key="'" line="271" column="12" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
         <mark key="^" line="272" column="25" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
@@ -243,7 +249,7 @@
         <mark key="." line="318" column="45" />
         <mark key="^" line="318" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1495955949355">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496140516645">
         <mark key="[" line="232" column="0" />
         <mark key="]" line="232" column="0" />
         <mark key="." line="232" column="0" />
@@ -508,7 +514,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495956370857">
+      <file name="/Dummy.txt" timestamp="1496140443929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -574,7 +580,7 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" timestamp="1495880477603">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" timestamp="1496140682555">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="9" column="5" />
         <mark key="]" line="9" column="11" />
@@ -710,11 +716,11 @@
       <jump line="12" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJF9TRVJWRVIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>accout</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>accout</text>
       </register>
       <register name="/" type="4">
         <text>include</text>
@@ -723,31 +729,31 @@
         <text encoding="base64">ICAgIGVjaG8gJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJF9TRVJWRVIpOwo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgICAgJGRhdGEgPSBnZXRBUElDb250ZW50KCfrqZTsnbgnLCAnR0VUJywgJHVybClbJ3BzZm9ybSddWydib2R5J11bJ0l0ZW1zJ107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldERhdGEoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSRjb250ZW50ID0gZ2V0X3RoZV9jb250ZW50KCAkbW9yZV9saW5rX3RleHQsICRzdHJpcF90ZWFzZXIgKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSRjb250ZW50ID0gZ2V0X3RoZV9jb250ZW50KCAkbW9yZV9saW5rX3RleHQsICRzdHJpcF90ZWFzZXIgKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vJGNvbnRlbnQgPSBtYWtlSFRNTCgpOyAgICAvL0pPRSDsvZjthZDsuKAg64Sj64qUIOu2gOu2gOyduOuNsCDroZzqt7jsnbgg67aA67aE7J2064KYIOyXrO2DgCDri6TrpbggUE9TVOqwgCDrrLTsobDqsbQg6rGw7LOQ6rCA64qUIOuTryEhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPic7CiAgICBlY2hvICJtb3JlIGxpbmsgdGVzdDogeyRtb3JlX2xpbmtfdGV4dH0gPGJyPiBzdHJpcF90ZWFzZXI6IHskc3RyaXBfdGVhc2VyfSI7CiAgICBlY2hvICc8YnI+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nOwo=</text>
+        <text encoding="base64">CS8vJGNvbnRlbnQgPSBtYWtlSFRNTCgpOyAgICAvL0pPRSDsvZjthZDsuKAg64Sj64qUIOu2gOu2gOyduOuNsCDroZzqt7jsnbgg67aA67aE7J2064KYIOyXrO2DgCDri6TrpbggUE9TVOqwgCDrrLTsobDqsbQg6rGw7LOQ6rCA64qUIOuTryEhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIm1vcmUgbGluayB0ZXN0OiB7JG1vcmVfbGlua190ZXh0fSAvIHN0cmlwX3RlYXNlcjogeyRzdHJpcF90ZWFzZXJ9IjsKCSRjb250ZW50ID0gZ2V0X3RoZV9jb250ZW50KCAkbW9yZV9saW5rX3RleHQsICRzdHJpcF90ZWFzZXIgKTsK</text>
+        <text encoding="base64">ICAgIGVjaG8gJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPGJyPic7CiAgICBlY2hvICJtb3JlIGxpbmsgdGVzdDogeyRtb3JlX2xpbmtfdGV4dH0gPGJyPiBzdHJpcF90ZWFzZXI6IHskc3RyaXBfdGVhc2VyfSI7CiAgICBlY2hvICc8YnI+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIm1vcmUgbGluayB0ZXN0OiB7JG1vcmVfbGlua190ZXh0fSAvIHN0cmlwX3RlYXNlcjogeyRzdHJpcF90ZWFzZXJ9IjsKCSRjb250ZW50ID0gZ2V0X3RoZV9jb250ZW50KCAkbW9yZV9saW5rX3RleHQsICRzdHJpcF90ZWFzZXIgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGFwaSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
