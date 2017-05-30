@@ -172,8 +172,8 @@
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" timestamp="1496066297287">
         <mark key="'" line="12" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1496140441271">
-        <mark key="'" line="271" column="12" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1496144151122">
+        <mark key="'" line="270" column="0" />
         <mark key="[" line="273" column="0" />
         <mark key="]" line="273" column="0" />
         <mark key="." line="273" column="0" />
@@ -295,11 +295,12 @@
         <mark key="^" line="123" column="19" />
         <mark key="." line="123" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" timestamp="1496143636873">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" timestamp="1496143677821">
         <mark key="'" line="187" column="28" />
-        <mark key="[" line="204" column="8" />
-        <mark key="]" line="204" column="8" />
-        <mark key="." line="204" column="8" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="^" line="201" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/themes/backer/template-slider.php" timestamp="1495730696226">
         <mark key="[" line="3" column="3" />
@@ -499,7 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="12" filename="$USER_HOME$/git/laravel/composer.json" />
       <jump line="529" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/view/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" />
       <jump line="2063" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/view/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" />
       <jump line="2028" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/view/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" />
@@ -599,10 +599,11 @@
       <jump line="271" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="109" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
       <jump line="12" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
+      <jump line="270" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -614,31 +615,31 @@
         <text>$value, $args</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICBlY2hvICR2YWx1ZTsKCSAgICBlY2hvICcxMTExMTExJzsKCSAgICBkaWUoKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICIkdmFsdWUgOiAkYXJncyI7CiAgICAgICAgZGllKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYXRhKCRmaWx0ZXJlZCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgkdGFnID09ICd3cF9uYXZfbWVudV9pdGVtcycpIHsKICAgICAgICAvL2dldERhdGEoJHdwX2ZpbHRlclskdGFnXSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGlmICgkdGFnID09ICd3cF9uYXZfbWVudV9pdGVtcycpIHsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmICgkdGFnID09ICd3cF9uYXZfbWVudV9pdGVtcycpIHsKICAgICAgICBnZXREYXRhKCR3cF9maWx0ZXJbJHRhZ10pOwogICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CSAgICBlY2hvICR2YWx1ZTsKCSAgICBlY2hvICcxMTExMTExJzsKCSAgICBkaWUoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICIkdmFsdWUgOiAkYXJncyI7CiAgICAgICAgZGllKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CWVjaG8gImlkY19tZW51XyIuJGxvY2F0aW9uOwoJZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhKCRmaWx0ZXJlZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGxvY2F0aW9uKTsK</text>
+        <text encoding="base64">ICAgIGlmICgkdGFnID09ICd3cF9uYXZfbWVudV9pdGVtcycpIHsKICAgICAgICAvL2dldERhdGEoJHdwX2ZpbHRlclskdGFnXSk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGxvY2F0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJG9wdGlvbik7Cg==</text>
+        <text encoding="base64">CWVjaG8gImlkY19tZW51XyIuJGxvY2F0aW9uOwoJZGllKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
