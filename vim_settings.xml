@@ -15,6 +15,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" timestamp="1496232511110">
+        <mark key="'" line="6" column="1" />
+        <mark key="[" line="87" column="89" />
+        <mark key="]" line="87" column="89" />
+        <mark key="^" line="87" column="90" />
+        <mark key="." line="87" column="89" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/default-constants.php" timestamp="1494345233764">
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
@@ -189,12 +196,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/abcd.php" timestamp="1496140714901">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="26" column="64" />
@@ -213,12 +214,6 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-blog-header.php" timestamp="1495949405159">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1496143589368">
         <mark key="[" line="0" column="0" />
@@ -427,6 +422,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1496229454731" />
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
         <mark key="[" line="90" column="0" />
@@ -603,10 +599,10 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" timestamp="1496147798080">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" timestamp="1496231261896">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="1" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/app/Http/Controllers/WelcomeController.php" timestamp="1493135748592">
@@ -636,9 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1552" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/view/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-functions.php" />
-      <jump line="75" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="837" column="51" filename="$USER_HOME$/PhpstormProjects/snsl/wp-signup.php" />
       <jump line="473" column="74" filename="$USER_HOME$/PhpstormProjects/snsl/wp-signup.php" />
       <jump line="415" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-signup.php" />
       <jump line="253" column="0" filename="$USER_HOME$/git/dev.snsl.dev/view/index.php" />
@@ -736,55 +729,100 @@
       <jump line="3795" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" />
       <jump line="84" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
       <jump line="87" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
+      <jump line="44" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
+      <jump line="96" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
+      <jump line="6" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text encoding="base64">XDxiYW5rc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>$value, $args</text>
+      <register name="0" type="2">
+        <text encoding="base64">LyoqCiogVGVtcGxhdGUgbmFtZTogYWNjb3VudCBwYWdlCiovCjw/cGhwCmdldF9oZWFkZXIoKTsKPz4KCjwhLS0gYm9keSAtLT4KCgo8ZGl2PmFjY291bnQg7LGE7Jqw6riwPC9kaXY+CgoKCgo8P3BocApnZXRfZm9vdGVyKCk7Cj8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJkZCAtIHNlbGVjdCIgc3R5bGU9IndpZHRoOiAxMDAgJTsgYmFja2dyb3VuZDogcmdiKDI1NSwgMjU1LCAyNTUpOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZGQgLSBzZWxlY3RlZCAtIHZhbHVlIiB0eXBlPSJoaWRkZW4iIG5hbWU9ImFjY291bnQgLSBiYW5rIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IjAwMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkZC1wb2ludGVyIGRkLXBvaW50ZXItZG93biI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImRkIC0gc2VsZWN0ZWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0iZGQgLSBzZWxlY3RlZCAtIGltYWdlIiBzcmM9IiAuLi8vaW1hZ2UvYmFuay8yLmpwZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImRkLXNlbGVjdGVkLXRleHQiIHN0eWxlPSJsaW5lLWhlaWdodDogNDBweDsiPiBLRELsgrDsl4U8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2NyaXAK</text>
+        <text encoding="base64">LyoqCiogVGVtcGxhdGUgbmFtZTogdGF4aW5mbyBwYWdlCiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGhwaW5mbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRkLW9wdGlvbnMgZGQtY2xpY2stb2ZmLWNsb3NlIiBzdHlsZT0id2lkdGg6IDEwMCU7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoKTsK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXREYXRhKCRsb2NhdGlvbnMpOwo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAog</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWdldERhdGEoJHJlZ2lzdGVyZWRfbmF2X21lbnVzKTsK</text>
+      <register name="7" type="8">
+        <text encoding="base64">Pgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgogCj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+Cj4KPgo+</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CWdldERhdGEoJHJlZ2lzdGVyZWRfbmF2X21lbnVzKTsK</text>
+      <register name="8" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGxvY2F0aW9uKTsK</text>
+      <register name="9" type="8">
+        <text>&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;
+&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>89</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search encoding="base64">XDxiYW5rc1w+</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern encoding="base64">XDxiYW5rc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -792,7 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pasword</entry>
         <entry>case</entry>
         <entry>swithc</entry>
         <entry>switch</entry>
@@ -812,9 +849,9 @@
         <entry>timezone</entry>
         <entry>_dev</entry>
         <entry>return</entry>
+        <entry encoding="base64">XDxiYW5rc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
         <entry>447</entry>
         <entry>q</entry>
         <entry>55</entry>
@@ -830,10 +867,11 @@
         <entry>202</entry>
         <entry>7</entry>
         <entry>71</entry>
-        <entry>w</entry>
         <entry>214</entry>
         <entry>90</entry>
         <entry>89</entry>
+        <entry>w</entry>
+        <entry>set nowrap</entry>
       </history-cmd>
       <history-expr />
       <history-input />
