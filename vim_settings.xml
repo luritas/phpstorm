@@ -408,11 +408,12 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496505852426">
-        <mark key="'" line="1143" column="0" />
-        <mark key="[" line="1233" column="0" />
-        <mark key="]" line="1233" column="0" />
-        <mark key="." line="1233" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496508487844">
+        <mark key="'" line="1188" column="0" />
+        <mark key="[" line="1236" column="4" />
+        <mark key="]" line="1236" column="3" />
+        <mark key="." line="1236" column="3" />
+        <mark key="^" line="1236" column="3" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -719,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="636" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="1099" column="47" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="150" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/link-template.php" />
       <jump line="149" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/link-template.php" />
@@ -819,6 +819,7 @@
       <jump line="24" column="31" filename="$USER_HOME$/developements/git/myapp/database/seeds/DatabaseSeeder.php" />
       <jump line="14" column="31" filename="$USER_HOME$/developements/git/myapp/database/seeds/DatabaseSeeder.php" />
       <jump line="161" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
+      <jump line="1188" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -843,11 +844,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">7Lac7LKYOiBodHRwOi8vc3R1ZGlvNWluZy50aXN0b3J5LmNvbS84MSBbU3R1ZGlvLTVpbmddCg==</text>
+      <register name="&quot;" type="4">
+        <text>thank-you</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>thank-you</text>
       </register>
       <register name="/" type="4">
         <text>주소검색</text>
