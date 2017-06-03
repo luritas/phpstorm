@@ -408,11 +408,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496145713765">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496505852426">
         <mark key="'" line="1143" column="0" />
-        <mark key="[" line="1188" column="0" />
-        <mark key="]" line="1188" column="0" />
-        <mark key="." line="1188" column="0" />
+        <mark key="[" line="1233" column="0" />
+        <mark key="]" line="1233" column="0" />
+        <mark key="." line="1233" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -600,6 +600,9 @@
         <mark key="]" line="437" column="14" />
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1496506194831">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
         <mark key="[" line="14" column="39" />
@@ -841,7 +844,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">7Lac7LKYOiBodHRwOi8vc3R1ZGlvNWluZy50aXN0b3J5LmNvbS84MSBbU3R1ZGlvLTVpbmddCg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -853,19 +856,19 @@
         <text>fieldset</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">7Lac7LKYOiBodHRwOi8vc3R1ZGlvNWluZy50aXN0b3J5LmNvbS84MSBbU3R1ZGlvLTVpbmddCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdj5hY2NvdW50IOyxhOyasOq4sDwvZGl2PgoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">PGRpdj5hY2NvdW50IOyxhOyasOq4sDwvZGl2PgoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
@@ -877,7 +880,7 @@
         <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
