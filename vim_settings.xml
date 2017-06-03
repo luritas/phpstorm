@@ -78,6 +78,12 @@
         <mark key="^" line="26" column="42" />
         <mark key="." line="26" column="42" />
       </file>
+      <file name="$USER_HOME$/developements/git/myapp/.env" timestamp="1496460414390">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-content/themes/backer/functions.php" timestamp="1494646835684">
         <mark key="[" line="646" column="9" />
         <mark key="]" line="647" column="9" />
@@ -471,6 +477,12 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
+      <file name="$USER_HOME$/developements/git/myapp/routes/web.php" timestamp="1496460592677">
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/vendor/league/csv/src/Reader.php" timestamp="1496145083641">
         <mark key="[" line="213" column="12" />
         <mark key="]" line="213" column="11" />
@@ -799,7 +811,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>150</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -840,7 +852,6 @@
         <entry>xa</entry>
         <entry>ㅈ</entry>
         <entry>41</entry>
-        <entry>x</entry>
         <entry>239</entry>
         <entry>288</entry>
         <entry>146</entry>
@@ -855,6 +866,7 @@
         <entry>set nowrap</entry>
         <entry>w</entry>
         <entry>150</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
