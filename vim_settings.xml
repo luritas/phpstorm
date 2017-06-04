@@ -720,7 +720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1099" column="47" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="150" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/link-template.php" />
       <jump line="149" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/link-template.php" />
       <jump line="115" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/link-template.php" />
@@ -820,6 +819,7 @@
       <jump line="14" column="31" filename="$USER_HOME$/developements/git/myapp/database/seeds/DatabaseSeeder.php" />
       <jump line="161" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="1188" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
+      <jump line="1218" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
