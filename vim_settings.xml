@@ -610,7 +610,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496506194831">
+      <file name="/Dummy.txt" timestamp="1496662416206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -682,12 +682,12 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1495554195083">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496662613860">
         <mark key="'" line="216" column="65" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="^" line="212" column="18" />
-        <mark key="." line="220" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="56" column="57" />
       </file>
       <file name="$USER_HOME$/git/myapp/.env" timestamp="1493134477457">
         <mark key="[" line="11" column="12" />
@@ -858,55 +858,55 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGdldERhdGEoJGFyZ3MpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>defaults</text>
       </register>
       <register name="/" type="4">
-        <text>주소검색</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICA8dWwgY2xhc3M9XCJ0aXRsZXMgY2xlYXJmaXggYXV0b3BcIj4iOwogICAgJGh0bWwgLj0gIiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJvcGVuZWRcIj48aDU+7KeE7ZaJ7KSR7J24IOyDge2SiDwvaDU+PC9saT4iOwogICAgJGh0bWwgLj0gIiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJcIj48aDU+66eI6rCQIOyDge2SiDwvaDU+PC9saT4iOwogICAgJGh0bWwgLj0gIiAgICAgICAgICAgIDwvdWw+IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJcIj48aDU+66eI6rCQIOyDge2SiDwvaDU+PC9saT4iOwo=</text>
+        <text encoding="base64">ICAgIGdldERhdGEoJGFyZ3MpOwo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">JGh0bWwgLj0gIiAgICAgICAgICAgIAokaHRtbCAuPSAiICAgICAgICAgICAgCiRodG1sIC49ICIgICAgICAgICAgICAKJGh0bWwgLj0gIiAgICAgICAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CWdldERhdGEoJG1lbnVfaWRfc2x1Z3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1wcmV2IGRpc2FibGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ia3Jvd24taWNvbi1hcnJvd19sZWZ0Ij48L2k+PC9hPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLW5leHQiPjxpIGNsYXNzPSJrcm93bi1pY29uLWFycm93X3JpZ2h0Ij48L2k+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJcIj48aDU+66eI6rCQIOyDge2SiDwvaDU+PC9saT4iOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">JGh0bWwgLj0gIiAgICAgICAgICAgIAokaHRtbCAuPSAiICAgICAgICAgICAgCiRodG1sIC49ICIgICAgICAgICAgICAKJGh0bWwgLj0gIiAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1wcmV2IGRpc2FibGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ia3Jvd24taWNvbi1hcnJvd19sZWZ0Ij48L2k+PC9hPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLW5leHQiPjxpIGNsYXNzPSJrcm93bi1pY29uLWFycm93X3JpZ2h0Ij48L2k+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idGl0bGVzIGNsZWFyZml4IGF1dG9wIj4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im9wZW5lZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoNT7sp4TtlonspJHsnbgg7IOB7ZKIPC9oNT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGg1PuuniOqwkCDsg4Htkog8L2g1PgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>$html .= &quot;
 $html .= &quot;
 $html .= &quot;</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PD9waHAKCmVjaG8gJGh0bWw7Cj8+Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">JGh0bWwgLj0gIiAgICAgICAgICAgIAokaHRtbCAuPSAiICAgICAgICAgICAgCiRodG1sIC49ICIgICAgICAgICAgICAKJGh0bWwgLj0gIiAgICAgICAgICAgIAokaHRtbCAuPSAiICAgICAgICAgICAgCiRodG1sIC49ICIgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
       </register>
     </registers>
     <search>
-      <last-search>주소검색</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>주소검색</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -914,7 +914,6 @@ $html .= &quot;</text>
     </search>
     <history>
       <history-search>
-        <entry>die()</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry>include</entry>
         <entry>timezone</entry>
@@ -934,6 +933,7 @@ $html .= &quot;</text>
         <entry encoding="base64">XDxTRVRcPg==</entry>
         <entry encoding="base64">XDxGT1JFSUdOX0tFWV9DSEVDS1NcPg==</entry>
         <entry>주소검색</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
