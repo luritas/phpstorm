@@ -23,12 +23,6 @@
         <mark key="." line="348" column="0" />
         <mark key="^" line="349" column="53" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-last.php" timestamp="1496576390090">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="4" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="13" column="4" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1496668224689">
         <mark key="'" line="67" column="38" />
         <mark key="[" line="113" column="0" />
@@ -266,6 +260,12 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/faq.php" timestamp="1496575658931">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-post.php" timestamp="1495248487792">
         <mark key="[" line="251" column="20" />
         <mark key="]" line="251" column="20" />
@@ -278,16 +278,17 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/markdown/app/Http/Controllers/DocsController.php" timestamp="1496688922883">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/snipe/app/bootstrap.php" timestamp="1490004546533">
         <mark key="[" line="318" column="45" />
         <mark key="]" line="318" column="45" />
         <mark key="." line="318" column="45" />
         <mark key="^" line="318" column="45" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496576085691">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
         <mark key="[" line="0" column="0" />
@@ -353,6 +354,12 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/markdown/resources/views/docs/show.blade.php" timestamp="1496688454492">
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="3" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/app/Documentation.php" timestamp="1496687076544">
         <mark key="[" line="11" column="9" />
@@ -665,10 +672,11 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="220" column="17" />
       </file>
-      <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496686433784">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496687985874">
+        <mark key="[" line="24" column="11" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/.env" timestamp="1493134477457">
         <mark key="[" line="11" column="12" />
@@ -840,53 +848,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">bWFya2Rvd24oJHRoaXMtPmRvY3MtPmdldCgpKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>autoload</text>
+        <text>cache</text>
       </register>
       <register name="0" type="4">
         <text>is_accessible()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRkKCRmaWxlKTsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2Rvd24oJHRoaXMtPmRvY3MtPmdldCgkZmlsZT8gOiAnaW5zdGFsbGF0aW9uLm1kJykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxEb2N1bWVudGF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICR0ZXh0ID0gRG9jdW1lbnRhdGlvbjo6Z2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaW5kZXggPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcRWxvcXVlbnRcTW9kZWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">fX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJZ2V0RGF0YSgkY3Rhcyk7Cg==</text>
+        <text encoding="base64">eyEhICFdXV0gISF9fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJZ2V0RGF0YSgkY3Rhcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQllY2hvICRvdXRwdXQ7CgkJCQkJZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZG9jcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>14</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>autoload</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>autoload</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -894,7 +902,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_dev</entry>
         <entry>return</entry>
         <entry encoding="base64">XDxiYW5rc1w+</entry>
         <entry>modi</entry>
@@ -914,9 +921,9 @@
         <entry>dd</entry>
         <entry>view</entry>
         <entry>autoload</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
-        <entry>xa</entry>
         <entry>ㅈ</entry>
         <entry>41</entry>
         <entry>239</entry>
@@ -936,6 +943,7 @@
         <entry>x</entry>
         <entry>36</entry>
         <entry>14</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
