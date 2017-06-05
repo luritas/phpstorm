@@ -389,11 +389,12 @@
         <mark key="^" line="123" column="19" />
         <mark key="." line="123" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" timestamp="1496145384373">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" timestamp="1496663920064">
         <mark key="'" line="74" column="29" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="0" />
-        <mark key="." line="204" column="0" />
+        <mark key="[" line="202" column="38" />
+        <mark key="]" line="202" column="9" />
+        <mark key="." line="202" column="9" />
+        <mark key="^" line="202" column="9" />
       </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-content/themes/backer/template-slider.php" timestamp="1495730696226">
         <mark key="[" line="3" column="3" />
@@ -610,7 +611,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496662416206">
+      <file name="/Dummy.txt" timestamp="1496663923354">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -682,12 +683,12 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496662613860">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
         <mark key="'" line="216" column="65" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="56" column="57" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="220" column="17" />
       </file>
       <file name="$USER_HOME$/git/myapp/.env" timestamp="1493134477457">
         <mark key="[" line="11" column="12" />
@@ -859,10 +860,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhKCR3cF9maWx0ZXJbJHRhZ10pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>defaults</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -871,33 +872,31 @@
         <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICA8dWwgY2xhc3M9XCJ0aXRsZXMgY2xlYXJmaXggYXV0b3BcIj4iOwogICAgJGh0bWwgLj0gIiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJvcGVuZWRcIj48aDU+7KeE7ZaJ7KSR7J24IOyDge2SiDwvaDU+PC9saT4iOwogICAgJGh0bWwgLj0gIiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJcIj48aDU+66eI6rCQIOyDge2SiDwvaDU+PC9saT4iOwogICAgJGh0bWwgLj0gIiAgICAgICAgICAgIDwvdWw+IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldERhdGEoJGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhKCR3cF9maWx0ZXJbJHRhZ10pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWdldERhdGEoJG1lbnVfaWRfc2x1Z3MpOwo=</text>
+        <text encoding="base64">CWdldERhdGEoJGl0ZW1zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJcIj48aDU+66eI6rCQIOyDge2SiDwvaDU+PC9saT4iOwo=</text>
+        <text encoding="base64">ICAgIGdldERhdGEoJGFyZ3MpOwo=</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">JGh0bWwgLj0gIiAgICAgICAgICAgIAokaHRtbCAuPSAiICAgICAgICAgICAgCiRodG1sIC49ICIgICAgICAgICAgICAKJGh0bWwgLj0gIiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CWdldERhdGEoJG1lbnVfaWRfc2x1Z3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1wcmV2IGRpc2FibGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ia3Jvd24taWNvbi1hcnJvd19sZWZ0Ij48L2k+PC9hPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLW5leHQiPjxpIGNsYXNzPSJrcm93bi1pY29uLWFycm93X3JpZ2h0Ij48L2k+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9XCJcIj48aDU+66eI6rCQIOyDge2SiDwvaDU+PC9saT4iOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">JGh0bWwgLj0gIiAgICAgICAgICAgIAokaHRtbCAuPSAiICAgICAgICAgICAgCiRodG1sIC49ICIgICAgICAgICAgICAKJGh0bWwgLj0gIiAgICAgICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idGl0bGVzIGNsZWFyZml4IGF1dG9wIj4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im9wZW5lZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoNT7sp4TtlonspJHsnbgg7IOB7ZKIPC9oNT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGg1PuuniOqwkCDsg4Htkog8L2g1PgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIiBjbGFzcz0iYnRuIGJ0bi1wcmV2IGRpc2FibGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ia3Jvd24taWNvbi1hcnJvd19sZWZ0Ij48L2k+PC9hPjxhCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLW5leHQiPjxpIGNsYXNzPSJrcm93bi1pY29uLWFycm93X3JpZ2h0Ij48L2k+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>$html .= &quot;
-$html .= &quot;
-$html .= &quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idGl0bGVzIGNsZWFyZml4IGF1dG9wIj4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im9wZW5lZCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoNT7sp4TtlonspJHsnbgg7IOB7ZKIPC9oNT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGg1PuuniOqwkCDsg4Htkog8L2g1PgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>36</text>
