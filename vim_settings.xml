@@ -434,8 +434,8 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496669057847">
-        <mark key="'" line="1188" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496716153616">
+        <mark key="'" line="694" column="0" />
         <mark key="[" line="694" column="0" />
         <mark key="]" line="694" column="0" />
         <mark key="." line="694" column="0" />
@@ -643,7 +643,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496668645074">
+      <file name="/Dummy.txt" timestamp="1496716350184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -771,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="57" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
       <jump line="87" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="88" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/deposit.php" />
@@ -871,6 +870,7 @@
       <jump line="907" column="24" filename="$USER_HOME$/developements/laravel-web/markdown/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="13" column="0" filename="$USER_HOME$/developements/laravel-web/markdown/composer.json" />
       <jump line="211" column="11" filename="$USER_HOME$/developements/wordpress/wp-content/themes/house/style.css" />
+      <jump line="694" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
