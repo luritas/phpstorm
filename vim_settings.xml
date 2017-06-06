@@ -672,11 +672,11 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="220" column="17" />
       </file>
-      <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496687985874">
+      <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496711761091">
         <mark key="[" line="24" column="11" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/git/myapp/.env" timestamp="1493134477457">
         <mark key="[" line="11" column="12" />
