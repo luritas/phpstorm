@@ -218,12 +218,12 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1496665399381">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="380" column="9" />
-        <mark key="]" line="380" column="23" />
-        <mark key="." line="380" column="12" />
-        <mark key="^" line="380" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1496734687794">
+        <mark key="'" line="47" column="1" />
+        <mark key="[" line="405" column="21" />
+        <mark key="]" line="408" column="0" />
+        <mark key="." line="408" column="0" />
+        <mark key="^" line="406" column="7" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
         <mark key="[" line="10" column="14" />
@@ -267,10 +267,12 @@
         <mark key="." line="318" column="45" />
         <mark key="^" line="318" column="45" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496576085691">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496734428415">
+        <mark key="'" line="323" column="29" />
+        <mark key="[" line="251" column="69" />
+        <mark key="]" line="251" column="76" />
+        <mark key="." line="251" column="76" />
+        <mark key="^" line="251" column="76" />
       </file>
       <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
         <mark key="[" line="0" column="0" />
@@ -396,12 +398,12 @@
         <mark key="^" line="34" column="2" />
         <mark key="." line="34" column="2" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496729581216">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496734149807">
         <mark key="'" line="773" column="6" />
-        <mark key="[" line="710" column="0" />
-        <mark key="]" line="710" column="0" />
-        <mark key="." line="710" column="0" />
-        <mark key="^" line="709" column="75" />
+        <mark key="[" line="709" column="0" />
+        <mark key="]" line="709" column="0" />
+        <mark key="." line="709" column="0" />
+        <mark key="^" line="709" column="34" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -726,12 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="313" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="379" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="133" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="272" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="45" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="271" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="109" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
@@ -826,6 +822,12 @@
       <jump line="722" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="771" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="773" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
+      <jump line="274" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="46" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="273" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="272" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="47" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="318" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -851,58 +853,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="-" type="4">
-        <text>header_type</text>
+        <text>억원</text>
       </register>
       <register name="/" type="4">
-        <text>style</text>
+        <text>getData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHVsPgogICAgPGxpPjwvbGk+CiAgICA8bGk+PC9saT4KICAgIDxsaT48L2xpPgogICAgPC91bD4KICAgIDxzbWFsbD48L3NtYWxsPgo=</text>
+        <text encoding="base64">ICAgICAgICAndWsnICA9PiAn7Ja17JuQJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvICRvdXRwdXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZWNobyAkaGVhZGVyX3R5cGU7CgkJCWRpZSgpOwo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdwX2VucXVldWVfc2NyaXB0KCAnc25zbC1jdXN0b20tZnVuY2lvbnMnICk7Cg==</text>
+        <text encoding="base64">CWdldERhdGEoJHN0YXR1cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXdwX3JlZ2lzdGVyX3NjcmlwdCgnc25zbC1jdXN0b20tZnVuY3Rpb25zJywgZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKSAuICcvanMvY3VzdG9tLmpzJywgYXJyYXkoKSwgbnVsbCwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">CQkJCQkkb3V0cHV0ID0gc3RyX3JlcGxhY2UoJyPsl7DssrTsnKgjJywgZGF0ZSgnWS1tLWQnKSwgJG91dHB1dCk7CiAgICAgICAgICAgICAgICAgICAgJG91dHB1dCA9IHN0cl9yZXBsYWNlKCcj67aA7Iuk7JyoIycsIGRhdGUoJ1ktbS1kJyksICRvdXRwdXQpOwogICAgICAgICAgICAgICAgICAgICRvdXRwdXQgPSBzdHJfcmVwbGFjZSgnI+uIhOygge2IrOyekOq4iOyVoSMnLCBkYXRlKCdZLW0tZCcpLCAkb3V0cHV0KTsKICAgICAgICAgICAgICAgICAgICAkb3V0cHV0ID0gc3RyX3JlcGxhY2UoJyPsnpTsl6ztiKzsnpDquIjslaEjJywgZGF0ZSgnWS1tLWQnKSwgJG91dHB1dCk7CiAgICAgICAgICAgICAgICAgICAgJG91dHB1dCA9IHN0cl9yZXBsYWNlKCcj6riw7KSA64Kg7KecIycsIGRhdGUoJ1ktbS1kJyksICRvdXRwdXQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CWRpZSgpOwo=</text>
       </register>
-      <register name="7" type="8">
-        <text>html += &quot;
-html += &quot;
-html += &quot;
-html += &quot;
-html += &quot;
-html += &quot;
-html += &quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CWdldERhdGEoJGNvbnRlbnQpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">aHRtbCArPSAiIjsKICAgIGh0bWwgKz0gIjx1bD4iOwogICAgaHRtbCArPSAiICAgPGxpPjxcL2xpPiI7CiAgICBodG1sICs9ICIgICA8bGk+PFwvbGk+IjsKICAgIGh0bWwgKz0gIjxsaT48XC9saT4iOwogICAgaHRtbCArPSAiPFwvdWw+IjsKICAgIGh0bWwgKz0gIg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQlnbG9iYWwgJHN0YXR1czsKCQkJCQlnZXREYXRhKCRzdGF0dXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHVsPgogICAgPGxpPjwvbGk+CiAgICA8bGk+PC9saT4KICAgIDxsaT48L2xpPgogICAgPC91bD4KICAgIDxzbWFsbD48L3NtYWxsPgoK</text>
+        <text encoding="base64">ICAgICAgICBnZXREYXRhKCRzdGF0dXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>style</last-search>
+      <last-search>getData</last-search>
       <last-offset />
-      <last-pattern>style</last-pattern>
+      <last-pattern>getData</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -910,9 +906,6 @@ html += &quot;</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZGVudGl0eVw+</entry>
-        <entry>10</entry>
-        <entry>btn-new-account</entry>
         <entry>저장</entry>
         <entry>주민등록상</entry>
         <entry>주검색</entry>
@@ -930,6 +923,9 @@ html += &quot;</text>
         <entry>register</entry>
         <entry>content_wi</entry>
         <entry>style</entry>
+        <entry encoding="base64">XDxhcGlcPg==</entry>
+        <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
+        <entry>getData</entry>
       </history-search>
       <history-cmd>
         <entry>ㅈ</entry>
