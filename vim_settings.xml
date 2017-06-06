@@ -10,6 +10,11 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/git/snsl.dev/view/wp-blog-header.php" timestamp="1495730729251">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" timestamp="1496665426205">
         <mark key="'" line="165" column="15" />
         <mark key="[" line="3" column="3" />
@@ -315,6 +320,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/git/snsl.dev/view/index.php" timestamp="1495730656720">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/theme.php" timestamp="1494345184270">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
@@ -334,11 +344,21 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/git/snsl.dev/view/wp-content/advanced-cache.php" timestamp="1495731248812">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/git/myapp/app/Http/Controllers/ArticlesController.php" timestamp="1493304625699">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="15" column="18" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/ignitiondeck-functions.php" timestamp="1496147376096">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" timestamp="1496686682542">
         <mark key="'" line="907" column="24" />
@@ -399,6 +419,11 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/developements/house/header.php" timestamp="1496714403476">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/myapp/database/factories/ModelFactory.php" timestamp="1496467665390">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="34" column="2" />
@@ -444,6 +469,11 @@
         <mark key="^" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu.php" timestamp="1496145514115">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-content/cache/supercache/dev.snsl.kr/view/index-https.html" timestamp="1494336792762">
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
@@ -455,6 +485,21 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/git/dev.snsl.dev/view/funding.php" timestamp="1495549220162">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1496467613486">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/css/dashboard.css" timestamp="1495272731049">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-content/themes/backer/content-ignition_product.php" timestamp="1494003330021">
         <mark key="[" line="197" column="82" />
@@ -563,6 +608,11 @@
         <mark key="]" line="21" column="76" />
         <mark key="." line="21" column="76" />
         <mark key="^" line="21" column="76" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-hook.php" timestamp="1496143150662">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="$USER_HOME$/git/pas/view/index.php" timestamp="1495369085163">
         <mark key="'" line="15" column="0" />
@@ -849,7 +899,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PD9waHAgZ2V0X2RpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bWFya2Rvd24oJHRoaXMtPmRvY3MtPmdldCgpKTs=</text>
@@ -861,31 +911,31 @@
         <text>is_accessible()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PD9waHAgZ2V0X2RpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFya2Rvd24oJHRoaXMtPmRvY3MtPmdldCgkZmlsZT8gOiAnaW5zdGFsbGF0aW9uLm1kJykpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkaW5kZXggPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fX0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">eyEhICFdXV0gISF9fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFya2Rvd24oJHRoaXMtPmRvY3MtPmdldCgkZmlsZT8gOiAnaW5zdGFsbGF0aW9uLm1kJykpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkaW5kZXggPSAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">eyEhICFdXV0gISF9fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZG9jcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
