@@ -34,12 +34,6 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1496665405732">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1496145745903">
         <mark key="'" line="3795" column="0" />
         <mark key="[" line="44" column="1" />
@@ -52,6 +46,9 @@
         <mark key="]" line="192" column="5" />
         <mark key="^" line="192" column="5" />
         <mark key="." line="192" column="5" />
+      </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/style.css" timestamp="1496714908892">
+        <mark key="'" line="211" column="11" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/resources/views/oauth.blade.php" timestamp="1495098386520">
         <mark key="[" line="6" column="5" />
@@ -774,7 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
       <jump line="116" column="57" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" />
       <jump line="87" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="88" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -874,6 +870,7 @@
       <jump line="905" column="53" filename="$USER_HOME$/developements/laravel-web/markdown/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="907" column="24" filename="$USER_HOME$/developements/laravel-web/markdown/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php" />
       <jump line="13" column="0" filename="$USER_HOME$/developements/laravel-web/markdown/composer.json" />
+      <jump line="211" column="11" filename="$USER_HOME$/developements/wordpress/wp-content/themes/house/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -905,7 +902,7 @@
         <text encoding="base64">bWFya2Rvd24oJHRoaXMtPmRvY3MtPmdldCgpKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>bootstrap</text>
       </register>
       <register name="0" type="4">
         <text>is_accessible()</text>
@@ -942,9 +939,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>bootstrap</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>bootstrap</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -952,8 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry encoding="base64">XDxiYW5rc1w+</entry>
         <entry>modi</entry>
         <entry>modify-account</entry>
         <entry>new-account</entry>
@@ -972,6 +967,8 @@
         <entry>view</entry>
         <entry>autoload</entry>
         <entry>cache</entry>
+        <entry>col-md</entry>
+        <entry>bootstrap</entry>
       </history-search>
       <history-cmd>
         <entry>ㅈ</entry>
