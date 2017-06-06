@@ -34,6 +34,12 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1496665405732">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1496145745903">
         <mark key="'" line="3795" column="0" />
         <mark key="[" line="44" column="1" />
@@ -79,6 +85,11 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post.php" timestamp="1496728239236">
+        <mark key="[" line="1754" column="0" />
+        <mark key="]" line="1754" column="0" />
+        <mark key="." line="1754" column="0" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-content/themes/backer/functions.php" timestamp="1494646835684">
         <mark key="[" line="646" column="9" />
@@ -249,13 +260,6 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1496665399381">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="380" column="9" />
-        <mark key="]" line="380" column="23" />
-        <mark key="." line="380" column="12" />
-        <mark key="^" line="380" column="11" />
-      </file>
       <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="14" />
@@ -291,6 +295,11 @@
         <mark key="]" line="318" column="45" />
         <mark key="." line="318" column="45" />
         <mark key="^" line="318" column="45" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496576085691">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
         <mark key="[" line="0" column="0" />
@@ -434,12 +443,11 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496716153616">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496728225917">
         <mark key="'" line="694" column="0" />
-        <mark key="[" line="694" column="0" />
-        <mark key="]" line="694" column="0" />
-        <mark key="." line="694" column="0" />
-        <mark key="^" line="692" column="38" />
+        <mark key="[" line="692" column="0" />
+        <mark key="]" line="692" column="0" />
+        <mark key="." line="692" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -516,6 +524,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/meta.php" timestamp="1496728278057">
+        <mark key="[" line="485" column="0" />
+        <mark key="]" line="485" column="0" />
+        <mark key="." line="485" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
@@ -650,7 +663,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496716350184">
+      <file name="/Dummy.txt" timestamp="1496728209472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -723,13 +736,6 @@
         <mark key="]" line="23" column="23" />
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
-        <mark key="'" line="216" column="65" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="220" column="17" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/routes/web.php" timestamp="1496711761091">
         <mark key="[" line="24" column="11" />
@@ -908,43 +914,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9nZXRfdGVtcGxhdGVfZGlyZWN0b3J5KCk6IC9Vc2Vycy9sdXJpdGFzL2RldmVsb3BlbWVudHMvd29yZHByZXNzL3dwLWNvbnRlbnQvdGhlbWVzL2hvdXNlCmVjaG8gIjxicj4iOwo=</text>
+        <text encoding="base64">CWVjaG8gImdldF97JG1ldGFfdHlwZX1fbWV0YWRhdGEiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgLy8gdGVtcGxhdGUgZGlyZWN0b3J5</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>content_wi</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9nZXRfdGVtcGxhdGVfZGlyZWN0b3J5KCk6IC9Vc2Vycy9sdXJpdGFzL2RldmVsb3BlbWVudHMvd29yZHByZXNzL3dwLWNvbnRlbnQvdGhlbWVzL2hvdXNlCmVjaG8gIjxicj4iOwo=</text>
+      <register name="0" type="4">
+        <text>get_{$meta_type}_metadata</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z2V0X3RlbXBsYXRlX2RpcmVjdG9yeSgpOiAvVXNlcnMvbHVyaXRhcy9kZXZlbG9wZW1lbnRzL3dvcmRwcmVzcy93cC1jb250ZW50L3RoZW1lcy9ob3VzZQo=</text>
+        <text encoding="base64">CWVjaG8gImdldF97JG1ldGFfdHlwZX1fbWV0YWRhdGEiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKTogaHR0cDovL3dvcmRwcmVzcy5kZXYvd3AtY29udGVudC90aGVtZXMvaG91c2UK</text>
+        <text encoding="base64">CWRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">CQkJCQkgICAgZWNobyAkcG9zdC0+SUQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2V0X3RlbXBsYXRlX2RpcmVjdG9yeSgpOiAvVXNlcnMvbHVyaXRhcy9kZXZlbG9wZW1lbnRzL3dvcmRwcmVzcy93cC1jb250ZW50L3RoZW1lcy9ob3VzZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDw/cGhwIGR5bmFtaWNfc2lkZWJhciggJ3NpZGViYXItMicgKTsgPz4K</text>
+        <text encoding="base64">Z2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKTogaHR0cDovL3dvcmRwcmVzcy5kZXYvd3AtY29udGVudC90aGVtZXMvaG91c2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD9waHAgZ2V0X2RpCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
