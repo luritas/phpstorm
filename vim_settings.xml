@@ -44,6 +44,12 @@
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/style.css" timestamp="1496714908892">
         <mark key="'" line="211" column="11" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/gulp/package.json" timestamp="1497058495171">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/git/ptp/test-share/resources/views/oauth.blade.php" timestamp="1495098386520">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="1" column="5" />
@@ -434,6 +440,12 @@
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/gulp/gulpfile.js" timestamp="1497058255974">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-content/cache/supercache/dev.snsl.kr/view/index-https.html" timestamp="1494336792762">
         <mark key="[" line="248" column="0" />
@@ -858,11 +870,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>^6.0.0-9</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>^6.0.0-9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMDAwMFw+</text>
@@ -871,31 +883,31 @@
         <text>// $amount가 조보다 크다면</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PD9zLT5kb2NzLT5ldGFnKCRmaWxlKXBocAo=</text>
+        <text encoding="base64">ICAgIC47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">PD9zLT5kb2NzLT5ldGFnKCRmaWxlKXBocAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsobAgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDslrUgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsm5AgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsobAgPGJyPiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDrp4wgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDslrUgPGJyPiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3RhdHVzWyfriITsoIHspJHqsJzslaEnXSA9IDEzMzIyKjEyMzQxKjEyMzIyKjEyMzM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsm5AgPGJyPiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -949,10 +961,10 @@
         <entry>89</entry>
         <entry>set nowrap</entry>
         <entry>150</entry>
-        <entry>x</entry>
         <entry>36</entry>
         <entry>14</entry>
         <entry>q</entry>
+        <entry>x</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
