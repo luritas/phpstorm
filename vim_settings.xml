@@ -539,7 +539,6 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/laravel-web/stack/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" timestamp="1497063190034" />
       <file name="$USER_HOME$/developements/laravel-web/myapp/app/Http/Controllers/auth/UsersController.php" timestamp="1497067983284">
         <mark key="'" line="16" column="33" />
         <mark key="[" line="13" column="0" />
@@ -606,7 +605,6 @@
         <mark key="^" line="1759" column="27" />
         <mark key="." line="1759" column="27" />
       </file>
-      <file name="$USER_HOME$/developements/laravel-web/stack/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php" timestamp="1497063213982" />
       <file name="$USER_HOME$/git/laravel/config/app.php" timestamp="1494519177059">
         <mark key="[" line="80" column="26" />
         <mark key="]" line="80" column="27" />
@@ -706,12 +704,11 @@
         <mark key="^" line="34" column="23" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/functions.php" timestamp="1496719339251">
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/functions.php" timestamp="1497081745665">
         <mark key="'" line="89" column="16" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="145" column="12" />
-        <mark key="." line="139" column="69" />
-        <mark key="^" line="142" column="0" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-includes/class-wp-query.php" timestamp="1494675840973">
         <mark key="'" line="1" column="0" />
@@ -726,7 +723,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497067997083">
+      <file name="/Dummy.txt" timestamp="1497081781140">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -995,28 +992,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAobmV3IEFydGljbGUoJ2xvcmVtIGlwc3VtJykpLT5nZXRUaXRsZSgpOwo=</text>
+        <text encoding="base64">ZWNobyAiZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKTogIiAuIGdldF90ZW1wbGF0ZV9kaXJlY3RvcnlfdXJpKCk7Ci8vZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeV91cmkoKTogaHR0cDovL3dvcmRwcmVzcy5kZXYvd3AtY29udGVudC90aGVtZXMvaG91c2UKZWNobyAiPGJyPiI7CgplY2hvICJnZXRfdGVtcGxhdGVfZGlyZWN0b3J5KCk6ICIgLiBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5KCk7Ci8vZ2V0X3RlbXBsYXRlX2RpcmVjdG9yeSgpOiAvVXNlcnMvbHVyaXRhcy9kZXZlbG9wZW1lbnRzL3dvcmRwcmVzcy93cC1jb250ZW50L3RoZW1lcy9ob3VzZQplY2hvICI8YnI+IjsKZGllKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LT5zYXZlKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LT5zYXZlKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWNobyAobmV3IEFydGljbGUoJ2xvcmVtIGlwc3VtJykpLT5nZXRUaXRsZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LT5zYXZlKCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LT5zYXZlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGl0bGU7CiAgICBwdWJsaWMgJHZpZXdDb3VudCA9IDA7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCR0aXRsZSkKICAgIHsKICAgICAgICAkdGhpcy0+dGl0bGUgPSAkdGl0bGU7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGluY3JlYXNlVmlld0NvdW50KCkKICAgIHsKICAgICAgICAkdGhpcy0+dmlld0NvdW50ICs9IDE7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldFRpdGxlKCR0aXRsZSkKICAgIHsKICAgICAgICBpZiAoc3RybGVuKCR0aXRsZSkgPCAxMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCcxMOq4gOyekOuztOuLpCDquLQg7KCc66qp7J2EIOyeheugpe2VtCDso7zshLjsmpQnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPnRpdGxlID0gJHRpdGxlOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIHVjZmlyc3QoJHRoaXMtPnRpdGxlKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHBvc3QtPnNldFRpdGxlKCcxMTEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkdGl0bGU7CiAgICBwdWJsaWMgJHZpZXdDb3VudCA9IDA7CgogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCR0aXRsZSkKICAgIHsKICAgICAgICAkdGhpcy0+dGl0bGUgPSAkdGl0bGU7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGluY3JlYXNlVmlld0NvdW50KCkKICAgIHsKICAgICAgICAkdGhpcy0+dmlld0NvdW50ICs9IDE7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHNldFRpdGxlKCR0aXRsZSkKICAgIHsKICAgICAgICBpZiAoc3RybGVuKCR0aXRsZSkgPCAxMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCcxMOq4gOyekOuztOuLpCDquLQg7KCc66qp7J2EIOyeheugpe2VtCDso7zshLjsmpQnKTsKICAgICAgICB9CiAgICAgICAgJHRoaXMtPnRpdGxlID0gJHRpdGxlOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpCiAgICB7CiAgICAgICAgcmV0dXJuIHVjZmlyc3QoJHRoaXMtPnRpdGxlKTsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
