@@ -204,6 +204,13 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myProject/app/Http/routes.php" timestamp="1497063009936">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
       <file name="$USER_HOME$/git/myapp/database/migrations/2017_04_27_154016_create_tags_table.php" timestamp="1493307670295">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="18" column="43" />
@@ -768,8 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" />
       <jump line="1143" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
       <jump line="67" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" />
       <jump line="77" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" />
@@ -868,6 +873,8 @@
       <jump line="63" column="26" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
       <jump line="21" column="3" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
       <jump line="60" column="2" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
+      <jump line="176" column="0" filename="$USER_HOME$/developements/laravel-web/myProject/app/Http/routes.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/developements/laravel-web/myProject/app/Http/routes.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -899,7 +906,7 @@
         <text>auth</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMDAwMFw+</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6OmdldCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnUGFzc3dvcmRzQ29udHJvbGxlckBnZXRSZW1pbmQnLApdKTsK</text>
@@ -936,9 +943,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMDAwMFw+</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMDAwMFw+</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -946,7 +953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>주민등록상</entry>
         <entry>주검색</entry>
         <entry encoding="base64">XDxTRVRcPg==</entry>
         <entry encoding="base64">XDxGT1JFSUdOX0tFWV9DSEVDS1NcPg==</entry>
@@ -966,6 +972,7 @@
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry>getData</entry>
         <entry encoding="base64">XDwxMDAwMFw+</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>ㅈ</entry>
