@@ -115,6 +115,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/resources/views/layout/app.blade.php" timestamp="1497059885560">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+      </file>
       <file name="$USER_HOME$/developements/git/myapp/app/User.php" timestamp="1496464198882">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="27" column="6" />
@@ -446,6 +452,12 @@
         <mark key="]" line="15" column="12" />
         <mark key="^" line="17" column="54" />
         <mark key="." line="15" column="12" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/config/project.php" timestamp="1497059588469">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-content/cache/supercache/dev.snsl.kr/view/index-https.html" timestamp="1494336792762">
         <mark key="[" line="248" column="0" />
@@ -871,10 +883,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>^6.0.0-9</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>^6.0.0-9</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMDAwMFw+</text>
