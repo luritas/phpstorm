@@ -481,6 +481,7 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" timestamp="1497063190034" />
       <file name="$USER_HOME$/git/dev.snsl.dev/view/funding.php" timestamp="1495549220162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -541,6 +542,7 @@
         <mark key="^" line="1759" column="27" />
         <mark key="." line="1759" column="27" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php" timestamp="1497063213982" />
       <file name="$USER_HOME$/git/laravel/config/app.php" timestamp="1494519177059">
         <mark key="[" line="80" column="26" />
         <mark key="]" line="80" column="27" />
@@ -653,7 +655,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496728209472">
+      <file name="/Dummy.txt" timestamp="1497063215465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -766,6 +768,11 @@
         <mark key="]" line="15" column="20" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/routes/web.php" timestamp="1497063097253">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/index.php" timestamp="1494733956719">
         <mark key="[" line="3" column="3" />
@@ -899,53 +906,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>auth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>auth</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Um91dGU6OmdldCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnUGFzc3dvcmRzQ29udHJvbGxlckBnZXRSZW1pbmQnLApdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAncmVtaW5kLnN0b3JlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICog7IKs7Jqp7J6QIOqwgOyehQogKi8KUm91dGU6OmdldCgnYXV0aC9yZWdpc3RlcicsIFsKICAgICdhcycgPT4ndXNlcnMuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnVXNlcnNDb250cm9sbGVyQGNyZWF0ZScKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL3JlZ2lzdGVyJywgWwogICAgJ2FzJyA9Pid1c2Vycy5zdG9yZScsCiAgICAndXNlcycgPT4gJ1VzZXJzQ29udHJvbGxlckBzdG9yZScsCl0pOwoKUm91dGU6OmdldCgnYXV0aC9jb25maXJtL3tjb2RlfScsIFsKICAgICdhcycgPT4gJ3VzZXJzLmNvbmZpcm0nLAogICAgJ3VzZXMnID0+ICdVc2Vyc0NvbnRyb2xsZXJAY29uZmlybScsCl0pOwoKLyoKICog7IKs7Jqp7J6QIOyduOymnQogKi8KUm91dGU6OmdldCgnYXV0aC9sb2dpbicsIFsKICAgICdhcycgPT4gJ3Nlc3Npb24uY3JlYXRlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQGNyZWF0ZScsCl0pOwoKUm91dGU6OnBvc3QoJ2F1dGgvbG9naW4nLCBbCiAgICAnYXMnID0+ICdzZXNzaW9uLnN0b3JlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQHN0b3JlJywKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL2xvZ291dCcsIFsKICAgICdhcycgPT4gJ3Nlc3Npb25zLmRlc3Ryb3knLAogICAgJ3VzZXMnID0+ICdTZXNzaW9uQ29udHJvbGxlckBkZXN0cm95JywKXSk7CgovKgogKiDruYTruYzrsojtmLgg7LSI6riw7ZmUCiAqLwpSb3V0ZTo6Z2V0KCdhdXRoL3JlbWluZCcsIFsKICAgICdhcycgPT4gJ3JlbWluZC5jcmVhdGUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQGdldFJlbWluZCcsCl0pOwpSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZW1pbmQnLApdKTsKClJvdXRlOjpnZXQoJ2F1dGgvcmVzZXQve3Rva2VufScsIFsKICAgICdhcycgPT4gJ3Jlc2V0LmNyZWF0ZScsCiAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAZ2V0UmVzZXQnLApdKTsKUm91dGU6OnBvc3QoJ2F1dGgvcmVtaW5kJywgWwogICAgJ2FzJyA9PiAncmVzZXQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZXNldCcsCl0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAncmVtaW5kLnN0b3JlJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKICog7IKs7Jqp7J6QIOqwgOyehQogKi8KUm91dGU6OmdldCgnYXV0aC9yZWdpc3RlcicsIFsKICAgICdhcycgPT4ndXNlcnMuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnVXNlcnNDb250cm9sbGVyQGNyZWF0ZScKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL3JlZ2lzdGVyJywgWwogICAgJ2FzJyA9Pid1c2Vycy5zdG9yZScsCiAgICAndXNlcycgPT4gJ1VzZXJzQ29udHJvbGxlckBzdG9yZScsCl0pOwoKUm91dGU6OmdldCgnYXV0aC9jb25maXJtL3tjb2RlfScsIFsKICAgICdhcycgPT4gJ3VzZXJzLmNvbmZpcm0nLAogICAgJ3VzZXMnID0+ICdVc2Vyc0NvbnRyb2xsZXJAY29uZmlybScsCl0pOwoKLyoKICog7IKs7Jqp7J6QIOyduOymnQogKi8KUm91dGU6OmdldCgnYXV0aC9sb2dpbicsIFsKICAgICdhcycgPT4gJ3Nlc3Npb24uY3JlYXRlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQGNyZWF0ZScsCl0pOwoKUm91dGU6OnBvc3QoJ2F1dGgvbG9naW4nLCBbCiAgICAnYXMnID0+ICdzZXNzaW9uLnN0b3JlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQHN0b3JlJywKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL2xvZ291dCcsIFsKICAgICdhcycgPT4gJ3Nlc3Npb25zLmRlc3Ryb3knLAogICAgJ3VzZXMnID0+ICdTZXNzaW9uQ29udHJvbGxlckBkZXN0cm95JywKXSk7CgovKgogKiDruYTruYzrsojtmLgg7LSI6riw7ZmUCiAqLwpSb3V0ZTo6Z2V0KCdhdXRoL3JlbWluZCcsIFsKICAgICdhcycgPT4gJ3JlbWluZC5jcmVhdGUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQGdldFJlbWluZCcsCl0pOwpSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZW1pbmQnLApdKTsKClJvdXRlOjpnZXQoJ2F1dGgvcmVzZXQve3Rva2VufScsIFsKICAgICdhcycgPT4gJ3Jlc2V0LmNyZWF0ZScsCiAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAZ2V0UmVzZXQnLApdKTsKUm91dGU6OnBvc3QoJ2F1dGgvcmVtaW5kJywgWwogICAgJ2FzJyA9PiAncmVzZXQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZXNldCcsCl0pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC47Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -953,7 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry>주검색</entry>
         <entry encoding="base64">XDxTRVRcPg==</entry>
         <entry encoding="base64">XDxGT1JFSUdOX0tFWV9DSEVDS1NcPg==</entry>
         <entry>주소검색</entry>
@@ -973,6 +979,7 @@
         <entry>getData</entry>
         <entry encoding="base64">XDwxMDAwMFw+</entry>
         <entry>auth</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>ㅈ</entry>
