@@ -35,6 +35,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/resources/views/users/partial/avartar.blade.php" timestamp="1497066479134">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+      </file>
       <file name="$USER_HOME$/git/snsl.dev/view/wp-includes/functions.wp-scripts.php" timestamp="1495730630782">
         <mark key="[" line="189" column="5" />
         <mark key="]" line="192" column="5" />
@@ -97,6 +103,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="16" column="46" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" timestamp="1497065703616">
+        <mark key="'" line="47" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/class-wp-theme.php" timestamp="1494345146300">
         <mark key="[" line="895" column="8" />
         <mark key="]" line="895" column="9" />
@@ -114,6 +127,13 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" timestamp="1497067976382">
+        <mark key="'" line="55" column="29" />
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/stack/resources/views/layout/app.blade.php" timestamp="1497059885560">
         <mark key="[" line="20" column="47" />
@@ -198,6 +218,12 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/resources/views/users/create.blade.php" timestamp="1497068080381">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/funding.php" timestamp="1494738258901">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -210,6 +236,12 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/app/User.php" timestamp="1497067135718">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/migrations/2017_04_27_154016_create_tags_table.php" timestamp="1493307670295">
         <mark key="[" line="16" column="37" />
@@ -292,6 +324,12 @@
         <mark key="]" line="245" column="0" />
         <mark key="." line="245" column="0" />
         <mark key="^" line="247" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/resources/views/emails/auth/confirm.blade.php" timestamp="1497067477541">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+        <mark key="." line="2" column="48" />
       </file>
       <file name="$USER_HOME$/git/index.php" timestamp="1494515739317">
         <mark key="[" line="0" column="0" />
@@ -426,6 +464,13 @@
         <mark key="^" line="34" column="2" />
         <mark key="." line="34" column="2" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/database/migrations/2017_06_10_035438_add_confirm_code_column_on_users_table.php" timestamp="1497066976507">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1496737407041">
         <mark key="'" line="773" column="6" />
         <mark key="[" line="715" column="0" />
@@ -445,6 +490,12 @@
         <mark key="]" line="18" column="43" />
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/.env.example" timestamp="1497066123607">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/git/myapp/resources/views/home.blade.php" timestamp="1493137894426">
         <mark key="[" line="9" column="6" />
@@ -480,6 +531,13 @@
         <mark key="]" line="18" column="32" />
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php" timestamp="1497063190034" />
+      <file name="$USER_HOME$/developements/laravel-web/myapp/app/Http/Controllers/auth/UsersController.php" timestamp="1497067983284">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view/funding.php" timestamp="1495549220162">
         <mark key="[" line="0" column="0" />
@@ -541,6 +599,7 @@
         <mark key="^" line="1759" column="27" />
         <mark key="." line="1759" column="27" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php" timestamp="1497063213982" />
       <file name="$USER_HOME$/git/laravel/config/app.php" timestamp="1494519177059">
         <mark key="[" line="80" column="26" />
         <mark key="]" line="80" column="27" />
@@ -603,6 +662,13 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/.env" timestamp="1497066223870">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/git/laravel/app/Http/routes.php" timestamp="1494519818530">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="21" column="76" />
@@ -653,7 +719,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496728209472">
+      <file name="/Dummy.txt" timestamp="1497067997083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -709,12 +775,10 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" timestamp="1497061951139">
-        <mark key="'" line="60" column="2" />
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="76" column="2" />
-        <mark key="." line="76" column="2" />
-        <mark key="^" line="76" column="2" />
+      <file name="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" timestamp="1497065995789">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
         <mark key="'" line="216" column="65" />
@@ -767,6 +831,12 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/stack/routes/web.php" timestamp="1497065586879">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/index.php" timestamp="1494733956719">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="12" column="5" />
@@ -775,26 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1143" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="67" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" />
-      <jump line="77" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" />
-      <jump line="3795" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" />
-      <jump line="84" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
-      <jump line="87" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-functions.php" />
-      <jump line="44" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="96" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="6" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="70" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="127" column="54" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="100" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="79" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="102" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="80" column="70" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="84" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="159" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="157" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="146" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="81" column="31" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="9" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="6750" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="6767" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
@@ -875,6 +925,26 @@
       <jump line="60" column="2" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
       <jump line="176" column="0" filename="$USER_HOME$/developements/laravel-web/myProject/app/Http/routes.php" />
       <jump line="8" column="0" filename="$USER_HOME$/developements/laravel-web/myProject/app/Http/routes.php" />
+      <jump line="15" column="22" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
+      <jump line="27" column="14" filename="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" />
+      <jump line="47" column="10" filename="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" />
+      <jump line="6" column="5" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="63" column="4" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="1" column="10" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/developements/laravel-web/myapp/.env" />
+      <jump line="30" column="32" filename="$USER_HOME$/developements/laravel-web/myapp/database/migrations/2017_06_10_035438_add_confirm_code_column_on_users_table.php" />
+      <jump line="16" column="28" filename="$USER_HOME$/developements/laravel-web/myapp/database/migrations/2017_06_10_035438_add_confirm_code_column_on_users_table.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="19" column="21" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="20" column="29" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="22" column="40" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="16" column="33" filename="$USER_HOME$/developements/laravel-web/myapp/app/Http/Controllers/auth/UsersController.php" />
+      <jump line="11" column="39" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="10" column="29" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="46" column="30" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="55" column="29" filename="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" />
+      <jump line="12" column="5" filename="$USER_HOME$/developements/laravel-web/myapp/resources/views/users/create.blade.php" />
+      <jump line="20" column="72" filename="$USER_HOME$/developements/laravel-web/myapp/resources/views/users/create.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -900,52 +970,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>auth</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>auth</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>so</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Um91dGU6OmdldCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnUGFzc3dvcmRzQ29udHJvbGxlckBnZXRSZW1pbmQnLApdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyA9PiAkcmVxdWVzdC0+aW5wdXQoJ2VtYWlsJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAncmVtaW5kLnN0b3JlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICog7IKs7Jqp7J6QIOqwgOyehQogKi8KUm91dGU6OmdldCgnYXV0aC9yZWdpc3RlcicsIFsKICAgICdhcycgPT4ndXNlcnMuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnVXNlcnNDb250cm9sbGVyQGNyZWF0ZScKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL3JlZ2lzdGVyJywgWwogICAgJ2FzJyA9Pid1c2Vycy5zdG9yZScsCiAgICAndXNlcycgPT4gJ1VzZXJzQ29udHJvbGxlckBzdG9yZScsCl0pOwoKUm91dGU6OmdldCgnYXV0aC9jb25maXJtL3tjb2RlfScsIFsKICAgICdhcycgPT4gJ3VzZXJzLmNvbmZpcm0nLAogICAgJ3VzZXMnID0+ICdVc2Vyc0NvbnRyb2xsZXJAY29uZmlybScsCl0pOwoKLyoKICog7IKs7Jqp7J6QIOyduOymnQogKi8KUm91dGU6OmdldCgnYXV0aC9sb2dpbicsIFsKICAgICdhcycgPT4gJ3Nlc3Npb24uY3JlYXRlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQGNyZWF0ZScsCl0pOwoKUm91dGU6OnBvc3QoJ2F1dGgvbG9naW4nLCBbCiAgICAnYXMnID0+ICdzZXNzaW9uLnN0b3JlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQHN0b3JlJywKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL2xvZ291dCcsIFsKICAgICdhcycgPT4gJ3Nlc3Npb25zLmRlc3Ryb3knLAogICAgJ3VzZXMnID0+ICdTZXNzaW9uQ29udHJvbGxlckBkZXN0cm95JywKXSk7CgovKgogKiDruYTruYzrsojtmLgg7LSI6riw7ZmUCiAqLwpSb3V0ZTo6Z2V0KCdhdXRoL3JlbWluZCcsIFsKICAgICdhcycgPT4gJ3JlbWluZC5jcmVhdGUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQGdldFJlbWluZCcsCl0pOwpSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZW1pbmQnLApdKTsKClJvdXRlOjpnZXQoJ2F1dGgvcmVzZXQve3Rva2VufScsIFsKICAgICdhcycgPT4gJ3Jlc2V0LmNyZWF0ZScsCiAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAZ2V0UmVzZXQnLApdKTsKUm91dGU6OnBvc3QoJ2F1dGgvcmVtaW5kJywgWwogICAgJ2FzJyA9PiAncmVzZXQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZXNldCcsCl0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgndXNlci5jcmVhdGUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgndXNlcnMuY3JlYXRlJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgYXV0aCgpLT5sb2dpbigkdXNlcik7CiAgICAgICAgZmxhc2goYXV0aCgpLT51c2VyKCktPm5hbWUgLiAn64uYLCDtmZjsmIHtlanri4jri6QuJyk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC47Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD9waHAKUm91dGU6Omdyb3VwKFsKICAgICduYW1lc3BhY2UnID0+ICdhdXRoJywKICAgICdwcmVmaXgnICAgID0+ICdhdXRoJywKICAgIF0sCiAgICBmdW5jdGlvbiAoKSB7CiAgICAgICAgLyoKICAgICAgICAqIOyCrOyaqeyekCDqsIDsnoUKICAgICAgICAqLwogICAgICAgIFJvdXRlOjpnZXQoJy9yZWdpc3RlcicsIFsKICAgICAgICAgICAgJ2FzJyAgID0+ICd1c2Vycy5jcmVhdGUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1VzZXJzQ29udHJvbGxlckBjcmVhdGUnLAogICAgICAgIF0pOwoKICAgICAgICBSb3V0ZTo6Z2V0KCcvcmVnaXN0ZXInLCBbCiAgICAgICAgICAgICdhcycgICA9PiAndXNlcnMuc3RvcmUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1VzZXJzQ29udHJvbGxlckBzdG9yZScsCiAgICAgICAgXSk7CgogICAgICAgIFJvdXRlOjpnZXQoJy9jb25maXJtL3tjb2RlfScsIFsKICAgICAgICAgICAgJ2FzJyAgID0+ICd1c2Vycy5jb25maXJtJywKICAgICAgICAgICAgJ3VzZXMnID0+ICdVc2Vyc0NvbnRyb2xsZXJAY29uZmlybScsCiAgICAgICAgXSk7CgogICAgICAgIC8qCiAgICAgICAgKiDsgqzsmqnsnpAg7J247KadCiAgICAgICAgKi8KICAgICAgICBSb3V0ZTo6Z2V0KCcvbG9naW4nLCBbCiAgICAgICAgICAgICdhcycgICA9PiAnc2Vzc2lvbi5jcmVhdGUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1Nlc3Npb25zQ29udHJvbGxlckBjcmVhdGUnLAogICAgICAgIF0pOwoKICAgICAgICBSb3V0ZTo6cG9zdCgnL2xvZ2luJywgWwogICAgICAgICAgICAnYXMnICAgPT4gJ3Nlc3Npb24uc3RvcmUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1Nlc3Npb25zQ29udHJvbGxlckBzdG9yZScsCiAgICAgICAgXSk7CgogICAgICAgIFJvdXRlOjpnZXQoJy9sb2dvdXQnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAnc2Vzc2lvbnMuZGVzdHJveScsCiAgICAgICAgICAgICd1c2VzJyA9PiAnU2Vzc2lvbkNvbnRyb2xsZXJAZGVzdHJveScsCiAgICAgICAgXSk7CgogICAgICAgIC8qCiAgICAgICAgKiDruYTruYzrsojtmLgg7LSI6riw7ZmUCiAgICAgICAgKi8KICAgICAgICBSb3V0ZTo6Z2V0KCcvcmVtaW5kJywgWwogICAgICAgICAgICAnYXMnICAgPT4gJ3JlbWluZC5jcmVhdGUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAZ2V0UmVtaW5kJywKICAgICAgICBdKTsKICAgICAgICBSb3V0ZTo6cG9zdCgnL3JlbWluZCcsIFsKICAgICAgICAgICAgJ2FzJyAgID0+ICdyZW1pbmQuc3RvcmUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAcG9zdFJlbWluZCcsCiAgICAgICAgXSk7CgogICAgICAgIFJvdXRlOjpnZXQoJy9yZXNldC97dG9rZW59JywgWwogICAgICAgICAgICAnYXMnICAgPT4gJ3Jlc2V0LmNyZWF0ZScsCiAgICAgICAgICAgICd1c2VzJyA9PiAnUGFzc3dvcmRzQ29udHJvbGxlckBnZXRSZXNldCcsCiAgICAgICAgXSk7CiAgICAgICAgUm91dGU6OnBvc3QoJy9yZW1pbmQnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAncmVzZXQuc3RvcmUnLAogICAgICAgICAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAcG9zdFJlc2V0JywKICAgICAgICBdKTsKCiAgICB9Cik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>so</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>so</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>get_post</last-substitute>
       <last-dir>1</last-dir>
@@ -953,19 +1023,10 @@
     </search>
     <history>
       <history-search>
-        <entry>주검색</entry>
-        <entry encoding="base64">XDxTRVRcPg==</entry>
-        <entry encoding="base64">XDxGT1JFSUdOX0tFWV9DSEVDS1NcPg==</entry>
-        <entry>주소검색</entry>
-        <entry>login</entry>
-        <entry>dd</entry>
-        <entry>view</entry>
-        <entry>autoload</entry>
         <entry>cache</entry>
         <entry>col-md</entry>
         <entry>bootstrap</entry>
         <entry>load_</entry>
-        <entry>register</entry>
         <entry>content_wi</entry>
         <entry>style</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
@@ -973,6 +1034,15 @@
         <entry>getData</entry>
         <entry encoding="base64">XDwxMDAwMFw+</entry>
         <entry>auth</entry>
+        <entry>route</entry>
+        <entry encoding="base64">XDxhY3RpdmF0ZWRcPg==</entry>
+        <entry encoding="base64">XDxjb25maXJtX2NvZGVcPg==</entry>
+        <entry>confirm</entry>
+        <entry>register</entry>
+        <entry>create</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry>social</entry>
+        <entry>so</entry>
       </history-search>
       <history-cmd>
         <entry>ㅈ</entry>
