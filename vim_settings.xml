@@ -404,6 +404,9 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/app/Documentation.php" timestamp="1497061016810">
+        <mark key="'" line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/house/header.php" timestamp="1496714403476">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -699,6 +702,13 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" timestamp="1497061951139">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="76" column="2" />
+        <mark key="]" line="76" column="2" />
+        <mark key="." line="76" column="2" />
+        <mark key="^" line="76" column="2" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
         <mark key="'" line="216" column="65" />
         <mark key="[" line="220" column="0" />
@@ -758,11 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="109" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
-      <jump line="12" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/templates/_checkoutForm.php" />
-      <jump line="270" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="39" column="2" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="74" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/plugin.php" />
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" />
       <jump line="1143" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
@@ -858,6 +863,11 @@
       <jump line="47" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="318" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" />
       <jump line="410" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="42" column="0" filename="$USER_HOME$/developements/laravel-web/myapp/app/Documentation.php" />
+      <jump line="24" column="8" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
+      <jump line="63" column="26" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
+      <jump line="21" column="3" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
+      <jump line="60" column="2" filename="$USER_HOME$/developements/laravel-web/myapp/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -883,43 +893,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>auth</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxMDAwMFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>// $amount가 조보다 크다면</text>
+      <register name="0" type="2">
+        <text encoding="base64">Um91dGU6OmdldCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnUGFzc3dvcmRzQ29udHJvbGxlckBnZXRSZW1pbmQnLApdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICBSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAgICAgICAgICdhcycgICA9PiAncmVtaW5kLnN0b3JlJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC47Cg==</text>
+        <text encoding="base64">LyoKICog7IKs7Jqp7J6QIOqwgOyehQogKi8KUm91dGU6OmdldCgnYXV0aC9yZWdpc3RlcicsIFsKICAgICdhcycgPT4ndXNlcnMuY3JlYXRlJywKICAgICd1c2VzJyA9PiAnVXNlcnNDb250cm9sbGVyQGNyZWF0ZScKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL3JlZ2lzdGVyJywgWwogICAgJ2FzJyA9Pid1c2Vycy5zdG9yZScsCiAgICAndXNlcycgPT4gJ1VzZXJzQ29udHJvbGxlckBzdG9yZScsCl0pOwoKUm91dGU6OmdldCgnYXV0aC9jb25maXJtL3tjb2RlfScsIFsKICAgICdhcycgPT4gJ3VzZXJzLmNvbmZpcm0nLAogICAgJ3VzZXMnID0+ICdVc2Vyc0NvbnRyb2xsZXJAY29uZmlybScsCl0pOwoKLyoKICog7IKs7Jqp7J6QIOyduOymnQogKi8KUm91dGU6OmdldCgnYXV0aC9sb2dpbicsIFsKICAgICdhcycgPT4gJ3Nlc3Npb24uY3JlYXRlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQGNyZWF0ZScsCl0pOwoKUm91dGU6OnBvc3QoJ2F1dGgvbG9naW4nLCBbCiAgICAnYXMnID0+ICdzZXNzaW9uLnN0b3JlJywKICAgICd1c2VzJyA9PiAnU2Vzc2lvbnNDb250cm9sbGVyQHN0b3JlJywKXSk7CgpSb3V0ZTo6Z2V0KCdhdXRoL2xvZ291dCcsIFsKICAgICdhcycgPT4gJ3Nlc3Npb25zLmRlc3Ryb3knLAogICAgJ3VzZXMnID0+ICdTZXNzaW9uQ29udHJvbGxlckBkZXN0cm95JywKXSk7CgovKgogKiDruYTruYzrsojtmLgg7LSI6riw7ZmUCiAqLwpSb3V0ZTo6Z2V0KCdhdXRoL3JlbWluZCcsIFsKICAgICdhcycgPT4gJ3JlbWluZC5jcmVhdGUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQGdldFJlbWluZCcsCl0pOwpSb3V0ZTo6cG9zdCgnYXV0aC9yZW1pbmQnLCBbCiAgICAnYXMnID0+ICdyZW1pbmQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZW1pbmQnLApdKTsKClJvdXRlOjpnZXQoJ2F1dGgvcmVzZXQve3Rva2VufScsIFsKICAgICdhcycgPT4gJ3Jlc2V0LmNyZWF0ZScsCiAgICAndXNlcycgPT4gJ1Bhc3N3b3Jkc0NvbnRyb2xsZXJAZ2V0UmVzZXQnLApdKTsKUm91dGU6OnBvc3QoJ2F1dGgvcmVtaW5kJywgWwogICAgJ2FzJyA9PiAncmVzZXQuc3RvcmUnLAogICAgJ3VzZXMnID0+ICdQYXNzd29yZHNDb250cm9sbGVyQHBvc3RSZXNldCcsCl0pOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD9zLT5kb2NzLT5ldGFnKCRmaWxlKXBocAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJCkpCg==</text>
+        <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">QXV0aDo6cm91dGVzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsobAgPGJyPiI7Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDslrUgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgIC47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsm5AgPGJyPiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
