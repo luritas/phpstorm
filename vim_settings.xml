@@ -342,6 +342,12 @@
         <mark key="^" line="1780" column="36" />
         <mark key="." line="1778" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/myapp/app/Documentation.php" timestamp="1497056620646">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+      </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/resources/views/docs/show.blade.php" timestamp="1496688454492">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="3" />
@@ -852,8 +858,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -865,31 +871,31 @@
         <text>// $amount가 조보다 크다면</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsobAgPGJyPiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDslrUgPGJyPiI7Cg==</text>
+        <text encoding="base64">PD9zLT5kb2NzLT5ldGFnKCRmaWxlKXBocAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsm5AgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDrp4wgPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3RhdHVzWyfriITsoIHspJHqsJzslaEnXSA9IDEzMzIyKjEyMzQxKjEyMzIyKjEyMzM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsobAgPGJyPiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRpc3BsYXlfYW1vdW50IC49ICgkYW1vdW50ICUgMTAwMDApIC4gJ+ybkCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDslrUgPGJyPiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGRpc3BsYXlfYW1vdW50IC49ICgoJGFtb3VudCAvIDEwMDAwKSAlIDEwMDAwKSAuICfrp4wnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDsm5AgPGJyPiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiJHJlbWFpbmRlciDrp4wgPGJyPiI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3RhdHVzWyfriITsoIHspJHqsJzslaEnXSA9IDEzMzIyKjEyMzQxKjEyMzIyKjEyMzM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
