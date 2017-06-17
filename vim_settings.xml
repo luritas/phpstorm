@@ -265,8 +265,8 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1497672397784">
-        <mark key="'" line="6793" column="1" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1497684526270">
+        <mark key="'" line="6813" column="16" />
         <mark key="[" line="6809" column="0" />
         <mark key="]" line="6811" column="20" />
         <mark key="." line="6811" column="20" />
@@ -617,12 +617,12 @@
         <mark key="]" line="485" column="0" />
         <mark key="." line="485" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1497672589086">
-        <mark key="'" line="409" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="78" column="31" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1497684814572">
+        <mark key="'" line="421" column="0" />
+        <mark key="[" line="77" column="31" />
+        <mark key="]" line="87" column="62" />
+        <mark key="^" line="87" column="62" />
+        <mark key="." line="87" column="62" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
@@ -899,7 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="136" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="313" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="307" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
@@ -999,6 +998,7 @@
       <jump line="354" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" />
       <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" />
       <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
+      <jump line="6813" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
