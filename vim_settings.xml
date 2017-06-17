@@ -163,12 +163,12 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" timestamp="1497176849330">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="1" column="14" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" timestamp="1497671676024">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/page.php" timestamp="1494738238295">
         <mark key="'" line="1" column="0" />
@@ -265,12 +265,12 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1497668056038">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1497672397784">
         <mark key="'" line="6793" column="1" />
-        <mark key="[" line="6805" column="17" />
-        <mark key="]" line="6806" column="27" />
-        <mark key="." line="6806" column="27" />
-        <mark key="^" line="6806" column="27" />
+        <mark key="[" line="6809" column="0" />
+        <mark key="]" line="6811" column="20" />
+        <mark key="." line="6811" column="20" />
+        <mark key="^" line="6811" column="20" />
       </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-includes/post-template.php" timestamp="1494338077716">
         <mark key="[" line="104" column="13" />
@@ -371,10 +371,10 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" timestamp="1497667895162">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="42" column="9" />
-        <mark key="]" line="42" column="12" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" timestamp="1497672192615">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="68" column="5" />
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
@@ -423,6 +423,12 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type2.php" timestamp="1497672511644">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/idcommerce/idcommerce-admin.php" timestamp="1496142812196">
         <mark key="[" line="1778" column="0" />
@@ -611,11 +617,12 @@
         <mark key="]" line="485" column="0" />
         <mark key="." line="485" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1497667124196">
-        <mark key="'" line="98" column="33" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1497672589086">
+        <mark key="'" line="409" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="78" column="31" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
@@ -757,7 +764,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497667198410">
+      <file name="/Dummy.txt" timestamp="1497671976058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -892,14 +899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="73" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="208" column="140" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="156" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="154" column="48" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="147" column="48" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="145" column="40" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="144" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="141" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="138" column="35" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="136" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="313" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
@@ -991,7 +990,15 @@
       <jump line="392" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="6779" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="6793" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="11" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type2.php" />
+      <jump line="104" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="417" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="81" column="31" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" />
+      <jump line="33" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" />
+      <jump line="354" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1041,7 +1048,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA0MHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1053,16 +1060,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>연령/성별</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN1cml0eVw+</text>
+        <text>내용</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICfrp6TstpzssYTqtownID0+ICdmdW5kaW5nLXR5cGUyLnBocCcK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLXNtLTEyIGltYWdlLWZ1bGwiPgogICAgPGltZyB3aWR0aD0iMTAwJSIgc3JjPSI8Pz0kcGF0aD8+L2ltYWdlcy9sb2dvLnBuZyIgYWx0PSIiPgo8L2Rpdj4KCjxkaXYgY2xhc3M9ImNvbC1zbS00IGltYWdlLTMiPgogICAgPGltZyBzcmM9Ijw/PSRwYXRoPz4vaW1hZ2VzL2xvZ28ucG5nIiBhbHQ9IiI+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJjb2wtc20tNCBpbWFnZS0zIj4KICAgIDxpbWcgc3JjPSI8Pz0kcGF0aD8+L2ltYWdlcy9sb2dvLnBuZyIgYWx0PSIiPgo8L2Rpdj4KPGRpdiBjbGFzcz0iY29sLXNtLTQgaW1hZ2UtMyI+CiAgICA8aW1nIHNyYz0iPD89JHBhdGg/Pi9pbWFnZXMvbG9nby5wbmciIGFsdD0iIj4KPC9kaXY+Cgo8ZGl2IGNsYXNzPSJjb2wtc20tMTIgdGV4dC1mdWxsIj4KICAgIDw/PSAkZnVuZGluZy0+Z2V064K07JqpKCk7ID8+CjwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiA0MHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1077,37 +1084,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgdmFyX2R1bXAoJHZhbHVlKTsgZGllKCk7ID8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAn7ISx67OEJyAgICAgICAgID0+ICfrgqjsnpAnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlY2hvIF9fRElSX187CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZsZXhzbGlkZXIgbWluaSI+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iZmxleC1kaXJlY3Rpb24tbmF2Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGNsYXNzPSJmbGV4LXByZXYiIGhyZWY9IiMiPjwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgY2xhc3M9ImZsZXgtbmV4dCIgaHJlZj0iIyI+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGZ1bmRpbmcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJjbGFzc21hcCI6IFsKICAgICAgImRhdGFiYXNlIgogICAgXSwK</text>
+        <text encoding="base64">PGgzPuuMgOy2nOyekDwvaDM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiYXV0b2xvYWQiOiB7CgogIH0KCg==</text>
+        <text encoding="base64">PGgzPuyxhOq2jOuCtOyaqTwvaDM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDw/cGhwCiAgICByZXF1aXJlICIuL2Z1bmRpbmctY29udGVudC5waHAiOwogICAgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhc2lkZSBjbGFzcz0ic2hhcmUtYnV0dG9ucyBjbGVhcmZpeCI+PHA+U2hhcmUgdGhpcyBwcm9qZWN0PC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImhvbGRlciBjbGVhcmZpeCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iYnRuLXR3aXR0ZXIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vaG9tZT9zdGF0dXM9V29vZGVuK0Jsb2NrcytodHRwcyUzQSUyRiUyRnd3dy5zbnNsLmtyJTJGdmlldyUyRiUzRmlnbml0aW9uX3Byb2R1Y3QlM0R3b29kZW4tYmxvY2tzIj48L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iYnRuLWZhY2Vib29rIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBocmVmPSJodHRwczovL3d3dy5mYWNlYm9vay5jb20vc2hhcmUucGhwP3U9aHR0cHMlM0ElMkYlMkZ3d3cuc25zbC5rciUyRnZpZXclMkYlM0ZpZ25pdGlvbl9wcm9kdWN0JTNEd29vZGVuLWJsb2NrcyZhbXA7dGl0bGU9V29vZGVuK0Jsb2NrcyI+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9ImJ0bi1ncGx1cyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaHJlZj0iaHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vc2hhcmU/dXJsPWh0dHBzJTNBJTJGJTJGd3d3LnNuc2wua3IlMkZ2aWV3JTJGJTNGaWduaXRpb25fcHJvZHVjdCUzRHdvb2Rlbi1ibG9ja3MiPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaWQ9InNoYXJlLWVtYmVkIiBjbGFzcz0ic29jaWFsLXNoYXJlIGZhbmN5Ym94IGlubGluZSIgaHJlZj0iI3NoYXJlLWVtYmVkLWJveCI+IDxpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmYSBmYS1jb2RlIj48L2k+PC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGlkPSJzaGFyZS1lbWJlZC1ib3giIGNsYXNzPSJlbWJlZC1ib3ggc29jaWFsLXNoYXJlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJkaXNwbGF5OiBub25lOyB3aWR0aDogMjQ5cHg7IGhlaWdodDogMjk5cHg7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb2RlPiZsdDtpZnJhbWUgZnJhbWVCb3JkZXI9IjAiIHNjcm9sbGluZz0ibm8iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmM9Imh0dHBzOi8vd3d3LnNuc2wua3Ivdmlldy8/aWdfZW1iZWRfd2lkZ2V0PTEmYW1wO3Byb2R1Y3Rfbm89MTUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aD0iMjE0IiBoZWlnaHQ9IjM2NiImZ3Q7Jmx0Oy9pZnJhbWUmZ3Q7PC9jb2RlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYXNpZGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWN1cml0eVw+</last-search>
+      <last-search>내용</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN1cml0eVw+</last-pattern>
+      <last-pattern>내용</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxzZWN1cml0eVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1115,8 +1122,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comment</entry>
-        <entry>Wooden</entry>
         <entry>상품정보</entry>
         <entry>scripty</entry>
         <entry>script</entry>
@@ -1135,6 +1140,8 @@
         <entry>funding-con</entry>
         <entry>right</entry>
         <entry encoding="base64">XDxzZWN1cml0eVw+</entry>
+        <entry>set</entry>
+        <entry>내용</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
