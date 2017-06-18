@@ -17,17 +17,27 @@
         <mark key="." line="179" column="29" />
         <mark key="^" line="179" column="29" />
       </file>
+      <file name="/a.dummy" timestamp="1497767254927">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/default-constants.php" timestamp="1494345233764">
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
         <mark key="^" line="349" column="53" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1497690787854">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" timestamp="1497773867241">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1497775169341">
         <mark key="'" line="27" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1496145745903">
         <mark key="'" line="3795" column="0" />
@@ -148,6 +158,7 @@
         <mark key="^" line="30" column="45" />
         <mark key="." line="30" column="45" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/pluggable-deprecated.php" timestamp="1497767084496" />
       <file name="$USER_HOME$/developements/php/oop/Article.php" timestamp="1497077190562">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -212,11 +223,11 @@
         <mark key="^" line="1215" column="9" />
         <mark key="." line="1215" column="9" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/investment.php" timestamp="1497690836989">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="13" column="20" />
-        <mark key="." line="13" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/investment.php" timestamp="1497775883196">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/developements/git/myapp/database/migrations/2017_06_03_034740_create_authors_table.php" timestamp="1496462080445">
         <mark key="[" line="16" column="37" />
@@ -230,11 +241,12 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1497765477904">
-        <mark key="'" line="132" column="5" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1497775595018">
+        <mark key="'" line="137" column="5" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="^" line="227" column="33" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/funding.php" timestamp="1494738258901">
         <mark key="[" line="6" column="23" />
@@ -261,12 +273,12 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1497765294215">
-        <mark key="'" line="6847" column="16" />
-        <mark key="[" line="6793" column="12" />
-        <mark key="]" line="6795" column="20" />
-        <mark key="." line="6795" column="20" />
-        <mark key="^" line="6795" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1497772750051">
+        <mark key="'" line="1179" column="1" />
+        <mark key="[" line="6868" column="55" />
+        <mark key="]" line="6876" column="19" />
+        <mark key="." line="6876" column="19" />
+        <mark key="^" line="6876" column="19" />
       </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-includes/post-template.php" timestamp="1494338077716">
         <mark key="[" line="104" column="13" />
@@ -286,6 +298,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/User.php" timestamp="1497768102027">
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="26" column="64" />
@@ -293,12 +311,11 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1497764576437">
-        <mark key="'" line="169" column="14" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="257" column="4" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1497775050995">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
         <mark key="[" line="10" column="14" />
@@ -400,6 +417,13 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/Funding.php" timestamp="1497767965497">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="47" column="71" />
+        <mark key="." line="43" column="22" />
+        <mark key="^" line="43" column="22" />
+      </file>
       <file name="$USER_HOME$/git/myapp/app/Http/Controllers/ArticlesController.php" timestamp="1493304625699">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="15" column="18" />
@@ -482,12 +506,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1497171092291">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1497775184277">
         <mark key="'" line="1312" column="0" />
-        <mark key="[" line="1301" column="9" />
-        <mark key="]" line="1301" column="12" />
-        <mark key="." line="1301" column="12" />
-        <mark key="^" line="1301" column="12" />
+        <mark key="[" line="1329" column="0" />
+        <mark key="]" line="1329" column="0" />
+        <mark key="." line="1329" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/config/app.php" timestamp="1495090788383">
         <mark key="'" line="199" column="0" />
@@ -570,12 +593,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1497765418752">
-        <mark key="'" line="239" column="68" />
-        <mark key="[" line="227" column="126" />
-        <mark key="]" line="227" column="126" />
-        <mark key="." line="227" column="126" />
-        <mark key="^" line="227" column="126" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1497775367328">
+        <mark key="'" line="253" column="0" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="41" />
+        <mark key="." line="255" column="0" />
+        <mark key="^" line="273" column="46" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
@@ -712,7 +735,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497671976058">
+      <file name="/Dummy.txt" timestamp="1497772800827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -841,42 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1307" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="1312" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="437" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="442" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="68" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="71" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="140" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="72" column="93" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="76" column="51" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="39" column="2" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="46" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="78" column="93" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="79" column="64" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="12" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="13" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="14" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="15" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="16" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="17" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="18" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="19" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="20" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="22" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="23" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="24" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="25" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="26" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="27" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="28" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="30" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="31" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="32" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="33" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="34" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="36" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="38" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="37" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="40" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="41" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
@@ -899,7 +886,6 @@
       <jump line="61" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="74" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="95" column="49" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="96" column="59" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="98" column="33" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="6786" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
@@ -912,7 +898,6 @@
       <jump line="192" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="392" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="6779" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6793" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
       <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type2.php" />
       <jump line="104" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
@@ -929,7 +914,6 @@
       <jump line="127" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="87" column="62" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type3.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="60" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="268" column="64" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="212" column="72" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
@@ -937,10 +921,49 @@
       <jump line="169" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="234" column="65" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="244" column="79" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="253" column="95" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="203" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="240" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="239" column="68" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="230" column="126" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="242" column="83" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="252" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="235" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="120" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/Funding.php" />
+      <jump line="244" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="124" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="38" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="122" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="37" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="42" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/Funding.php" />
+      <jump line="55" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="248" column="76" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
+      <jump line="6793" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="243" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="247" column="83" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="6879" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="6863" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="354" column="47" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="360" column="71" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="366" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="1170" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="1179" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="271" column="46" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="294" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="224" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="27" column="17" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="261" column="48" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="26" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="276" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="176" column="88" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="253" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -990,7 +1013,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1002,61 +1025,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
-        <text>investment</text>
+        <text>profile</text>
       </register>
-      <register name="0" type="4">
-        <text>moneyFormatUnit</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkX1NFU1NJT05bJ2Vycm9yJ10gPSAi7J6YIOuquyDrkJwg7KCR6re8IOyeheuLiOuLpCB7JGtleX0iOwogICAgICAgIGhlYWRlcignbG9jYXRpb246Jy4kX1NFUlZFUlsnSFRUUF9SRUZFUkVSJ10pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="68" code="0" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdldER1bXAoJGFtb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICR0aGlzLT7tkZzsi5zquIjslaE7CiAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcignbG9jYXRpb246Jy4kX1NFUlZFUlsnSFRUUF9SRUZFUkVSJ10pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqLyAgICBjb2xvcjogI0Y3NTE0NjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICRzcGxpdDQgPSBzdHJfc3BsaXQoJG1vbmV5LCA0KTsKICAgICR1bml0ID0gWyfsm5AnLCAn66eMJywgJ+yWtScsICfsobAnXTsKICAgICRyZXR2ID0gJyc7CiAgICBmb3JlYWNoICgkc3BsaXQ0IGFzICRrZXkgPT4gJHZhbHVlKSB7CiAgICAgICAgaWYgKGludHZhbCgkdmFsdWUpID09IDApIHsKICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgfQogICAgICAgICRyZXR2ID0gbnVtYmVyX2Zvcm1hdCgkdmFsdWUpIC4gJHVuaXRbY291bnQoJHNwbGl0NCkgLSAka2V5XSAuICRyZXR2OwogICAgfQogICAgZWNobyAiPGJyPiI7CiAgICBlY2hvICRyZXR2OwogICAgZ2V0RGF0YSgkc3BsaXQ0KTsKCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Z2V0RGF0YSgkcGFyYW1zKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRyZXZNb25leSA9IHN0cnJldihzdHJ2YWwoJG1vbmV5KSk7Cg==</text>
+        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8YnI+IHska2V5fSAvIHskdmFsdWV9IiAuICR1bml0WyRrZXldOwo=</text>
+        <text encoding="base64">ICAgIGdldERhdGEoJF9TRVNTSU9OKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>investment</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern>investment</last-pattern>
+      <last-pattern>profile</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxzZWN1cml0eVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1064,29 +1078,28 @@
     </search>
     <history>
       <history-search>
-        <entry>getDum</entry>
-        <entry encoding="base64">Pg==</entry>
-        <entry>vendor</entry>
-        <entry>composer.json</entry>
-        <entry>content</entry>
-        <entry>funding-con</entry>
-        <entry>right</entry>
-        <entry encoding="base64">XDxzZWN1cml0eVw+</entry>
-        <entry>set</entry>
-        <entry>내용</entry>
-        <entry>이전</entry>
-        <entry>data</entry>
-        <entry>투자금액 입력</entry>
         <entry>getDa</entry>
         <entry>백분률</entry>
         <entry>모금</entry>
         <entry>조</entry>
         <entry>투자하기</entry>
-        <entry>panel</entry>
         <entry>investment</entry>
+        <entry>btn-defaul</entry>
+        <entry>separator</entry>
+        <entry>getApi</entry>
+        <entry>$api</entry>
+        <entry>프로필</entry>
+        <entry>die()</entry>
+        <entry>예치금</entry>
+        <entry encoding="base64">XDxhdXRob3JcPg==</entry>
+        <entry>panel</entry>
+        <entry>panel.box</entry>
+        <entry>aside</entry>
+        <entry>agree</entry>
+        <entry>$user</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>202</entry>
         <entry>7</entry>
         <entry>71</entry>
@@ -1105,6 +1118,7 @@
         <entry>45</entry>
         <entry>22</entry>
         <entry>436</entry>
+        <entry>37</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
