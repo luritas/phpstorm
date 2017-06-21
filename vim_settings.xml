@@ -39,10 +39,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1498044059599">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="109" column="27" />
-        <mark key="]" line="109" column="32" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1498046255242">
+        <mark key="'" line="250" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="97" column="2" />
         <mark key="." line="109" column="32" />
         <mark key="^" line="109" column="32" />
       </file>
@@ -119,6 +119,12 @@
         <mark key="]" line="647" column="9" />
         <mark key="^" line="647" column="9" />
         <mark key="." line="647" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-list.php" timestamp="1498046391517">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="26" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="43" column="23" />
       </file>
       <file name="$USER_HOME$/developements/git/myapp/database/migrations/2017_06_03_035948_add_name_to_authors_table.php" timestamp="1496462422915">
         <mark key="[" line="27" column="62" />
@@ -286,13 +292,13 @@
         <mark key="^" line="18" column="43" />
         <mark key="." line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1498043740613">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6990" column="28" />
-        <mark key="m" line="6987" column="7" />
-        <mark key="]" line="6991" column="28" />
-        <mark key="." line="6991" column="28" />
-        <mark key="^" line="6991" column="28" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1498046456396">
+        <mark key="'" line="6779" column="7" />
+        <mark key="[" line="6782" column="41" />
+        <mark key="m" line="6990" column="7" />
+        <mark key="]" line="6783" column="16" />
+        <mark key="." line="6783" column="16" />
+        <mark key="^" line="6783" column="16" />
       </file>
       <file name="$USER_HOME$/git/pineapples/view/wp-includes/post-template.php" timestamp="1494338077716">
         <mark key="[" line="104" column="13" />
@@ -583,6 +589,11 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding_list.php" timestamp="1498045996122">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
         <mark key="[" line="0" column="0" />
@@ -751,7 +762,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497963044868">
+      <file name="/Dummy.txt" timestamp="1498046369926">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -798,6 +809,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="4" column="35" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/list.php" timestamp="1498046464285">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content.php" timestamp="1497666557158">
         <mark key="[" line="3" column="0" />
@@ -876,11 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="68" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="230" column="126" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="242" column="83" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="252" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="235" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="120" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/Funding.php" />
       <jump line="244" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="122" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -976,6 +988,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="165" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="94" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="5" column="17" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-list.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="250" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="6989" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="6779" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1024,8 +1041,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>닫기/펼치기</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGRpdj5saXN0IOy9lOuTnCDssYTsmrDquLA8L2Rpdj4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1037,53 +1054,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>닫기/펼치기</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>투자내역</text>
+        <text>investment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLWxlZnQ6IDEwcHg7Cg==</text>
+        <text encoding="base64">JO2IrOyekOuCtOyXrSA9IFsKICAgICfrqqnroZ0nID0+IFsKICAgICAgICBbCiAgICAgICAgICAgICfsg4HtkojrsojtmLgnID0+ICcxODAzMCcsCiAgICAgICAgICAgICfsg4HtkojrqoUnICA9PiAn7KCE7IS47J6Q6riI64yA7LacJywKICAgICAgICAgICAgJ+2IrOyekOq4iOyVoScgPT4gJzEwMDAwMDAnLAogICAgICAgICAgICAn7Yis7J6Q7J6U7JWhJyA9PiAnODAwMDAnLAogICAgICAgICAgICAn7ZqM7IiY7JuQ6riIJyA9PiAnMjAwMDAnLAogICAgICAgICAgICAn7ZqM7IiY7J207J6QJyA9PiAnMTAwMCcsCiAgICAgICAgICAgICfsnpTsl6zsnbTsnpAnID0+ICczMDAwJywKICAgICAgICAgICAgJ+yImOydteuloCcgID0+ICcxMC44JywKICAgICAgICAgICAgJ+q4sOqwhCcgICA9PiAnNicsCiAgICAgICAgICAgICfsg4Htg5wnICAgPT4gJ+ygleyDgScsCiAgICAgICAgICAgICftmozssKgnICAgPT4gJzMnLAogICAgICAgICAgICAn7ZqM7IiY7J287J6QJyA9PiAnNScsCiAgICAgICAgXSwKICAgICAgICBbCiAgICAgICAgICAgICfsg4HtkojrsojtmLgnID0+ICcxODAzMCcsCiAgICAgICAgICAgICfsg4HtkojrqoUnICA9PiAn7KCE7IS47J6Q6riI64yA7LacJywKICAgICAgICAgICAgJ+2IrOyekOq4iOyVoScgPT4gJzEwMDAwMDAnLAogICAgICAgICAgICAn7Yis7J6Q7J6U7JWhJyA9PiAnODAwMDAnLAogICAgICAgICAgICAn7ZqM7IiY7JuQ6riIJyA9PiAnMjAwMDAnLAogICAgICAgICAgICAn7ZqM7IiY7J207J6QJyA9PiAnMTAwMCcsCiAgICAgICAgICAgICfsnpTsl6zsnbTsnpAnID0+ICczMDAwJywKICAgICAgICAgICAgJ+yImOydteuloCcgID0+ICcxMC44JywKICAgICAgICAgICAgJ+q4sOqwhCcgICA9PiAnNicsCiAgICAgICAgICAgICfsg4Htg5wnICAgPT4gJ+ygleyDgScsCiAgICAgICAgICAgICftmozssKgnICAgPT4gJzMnLAogICAgICAgICAgICAn7ZqM7IiY7J287J6QJyA9PiAnNScsCiAgICAgICAgXSwKCiAgICBdLAogICAgJ+2VqeqzhCcgPT4gWwogICAgICAgICftlanqs4QnICAgPT4gJzIwMDAwMCcsCiAgICAgICAgJ+2IrOyekOyelOyVoScgPT4gJzE2MDAwMCcsCiAgICAgICAgJ+2ajOyImOybkOq4iCcgPT4gJzIwMDAnLAogICAgICAgICfsnpTsl6zsnbTsnpAnID0+ICc2MDAwJywKICAgIF0sCl07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0idGFibGUtdGl0bGUiPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPu2IrOyekOuCtOyXrTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8c21hbGw+64ur6riwL+2OvOy5mOq4sDwvc21hbGw+CiAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgPD9waHAgaWYgKGNvdW50KCTtiKzsnpDrgrTsl61bJ+uqqeuhnSddKSA+IDApOiA/PgogICAgICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCB0YWJsZS1ob3ZlciB0YWJsZS1pbnZlc3RtZW50Ij4KICAgICAgICAgICAgICAgICAgICA8dGhlYWQ+CiAgICAgICAgICAgICAgICAgICAgPHRyIGNsYXNzPSJhY3RpdmUiPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7IOB7ZKI67KI7Zi4PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuyDge2SiOuqhTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7tiKzsnpDquIjslaE8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7Yis7J6Q7J6U7JWhPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPu2ajOyImOybkOq4iDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7tmozsiJjsnbTsnpA8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7J6U7Jes7J207J6QPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuyImOydteuloDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7quLDqsIQ8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7IOB7YOcPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPu2ajOywqDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7sg4HtkojrsojtmLg8L3RoPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgZm9yZWFjaCAoJO2IrOyekOuCtOyXrVsn66qp66GdJ10gYXMgJGtleSA9PiAkdmFsdWUpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PD89ICR2YWx1ZVsn7IOB7ZKI67KI7Zi4J10gPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjw/PSAkdmFsdWVbJ+yDge2SiOuqhSddID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7Yis7J6Q6riI7JWhJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7Yis7J6Q7J6U7JWhJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7ZqM7IiY7JuQ6riIJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7ZqM7IiY7J207J6QJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7J6U7Jes7J207J6QJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0icGVyY2VudCI+PD89ICR2YWx1ZVsn7IiY7J2166WgJ10gPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJwZXJpb2QiPjw/PSAkdmFsdWVbJ+q4sOqwhCddID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48Pz0gJHZhbHVlWyfsg4Htg5wnXSA/PjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9Imluc3RhbG1lbnQiPjw/PSAkdmFsdWVbJ+2ajOywqCddID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0icmVwYXltZW50LWRheSI+PD89ICR2YWx1ZVsn7ZqM7IiY7J287J6QJ10gPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CiAgICAgICAgICAgICAgICAgICAgPC90Ym9keT4KICAgICAgICAgICAgICAgIDwvdGFibGU+CiAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4K</text>
+        <text encoding="base64">PGRpdj5saXN0IOy9lOuTnCDssYTsmrDquLA8L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogLTEwcHg7CiAgICAgICAgbWFyZ2luLXJpZ2h0OiAtMTBweDsK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGVudC1ib3giPgogICAgPGRpdiBjbGFzcz0icmV2aWV3X3N0cmlwIj4KICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgbWFyZ2luLWJvdHRvbS0xNSB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+CiAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaDMiPu2IrOyekOuCtOyXrTwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwhLS1oaWRkZW4teHMgLS0+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii4vIiBjbGFzcz0iYnRfZmlsdGVycyI+PGkgY2xhc3M9IiBpY29uLWxpc3QiPjwvaT48L2E+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIuL2dyaWQiIGNsYXNzPSJidF9maWx0ZXJzIj48aSBjbGFzcz0iaWNvbi10aCI+PC9pPjwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRhYmxlLXJlc3BvbnNpdmUiPgogICAgICAgICAgICAgICAgICAgIDx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtbGlzdCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRyIGNsYXNzPSJpbmZvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7sg4HtkojrqoU8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRoPu2IrOyekOq4iOyVoTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGg+7Yis7J6Q7IiY7J2166WgPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7quLDqsIQ8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuyDge2DnDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZm9yZWFjaCAoJGxpc3QgYXMgJGtleSA9PiAkdmFsdWUpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48Pz0kdmFsdWVbJ+yDge2SiOuqhSddPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48Pz0kdmFsdWVbJ+2IrOyekOq4iOyVoSddPz4g66eM7JuQPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PD89JHZhbHVlWyftiKzsnpDsiJjsnbXrpaAnXT8+ICU8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD48Pz0kdmFsdWVbJ+q4sOqwhCddPz4g6rCc7JuUPC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PD89JHZhbHVlWyfsg4Htg5wnXT8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgICAgICAgICAgPC90YWJsZT4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKCjwvZGl2PjwhLS0gRW5kIGNvbCBsZyA5IC0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0idGFibGUtdGl0bGUiPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPu2IrOyekOuCtOyXrTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8c21hbGw+64ur6riwL+2OvOy5mOq4sDwvc21hbGw+CiAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgPD9waHAgaWYgKGNvdW50KCTtiKzsnpDrgrTsl61bJ+uqqeuhnSddKSA+IDApOiA/PgogICAgICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1ib3JkZXJlZCB0YWJsZS1ob3ZlciB0YWJsZS1pbnZlc3RtZW50Ij4KICAgICAgICAgICAgICAgICAgICA8dGhlYWQ+CiAgICAgICAgICAgICAgICAgICAgPHRyIGNsYXNzPSJhY3RpdmUiPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7IOB7ZKI67KI7Zi4PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuyDge2SiOuqhTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7tiKzsnpDquIjslaE8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7Yis7J6Q7J6U7JWhPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPu2ajOyImOybkOq4iDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7tmozsiJjsnbTsnpA8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7J6U7Jes7J207J6QPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPuyImOydteuloDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7quLDqsIQ8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGg+7IOB7YOcPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoPu2ajOywqDwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aD7sg4HtkojrsojtmLg8L3RoPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgZm9yZWFjaCAoJO2IrOyekOuCtOyXrVsn66qp66GdJ10gYXMgJGtleSA9PiAkdmFsdWUpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+PD89ICR2YWx1ZVsn7IOB7ZKI67KI7Zi4J10gPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjw/PSAkdmFsdWVbJ+yDge2SiOuqhSddID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7Yis7J6Q6riI7JWhJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7Yis7J6Q7J6U7JWhJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7ZqM7IiY7JuQ6riIJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7ZqM7IiY7J207J6QJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iY3VycmVuY3kiPjw/PSBudW1iZXJfZm9ybWF0KCR2YWx1ZVsn7J6U7Jes7J207J6QJ10pID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0icGVyY2VudCI+PD89ICR2YWx1ZVsn7IiY7J2166WgJ10gPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJwZXJpb2QiPjw/PSAkdmFsdWVbJ+q4sOqwhCddID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0iIj48Pz0gJHZhbHVlWyfsg4Htg5wnXSA/PjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9Imluc3RhbG1lbnQiPjw/PSAkdmFsdWVbJ+2ajOywqCddID8+PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0icmVwYXltZW50LWRheSI+PD89ICR2YWx1ZVsn7ZqM7IiY7J287J6QJ10gPz48L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CiAgICAgICAgICAgICAgICAgICAgPC90Ym9keT4KICAgICAgICAgICAgICAgIDwvdGFibGU+CiAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjYThhOGE4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>a8a8a8;
-        background-color: #a8a</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogLTEwcHg7CiAgICAgICAgbWFyZ2luLXJpZ2h0OiAtMTBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50ZXh0LXJpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjYThhOGE4Owo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>a8a8a8;
+        background-color: #a8a</text>
       </register>
       <register name=":" type="4">
         <text>5609</text>
       </register>
     </registers>
     <search>
-      <last-search>투자내역</last-search>
+      <last-search>investment</last-search>
       <last-offset />
-      <last-pattern>투자내역</last-pattern>
+      <last-pattern>investment</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxzZWN1cml0eVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1091,7 +1108,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$user</entry>
         <entry>profile</entry>
         <entry>form</entry>
         <entry encoding="base64">66mU7J24IO2YuOy2nCAg</entry>
@@ -1111,6 +1127,7 @@
         <entry>popup-close</entry>
         <entry>댓글</entry>
         <entry>투자내역</entry>
+        <entry>investment</entry>
       </history-search>
       <history-cmd>
         <entry>71</entry>
