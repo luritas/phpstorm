@@ -671,12 +671,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1498300456306">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1498301272316">
         <mark key="'" line="27" column="14" />
         <mark key="[" line="28" column="8" />
-        <mark key="]" line="85" column="27" />
-        <mark key="^" line="85" column="27" />
-        <mark key="." line="85" column="27" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/option.php" timestamp="1495737032135">
         <mark key="'" line="116" column="57" />
