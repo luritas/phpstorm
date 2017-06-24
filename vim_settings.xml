@@ -684,11 +684,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498304935507">
-        <mark key="[" line="35" column="14" />
-        <mark key="]" line="35" column="18" />
-        <mark key="." line="35" column="18" />
-        <mark key="^" line="35" column="18" />
+      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498316645558">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+        <mark key="^" line="45" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1498301272316">
         <mark key="'" line="27" column="14" />
@@ -970,7 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="899" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="237" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="50" column="42" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/krown-shortcodes/assets/shortcodes.js" />
       <jump line="86" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
@@ -1070,6 +1070,7 @@
       <jump line="22" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="27" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="21" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Kernel.php" />
+      <jump line="32" column="4" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,7 +1120,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>mixed</text>
+        <text>'111'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1131,7 +1132,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mixed</text>
+        <text>'111'</text>
       </register>
       <register name="/" type="4">
         <text>object</text>
