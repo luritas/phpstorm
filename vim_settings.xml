@@ -208,12 +208,12 @@
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" timestamp="1498274951441">
-        <mark key="'" line="1138" column="33" />
-        <mark key="[" line="218" column="63" />
-        <mark key="]" line="218" column="64" />
-        <mark key="." line="218" column="64" />
-        <mark key="^" line="218" column="64" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" timestamp="1498277163922">
+        <mark key="'" line="218" column="38" />
+        <mark key="[" line="219" column="75" />
+        <mark key="]" line="219" column="76" />
+        <mark key="^" line="409" column="58" />
+        <mark key="." line="219" column="76" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/page.php" timestamp="1494738238295">
         <mark key="'" line="1" column="0" />
@@ -399,6 +399,9 @@
         <mark key="]" line="318" column="45" />
         <mark key="." line="318" column="45" />
         <mark key="^" line="318" column="45" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" timestamp="1498276595549">
+        <mark key="'" line="36" column="1331" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" timestamp="1498050297387">
         <mark key="'" line="22" column="0" />
@@ -626,6 +629,13 @@
         <mark key="]" line="43" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" timestamp="1498276615898">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
         <mark key="[" line="0" column="0" />
@@ -794,7 +804,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498274969243">
+      <file name="/Dummy.txt" timestamp="1498276522879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -928,21 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/list.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/list.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/list.php" />
-      <jump line="35" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/list.php" />
-      <jump line="24" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="53" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="158" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="21" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
-      <jump line="70" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" />
-      <jump line="60" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
-      <jump line="91" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="115" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="130" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="26" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
@@ -997,7 +992,6 @@
       <jump line="1193" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="204" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="279" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="390" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="377" column="46" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="408" column="63" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
@@ -1011,7 +1005,6 @@
       <jump line="899" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="237" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="409" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="218" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="50" column="42" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/krown-shortcodes/assets/shortcodes.js" />
       <jump line="86" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="538" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
@@ -1028,6 +1021,23 @@
       <jump line="1136" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="1137" column="33" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="50" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-current.php" />
+      <jump line="9" column="1162" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" />
+      <jump line="66" column="1603" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" />
+      <jump line="36" column="1331" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="2" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="14" column="145" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="18" column="148" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="20" column="435" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="25" column="348" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="26" column="420" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="27" column="406" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="28" column="136" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
+      <jump line="200" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
+      <jump line="390" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
+      <jump line="190" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
+      <jump line="218" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1076,8 +1086,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRodG1sID0gIiI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1089,52 +1099,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPVwiaGVpZ2h0OiA3NDNweDtcIg==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodG1sXD4=</text>
+        <text>height</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKG5ldyBTY2hlZHVsZSgkdGhpcykpLT5nZXRMaXN0KCk7Cg==</text>
+        <text encoding="base64">CQkJCSAgICAJJGhvbGRlci5wYXJlbnQoKS5jc3MoJ2hlaWdodCcsIE1hdGgubWluKCRob2xkZXIuaGVpZ2h0KCksICc2MDBweCcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRodG1sID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRob2xkZXIucGFyZW50KCkuY3NzKCdoZWlnaHQnLCBNYXRoLm1pbigkaG9sZGVyLmhlaWdodCgpLCAnNjAwcHgnKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz1cImNhcm91c2VsLWhvbGRlciBjbGVhcmZpeFwiIGRhdGEtdmlzaWJsZT1cIjRcIiBzdHlsZT1cInBvc2l0aW9uOiBhYnNvbHV0ZTtcIj4iOwogICAgZm9yZWFjaCAoJGl0ZW1zWyfrqqjquIjspJEnXVsnSXRlbSddIGFzICRrZXkgPT4gJHZhbHVlKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz1cImNhcm91c2VsLWhvbGRlciBjbGVhcmZpeFwiIHN0eWxlPVwicG9zaXRpb246IGFic29sdXRlO1wiPiI7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPVwiaG9sZGVyXCI+IjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CQkJCSAgICAJY29uc29sZS5sb2coJGhvbGRlcikK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICRodG1sID0gIiI7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz1cImNhcm91c2VsLWhvbGRlciBjbGVhcmZpeFwiIGRhdGEtdmlzaWJsZT1cIjRcIiBzdHlsZT1cInBvc2l0aW9uOiBhYnNvbHV0ZTtcIj4iOwogICAgZm9yZWFjaCAoJGl0ZW1zWyfrqqjquIjspJEnXVsnSXRlbSddIGFzICRrZXkgPT4gJHZhbHVlKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz1cImNhcm91c2VsLWhvbGRlciBjbGVhcmZpeFwiIHN0eWxlPVwicG9zaXRpb246IGFic29sdXRlO1wiPiI7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPVwiaG9sZGVyXCI+IjsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>198</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodG1sXD4=</last-search>
+      <last-search>height</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodG1sXD4=</last-pattern>
+      <last-pattern>height</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDzqsIDsg4Hqs4TsooxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1142,7 +1152,6 @@
     </search>
     <history>
       <history-search>
-        <entry>댓글</entry>
         <entry>투자내역</entry>
         <entry>investment</entry>
         <entry>jquery</entry>
@@ -1160,8 +1169,9 @@
         <entry>echo</entry>
         <entry>hoder</entry>
         <entry>holder</entry>
-        <entry>height</entry>
         <entry encoding="base64">XDxodG1sXD4=</entry>
+        <entry>resize</entry>
+        <entry>height</entry>
       </history-search>
       <history-cmd>
         <entry>89</entry>
@@ -1169,7 +1179,6 @@
         <entry>150</entry>
         <entry>36</entry>
         <entry>14</entry>
-        <entry>q</entry>
         <entry>x</entry>
         <entry>:</entry>
         <entry>\:</entry>
@@ -1184,6 +1193,7 @@
         <entry>5</entry>
         <entry>57</entry>
         <entry>198</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
