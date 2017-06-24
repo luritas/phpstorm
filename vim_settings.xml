@@ -174,6 +174,12 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/node_modules/vue2-simplert/package.json" timestamp="1498294479410" />
+      <file name="$USER_HOME$/developements/git/academy/.env" timestamp="1498302150963">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" timestamp="1497067976382">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="14" column="15" />
@@ -351,6 +357,13 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="22" />
         <mark key="^" line="22" column="22" />
+      </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Console/Kernel.php" timestamp="1498304907508">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/resource/docs/faq.csv" timestamp="1495260663425">
         <mark key="'" line="4" column="0" />
@@ -671,6 +684,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498304935507">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1498301272316">
         <mark key="'" line="27" column="14" />
         <mark key="[" line="28" column="8" />
@@ -912,6 +931,12 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/database/migrations/2017_06_24_110434_create_academies_table.php" timestamp="1498302995789">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
+        <mark key="^" line="21" column="50" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck.php" timestamp="1494761054651">
         <mark key="'" line="1761" column="26" />
         <mark key="[" line="1765" column="0" />
@@ -945,7 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="615" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="899" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="237" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="50" column="42" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/krown-shortcodes/assets/shortcodes.js" />
@@ -1045,6 +1069,7 @@
       <jump line="28" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="22" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="27" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="21" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Kernel.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1094,7 +1119,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>mixed</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1106,43 +1131,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>mixed</text>
       </register>
       <register name="/" type="4">
         <text>object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkgICAgCSRob2xkZXIucGFyZW50KCkuY3NzKCdoZWlnaHQnLCBNYXRoLm1pbigkaG9sZGVyLmhlaWdodCgpLCAnNTAwJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3RvdGFsX3ByaWNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCSAgICAJJGhvbGRlci5wYXJlbnQoKS5jc3MoJ2hlaWdodCcsICRob2xkZXIuaGVpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGViYnVnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZXBsYWNlKCd7JHVybH0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGxvY2F0aW9uLnJlcGxhY2UoJ3skdXJsfScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzd2FsKAogICAgJ0RlbGV0ZWQhJywKICAgICdZb3VyIGltYWdpbmFyeSBmaWxlIGhhcyBiZWVuIGRlbGV0ZWQuJywKICAgICdzdWNjZXNzJwogICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZHgnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNpbXBsZXJ0IHVzZVJhZGl1cz10cnVlCiAgICAgICAgICB1c2VJY29uPXRydWUKICAgICAgICAgIHJlZj0ic2ltcGxlcnQiPgo8L3NpbXBsZXJ0Pgo8c2NyaXB0IHNyYz0ieyRwYXRofS9qcy9jdXN0b20uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZHgnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKT2JqZWN0LmRlZmluZVByb3BlcnR5KGV4cG9ydHMsICJfX2VzTW9kdWxlIiwgewogICAgdmFsdWU6IHRydWUKfSk7Cgp2YXIgX3Z1ZTJTaW1wbGVydCA9IHJlcXVpcmUoJ3Z1ZTItc2ltcGxlcnQnKTsKCnZhciBfdnVlMlNpbXBsZXJ0MiA9IF9pbnRlcm9wUmVxdWlyZURlZmF1bHQoX3Z1ZTJTaW1wbGVydCk7CgpmdW5jdGlvbiBfaW50ZXJvcFJlcXVpcmVEZWZhdWx0KG9iaikgeyByZXR1cm4gb2JqICYmIG9iai5fX2VzTW9kdWxlID8gb2JqIDogeyBkZWZhdWx0OiBvYmogfTsgfQoKZXhwb3J0cy5kZWZhdWx0ID0gewogICAgY29tcG9uZW50czogeyBTaW1wbGVydDogX3Z1ZTJTaW1wbGVydDIuZGVmYXVsdCB9Cn07Cgp2YXIgb2JqID0gewogICAgdGl0bGU6ICdDdXN0b20gRnVuY3Rpb24nLAogICAgbWVzc2FnZTogJ0NsaWNrIGNsb3NlIHRvIHRyaWdnZXIgY3VzdG9tIGZ1bmN0aW9uJywKICAgIHR5cGU6ICdpbmZvJywKICAgIG9uQ2xvc2U6IHVuZGVmaW5lZC5vbkNsb3NlCn07Cg==</text>
+        <text encoding="base64">CQkJCSAgICAJJGhvbGRlci5wYXJlbnQoKS5jc3MoJ2hlaWdodCcsICRob2xkZXIuaGVpZ2h0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dW5kZWZpbmVkLiRyZWZzLnNpbXBsZXJ0Lm9wZW5TaW1wbGVydChvYmopOwo=</text>
+        <text encoding="base64">ZGViYnVnZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKT2JqZWN0LmRlZmluZVByb3BlcnR5KGV4cG9ydHMsICJfX2VzTW9kdWxlIiwgewogICAgdmFsdWU6IHRydWUKfSk7Cgp2YXIgX3Z1ZTJTaW1wbGVydCA9IHJlcXVpcmUoJ3Z1ZTItc2ltcGxlcnQnKTsKCnZhciBfdnVlMlNpbXBsZXJ0MiA9IF9pbnRlcm9wUmVxdWlyZURlZmF1bHQoX3Z1ZTJTaW1wbGVydCk7CgpmdW5jdGlvbiBfaW50ZXJvcFJlcXVpcmVEZWZhdWx0KG9iaikgeyByZXR1cm4gb2JqICYmIG9iai5fX2VzTW9kdWxlID8gb2JqIDogeyBkZWZhdWx0OiBvYmogfTsgfQoKZXhwb3J0cy5kZWZhdWx0ID0gewogICAgY29tcG9uZW50czogeyBTaW1wbGVydDogX3Z1ZTJTaW1wbGVydDIuZGVmYXVsdCB9Cn07Cgp2YXIgb2JqID0gewogICAgdGl0bGU6ICdDdXN0b20gRnVuY3Rpb24nLAogICAgbWVzc2FnZTogJ0NsaWNrIGNsb3NlIHRvIHRyaWdnZXIgY3VzdG9tIGZ1bmN0aW9uJywKICAgIHR5cGU6ICdpbmZvJywKICAgIG9uQ2xvc2U6IHVuZGVmaW5lZC5vbkNsb3NlCn07CnVuZGVmaW5lZC4kcmVmcy5zaW1wbGVydC5vcGVuU2ltcGxlcnQob2JqKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZXBsYWNlKCd7JHVybH0nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
