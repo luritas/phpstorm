@@ -52,6 +52,12 @@
         <mark key="." line="10" column="40" />
         <mark key="^" line="10" column="40" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Http/Controllers/List/AcademyController.php" timestamp="1498326911002">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1496145745903">
         <mark key="'" line="3795" column="0" />
         <mark key="[" line="44" column="1" />
@@ -167,13 +173,18 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/routes/api.php" timestamp="1498327609049">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+      </file>
       <file name="$USER_HOME$/developements/git/myapp/database/migrations/2017_06_03_042043_create_articles_table.php" timestamp="1496463797093">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/node_modules/vue2-simplert/package.json" timestamp="1498294479410" />
       <file name="$USER_HOME$/developements/git/academy/.env" timestamp="1498302150963">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -425,6 +436,12 @@
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" timestamp="1498276595549">
         <mark key="'" line="36" column="1331" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Http/Controllers/Academy/AcademyController.php" timestamp="1498327000773">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/post-template.php" timestamp="1496736379788">
         <mark key="'" line="318" column="29" />
         <mark key="[" line="245" column="0" />
@@ -464,8 +481,18 @@
         <mark key="^" line="42" column="95" />
         <mark key="." line="42" column="95" />
       </file>
-      <file name="$USER_HOME$/developements/git/academy/composer.json" timestamp="1498318313175">
-        <mark key="'" line="31" column="22" />
+      <file name="$USER_HOME$/developements/git/academy/routes/web.php" timestamp="1498324662119">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/developements/git/academy/composer.json" timestamp="1498324784562">
+        <mark key="'" line="42" column="9" />
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="44" column="34" />
+        <mark key="." line="44" column="34" />
+        <mark key="^" line="44" column="34" />
       </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/theme.php" timestamp="1494345184270">
         <mark key="[" line="196" column="0" />
@@ -527,13 +554,18 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Academy.php" timestamp="1498323720427">
+        <mark key="[" line="10" column="212" />
+        <mark key="]" line="10" column="212" />
+        <mark key="^" line="10" column="238" />
+        <mark key="." line="10" column="212" />
+      </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/resources/views/docs/show.blade.php" timestamp="1496688454492">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php" timestamp="1498291715520" />
       <file name="$USER_HOME$/developements/laravel-web/markdown/app/Documentation.php" timestamp="1496687076544">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="8" />
@@ -578,6 +610,12 @@
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Http/Controllers/List/Academy.php" timestamp="1498326857494">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="2" column="35" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/myapp/database/factories/ModelFactory.php" timestamp="1496467665390">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="34" column="2" />
@@ -606,7 +644,6 @@
         <mark key="." line="240" column="0" />
         <mark key="^" line="240" column="0" />
       </file>
-      <file name="/var/www/dev.snsl.kr/view/package.json" timestamp="1498298477825" />
       <file name="$USER_HOME$/developements/git/myapp/database/migrations/2017_06_03_043727_create_tags_table.php" timestamp="1496464703722">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="18" column="43" />
@@ -661,6 +698,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" timestamp="1498326215406">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="31" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
         <mark key="[" line="0" column="0" />
@@ -687,12 +731,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498318823677">
-        <mark key="'" line="27" column="5" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="45" column="32" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498324446944">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="64" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1498301272316">
         <mark key="'" line="27" column="14" />
@@ -715,7 +759,6 @@
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php" timestamp="1498291839763" />
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck.php" timestamp="1494727974684">
         <mark key="'" line="986" column="0" />
         <mark key="[" line="1759" column="0" />
@@ -772,6 +815,12 @@
         <mark key="]" line="213" column="11" />
         <mark key="^" line="213" column="11" />
         <mark key="." line="213" column="11" />
+      </file>
+      <file name="$USER_HOME$/developements/git/academy/app/Providers/AppServiceProvider.php" timestamp="1498324745395">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+        <mark key="^" line="27" column="8" />
       </file>
       <file name="$USER_HOME$/git/myapp/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1493304697387">
         <mark key="[" line="15" column="17" />
@@ -837,8 +886,14 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498318282992">
+      <file name="/Dummy.txt" timestamp="1498321258572">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/academy/config/app.php" timestamp="1498321821651">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
         <mark key="[" line="14" column="39" />
@@ -897,6 +952,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/config/excel.php" timestamp="1498321317957">
+        <mark key="'" line="563" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/myapp/database/migrations/2017_06_03_043747_create_article_tag_table.php" timestamp="1496465708334">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="23" />
@@ -935,11 +993,11 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/git/academy/database/migrations/2017_06_24_110434_create_academies_table.php" timestamp="1498302995789">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="50" />
-        <mark key="." line="21" column="50" />
-        <mark key="^" line="21" column="50" />
+      <file name="$USER_HOME$/developements/git/academy/database/migrations/2017_06_24_110434_create_academies_table.php" timestamp="1498322996806">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="18" column="45" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck.php" timestamp="1494761054651">
         <mark key="'" line="1761" column="26" />
@@ -974,35 +1032,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="898" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="999" column="116" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="1136" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="1137" column="33" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="50" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-current.php" />
-      <jump line="9" column="1162" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" />
-      <jump line="66" column="1603" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" />
-      <jump line="36" column="1331" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/plugins.min.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="2" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="14" column="145" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="18" column="148" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="20" column="435" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="25" column="348" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="26" column="420" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="27" column="406" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="28" column="136" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="29" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/jquery.fancybox.pack.js" />
-      <jump line="200" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="390" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="190" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="218" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="53" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="136" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="132" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="130" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="115" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="13" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-last.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-current.php" />
       <jump line="11" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-last.php" />
       <jump line="10" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" />
       <jump line="6" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" />
@@ -1067,63 +1096,58 @@
       <jump line="8" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
       <jump line="40" column="21" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
       <jump line="25" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
-      <jump line="41" column="7" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
       <jump line="0" column="0" filename="$USER_HOME$/developements/git/academy/composer.json" />
       <jump line="31" column="22" filename="$USER_HOME$/developements/git/academy/composer.json" />
-      <jump line="42" column="20" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
       <jump line="27" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="15" column="0" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="74" column="33" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="236" column="17" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="174" column="0" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="4" column="4" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="42" column="10" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="191" column="31" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="6" column="8" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="306" column="0" filename="$USER_HOME$/developements/git/academy/config/excel.php" />
+      <jump line="110" column="5" filename="$USER_HOME$/developements/git/academy/config/excel.php" />
+      <jump line="153" column="5" filename="$USER_HOME$/developements/git/academy/config/excel.php" />
+      <jump line="563" column="0" filename="$USER_HOME$/developements/git/academy/config/excel.php" />
+      <jump line="41" column="10" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="5" column="35" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="48" column="1" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/developements/git/academy/config/app.php" />
+      <jump line="45" column="26" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="12" column="13" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="54" column="36" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="15" column="16" filename="$USER_HOME$/developements/git/academy/composer.json" />
+      <jump line="39" column="0" filename="$USER_HOME$/developements/git/academy/composer.json" />
+      <jump line="2" column="7" filename="$USER_HOME$/developements/git/academy/composer.json" />
+      <jump line="42" column="9" filename="$USER_HOME$/developements/git/academy/composer.json" />
+      <jump line="15" column="36" filename="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" />
+      <jump line="11" column="17" filename="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" />
+      <jump line="34" column="12" filename="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" />
+      <jump line="22" column="42" filename="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="94" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="91" code="0" mods="0" />
           <key char="39" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
           <key char="101" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@welcome</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1135,52 +1159,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGlzaygnbG9jYWwnKS0+</text>
+        <text>@welcome</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3RvdGFsX3ByaWNlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZHgnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ25hbWUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2FkZHJlc3MnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ293bmVyJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCd0ZWwnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2NvdXJzZScpLT5jb21tZW50KCfqtZDquInqs7zsoJUnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3N1YmplY3QnKS0+Y29tbWVudCgn6rWQ7Iq16rO866qpKOuwmCknKTsKICAgICAgICAgICAgJHRhYmxlLT5pbnRlZ2VyKCdjYXBhY2l0eScpLT5jb21tZW50KCfsoJXsm5AnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3Rlcm0nKS0+Y29tbWVudCgn6rWQ7Iq16riw6rCEJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdob3VycycpLT5jb21tZW50KCfstJ3qtZDsirXsi5zqsIQnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3ByaWNlJyktPmNvbW1lbnQoJ+q1kOyKteu5hCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnb3B0aW9uMScpLT5jb21tZW50KCfrqqjsnZjqs6DsgqzruYQnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ29wdGlvbjInKS0+Y29tbWVudCgn7J6s66OM67mEJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdvcHRpb24zJyktPmNvbW1lbnQoJ+q4ieyLneu5hCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnb3B0aW9uNCcpLT5jb21tZW50KCfquLDsiJnsgqzruYQnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ29wdGlvbjUnKS0+Y29tbWVudCgn7LCo65+J67mEJyk7CiAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdvcHRpb242JyktPmNvbW1lbnQoJ+2UvOuzteu5hCcpOwogICAgICAgICAgICAkdGFibGUtPnN0cmluZygnb3B0aW9uNycpLT5jb21tZW50KCfquLDtg4Dqsr3ruYTtlanqs4QnKTsKICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3RvdGFsX3ByaWNlJyktPmNvbW1lbnQoJ+y0neq1kOyKteu5hCcpOwogICAgICAgICAgICAkdGFibGUtPmludGVnZXIoJ3RvdGFsX3RlYWNoZXJzJyk7CiAgICAgICAgICAgICR0YWJsZS0+dGltZXN0YW1wcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7CgoKCiAgICAgICAgJGFjYWRlbWllcz0gWwogICAgICAgICAgICAnYScgPT4gMSwKICAgICAgICAgICAgJ2InID0+IDIsCiAgICAgICAgXTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB3ZWxjb21lKCkKICAgIHsKICAgICAgICByZXR1cm4gJzxoMT5IZWxsbyBBY2FkZW15PC9oMT4nOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRMaXN0KCkKICAgIHsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIExlYWd1ZVxGbHlzeXN0ZW1cRmlsZXN5c3RlbTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB3ZWxjb21lKCkKICAgIHsKICAgICAgICByZXR1cm4gJzxoMT5IZWxsbyBBY2FkZW15PC9oMT4nOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRMaXN0KCkKICAgIHsKCiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIExlYWd1ZVxGbHlzeXN0ZW1cRmlsZTsK</text>
+        <text encoding="base64">dXNlIEFwcFxIdHRwXENvbnRyb2xsZXJzXExpc3RcQWNhZGVteTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgRmlsZXN5c3RlbShfX0RJUl9fKTsK</text>
+        <text encoding="base64">ICAgICAgICBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlc3lzdGVtOjoK</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlc3lzdGVtOjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudCA9IFN0b3JhZ2U6OmRpc2soJ2xvY2FsJyktPmdldCgnYWNhZGVteS5jc3YnKTsK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDzqsIDsg4Hqs4TsooxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1188,11 +1212,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlSFRNTFw+</entry>
-        <entry>const</entry>
-        <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
-        <entry encoding="base64">XDxzaW1wbGVydFw+</entry>
-        <entry>Simplert</entry>
         <entry>nod</entry>
         <entry>node</entry>
         <entry>url</entry>
@@ -1208,6 +1227,11 @@
         <entry>require</entry>
         <entry>object</entry>
         <entry>file</entry>
+        <entry>provider</entry>
+        <entry>csv</entry>
+        <entry>script</entry>
+        <entry>post-update</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>set nowrap</entry>
@@ -1261,6 +1285,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
