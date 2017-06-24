@@ -464,6 +464,9 @@
         <mark key="^" line="42" column="95" />
         <mark key="." line="42" column="95" />
       </file>
+      <file name="$USER_HOME$/developements/git/academy/composer.json" timestamp="1498318313175">
+        <mark key="'" line="31" column="22" />
+      </file>
       <file name="$USER_HOME$/git/dev.snsl/view/wp-includes/theme.php" timestamp="1494345184270">
         <mark key="[" line="196" column="0" />
         <mark key="]" line="196" column="0" />
@@ -684,12 +687,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498316645558">
-        <mark key="'" line="32" column="4" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="20" />
+      <file name="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" timestamp="1498318823677">
+        <mark key="'" line="27" column="5" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="45" column="32" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1498301272316">
         <mark key="'" line="27" column="14" />
@@ -834,7 +837,7 @@
         <mark key="." line="437" column="14" />
         <mark key="^" line="437" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498297196178">
+      <file name="/Dummy.txt" timestamp="1498318282992">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/myapp/database/seeds/UsersTableSeeder.php" timestamp="1493548875620">
@@ -971,18 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="50" column="42" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/krown-shortcodes/assets/shortcodes.js" />
-      <jump line="86" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="538" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="540" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="543" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="567" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="598" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="599" column="68" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="600" column="59" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="605" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
-      <jump line="614" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="898" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="999" column="116" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
       <jump line="1136" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
@@ -1071,6 +1062,18 @@
       <jump line="27" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="21" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Kernel.php" />
       <jump line="32" column="4" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="37" column="22" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="18" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="40" column="21" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="25" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="41" column="7" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/developements/git/academy/composer.json" />
+      <jump line="31" column="22" filename="$USER_HOME$/developements/git/academy/composer.json" />
+      <jump line="42" column="20" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
+      <jump line="27" column="5" filename="$USER_HOME$/developements/git/academy/app/Console/Commands/UpdateAcademy.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,8 +1122,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'111'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1132,52 +1135,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'111'</text>
+        <text encoding="base64">ZGlzaygnbG9jYWwnKS0+</text>
       </register>
       <register name="/" type="4">
-        <text>object</text>
+        <text>file</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3RvdGFsX3ByaWNlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7CgoKCiAgICAgICAgJGFjYWRlbWllcz0gWwogICAgICAgICAgICAnYScgPT4gMSwKICAgICAgICAgICAgJ2InID0+IDIsCiAgICAgICAgXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udGVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">dXNlIExlYWd1ZVxGbHlzeXN0ZW1cRmlsZXN5c3RlbTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZHgnKTsK</text>
+        <text encoding="base64">dXNlIExlYWd1ZVxGbHlzeXN0ZW1cRmlsZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZHgnKTsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRmlsZXN5c3RlbShfX0RJUl9fKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSAgICAJJGhvbGRlci5wYXJlbnQoKS5jc3MoJ2hlaWdodCcsICRob2xkZXIuaGVpZ2h0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlc3lzdGVtOjoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGViYnVnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlc3lzdGVtOjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5yZXBsYWNlKCd7JHVybH0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY29udGVudCA9IFN0b3JhZ2U6OmRpc2soJ2xvY2FsJyktPmdldCgnYWNhZGVteS5jc3YnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>object</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern>object</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDzqsIDsg4Hqs4TsooxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1185,7 +1188,6 @@
     </search>
     <history>
       <history-search>
-        <entry>echo</entry>
         <entry encoding="base64">XDxtYWtlSFRNTFw+</entry>
         <entry>const</entry>
         <entry encoding="base64">XDxzY3JpcHRcPg==</entry>
@@ -1205,9 +1207,9 @@
         <entry>height</entry>
         <entry>require</entry>
         <entry>object</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
-        <entry>89</entry>
         <entry>set nowrap</entry>
         <entry>150</entry>
         <entry>36</entry>
@@ -1227,6 +1229,7 @@
         <entry>57</entry>
         <entry>198</entry>
         <entry>q</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
