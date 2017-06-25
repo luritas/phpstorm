@@ -704,12 +704,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" timestamp="1498333592122">
+      <file name="$USER_HOME$/developements/git/academy/resources/views/welcome.blade.php" timestamp="1498359539569">
         <mark key="'" line="44" column="23" />
-        <mark key="[" line="81" column="11" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="40" column="3" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="41" column="22" />
+        <mark key="]" line="41" column="23" />
+        <mark key="^" line="81" column="9" />
+        <mark key="." line="41" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
