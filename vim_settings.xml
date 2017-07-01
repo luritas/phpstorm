@@ -395,11 +395,11 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1498870735105">
-        <mark key="'" line="265" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1498871780179">
+        <mark key="'" line="41" column="32" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/git/ptp/test-share/.env" timestamp="1495097871135">
         <mark key="[" line="10" column="14" />
@@ -1065,7 +1065,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/package.json" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/custom.js" />
       <jump line="19" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/custom.js" />
       <jump line="11" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/scripts.dev.js" />
@@ -1165,6 +1164,7 @@
       <jump line="22" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/theme-my-login/languages/theme-my-login.pot" />
       <jump line="40" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/theme-my-login/languages/theme-my-login.pot" />
       <jump line="262" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="41" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1180,7 +1180,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">MQpkZWZpbmUgKCdXUExBTkcnLCAna29fS1InKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1195,31 +1195,31 @@
         <text>Enter your new password below</text>
       </register>
       <register name="/" type="4">
-        <text>Login</text>
+        <text>echo</text>
       </register>
       <register name="0" type="4">
         <text>btn btn-default btn-lg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MQpkZWZpbmUgKCdXUExBTkcnLCAna29fS1InKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IlBsZWFzZSBlbnRlciB5b3VyIHVzZXJuYW1lIG9yIGVtYWlsIGFkZHJlc3MuIFlvdSB3aWxsIHJlY2VpdmUgYSBsaW5rIHRvICIK</text>
+        <text encoding="base64">MQpkZWZpbmUgKCdXUExBTkcnLCAna29fS1InKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
+        <text encoding="base64">IlBsZWFzZSBlbnRlciB5b3VyIHVzZXJuYW1lIG9yIGVtYWlsIGFkZHJlc3MuIFlvdSB3aWxsIHJlY2VpdmUgYSBsaW5rIHRvICIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
+        <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
+        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
@@ -1228,16 +1228,16 @@
         <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
+        <text encoding="base64">ICAgIGRkKEFQSV9MSVNUKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Login</last-search>
+      <last-search>echo</last-search>
       <last-offset />
-      <last-pattern>Login</last-pattern>
+      <last-pattern>echo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDzqsIDsg4Hqs4TsooxcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,8 +1263,8 @@
         <entry>section</entry>
         <entry>submit</entry>
         <entry>40</entry>
-        <entry>echo</entry>
         <entry>Login</entry>
+        <entry>echo</entry>
       </history-search>
       <history-cmd>
         <entry>set nowrap</entry>
