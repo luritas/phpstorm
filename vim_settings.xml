@@ -58,12 +58,12 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" timestamp="1499091610242">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="182" column="52" />
-        <mark key="]" line="182" column="60" />
-        <mark key="." line="182" column="60" />
-        <mark key="^" line="182" column="60" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" timestamp="1499262983485">
+        <mark key="'" line="111" column="4" />
+        <mark key="[" line="72" column="7" />
+        <mark key="]" line="73" column="18" />
+        <mark key="^" line="73" column="18" />
+        <mark key="." line="73" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/header.php" timestamp="1498293649081">
         <mark key="'" line="27" column="0" />
@@ -71,12 +71,12 @@
         <mark key="]" line="28" column="49" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1499257155454">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1499262995800">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="66" column="37" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/general-template.php" timestamp="1496145745903">
         <mark key="'" line="3795" column="0" />
@@ -98,6 +98,12 @@
         <mark key="]" line="202" column="9" />
         <mark key="." line="202" column="9" />
         <mark key="^" line="202" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/pluggable.php" timestamp="1498991026913">
+        <mark key="[" line="1508" column="17" />
+        <mark key="]" line="1508" column="23" />
+        <mark key="." line="1508" column="23" />
+        <mark key="^" line="1508" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type3.php" timestamp="1497758552801">
         <mark key="'" line="11" column="0" />
@@ -126,12 +132,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-list.php" timestamp="1499257267457">
-        <mark key="'" line="49" column="38" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="38" column="35" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-list.php" timestamp="1499262367399">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+        <mark key="^" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1499086408104">
         <mark key="'" line="1311" column="18" />
@@ -352,12 +357,25 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1499262715426">
+        <mark key="'" line="181" column="0" />
+        <mark key="[" line="6779" column="39" />
+        <mark key="]" line="6779" column="39" />
+        <mark key="." line="6779" column="39" />
+        <mark key="^" line="6779" column="39" />
+      </file>
       <file name="$USER_HOME$/git/pas/view/index.php" timestamp="1495369085163">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/theme-my-login/includes/class-theme-my-login.php" timestamp="1498991401519">
+        <mark key="[" line="1173" column="0" />
+        <mark key="]" line="1168" column="47" />
+        <mark key="." line="1168" column="47" />
+        <mark key="^" line="1168" column="47" />
       </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/functions.php" timestamp="1497760420886">
         <mark key="'" line="80" column="5" />
@@ -385,7 +403,7 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499090290420">
+      <file name="/Dummy.txt" timestamp="1499262610155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/academy/config/app.php" timestamp="1498321821651">
@@ -506,15 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/userUpdate.php" />
-      <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" />
-      <jump line="90" column="33" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="236" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="6" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="5" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="15" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="188" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
       <jump line="115" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="133" column="54" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="142" column="95" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
@@ -606,6 +615,15 @@
       <jump line="535" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" />
       <jump line="29" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" />
       <jump line="62" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" />
+      <jump line="48" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="83" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="23" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="148" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
+      <jump line="181" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="178" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
+      <jump line="110" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -621,7 +639,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQoJG15ZnVuZGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/PSAkdXNlci0+ZGlzcGxheUFjY291bnQoKSA/Pgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -633,52 +651,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">7Yis7J6Q64K07JetWyfrqqnroZ0nXSBhcyAka2V5ID0+ICR2YWx1ZQ==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>제목</text>
+        <text>display</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRfU0VTU0lPTlsnZXJyb3InXSA9ICLsm5Dsspzsp5XsiJgg7KCV67O06rCAIOu2gOyhse2VqeuLiOuLpC4iOwogICAgaGVhZGVyKCdsb2NhdGlvbjonIC4gV1BfU0lURVVSTCAuICcvdGF4Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+7J2A7ZaJPC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQoJG15ZnVuZGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/PSAkdXNlci0+ZGlzcGxheUFjY291bnQoKSA/Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgok7Yis7J6Q64K07JetID0gWwogICAgJ+uqqeuhnScgPT4gWwogICAgICAgIFsKICAgICAgICAgICAgJ+yDge2SiOuyiO2YuCcgPT4gJzE4MDMwJywKICAgICAgICAgICAgJ+yDge2SiOuqhScgID0+ICfsoITshLjsnpDquIjrjIDstpwnLAogICAgICAgICAgICAn7Yis7J6Q6riI7JWhJyA9PiAnMTAwMDAwMCcsCiAgICAgICAgICAgICftiKzsnpDsnpTslaEnID0+ICc4MDAwMCcsCiAgICAgICAgICAgICftmozsiJjsm5DquIgnID0+ICcyMDAwMCcsCiAgICAgICAgICAgICftmozsiJjsnbTsnpAnID0+ICcxMDAwJywKICAgICAgICAgICAgJ+yelOyXrOydtOyekCcgPT4gJzMwMDAnLAogICAgICAgICAgICAn7IiY7J2166WgJyAgPT4gJzEwLjgnLAogICAgICAgICAgICAn6riw6rCEJyAgID0+ICc2JywKICAgICAgICAgICAgJ+yDge2DnCcgICA9PiAn7KCV7IOBJywKICAgICAgICAgICAgJ+2ajOywqCcgICA9PiAnMycsCiAgICAgICAgICAgICftmozsiJjsnbzsnpAnID0+ICc1JywKICAgICAgICBdLAogICAgICAgIFsKICAgICAgICAgICAgJ+yDge2SiOuyiO2YuCcgPT4gJzE4MDMwJywKICAgICAgICAgICAgJ+yDge2SiOuqhScgID0+ICfsoITshLjsnpDquIjrjIDstpwnLAogICAgICAgICAgICAn7Yis7J6Q6riI7JWhJyA9PiAnMTAwMDAwMCcsCiAgICAgICAgICAgICftiKzsnpDsnpTslaEnID0+ICc4MDAwMCcsCiAgICAgICAgICAgICftmozsiJjsm5DquIgnID0+ICcyMDAwMCcsCiAgICAgICAgICAgICftmozsiJjsnbTsnpAnID0+ICcxMDAwJywKICAgICAgICAgICAgJ+yelOyXrOydtOyekCcgPT4gJzMwMDAnLAogICAgICAgICAgICAn7IiY7J2166WgJyAgPT4gJzEwLjgnLAogICAgICAgICAgICAn6riw6rCEJyAgID0+ICc2JywKICAgICAgICAgICAgJ+yDge2DnCcgICA9PiAn7KCV7IOBJywKICAgICAgICAgICAgJ+2ajOywqCcgICA9PiAnMycsCiAgICAgICAgICAgICftmozsiJjsnbzsnpAnID0+ICc1JywKICAgICAgICBdLAoKICAgIF0sCiAgICAn7ZWp6rOEJyA9PiBbCiAgICAgICAgJ+2VqeqzhCcgICA9PiAnMjAwMDAwJywKICAgICAgICAn7Yis7J6Q7J6U7JWhJyA9PiAnMTYwMDAwJywKICAgICAgICAn7ZqM7IiY7JuQ6riIJyA9PiAnMjAwMCcsCiAgICAgICAgJ+yelOyXrOydtOyekCcgPT4gJzYwMDAnLAogICAgXSwKXTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZGQoJHVzZXIpOyA/Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cjw/cGhwCgoKCgoKPz4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JG15ZnVuZGluZyA9ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7Yis7J6Q7JqU7JW9J11bJ+2IrOyekOuCtOyXrSddWydJdGVtTGVuZGVyJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JOyYiOy5mOq4iCAgICAgID0gJzMwMDAwMCc7CiTsmIjsuZjquIhf6rGw656Y64K07JetID0gWwogICAgWwogICAgICAgICfsnbzsi5wnID0+ICcyMDE3LTA1LTIwIDE3OjAwJywKICAgICAgICAn6rWs67aEJyA9PiAn7J6F6riIJywKICAgICAgICAn6riI7JWhJyA9PiAnMTUwMDAwJywKICAgICAgICAn7J6U7JWhJyA9PiAnMzAwMDAwMCcsCiAgICBdLAogICAgWwogICAgICAgICfsnbzsi5wnID0+ICcyMDE3LTA1LTE5IDExOjAwJywKICAgICAgICAn6rWs67aEJyA9PiAn7J6F6riIJywKICAgICAgICAn6riI7JWhJyA9PiAnMTAwMDAwJywKICAgICAgICAn7J6U7JWhJyA9PiAnMjg1MDAwMCcsCiAgICBdLApdOwoKJOqwgOyDgeqzhOyijCA9IFsKICAgIFsKICAgICAgICAn7J2A7ZaJJyAgID0+ICfquLDsl4UnLAogICAgICAgICfqsIDsg4Hqs4TsoownID0+ICc0ODAtOTEyMzQ1LTk0LTEyNCcsCiAgICAgICAgJ+ydtOumhCcgICA9PiAnc25zbOq5gOuPme2biCcsCiAgICBdLApdOwoKLy8g7Yis7J6Q7ZiE7ZmpCiTriITsoIHtiKzsnpDquIjslaEgPSAnNTAwMDAwMCc7CiTsm5DquIggICAgID0gJzI4NTAwMDAnOwok7J207J6QICAgICA9ICcxNTAwMDAnOwok64iE7KCB7ZqM7IiY6riI7JWhID0gaW50dmFsKCTsm5DquIgpICsgaW50dmFsKCTsnbTsnpApOwoKJO2Pieq3oO2IrOyekOyImOydteuloF/shLjsoIQgPSAnJzsKJO2Pieq3oO2IrOyekOyImOydteuloF/shLjtm4QgPSAnOS43OCc7CiTsnpTsl6ztiKzsnpDquIjslaEgICAgID0gJzIwMDAwMDAnOwok7ISg7KeA6riJ67Cb7J2A7J207J6QX+yEuO2bhCA9ICc2MCwwMDAnOwok7ISg7KeA6riJ67Cb7J2A7J207J6QX+yEuOyghCA9ICc2NiwwMDAnOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGRhdGFbJ2RhdGEnXSkpIHsKICAgICAgICAgICAgJGRhdGFbJ2RhdGEnXSA9IFsKICAgICAgICAgICAgICAgICdkZXBvc2l0JyA9PiAyMDAgKiAxMDAwMCwKICAgICAgICAgICAgICAgICdhY2NvdW50JyA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ2RlcG9zaXRvcicgICAgID0+ICfquYDrj5ntm4gnLAogICAgICAgICAgICAgICAgICAgICdiYW5rJyAgICAgICAgICA9PiAn64aN7ZiRJywKICAgICAgICAgICAgICAgICAgICAnYWNjb3VudE51bWJlcicgPT4gJzEwMC0wMDMwMC00MDAnLAogICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICd0YXgnICAgICA9PiBbCiAgICAgICAgICAgICAgICAgICAgJ25hbWUnICAgICA9PiAn6rmA7J6s6rWtJywKICAgICAgICAgICAgICAgICAgICAncmVnX251bTEnID0+ICc4ODA1MTUnLAogICAgICAgICAgICAgICAgICAgICdyZWdfbnVtMicgPT4gJzExMTExMTEnLAogICAgICAgICAgICAgICAgICAgICdhZGRyZXNzMScgPT4gJ+yEnOyauOyLnCDqsJXrgqjqtawg7Iug7IKs64+ZIDHsuLUgNTA17Zi4JywKICAgICAgICAgICAgICAgICAgICAnYWRkcmVzczInID0+ICcx7Li1IDUwNe2YuCcsCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHVzZXItPmNoZWNrSW52ZXN0RnVuZGluZygkZnVuZGluZykpOwo=</text>
+        <text encoding="base64">CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>130</text>
+        <text>48</text>
       </register>
     </registers>
     <search>
-      <last-search>제목</last-search>
+      <last-search>display</last-search>
       <last-offset />
-      <last-pattern>제목</last-pattern>
+      <last-pattern>display</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Users</last-substitute>
       <last-dir>1</last-dir>
@@ -686,11 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry>modify-tax</entry>
-        <entry>form</entry>
-        <entry encoding="base64">PGZvcm0=</entry>
-        <entry>address1</entry>
-        <entry>user_name</entry>
         <entry>저장</entry>
         <entry>user</entry>
         <entry>address</entry>
@@ -706,9 +719,13 @@
         <entry encoding="base64">XDxBUElfTkFNRVw+</entry>
         <entry>User</entry>
         <entry>제목</entry>
+        <entry>style</entry>
+        <entry>투자내역</entry>
+        <entry>상환계좌</entry>
+        <entry>investment-list</entry>
+        <entry>display</entry>
       </history-search>
       <history-cmd>
-        <entry>36</entry>
         <entry>14</entry>
         <entry>x</entry>
         <entry>:</entry>
@@ -728,6 +745,7 @@
         <entry>q!</entry>
         <entry>425</entry>
         <entry>130</entry>
+        <entry>48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
