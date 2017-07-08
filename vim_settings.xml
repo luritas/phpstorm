@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/updateUser.php" timestamp="1499085464898">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/single-ignition_product.php" timestamp="1494735414882">
         <mark key="'" line="224" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/index.jsp" timestamp="1499492480345">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/academy/composer.json" timestamp="1498324784562">
         <mark key="'" line="42" column="9" />
@@ -152,11 +152,6 @@
         <mark key="." line="240" column="0" />
         <mark key="^" line="240" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/functions.php" timestamp="1499085487889">
-        <mark key="[" line="5858" column="0" />
-        <mark key="]" line="5858" column="0" />
-        <mark key="." line="5858" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" timestamp="1497065703616">
         <mark key="'" line="47" column="10" />
         <mark key="[" line="0" column="0" />
@@ -216,6 +211,9 @@
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
       </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/lib/exafe-ota-client-1.1.5.jar!/com/extrus/exafe/ota/client/api/OTAClientApiManager.class" timestamp="1499490618262">
+        <mark key="'" line="72" column="21" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" timestamp="1497765467695">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="114" column="21" />
@@ -236,11 +234,6 @@
         <mark key="^" line="409" column="87" />
         <mark key="." line="219" column="77" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-admin/includes/noop.php" timestamp="1499086371086">
-        <mark key="[" line="67" column="21" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/page.php" timestamp="1494738238295">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -254,11 +247,6 @@
         <mark key="]" line="366" column="0" />
         <mark key="^" line="344" column="10" />
         <mark key="." line="366" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" timestamp="1499089676295">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-config.php" timestamp="1496145600183">
         <mark key="'" line="12" column="0" />
@@ -307,11 +295,6 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
         <mark key="^" line="88" column="23" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/load.php" timestamp="1499086363875">
-        <mark key="[" line="712" column="0" />
-        <mark key="]" line="712" column="0" />
-        <mark key="." line="712" column="0" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/markdown/composer.json" timestamp="1496686808598">
         <mark key="'" line="13" column="0" />
@@ -396,11 +379,6 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/w3-total-cache/Minify_MinifiedFileRequestHandler.php" timestamp="1498990981875">
-        <mark key="[" line="771" column="23" />
-        <mark key="]" line="771" column="23" />
-        <mark key="." line="771" column="23" />
-      </file>
       <file name="$USER_HOME$/git/dev.snsl.dev/view1/wp-includes/class-wp-query.php" timestamp="1494675840973">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="372" column="21" />
@@ -408,6 +386,7 @@
         <mark key="." line="372" column="24" />
         <mark key="^" line="372" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/lib/exafe-ota-client-1.1.5.jar!/com/extrus/exafe/ota/client/a/a.class" timestamp="1499490542611" />
       <file name="$USER_HOME$/developements/git/academy/app/Console/Kernel.php" timestamp="1498304907508">
         <mark key="'" line="22" column="5" />
         <mark key="[" line="15" column="27" />
@@ -415,7 +394,7 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499266839632">
+      <file name="/Dummy.txt" timestamp="1499491401059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/academy/config/app.php" timestamp="1498321821651">
@@ -520,6 +499,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/ota/index.jsp" timestamp="1499491427933">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ignitiondeck-crowdfunding/ignitiondeck-postmeta.php" timestamp="1494731695794">
         <mark key="'" line="212" column="26" />
         <mark key="[" line="20" column="34" />
@@ -534,14 +519,20 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/snsl/nh-api/src/test/Connector.java" timestamp="1499489734713">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/snsl/nh-api/src/test/Connector.java" timestamp="1499492331843">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_config.xml" timestamp="1499491237356">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="76" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="163" column="62" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="161" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
@@ -641,6 +632,7 @@
       <jump line="20" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
+      <jump line="72" column="21" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/lib/exafe-ota-client-1.1.5.jar!/com/extrus/exafe/ota/client/api/OTAClientApiManager.class" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -655,8 +647,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -668,43 +660,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxjb25maWdIb21lRGlyPi92YXIvbGliL3RvbWNhdC93ZWJhcHBzL25oLWFwaS9XRUItSU5GL290YS88L2NvbmZpZ0hvbWVEaXI+Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBob3N0bmFtZSA9IGNvbm4uZ2V0SG9zdG5hbWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIK</text>
+        <text encoding="base64">ICA8JT0gaG9zdHNlcnZlcm5hbWUgJT48YnI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leHRyCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBob3N0c2VydmVybmFtZSA9IGNvbm4uZ2V0SG9zdFNlcnZlck5hbWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNjb250ZW50ID4gZGl2ID4gKjpmaXJzdC1jaGlsZCB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICI8L2Rpdj4iOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgPCEtLSBNYWluIFdyYXBwZXIgRW5kIC0tPiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRodG1sID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjExMTExMTEiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICI8ZGl2IGNsYXNzPVwiY2xlYXJmaXggd3JhcHBlclwiPiI7Cg==</text>
+        <text encoding="base64">ICA8JT0gbmFtZSAlPjxicj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCB3cmFwcGVyIj4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gY29ubi5nZXROYW1lKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkJCQoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo8ZGl2IGNsYXNzPSJjbGVhcmZpeCB3cmFwcGVyIj4K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsgcmV0dXJuICJqayI7IH0K</text>
       </register>
       <register name=":" type="4">
         <text>5437</text>
