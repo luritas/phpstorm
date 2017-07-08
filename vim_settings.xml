@@ -356,12 +356,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1499267142938">
-        <mark key="'" line="181" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1499480910121">
+        <mark key="'" line="7012" column="0" />
         <mark key="[" line="5439" column="29" />
-        <mark key="]" line="5439" column="29" />
-        <mark key="." line="5439" column="29" />
-        <mark key="^" line="5439" column="29" />
+        <mark key="]" line="5418" column="19" />
+        <mark key="." line="5418" column="19" />
+        <mark key="^" line="5418" column="19" />
       </file>
       <file name="$USER_HOME$/git/pas/view/index.php" timestamp="1495369085163">
         <mark key="'" line="15" column="0" />
@@ -523,9 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="71" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="222" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="95" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="92" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="112" column="61" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="159" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
@@ -623,6 +620,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="148" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="364" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/cache/supercache/dev.snsl.kr/view/index.html" />
+      <jump line="5410" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="7012" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
