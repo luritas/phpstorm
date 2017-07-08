@@ -210,6 +210,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_config.xml.tld" timestamp="1499488474993">
+        <mark key="[" line="2" column="71" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/class/funding.php" timestamp="1497765467695">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="114" column="21" />
@@ -362,6 +368,13 @@
         <mark key="]" line="5418" column="19" />
         <mark key="." line="5418" column="19" />
         <mark key="^" line="5418" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" timestamp="1499489807054">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="98" />
+        <mark key="." line="14" column="98" />
+        <mark key="^" line="14" column="98" />
       </file>
       <file name="$USER_HOME$/git/pas/view/index.php" timestamp="1495369085163">
         <mark key="'" line="15" column="0" />
@@ -521,12 +534,13 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/src/test/Connector.java" timestamp="1499489734713">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="41" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="112" column="61" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="159" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
-      <jump line="165" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="12" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="76" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="163" column="62" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
@@ -623,6 +637,10 @@
       <jump line="5410" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="7012" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/snsl/nh-api/web/WEB-INF/classes/ota_client_log4j.xml.tld" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -637,8 +655,8 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -650,43 +668,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pbiA+IGFtb3VudCkgewogICAgICAgICAgICAgICAgYWxlcnQoJ+2IrOyekOq4iOyVoeydtCDsnpHsirXri4jri6QuJyk7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIDxjb25maWdIb21lRGlyPi92YXIvbGliL3RvbWNhdC93ZWJhcHBzL25oLWFwaS9XRUItSU5GL290YS88L2NvbmZpZ0hvbWVEaXI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNjb250ZW50ID4gZGl2ID4gKjpmaXJzdC1jaGlsZCB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICI8L2Rpdj4iOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5leHRyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgPCEtLSBNYWluIFdyYXBwZXIgRW5kIC0tPiI7Cg==</text>
+        <text encoding="base64">ICAgICNjb250ZW50ID4gZGl2ID4gKjpmaXJzdC1jaGlsZCB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRodG1sID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICRodG1sIC49ICI8L2Rpdj4iOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICI8ZGl2IGNsYXNzPVwiY2xlYXJmaXggd3JhcHBlclwiPiI7Cg==</text>
+        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgPCEtLSBNYWluIFdyYXBwZXIgRW5kIC0tPiI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCB3cmFwcGVyIj4K</text>
+        <text encoding="base64">ICAgICRodG1sID0gIiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgkJCQoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo8ZGl2IGNsYXNzPSJjbGVhcmZpeCB3cmFwcGVyIj4K</text>
+        <text encoding="base64">ICAgICRodG1sIC49ICI8ZGl2IGNsYXNzPVwiY2xlYXJmaXggd3JhcHBlclwiPiI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgICAgIDwvZGl2PiI7Cg==</text>
+        <text encoding="base64">CQk8ZGl2IGNsYXNzPSJjbGVhcmZpeCB3cmFwcGVyIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICRodG1sIC49ICIgICAgPGRpdiBjbGFzcz1cIm5vcm1hbC1jb250ZW50IG5vLWJveGVkXCI+IjsK</text>
+        <text encoding="base64">CgkJCQoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo8ZGl2IGNsYXNzPSJjbGVhcmZpeCB3cmFwcGVyIj4K</text>
       </register>
       <register name=":" type="4">
         <text>5437</text>
