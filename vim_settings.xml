@@ -41,7 +41,8 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" timestamp="1499584861944">
+      <file name="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" timestamp="1499586753632">
+        <mark key="'" line="25" column="4" />
         <mark key="[" line="41" column="15" />
         <mark key="]" line="42" column="7" />
         <mark key="^" line="42" column="7" />
@@ -541,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="71" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
       <jump line="146" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
       <jump line="130" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
@@ -641,6 +641,7 @@
       <jump line="199" column="24" filename="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MocksApplicationServices.php" />
       <jump line="208" column="8" filename="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MocksApplicationServices.php" />
       <jump line="249" column="31" filename="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MocksApplicationServices.php" />
+      <jump line="25" column="4" filename="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
