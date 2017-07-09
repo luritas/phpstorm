@@ -41,11 +41,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" timestamp="1499583261634">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" timestamp="1499584861944">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/Document/CommandOutputDocument.php" timestamp="1499536457603">
         <mark key="[" line="23" column="5" />
@@ -505,6 +505,12 @@
         <mark key="." line="71" column="0" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_9.php" timestamp="1499579448911" />
+      <file name="$USER_HOME$/developements/git/modern/real-estate/Calculator.php" timestamp="1499584433738">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
         <mark key="'" line="216" column="65" />
         <mark key="[" line="220" column="0" />
@@ -647,8 +653,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFsgXTs=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -660,7 +666,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'요율</text>
+        <text encoding="base64">IFsgXTs=</text>
       </register>
       <register name="/" type="4">
         <text>Model</text>
@@ -669,34 +675,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRMYXRpdHVkZSgpCiAgICB7CiAgICAgICAgaWYgKGlzc2V0KCR0aGlzLT5nZW9jb2RlclJlc3VsdCkgPT09IGZhbHNlKSB7CiAgICAgICAgICAgICR0aGlzLT5nZW9jb2RlckFkcmVzcygpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5nZW9jb2RlclJlc3VsdC0+Z2V0TGF0aXR1ZGUoKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHByaWNlICAgID0gW107Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGNhdGVnb3J5ID0gJyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICfshJzsmrgnCg==</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSAkcmVudGFsID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGF2YWlsYWJsZQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFWQUxJQUJMRSA9IFsKCiAgICBdOwo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBpbnQKICAgICAqLwo=</text>
+        <text encoding="base64">ICog6rG066y87YOA7J6FKOyjvO2DnS/smKTtlLzsiqTthZQv6re47Jm4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBzdHJpbmcKICAgICAqLwo=</text>
+        <text encoding="base64">ICog6rG066y87YOA7J6FKOyjvO2DnS/smKTtlLzsiqTthZQv6re47Jm4KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBhcnJheQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgIGlmICgkdHlwZSA9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
