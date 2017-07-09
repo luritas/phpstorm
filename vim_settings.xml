@@ -41,12 +41,12 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" timestamp="1499586753632">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
+      <file name="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" timestamp="1499587971368">
+        <mark key="'" line="40" column="4" />
+        <mark key="[" line="65" column="17" />
+        <mark key="]" line="65" column="17" />
+        <mark key="^" line="65" column="17" />
+        <mark key="." line="65" column="17" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/Document/CommandOutputDocument.php" timestamp="1499536457603">
         <mark key="[" line="23" column="5" />
@@ -542,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
       <jump line="146" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
       <jump line="130" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
       <jump line="121" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" />
@@ -642,6 +641,7 @@
       <jump line="208" column="8" filename="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MocksApplicationServices.php" />
       <jump line="249" column="31" filename="$USER_HOME$/developements/git/myapp/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/MocksApplicationServices.php" />
       <jump line="25" column="4" filename="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" />
+      <jump line="40" column="4" filename="$USER_HOME$/developements/git/modern/real-estate/LocalPrice.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -655,7 +655,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFsgXTs=</text>
+        <text>data</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -667,7 +667,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFsgXTs=</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>Model</text>
