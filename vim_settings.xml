@@ -82,6 +82,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/header.php" timestamp="1499693565497">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-list.php" timestamp="1499262367399">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -497,6 +502,9 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/footer.php" timestamp="1499692382860">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
         <mark key="[" line="0" column="0" />
@@ -813,7 +821,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9ERUJVRycsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -825,43 +833,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>the_content</text>
+        <text>메뉴 영역</text>
       </register>
       <register name="/" type="4">
         <text>DEBUG</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9ERUJVRycsIHRydWUpOwpkZWZpbmUoJ1NDUklQVF9ERUJVRycsIHRydWUpOwpkZWZpbmUoJ1NBVkVRVUVSSUVTJywgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIOuplOuJtCDsmIHsl60tLT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9ERUJVRycsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGhlX3Bvc3QoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">VXNlIGl0IHRvIG1ha2Ugc29tZXRoaW5nIGNvb2wsIGhhdmUgZnVuLCBhbmQgc2hhcmUgd2hhdCB5b3UndmUgbGVhcm5lZCB3aXRoIG90aGVycy4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">VGhpcyB0aGVtZSwgbGlrZSBXb3JkUHJlc3MsIGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBHUEwuCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmaW5lKCdXUF9ERUJVRycsIGZhbHNlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGllKCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">VGV4dCBEb21haW46IHR3ZW50eWZpZnRlZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
