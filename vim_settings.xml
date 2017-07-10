@@ -10,12 +10,6 @@
         <mark key="^" line="7" column="23" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" timestamp="1499509405116">
-        <mark key="'" line="189" column="42" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1499582680018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -164,6 +158,13 @@
         <mark key="]" line="67" column="21" />
         <mark key="." line="67" column="21" />
       </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/sidebar.php" timestamp="1499709955561">
+        <mark key="'" line="8" column="21" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/page.php" timestamp="1494738238295">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -258,12 +259,6 @@
         <mark key="]" line="26" column="64" />
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1499607468237">
-        <mark key="'" line="172" column="33" />
-        <mark key="[" line="172" column="33" />
-        <mark key="]" line="172" column="33" />
-        <mark key="." line="172" column="33" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/custom.js" timestamp="1498299210841">
         <mark key="'" line="19" column="0" />
@@ -395,6 +390,13 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/style.css" timestamp="1499708236390">
+        <mark key="'" line="607" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/class-wp-query.php" timestamp="1494738129808">
         <mark key="'" line="4115" column="4" />
         <mark key="[" line="1683" column="0" />
@@ -478,6 +480,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/functions.php" timestamp="1499710549267">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="28" column="42" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+      </file>
       <file name="$USER_HOME$/developements/git/modern/Document/StreamDocument.php" timestamp="1499566790550">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -502,8 +511,11 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/footer.php" timestamp="1499692382860">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/footer.php" timestamp="1499709076757">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
@@ -610,6 +622,9 @@
         <mark key="." line="1168" column="47" />
         <mark key="^" line="1168" column="47" />
       </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/theme-itssue/sidebar.php" timestamp="1499710164362">
+        <mark key="[" line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/house/functions.php" timestamp="1497760420886">
         <mark key="'" line="80" column="5" />
         <mark key="[" line="49" column="60" />
@@ -629,7 +644,7 @@
         <mark key="." line="372" column="24" />
         <mark key="^" line="372" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499610040392">
+      <file name="/Dummy.txt" timestamp="1499709967087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/academy/config/app.php" timestamp="1498321821651">
@@ -657,6 +672,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/index.php" timestamp="1499711132038">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-signup.php" timestamp="1495546610002">
         <mark key="'" line="415" column="26" />
@@ -708,15 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="35" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="148" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="364" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/cache/supercache/dev.snsl.kr/view/index.html" />
-      <jump line="5410" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="7012" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="99" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="74" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" />
       <jump line="140" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
       <jump line="60" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/taxinfo.php" />
@@ -808,6 +820,15 @@
       <jump line="50" column="0" filename="$USER_HOME$/developements/wordpress/wp-config.php" />
       <jump line="71" column="70" filename="$USER_HOME$/developements/wordpress/wp-config.php" />
       <jump line="79" column="11" filename="$USER_HOME$/developements/wordpress/wp-config.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/style.css" />
+      <jump line="614" column="0" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/style.css" />
+      <jump line="7" column="34" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/sidebar.php" />
+      <jump line="2" column="3" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/sidebar.php" />
+      <jump line="9" column="34" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/sidebar.php" />
+      <jump line="8" column="21" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/sidebar.php" />
+      <jump line="14" column="28" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/functions.php" />
+      <jump line="5" column="9" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/functions.php" />
+      <jump line="10" column="26" filename="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/functions.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -820,8 +841,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -833,61 +854,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>메뉴 영역</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>DEBUG</text>
+        <text encoding="base64">XDxsdXJpdGFzX3NpZGViYXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIOuplOuJtCDsmIHsl60tLT4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">PCEtLSAuZm9vdGVyLWNvcHlyaWdodCAtLT4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgID8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTIzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PzwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9ERUJVRycsIGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgovKgpUaGVtZSBOYW1lOiAgdGhlbWUtaXRzc3VlClRoZW1lIFVSSTogICBodHRwOi8vd3d3Lml0c3N1ZS5jby5rcgpEZXNjcmlwdGlvbjog7J6H7IqIIOyCrOydtO2KuCDthYzrp4jsnoXri4jri6QuIOuIhOq1rOuCmCDrlLDrnbztlZjri6Trs7TrqbQg7J6Q6riw66eM7J2YIO2FjOuniOqwgCDsmYTshLEg65Cp64uI64ukLgpBdXRob3I6ICAgICAgaXRzc3VlCkF1dGhvciBVUkk6ICBodHRwOi8vZGFiLml0c3N1ZS5jby5rcgpWZXJzaW9uOiAgICAgMC4xClRhZ3M6ICAgICAgICDthYzsiqTtirgs6rCE64uoLOuUsOudvO2VmOq4sAoqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>100</text>
       </register>
     </registers>
     <search>
-      <last-search>DEBUG</last-search>
+      <last-search encoding="base64">XDxsdXJpdGFzX3NpZGViYXJcPg==</last-search>
       <last-offset />
-      <last-pattern>DEBUG</last-pattern>
+      <last-pattern encoding="base64">XDxsdXJpdGFzX3NpZGViYXJcPg==</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>Users</last-substitute>
+      <last-substitute encoding="base64">XDxsdXJpdGFzX3NpZGViYXJcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>investment-list</entry>
-        <entry>display</entry>
         <entry>style</entry>
         <entry encoding="base64">XDxnZXRJdGVtXD4=</entry>
         <entry encoding="base64">XDx1c2VyX3RheFw+</entry>
@@ -906,6 +925,8 @@
         <entry>savequery</entry>
         <entry>SAVE</entry>
         <entry>DEBUG</entry>
+        <entry encoding="base64">XDxzaWRlYmFyXD4=</entry>
+        <entry encoding="base64">XDxsdXJpdGFzX3NpZGViYXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>5609</entry>
