@@ -13,10 +13,6 @@
       <file name="/a.dummy" timestamp="1499582680018">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/wordpress/wp-content/themes/twentyfifteen/style.css" timestamp="1499691735944">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="13" column="82" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/User.php" timestamp="1499609972163">
         <mark key="'" line="45" column="4" />
         <mark key="[" line="54" column="0" />
@@ -63,12 +59,12 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type3.php" timestamp="1497758552801">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type3.php" timestamp="1499885291552">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="45" column="66" />
+        <mark key="]" line="45" column="66" />
+        <mark key="." line="45" column="66" />
+        <mark key="^" line="31" column="41" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/krown-shortcodes/assets/shortcodes.js" timestamp="1498273906087">
         <mark key="'" line="50" column="42" />
@@ -86,6 +82,12 @@
         <mark key="]" line="8" column="20" />
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/category.php" timestamp="1499882478103">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
       </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/thirdy/auth.php" timestamp="1497065703616">
         <mark key="'" line="47" column="10" />
@@ -119,6 +121,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/tmpl-category.php" timestamp="1499882861262">
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="^" line="32" column="40" />
       </file>
       <file name="$USER_HOME$/developements/git/myapp/app/User.php" timestamp="1496464198882">
         <mark key="'" line="20" column="0" />
@@ -500,8 +508,8 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="39" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-admin/customize.php" timestamp="1499861628838">
-        <mark key="'" line="126" column="48" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-admin/customize.php" timestamp="1499883428043">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="126" column="47" />
         <mark key="]" line="126" column="47" />
         <mark key="." line="126" column="47" />
@@ -530,6 +538,12 @@
         <mark key="]" line="10" column="15" />
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/page.php" timestamp="1499882251857">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+        <mark key="^" line="28" column="12" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/home.html" timestamp="1497690546043">
         <mark key="'" line="342" column="7" />
@@ -600,9 +614,11 @@
         <mark key="." line="37" column="2" />
         <mark key="^" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/transactions.php" timestamp="1499608785243">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="1" />
+      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/tmpl-category-none.php" timestamp="1499883403765">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="/PHP Console" timestamp="1499595849095">
         <mark key="[" line="0" column="0" />
@@ -743,7 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="23" filename="$USER_HOME$/developements/git/modern/trait/MyTrait.php" />
       <jump line="31" column="0" filename="$USER_HOME$/developements/git/modern/trait/MyTrait.php" />
       <jump line="5" column="0" filename="$USER_HOME$/developements/git/modern/trait/MyTrait.php" />
       <jump line="0" column="4" filename="$USER_HOME$/developements/git/modern/trait/Geocodable.php" />
@@ -843,6 +858,7 @@
       <jump line="330" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/admin.php" />
       <jump line="74" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/customize.php" />
       <jump line="126" column="48" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/customize.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/customize.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -856,7 +872,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -868,46 +884,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PCEtLSAuZm9vdGVyLWNvcHlyaWdodCAtLT4=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iPD89ICRwYXRoID8+L2ltYWdlcy9pbWcwMS5qcGciIGFsdD0iIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iLi4vaW1nL2NoZWZjaGFuL3BjX2ltZzAzLnBuZyIgc3R5bGU9IndpZHRoOjEwMCU7IG1hcmdpbi10b3A6MjBweDsgbWFyZ2luLWJvdHRvbToyMHB4Ij4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPSJtYXJnaW46MjVweDsiIGNsYXNzPSJfX3dlYi1pbnNwZWN0b3ItaGlkZS1zaG9ydGN1dF9fIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Pz0gJGZ1bmRpbmctPmdldOuCtOyaqSgpOyA/Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iPD89ICRwYXRoID8+L2ltYWdlcy9sb2dvLnBuZyIgYWx0PSIiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz0iPD89ICRwYXRoID8+L2ltYWdlcy9sb2dvLnBuZyIgYWx0PSIiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyAnMTIzJzsKZGllKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>100</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -959,10 +975,10 @@
         <entry>172</entry>
         <entry>158</entry>
         <entry>29</entry>
-        <entry>w</entry>
         <entry>17</entry>
         <entry>81</entry>
         <entry>100</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
