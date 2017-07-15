@@ -383,11 +383,11 @@
         <mark key="^" line="16" column="13" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/psr4/autoload.php" timestamp="1500143750660">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="26" column="2" />
-        <mark key="." line="14" column="35" />
+      <file name="$USER_HOME$/developements/git/modern/psr4/autoload.php" timestamp="1500145696100">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/schedule.php" timestamp="1500105830141">
         <mark key="'" line="12" column="0" />
@@ -908,7 +908,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>php</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -920,13 +920,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>php</text>
       </register>
       <register name="/" type="4">
         <text>WP_DEBUG</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9kZWZpbmUoJ1dQX0RFQlVHJywgZmFsc2UpOwo=</text>
+      <register name="0" type="4">
+        <text>'Foo\\Bar\\';</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fQo=</text>
