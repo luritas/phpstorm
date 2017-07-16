@@ -104,6 +104,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/developements/git/modern/vendor/league/csv/src/AbstractCsv.php" timestamp="1500146822556" />
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" timestamp="1497067976382">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="14" column="15" />
@@ -450,6 +451,7 @@
         <mark key="." line="1508" column="23" />
         <mark key="^" line="1508" column="23" />
       </file>
+      <file name="$USER_HOME$/developements/git/modern/vendor/league/csv/src/Reader.php" timestamp="1500146814011" />
       <file name="$USER_HOME$/developements/git/myapp/database/factories/ModelFactory.php" timestamp="1496467665390">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="34" column="2" />
@@ -721,6 +723,11 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/modern/component/scan.php" timestamp="1500146769716">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
         <mark key="'" line="216" column="65" />
         <mark key="[" line="220" column="0" />
@@ -907,8 +914,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>php</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -920,7 +927,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>php</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text>WP_DEBUG</text>
@@ -935,28 +942,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKFdQX0RFQlVHKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2V0RHVtcChXUF9ERUJVRyk7Cg==</text>
+        <text encoding="base64">Zm9yZWFjaCAoJGNzdiBhcyAkY3N2Um93KSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQoV1BfREVCVUcpOwo=</text>
+        <text encoding="base64">JGNzdiA9IG5ldyBcTGVhZ3VlXENzdlxSZWFkZXIoJGFyZ3ZbMV0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGQoV1BfREVCVUcpOwo=</text>
+        <text encoding="base64">bmV3IFxMZWFndWVcQ3N2XFJlYWRlcigkYXJndlsxXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnMTExJyk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRkKCcxMTEnKTsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKFdQX0RFQlVHKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnMTExJyk7Cg==</text>
+        <text encoding="base64">Z2V0RHVtcChXUF9ERUJVRyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkKCcxMTEnKTsK</text>
+        <text encoding="base64">ZGQoV1BfREVCVUcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
