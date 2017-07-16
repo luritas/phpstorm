@@ -103,6 +103,11 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/developements/git/modern/composer.json" timestamp="1500222701775">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+      </file>
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" timestamp="1497067976382">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="14" column="15" />
@@ -606,6 +611,12 @@
         <mark key="^" line="1759" column="27" />
         <mark key="." line="1759" column="27" />
       </file>
+      <file name="$USER_HOME$/developements/git/modern/component/urls.csv" timestamp="1500223070652">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer-child/style.css" timestamp="1495115075811">
         <mark key="'" line="3" column="27" />
         <mark key="[" line="11" column="16" />
@@ -719,6 +730,12 @@
         <mark key="^" line="473" column="82" />
         <mark key="." line="473" column="82" />
       </file>
+      <file name="$USER_HOME$/developements/git/composer/src/Scanner.php" timestamp="1500223970487">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/git/ptp/test-share/app/Exceptions/Handler.php" timestamp="1495086736751">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="71" column="0" />
@@ -738,10 +755,11 @@
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/component/scan.php" timestamp="1500146769716">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/developements/git/modern/component/scan.php" timestamp="1500223064313">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/nav-menu-template.php" timestamp="1496663896454">
         <mark key="'" line="216" column="65" />
@@ -779,8 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
-      <jump line="116" column="51" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="117" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="133" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="135" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -879,6 +895,8 @@
       <jump line="77" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="106" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/schedule.php" />
       <jump line="19" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/developements/git/composer/src/Scanner.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/developements/git/composer/src/Scanner.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -930,7 +948,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiRzYyA9IG5ldyBTY2FubmVyKCk7Cgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -942,7 +960,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aHR0cFJlc3BvbnNlLT5nZXRTdGF0dXNDb2RlKCkg</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -951,37 +969,37 @@
         <text encoding="base64">Zm9yZWFjaCAoJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpIHsKICAgICRkYXRhWyRrZXldWyfsg4HtmZjsnbwnXSA9IFxDYXJib25cQ2FyYm9uOjpwYXJzZSgkdmFsdWVbJ+yDge2ZmOydvCddKS0+Zm9ybWF0KCdZLWQtZCcpOwp9CiRmaWxlZCA9IFsKICAgICftmozssKhJbmRleCcgID0+ICftmozssKgnLAovLyAgICAn7ZqM7LCoU3ViSW5kZXgnID0+ICftlZjsnITtmozssKgnLAovLyAgICAn7IOB7ZmY7KCE7J6U7Jes7JuQ6riIJyA9PiAnJywKLy8gICAgJ+yDge2ZmO2bhOyelOyXrOybkOq4iCcgPT4gJycsCiAgICAn7IOB7ZmY7LSd6riI7JWhJyAgICA9PiAn7IOB7ZmY6riI7JWhJywKICAgICfsm5DquIgnICAgICAgID0+ICfsm5DquIgnLAogICAgJ+y0neydtOyekF/shLjtm4QnICAgPT4gJ+y0neydtOyekCjshLjtm4QpJywKICAgICfsiJjsiJjro4wnICAgICAgPT4gJ+yImOyImOujjCcsCiAgICAn6riw67O47J207J6QX+yEuOyghCcgID0+ICfsnbTsnpAo7IS47KCEKScsCi8vICAgICfsl7DssrTsnbTsnpBf7IS47KCEJyAgPT4gJ+yXsOyytOydtOyekCjshLjsoIQpJywKLy8gICAgJ+y2lOqwgOydtOyekF/shLjsoIQnICA9PiAn7LaU6rCA7J207J+IKOyEuOyghCknLAovLyAgICAn6riw7YOA7J207J6QX+yEuOyghCcgID0+ICfquLDtg4DsnbTsnpAo7IS47KCEKScsCi8vICAgICfshLjquIhUeXBlJyA9PiAnMCcsCiAgICAn7LSd7IS46riIJyAgICAgID0+ICfshLjquIgnLAovLyAgICAn6rWt7IS4JyA9PiAn6rWt7IS4JywKLy8gICAgJ+yngOuwqeyEuCcgPT4gJ+yngOuwqeyEuCcsCi8vICAgICfquLDtg4DshLjquIgnID0+ICfquLDtg4DshLjquIgnLAogICAgJ+yDge2ZmOydvCcgICAgICA9PiAn7IOB7ZmY7J28JywKICAgICfsl7DssrTrgqDsp5zsiJgnICAgID0+ICfsl7DssrTrgqDsp5wnLAogICAgJ+yDge2ZmOyDge2DnFR5cGUnID0+ICfsg4HtmZjsg4Htg5wnLApdOwo/PgoKPCEtLSBib2R5IC0tPgoKCjxoMT48Pz0kZnVuZGluZy0+Z2V07KCc66qpKCk/PjwvaDE+Cjx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtYm9yZGVyZWQgdGFibGUtaG92ZXIgdGFibGUtc2NoZWR1bGUiPgogICAgPHRyIGNsYXNzPSJhY3RpdmUiPgogICAgICAgIDx0aD7tmozssKg8L3RoPgogICAgICAgIDx0aD7sg4HtmZjquIjslaE8L3RoPgogICAgICAgIDx0aD7sm5DquIg8L3RoPgogICAgICAgIDx0aD7stJ3snbTsnpAo7IS47ZuEKTwvdGg+CiAgICAgICAgPHRoPuyImOyImOujjDwvdGg+CiAgICAgICAgPHRoPuydtOyekCjshLjsoIQpPC90aD4KICAgICAgICA8dGg+7IS46riIPC90aD4KICAgICAgICA8dGg+7IOB7ZmY7J28PC90aD4KICAgICAgICA8dGg+7Jew7LK064Kg7KecPC90aD4KICAgICAgICA8dGg+7IOB7ZmY7IOB7YOcPC90aD4KICAgIDwvdHI+CiAgICA8P3BocCBmb3JlYWNoICgkZGF0YSBhcyAka2V5ID0+ICR2YWx1ZSk6ID8+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+PD89ICR2YWx1ZVsn7ZqM7LCoSW5kZXgnXSA/PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48Pz0gbnVtYmVyX2Zvcm1hdCgkdmFsdWVbJ+yDge2ZmOy0neq4iOyVoSddKSA/PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48Pz0gbnVtYmVyX2Zvcm1hdCgkJHZhbHVlWyfsm5DquIgnXSkgPz48L3RkPgogICAgICAgICAgICA8dGQ+PD89IG51bWJlcl9mb3JtYXQoJCR2YWx1ZVsn7LSd7J207J6QX+yEuO2bhCddKSA/PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48Pz0gbnVtYmVyX2Zvcm1hdCgkJHZhbHVlWyfsiJjsiJjro4wnXSkgPz48L3RkPgogICAgICAgICAgICA8dGQ+PD89IG51bWJlcl9mb3JtYXQoJCR2YWx1ZVsn6riw67O47J207J6QX+yEuOyghCddKSA/PjwvdGQ+CiAgICAgICAgICAgIDx0ZD48Pz0gbnVtYmVyX2Zvcm1hdCgkJHZhbHVlWyfstJ3shLjquIgnXSkgPz48L3RkPgogICAgICAgICAgICA8dGQ+PD89IG51bWJlcl9mb3JtYXQoJCR2YWx1ZVsn7IOB7ZmY7J28J10pID8+PC90ZD4KICAgICAgICAgICAgPHRkPjw/PSAkdmFsdWVbJ+yXsOyytOuCoOynnOyImCddID8+PC90ZD4KICAgICAgICAgICAgPHRkPjw/PSAkdmFsdWVbJ+yDge2ZmOyDge2DnFR5cGUnXSA/PjwvdGQ+CiAgICAgICAgPC90cj4KICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CjwvdGFibGU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiRzYyA9IG5ldyBTY2FubmVyKCk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XEx1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGgxPjw/PSAkZnVuZGluZy0+Z2V07KCc66qpKCkgPz48L2gxPgo=</text>
+        <text encoding="base64">XEx1cmlTY2FubmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkKCRkYXRhKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkY3N2ICAgICAgICAgPSBuZXcgXExlYWd1ZVxDc3ZcUmVhZGVyKCRhcmd2WzFdKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBcRXhjZXB0aW9uKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy81LiBIVFRQIOydkeuLtSDsg4Htg5wg7L2U65OcIO2ZleyduAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>37</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1017,13 +1035,11 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>172</entry>
         <entry>158</entry>
         <entry>29</entry>
         <entry>17</entry>
         <entry>81</entry>
         <entry>100</entry>
-        <entry>w</entry>
         <entry>91</entry>
         <entry>101</entry>
         <entry>104</entry>
@@ -1037,6 +1053,8 @@
         <entry>56</entry>
         <entry>51</entry>
         <entry>37</entry>
+        <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
