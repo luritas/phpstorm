@@ -278,12 +278,12 @@
         <mark key="^" line="26" column="64" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1500218553963">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1500220337594">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="13" />
-        <mark key="." line="264" column="0" />
+        <mark key="]" line="264" column="0" />
         <mark key="^" line="263" column="0" />
+        <mark key="." line="264" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/custom.js" timestamp="1498299210841">
         <mark key="'" line="19" column="0" />
@@ -961,19 +961,19 @@
         <text encoding="base64">ZGQoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQoJHVybCk7Cg==</text>
+        <text encoding="base64">ZGQoJF9TRVJWRVIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
+        <text encoding="base64">ZGQoJHVybCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGxpc3QgPSBbCiAgICBbCiAgICAgICAgJ+uCoOynnCcgID0+IGRhdGUoJ1ktbS1kJyksCiAgICAgICAgJ+yDge2SiOuqhScgPT4gJ+yDge2SiOuqhScsCiAgICAgICAgJ+yDge2DnCcgID0+ICfsg4HtmZjspJEnLAogICAgICAgICfquIjslaEnICA9PiAnMTAwMDAnLAogICAgXSwKXQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">JGxpc3QgPSBbCiAgICBbCiAgICAgICAgJ+uCoOynnCcgID0+IGRhdGUoJ1ktbS1kJyksCiAgICAgICAgJ+yDge2SiOuqhScgPT4gJ+yDge2SiOuqhScsCiAgICAgICAgJ+yDge2DnCcgID0+ICfsg4HtmZjspJEnLAogICAgICAgICfquIjslaEnICA9PiAnMTAwMDAnLAogICAgXSwKXQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
