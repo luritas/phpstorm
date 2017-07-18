@@ -104,7 +104,6 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/vendor/league/csv/src/AbstractCsv.php" timestamp="1500146822556" />
       <file name="$USER_HOME$/developements/laravel-web/myapp/routes/third/auth.php" timestamp="1497067976382">
         <mark key="'" line="55" column="29" />
         <mark key="[" line="14" column="15" />
@@ -451,7 +450,6 @@
         <mark key="." line="1508" column="23" />
         <mark key="^" line="1508" column="23" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/vendor/league/csv/src/Reader.php" timestamp="1500146814011" />
       <file name="$USER_HOME$/developements/git/myapp/database/factories/ModelFactory.php" timestamp="1496467665390">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="34" column="2" />
@@ -761,6 +759,9 @@
         <mark key="]" line="2" column="58" />
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
+      </file>
+      <file name="/fragment.java" timestamp="1500388120816">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
