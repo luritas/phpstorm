@@ -279,6 +279,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java" timestamp="1500710826378">
         <mark key="'" line="180" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/snsl/nh-api/build.gradle" timestamp="1500716075829">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/tmpl-category-none.php" timestamp="1499883403765">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="28" />
@@ -513,8 +518,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>-spring</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">7Lac7LKYOiBodHRwOi8vb2Vuby50aXN0b3J5LmNvbS8yMSBbT2Vub10K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -535,31 +540,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICcwLjAuMS1TTkFQU0hPVCcK</text>
+        <text encoding="base64">7Lac7LKYOiBodHRwOi8vb2Vuby50aXN0b3J5LmNvbS8yMSBbT2Vub10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVyc2lvbiA9ICcwLjAuMS1TTkFQU0hPVCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQnstpzsspg6IGh0dHA6Ly9jcGRldi50aXN0b3J5LmNvbS80NiBb7ZWY66Oo7ZWY64KYXW57Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cey2nOyymDogaHR0cDovL2NwZGV2LnRpc3RvcnkuY29tLzQ2IFvtlZjro6jtlZjrgphdCg==</text>
+        <text encoding="base64">CQnstpzsspg6IGh0dHA6Ly9jcGRldi50aXN0b3J5LmNvbS80NiBb7ZWY66Oo7ZWY64KYXW57Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cey2nOyymDogaHR0cDovL2NwZGV2LnRpc3RvcnkuY29tLzQ2IFvtlZjro6jtlZjrgphdCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">7Lac7LKYOiBodHRwOi8vY3BkZXYudGlzdG9yeS5jb20vNDYgW+2VmOujqO2VmOuCmF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">7Lac7LKYOiBodHRwOi8vY3BkZXYudGlzdG9yeS5jb20vNDYgW+2VmOujqO2VmOuCmF0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
