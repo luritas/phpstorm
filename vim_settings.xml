@@ -71,6 +71,12 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-admin/admin-header.php" timestamp="1500987587228">
+        <mark key="'" line="260" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/modern/Document/DocumentStore.php" timestamp="1499535730336">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="16" column="4" />
@@ -332,6 +338,13 @@
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/FileAppender.class" timestamp="1500708592155">
         <mark key="'" line="68" column="34" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-admin/widgets.php" timestamp="1500987491593">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="345" column="54" />
+        <mark key="]" line="345" column="71" />
+        <mark key="." line="345" column="71" />
+        <mark key="^" line="345" column="71" />
+      </file>
       <file name="$USER_HOME$/developements/git/modern/component/scan.php" timestamp="1500146769716">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -388,9 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" />
-      <jump line="52" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/includes/mypage.php" />
       <jump line="25" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" />
       <jump line="116" column="51" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="117" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -488,6 +498,9 @@
       <jump line="18" column="15" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/ServletRegistrationConfig.java" />
       <jump line="16" column="32" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/ServletRegistrationConfig.java" />
       <jump line="18" column="0" filename="$USER_HOME$/developements/git/spring-boot/nh-api/build.gradle" />
+      <jump line="46" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/widgets.php" />
+      <jump line="178" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/admin-header.php" />
+      <jump line="260" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/admin-header.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -539,7 +552,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9ImEiIGlkPSJBIj5BQUFBPC9kaXY+CjxkaXYgY2xhc3M9ImIiPkJCQkI8L2Rpdj4KCgogICAgPHNjcmlwdD4KICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnQScpLmlubmVySFRNTCA9ICdDQ0NDJzsKICAgIDwvc2NyaXB0PgoKCg==</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -551,7 +564,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3RyYXRpb25CZWFuXD4=</text>
@@ -560,34 +573,34 @@
         <text encoding="base64">ICogVGVtcGxhdGUgbmFtZTogYWNjb3VudCBwYWdlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9ImEiIGlkPSJBIj5BQUFBPC9kaXY+CjxkaXYgY2xhc3M9ImIiPkJCQkI8L2Rpdj4KCgogICAgPHNjcmlwdD4KICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnQScpLmlubmVySFRNTCA9ICdDQ0NDJzsKICAgIDwvc2NyaXB0PgoKCg==</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGhlX3Bvc3QoKTsK</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icGFnZS13cmFwcGVyIj4KICAgIDxkaXYgY2xhc3M9InBhZ2UtaW5uZXIiPgogICAgICAgIDxkaXYgY2xhc3M9InBhZ2UtdGl0bGUiPgogICAgICAgICAgICA8Pz0gdGhlX3RpdGxlKCkgPz4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PiA8IS0tcGFnZS1pbm5lci0tPgo8L2Rpdj4KPGRpdiBjbGFzcz0icGFnZS1jb250ZW50Ij4KICAgIDw/PSB0aGVfY29udGVudCgpID8+CiAgICA8ZGl2IGNsYXNzPSJwYWdpbmF0aW9uIj4KICAgICAgICA8Pz0gd3BfbGlua19wYWdlcygpID8+CiAgICA8L2Rpdj4gPCEtLXBhZ2luYXRpb24tLT4KICAgIDxkaXYgc3R5bGU9ImNsZWFyOiBib3RoOyI+PC9kaXY+CiAgICA8P3BocCBpZiAoY29tbWVudHNfb3BlbigpICkgY29tbWVudHNfdGVtcGxhdGUoKTsgPz4KPC9kaXY+PCEtLSAucGFnZS13cmFwcGVyIC0tPgo=</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Kgo=</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnZhcl9kdW1wKCR3cF9xdWVyeSk7CmRpZSgpOwoKCgoK</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHdwX3F1ZXJ5KTsKZGllKCk7Cgo=</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">7Lac7LKYOiBodHRwOi8vb2Vuby50aXN0b3J5LmNvbS8yMSBbT2Vub10K</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmVyc2lvbiA9ICcwLjAuMS1TTkFQU0hPVCcK</text>
+        <text encoding="base64">ZWNobyAnMTIzMTIzMTMxMjMxMic7CmRpZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>56</text>
