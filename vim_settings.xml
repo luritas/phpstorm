@@ -112,11 +112,11 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1500990138381">
-        <mark key="[" line="775" column="51" />
-        <mark key="]" line="775" column="86" />
-        <mark key="." line="775" column="86" />
-        <mark key="^" line="775" column="86" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" timestamp="1500992095782">
+        <mark key="[" line="777" column="49" />
+        <mark key="]" line="777" column="21" />
+        <mark key="." line="777" column="21" />
+        <mark key="^" line="777" column="21" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/NhApiApplication.java" timestamp="1500713987826">
         <mark key="[" line="10" column="0" />
@@ -199,6 +199,12 @@
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/cache/supercache/dev.snsl.kr/view/index.html" timestamp="1500991539956">
+        <mark key="[" line="357" column="73" />
+        <mark key="]" line="357" column="82" />
+        <mark key="." line="357" column="73" />
+        <mark key="^" line="349" column="81" />
+      </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/build.gradle" timestamp="1500714245586">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="17" column="22" />
@@ -245,6 +251,12 @@
         <mark key="]" line="37" column="20" />
         <mark key="." line="37" column="20" />
         <mark key="^" line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1500991446668">
+        <mark key="[" line="7050" column="3" />
+        <mark key="]" line="7050" column="3" />
+        <mark key="." line="7050" column="3" />
+        <mark key="^" line="7050" column="3" />
       </file>
       <file name="/JavaScript Console" timestamp="1499536750025">
         <mark key="[" line="0" column="0" />
@@ -300,7 +312,7 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500989956873">
+      <file name="/Dummy.txt" timestamp="1500992004284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/PatternLayout.class" timestamp="1500708510215">
@@ -570,7 +582,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>wordpress/?page_id=1181</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -582,13 +594,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>wordpress/?page_id=1181</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHN0eWxlPSJjb2xvcjogd2hpdGU7Ig==</text>
+        <text>view/news</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICAgIDw/cGhwIGlmIChnZXRfb3B0aW9uKCdyYl9vX2Z0cmFyZWFzJywgJ2ZvdXInKSA9PSAnZm91cicpIDogPz4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW4zIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ia3Jvd24tY29sdW1uLWNvbnRhaW5lciBzcGFuMyBjbGVhcmZpeCI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGlzX2FjdGl2ZV9zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzInKSkKICAgICAgICAgICAgICAgICAgICAgICAgZHluYW1pY19zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzInKTsgPz4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjMgY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChpc19hY3RpdmVfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8zJykpCiAgICAgICAgICAgICAgICAgICAgICAgIGR5bmFtaWNfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8zJyk7ID8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW4zIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfNCcpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfNCcpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKGdldF9vcHRpb24oJ3JiX29fZnRyYXJlYXMnKSA9PSAndGhyZWUnKSA6ID8+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ia3Jvd24tY29sdW1uLWNvbnRhaW5lciBzcGFuNCI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGlzX2FjdGl2ZV9zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzEnKSkKICAgICAgICAgICAgICAgICAgICAgICAgZHluYW1pY19zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzEnKTsgPz4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjQgY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChpc19hY3RpdmVfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8yJykpCiAgICAgICAgICAgICAgICAgICAgICAgIGR5bmFtaWNfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8yJyk7ID8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW40Ij4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMycpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMycpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKGdldF9vcHRpb24oJ3JiX29fZnRyYXJlYXMnKSA9PSAndHdvJykgOiA/PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjYiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChpc19hY3RpdmVfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8xJykpCiAgICAgICAgICAgICAgICAgICAgICAgIGR5bmFtaWNfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8xJyk7ID8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW42Ij4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMicpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMicpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKGdldF9vcHRpb24oJ3JiX29fZnRyYXJlYXMnKSA9PSAnb25lJykgOiA/PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjEyIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4K</text>
