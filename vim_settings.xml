@@ -150,6 +150,12 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/developements/git/modern/composer.json" timestamp="1501420827109">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="33" />
+      </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/resources/exafe_ota_client_process.log" timestamp="1500713593557">
         <mark key="'" line="413" column="0" />
       </file>
@@ -591,8 +597,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -604,7 +610,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
