@@ -73,7 +73,6 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/vendor/league/csv/composer.json" timestamp="1501419348707" />
       <file name="$USER_HOME$/developements/git/spring-boot/nhapi/src/main/resources/templates/new.html" timestamp="1500476364223">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="56" />
@@ -143,6 +142,11 @@
         <mark key="]" line="2" column="93" />
         <mark key="." line="2" column="93" />
         <mark key="^" line="2" column="93" />
+      </file>
+      <file name="$USER_HOME$/developements/git/modern/filter/example.php" timestamp="1501676760328">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/luritas/scanner/Url/Scanner.php" timestamp="1501419426135">
         <mark key="[" line="1" column="25" />
@@ -322,7 +326,7 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500992004284">
+      <file name="/Dummy.txt" timestamp="1501677231752">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/PatternLayout.class" timestamp="1500708510215">
@@ -405,6 +409,11 @@
         <mark key="]" line="28" column="16" />
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
+      </file>
+      <file name="$USER_HOME$/developements/laravel-web/myapp/phpunit.xml" timestamp="1501677228437">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/child/functions.php" timestamp="1500830264632">
         <mark key="[" line="11" column="1" />
@@ -598,7 +607,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>{</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -610,7 +619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -619,34 +628,34 @@
         <text encoding="base64">JGxvZy0+cHVzaEhhbmRsZXIobmV3IFN0cmVhbUhhbmRsZXIoJ2Rldi5sb2cnLCBMb2dnZXI6OkRFQlVHKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmlsdGVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyBfX0RJUl9fLlBIUF9FT0w7Cg==</text>
+        <text encoding="base64">JGZsYWcgPSBmaWx0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyBfX0ZJTEVfXy5QSFBfRU9MOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAkcGF0aC5QSFBfRU9MOwpkaWUoKTsK</text>
+        <text encoding="base64">ZWNobyBfX0RJUl9fLlBIUF9FT0w7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyBkaXJuYW1lKF9fRklMRV9fKTsK</text>
+        <text encoding="base64">ZWNobyBfX0ZJTEVfXy5QSFBfRU9MOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyBkaXIoJy4vJywgJzExJyk7Cg==</text>
+        <text encoding="base64">ZWNobyAkcGF0aC5QSFBfRU9MOwpkaWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWJzZGZhZgo=</text>
+        <text encoding="base64">ZWNobyBkaXJuYW1lKF9fRklMRV9fKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIE1vbm9sb2dcCg==</text>
+        <text encoding="base64">ZWNobyBkaXIoJy4vJywgJzExJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWJzZGZhZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
