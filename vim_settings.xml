@@ -439,9 +439,12 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/developements/git/modern/database/transaction.php" timestamp="1501775705079">
+      <file name="$USER_HOME$/developements/git/modern/database/transaction.php" timestamp="1501777126454">
         <mark key="'" line="46" column="10" />
-        <mark key="[" line="58" column="41" />
+        <mark key="[" line="72" column="11" />
+        <mark key="]" line="72" column="20" />
+        <mark key="." line="72" column="20" />
+        <mark key="^" line="72" column="20" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/closure/arrayFilter.php" timestamp="1499579501605">
         <mark key="[" line="4" column="0" />
@@ -629,8 +632,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC4gUEhQX0VPTDs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -642,7 +645,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gUEhQX0VPTDs=</text>
+        <text>6379</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
@@ -651,34 +654,34 @@
         <text encoding="base64">JGZyb21BY2NvdW50ID0gJzEnOwokd2l0aGRyYXdhbCA9IDUwOwokc3RtdFN1YnRyYWN0LT5iaW5kUGFyYW0oJzpuYW1lJywgJGZyb21BY2NvdW50KTsKJHN0bXRTdWJ0cmFjdC0+YmluZFBhcmFtKCc6YW1vdW50JywgJHdpdGhkcmF3YWwsIFBETzo6UEFSQU1fSU5UKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAobWVtb3J5X2dldF9wZWFrX3VzYWdlKCkgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJ5IHsK</text>
+        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICfsv7zrpqwg7JeQ65+sJyAuIFBIUF9FT0w7Cn0K</text>
+        <text encoding="base64">Y2xhc3MgTXlfSm9iCnsKICAgIHB1YmxpYyBmdW5jdGlvbiBwZXJmb3JtKCkKICAgIHsKICAgICAgICAvLyBXb3JrIHdvcmsgd29yawogICAgICAgIGVjaG8gJHRoaXMtPmFyZ3NbJ25hbWUnXTsKICAgIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRwZG8tPmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
+        <text encoding="base64">dmFyX2R1bXAobWVtb3J5X2dldF9wZWFrX3VzYWdlKCkgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRwZG8tPmNvbW1pdCgpOwo=</text>
+        <text encoding="base64">dHJ5IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGUtPmdldE1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">fSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICfsv7zrpqwg7JeQ65+sJyAuIFBIUF9FT0w7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHN0bXRBZGQpOwo=</text>
+        <text encoding="base64">ICAgICRwZG8tPmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzdG10QWRkLT4K</text>
+        <text encoding="base64">ICAgICRwZG8tPmNvbW1pdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gJGUtPmdldE1lc3NhZ2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
