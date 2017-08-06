@@ -59,6 +59,11 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/views/welcome.blade.php" timestamp="1502003641090">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nhapi/src/main/java/kr/pineapples/nhapi/PostController.java" timestamp="1500476208883">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="16" column="4" />
@@ -95,6 +100,7 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/package.json" timestamp="1502003230822" />
       <file name="$USER_HOME$/developements/git/modern/Document/HtmlDocument.php" timestamp="1499536116178">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -124,6 +130,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="8" column="67" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatMessage.vue" timestamp="1502003349770">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/luritas/category.php" timestamp="1499882478103">
         <mark key="[" line="28" column="6" />
         <mark key="]" line="19" column="26" />
@@ -135,6 +147,18 @@
         <mark key="]" line="2" column="93" />
         <mark key="." line="2" column="93" />
         <mark key="^" line="2" column="93" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/routes/web.php" timestamp="1502003729847">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/components/Todo.vue" timestamp="1502009914031">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/Document/StreamDocument.php" timestamp="1499566790550">
         <mark key="[" line="29" column="0" />
@@ -196,11 +220,23 @@
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatComposer.vue" timestamp="1502003082781">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="11" column="30" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/cache/supercache/dev.snsl.kr/view/index.html" timestamp="1500991539956">
         <mark key="[" line="357" column="73" />
         <mark key="]" line="357" column="82" />
         <mark key="." line="357" column="73" />
         <mark key="^" line="349" column="81" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" timestamp="1502003497195">
+        <mark key="'" line="2" column="51" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/build.gradle" timestamp="1500714245586">
         <mark key="'" line="18" column="0" />
@@ -250,6 +286,11 @@
         <mark key="." line="7050" column="3" />
         <mark key="^" line="7050" column="3" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/app.js" timestamp="1502011688136">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1499536750025">
         <mark key="[" line="0" column="0" />
       </file>
@@ -258,6 +299,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/views/vue.blade.php" timestamp="1502011680855">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/ServletRegistrationConfig.java" timestamp="1500713761344">
         <mark key="'" line="16" column="32" />
@@ -304,7 +351,7 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501985027057">
+      <file name="/Dummy.txt" timestamp="1502002409100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1500990438078">
@@ -330,6 +377,13 @@
         <mark key="[" line="14" column="105" />
         <mark key="]" line="14" column="105" />
         <mark key="." line="14" column="105" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/views/vue.php" timestamp="1502011550937">
+        <mark key="'" line="11" column="5" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/update-user.php" timestamp="1499608802706">
         <mark key="[" line="2" column="18" />
@@ -372,15 +426,17 @@
         <mark key="^" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/account.php" timestamp="1500903628447">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
-      </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/child/functions.php" timestamp="1500830264632">
         <mark key="[" line="11" column="1" />
         <mark key="]" line="10" column="19" />
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/views/chat.blade.php" timestamp="1502001608864">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/closure/arrayFilter.php" timestamp="1499579501605">
         <mark key="[" line="4" column="0" />
@@ -417,15 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="237" column="58" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="239" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="240" column="58" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="242" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="243" column="58" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="245" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="246" column="58" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="141" column="67" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="236" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="48" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="133" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
@@ -517,6 +564,15 @@
       <jump line="59" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="91" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="53" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/footer.php" />
+      <jump line="11" column="23" filename="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" />
+      <jump line="10" column="16" filename="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" />
+      <jump line="27" column="20" filename="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" />
+      <jump line="16" column="24" filename="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" />
+      <jump line="12" column="24" filename="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" />
+      <jump line="2" column="51" filename="$USER_HOME$/developements/git/bus/resources/assets/js/components/ChatLog.vue" />
+      <jump line="19" column="12" filename="$USER_HOME$/developements/git/bus/resources/views/vue.blade.php" />
+      <jump line="11" column="8" filename="$USER_HOME$/developements/git/bus/resources/views/vue.blade.php" />
+      <jump line="11" column="5" filename="$USER_HOME$/developements/git/bus/resources/views/vue.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -567,8 +623,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>https://drive.google.com/file/d/0B43icJc1roaWaDNYMEFKSlI4WkE/view?usp=sharing</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIGFwcCA9IG5ldyBWdWUoewogICAgZWw6ICcjYXBwJywKICAgIGRhdGE6IHsKICAgICAgICBtZXNzYWdlOiAnaGkgdnVlJywKICAgIH0KfSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -580,52 +636,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>https://drive.google.com/file/d/0B43icJc1roaWaDNYMEFKSlI4WkE/view?usp=sharing</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>echo</text>
+        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogI2I4MDAwMDsiPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMEI0M2ljSmMxcm9hV2FETllNRUZLU2xJNFdrRS92aWV3P3VzcD1zaGFyaW5nIj7snbTsmqnslb3qtIA8L2E+PC9zcGFuPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBpZDogMCwgdGV4dDogJ1ZlZ2V0YWJsZXMnIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogd2hpdDsiPiB8ICjso7wp7JeQ7Iqk7JWk7JeQ7Iqk66CM65Sp7J2AIO2IrOyekOybkOq4iOqzvCDsiJjsnbXsnYQg67O07J6l7ZWY7KeAIOyViuycvOupsCwg7Yis7J6Q7IaQ7Iuk7JeQIOuMgO2VnCDssYXsnoTsnYAg66qo65GQIO2IrOyekOyekOyXkOqyjCDsnojsirXri4jri6QuICjtnbDsg4kg67O865Oc7LK066GcKTwvc3Bhbj48L3A+Cg==</text>
+        <text encoding="base64">dmFyIGFwcCA9IG5ldyBWdWUoewogICAgZWw6ICcjYXBwJywKICAgIGRhdGE6IHsKICAgICAgICBtZXNzYWdlOiAnaGkgdnVlJywKICAgIH0KfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0id2lkZ2V0LXRpdGxlIj4o7KO8KeyXkOyKpOyVpOyXkOyKpOugjOuUqTwvaDQ+CiAgICAgICAgICAgICAgICA8aDEgc3R5bGU9ImNvbG9yOiB3aGl0ZTsiPuyKpOy6hyDsoIDtlZzthYwg65Ok7Ja06rCIIOuCtOyaqSDslYzroKTso7zshLjsmpQ8L2gxPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0id2lkZ2V0LXRpdGxlIj4o7KO8KeyXkOyKpOyVpOyXkOyKpOugjOuUqTwvaDQ+CiAgICAgICAgICAgICAgICA8aDEgc3R5bGU9ImNvbG9yOiB3aGl0ZTsiPuyKpOy6hyDquLDsobTsl5Ag7I28642Y6rGwIOyngOybjOuyhOuguOuEpOyalOOFoOOFoCDsoIDtlZzthYwg64uk7IucIOyVjOugpOyjvOyEuOyalDwvaDE+Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0id2lkZ2V0LXRpdGxlIj4o7KO8KeyXkOyKpOyVpOyXkOyKpOugjOuUqTwvaDQ+CiAgICAgICAgICAgICAgICA8aDEgc3R5bGU9ImNvbG9yOiB3aGl0ZTsiPuyKpOy6hyDsoIDtlZzthYwg65Ok7Ja06rCIIOuCtOyaqSDslYzroKTso7zshLjsmpQ8L2gxPgo=</text>
+        <text encoding="base64">ICAgIHt7IG1lc3NhZ2UgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDw/cGhwIGlmIChnZXRfb3B0aW9uKCdyYl9vX2Z0cmFyZWFzJywgJ2ZvdXInKSA9PSAnZm91cicpIDogPz4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW4zIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ia3Jvd24tY29sdW1uLWNvbnRhaW5lciBzcGFuMyBjbGVhcmZpeCI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGlzX2FjdGl2ZV9zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzInKSkKICAgICAgICAgICAgICAgICAgICAgICAgZHluYW1pY19zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzInKTsgPz4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjMgY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChpc19hY3RpdmVfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8zJykpCiAgICAgICAgICAgICAgICAgICAgICAgIGR5bmFtaWNfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8zJyk7ID8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW4zIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfNCcpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfNCcpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKGdldF9vcHRpb24oJ3JiX29fZnRyYXJlYXMnKSA9PSAndGhyZWUnKSA6ID8+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ia3Jvd24tY29sdW1uLWNvbnRhaW5lciBzcGFuNCI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGlzX2FjdGl2ZV9zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzEnKSkKICAgICAgICAgICAgICAgICAgICAgICAgZHluYW1pY19zaWRlYmFyKCdrcm93bl9mb290ZXJfd2lkZ2V0XzEnKTsgPz4KICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjQgY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChpc19hY3RpdmVfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8yJykpCiAgICAgICAgICAgICAgICAgICAgICAgIGR5bmFtaWNfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8yJyk7ID8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW40Ij4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMycpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMycpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKGdldF9vcHRpb24oJ3JiX29fZnRyYXJlYXMnKSA9PSAndHdvJykgOiA/PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjYiPgogICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmIChpc19hY3RpdmVfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8xJykpCiAgICAgICAgICAgICAgICAgICAgICAgIGR5bmFtaWNfc2lkZWJhcigna3Jvd25fZm9vdGVyX3dpZGdldF8xJyk7ID8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJrcm93bi1jb2x1bW4tY29udGFpbmVyIHNwYW42Ij4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMicpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMicpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbHNlaWYgKGdldF9vcHRpb24oJ3JiX29fZnRyYXJlYXMnKSA9PSAnb25lJykgOiA/PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Imtyb3duLWNvbHVtbi1jb250YWluZXIgc3BhbjEyIj4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoaXNfYWN0aXZlX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpKQogICAgICAgICAgICAgICAgICAgICAgICBkeW5hbWljX3NpZGViYXIoJ2tyb3duX2Zvb3Rlcl93aWRnZXRfMScpOyA/PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4K</text>
+        <text encoding="base64">Ly8gfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogIzk5OTk5OTsiPiB8IOyCrOyXheyekOuTseuhneuyiO2YuCAyNTgtODctMTExMTEgPC9zcGFuPjwvcD4KICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogIzk5OTk5OTsiPnwg7ISc7Jq47Yq567OE7IucIOyEnOy0iOq1rCDqsJXrgqjrjIDroZwgMDAsIDAwIDwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICA8cD48c3BhbiBzdHlsZT0iY29sb3I6ICM5OTk5OTk7Ij58IFRFTCAwMi0xMTEtMTExMSAvIEZBWC4gMDItMTExLTExMTE8L3NwYW4+PC9wPgogICAgICAgICAgICAgICAgPHA+PHNwYW4gc3R5bGU9ImNvbG9yOiAjOTk5OTk5OyI+IHwg7Ya17Iug7YyQ66ek7JeFIDIwMTct7ISc7Jq444WH44WHLTExMTEgMzQ8L3NwYW4+PC9wPgo=</text>
+        <text encoding="base64">ICAgIHZhciBhcHAgPSBuZXcgVnVlKHsKICAgICAgICBlbDogJyNhcHAnLAogICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgbWVzc2FnZTogJ2hpIHZ1ZScsCiAgICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogIzk5OTk5OTsiPiB8IOyCrOyXheyekOuTseuhneuyiO2YuCAyNTgtODctMTExMTEgPC9zcGFuPjwvcD4KICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogIzk5OTk5OTsiPnwg7ISc7Jq47Yq567OE7IucIOyEnOy0iOq1rCDqsJXrgqjrjIDroZwgMDAsIDAwIDwvc3Bhbj48L3A+CiAgICAgICAgICAgICAgICA8cD48c3BhbiBzdHlsZT0iY29sb3I6ICM5OTk5OTk7Ij58IFRFTCAwMi0xMTEtMTExMSAvIEZBWC4gMDItMTExLTExMTE8L3NwYW4+PC9wPgogICAgICAgICAgICAgICAgPHA+PHNwYW4gc3R5bGU9ImNvbG9yOiAjOTk5OTk5OyI+IHwg7Ya17Iug7YyQ66ek7JeFIDIwMTct7ISc7Jq444WH44WHLTExMTEgMzQ8L3NwYW4+PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBWdWUgZnJvbSAndnVlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImpzL2FwcC5qcyIgY2hhcnNldD0idXRmLTgiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>echo</last-search>
+      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>echo</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -633,9 +689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>닫기</entry>
-        <entry>호출</entry>
-        <entry>main</entry>
         <entry encoding="base64">XDxXUF9ERUJVR1w+</entry>
         <entry>debug</entry>
         <entry>WP_DEBUG</entry>
@@ -653,6 +706,9 @@
         <entry>자세히 보기</entry>
         <entry>eho</entry>
         <entry>echo</entry>
+        <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
+        <entry encoding="base64">XDw+XD4=</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>5437</entry>
