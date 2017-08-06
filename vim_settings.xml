@@ -237,11 +237,12 @@
       <file name="/PHP Console" timestamp="1499595849095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/footer.php" timestamp="1501985369314">
-        <mark key="[" line="45" column="114" />
-        <mark key="]" line="45" column="123" />
-        <mark key="." line="45" column="114" />
-        <mark key="^" line="45" column="124" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/footer.php" timestamp="1501988510501">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="48" column="136" />
+        <mark key="]" line="47" column="150" />
+        <mark key="." line="47" column="150" />
+        <mark key="^" line="47" column="150" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1500991446668">
         <mark key="[" line="7050" column="3" />
@@ -416,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="235" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="237" column="58" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="239" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
@@ -516,6 +516,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-admin/widgets.php" />
       <jump line="59" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="91" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/footer.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -567,7 +568,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9zdHJvbmc+</text>
+        <text>https://drive.google.com/file/d/0B43icJc1roaWaDNYMEFKSlI4WkE/view?usp=sharing</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -579,13 +580,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zdHJvbmc+</text>
+        <text>https://drive.google.com/file/d/0B43icJc1roaWaDNYMEFKSlI4WkE/view?usp=sharing</text>
       </register>
       <register name="/" type="4">
         <text>echo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogIzk5OTk5OTsiPiB8IDA3MC03NTIyLTY0NTU8L3NwYW4+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogI2I4MDAwMDsiPjxhIGhyZWY9Imh0dHBzOi8vZHJpdmUuZ29vZ2xlLmNvbS9maWxlL2QvMEI0M2ljSmMxcm9hV2FETllNRUZLU2xJNFdrRS92aWV3P3VzcD1zaGFyaW5nIj7snbTsmqnslb3qtIA8L2E+PC9zcGFuPjwvcD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxzcGFuIHN0eWxlPSJjb2xvcjogd2hpdDsiPiB8ICjso7wp7JeQ7Iqk7JWk7JeQ7Iqk66CM65Sp7J2AIO2IrOyekOybkOq4iOqzvCDsiJjsnbXsnYQg67O07J6l7ZWY7KeAIOyViuycvOupsCwg7Yis7J6Q7IaQ7Iuk7JeQIOuMgO2VnCDssYXsnoTsnYAg66qo65GQIO2IrOyekOyekOyXkOqyjCDsnojsirXri4jri6QuICjtnbDsg4kg67O865Oc7LK066GcKTwvc3Bhbj48L3A+Cg==</text>
