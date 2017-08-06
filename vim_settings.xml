@@ -148,11 +148,11 @@
         <mark key="." line="2" column="93" />
         <mark key="^" line="2" column="93" />
       </file>
-      <file name="$USER_HOME$/developements/git/bus/routes/web.php" timestamp="1502003729847">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/developements/git/bus/routes/web.php" timestamp="1502012495506">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="152" />
+        <mark key="." line="27" column="152" />
+        <mark key="^" line="27" column="152" />
       </file>
       <file name="$USER_HOME$/developements/git/bus/resources/assets/js/components/Todo.vue" timestamp="1502009914031">
         <mark key="[" line="0" column="0" />
@@ -623,8 +623,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IG5ldyBWdWUoewogICAgZWw6ICcjYXBwJywKICAgIGRhdGE6IHsKICAgICAgICBtZXNzYWdlOiAnaGkgdnVlJywKICAgIH0KfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>서비스키</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -636,7 +636,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>서비스키</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
