@@ -73,6 +73,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/views/welcome.blade.php" timestamp="1502000807805">
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="11" column="89" />
+      </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nhapi/src/main/java/kr/pineapples/nhapi/PostController.java" timestamp="1500476208883">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="16" column="4" />
@@ -153,6 +159,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/routes/web.php" timestamp="1502001116252">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/luritas/scanner/Url/Scanner.php" timestamp="1501419426135">
         <mark key="[" line="1" column="25" />
@@ -298,6 +310,12 @@
         <mark key="." line="7050" column="3" />
         <mark key="^" line="7050" column="3" />
       </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/app.js" timestamp="1502000699829">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1501771559183">
         <mark key="[" line="0" column="0" />
       </file>
@@ -327,6 +345,12 @@
         <mark key="]" line="14" column="32" />
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/assets/js/routes.js" timestamp="1502000457002">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="51" />
       </file>
       <file name="/dummy.sql" timestamp="1500703333385">
         <mark key="[" line="0" column="0" />
@@ -448,6 +472,12 @@
         <mark key="]" line="72" column="20" />
         <mark key="." line="72" column="20" />
         <mark key="^" line="72" column="20" />
+      </file>
+      <file name="$USER_HOME$/developements/git/bus/resources/views/chat.blade.php" timestamp="1502001213219">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="39" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/closure/arrayFilter.php" timestamp="1499579501605">
         <mark key="[" line="4" column="0" />
@@ -635,7 +665,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -647,43 +677,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>6379</text>
+        <text encoding="base64">IHJlbD0ic3R5bGVzaGVldCI=</text>
       </register>
       <register name="/" type="4">
         <text>script</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGZyb21BY2NvdW50ID0gJzEnOwokd2l0aGRyYXdhbCA9IDUwOwokc3RtdFN1YnRyYWN0LT5iaW5kUGFyYW0oJzpuYW1lJywgJGZyb21BY2NvdW50KTsKJHN0bXRTdWJ0cmFjdC0+YmluZFBhcmFtKCc6YW1vdW50JywgJHdpdGhkcmF3YWwsIFBETzo6UEFSQU1fSU5UKTsK</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5DaGF0cm9vbTwvdGl0bGU+CiAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIGRkKCBhc3NldCgnanMvYXBwLmpzJykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTXlfSm9iCnsKICAgIHB1YmxpYyBmdW5jdGlvbiBwZXJmb3JtKCkKICAgIHsKICAgICAgICAvLyBXb3JrIHdvcmsgd29yawogICAgICAgIGVjaG8gJHRoaXMtPmFyZ3NbJ25hbWUnXTsKICAgIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IFZ1ZVJvdXRlciBmcm9tICd2dWUtcm91dGVyJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyX2R1bXAobWVtb3J5X2dldF9wZWFrX3VzYWdlKCkgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">d2luZG93LlZ1ZSA9IHJlcXVpcmUoJ3Z1ZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHJ5IHsK</text>
+        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSBjYXRjaCAoRXhjZXB0aW9uICRlKSB7CiAgICBlY2hvICfsv7zrpqwg7JeQ65+sJyAuIFBIUF9FT0w7Cn0K</text>
+        <text encoding="base64">dmFyX2R1bXAocmVhbHBhdGhfY2FjaGVfc2l6ZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRwZG8tPmJlZ2luVHJhbnNhY3Rpb24oKTsK</text>
+        <text encoding="base64">Y2xhc3MgTXlfSm9iCnsKICAgIHB1YmxpYyBmdW5jdGlvbiBwZXJmb3JtKCkKICAgIHsKICAgICAgICAvLyBXb3JrIHdvcmsgd29yawogICAgICAgIGVjaG8gJHRoaXMtPmFyZ3NbJ25hbWUnXTsKICAgIH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRwZG8tPmNvbW1pdCgpOwo=</text>
+        <text encoding="base64">dmFyX2R1bXAobWVtb3J5X2dldF9wZWFrX3VzYWdlKCkgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGUtPmdldE1lc3NhZ2UoKTsK</text>
+        <text encoding="base64">dHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
