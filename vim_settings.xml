@@ -89,6 +89,12 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/sass/style.scss" timestamp="1502506998878">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/pluggable.php" timestamp="1498991026913">
         <mark key="[" line="1508" column="17" />
         <mark key="]" line="1508" column="23" />
@@ -101,7 +107,6 @@
         <mark key="^" line="24" column="41" />
         <mark key="." line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/developements/git/bus/package.json" timestamp="1502003230822" />
       <file name="$USER_HOME$/developements/git/modern/Document/HtmlDocument.php" timestamp="1499536116178">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -434,6 +439,9 @@
         <mark key="." line="440" column="53" />
         <mark key="^" line="440" column="53" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/sass/style.css" timestamp="1502507000874">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/modern/component/scan.php" timestamp="1500146769716">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -492,17 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="269" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="20" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="22" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="24" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="38" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="40" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="43" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="55" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="57" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="137" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
       <jump line="9" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
       <jump line="109" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
       <jump line="136" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
@@ -592,6 +589,17 @@
       <jump line="25" column="34" filename="$USER_HOME$/developements/git/bus/resources/assets/js/app.js" />
       <jump line="28" column="50" filename="$USER_HOME$/developements/git/bus/resources/views/index.php" />
       <jump line="76" column="13" filename="$USER_HOME$/developements/git/bus/resources/views/index.php" />
+      <jump line="18" column="11" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="23" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="29" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="13" column="17" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="15" column="2" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="47" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="45" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="24" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.css" />
+      <jump line="39" column="4" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="10" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -642,8 +650,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVzcG9uc2UoKS0+anNvbigsMjAwLCBbXSwgSlNPTl9QUkVUVFlfUFJJTlQpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBncmVlbjsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -655,7 +663,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzcG9uc2UoKS0+anNvbigsMjAwLCBbXSwgSlNPTl9QUkVUVFlfUFJJTlQpOw==</text>
+        <text encoding="base64">ICFnbG9iYWw7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93TW9kYWxcPg==</text>
@@ -664,34 +672,34 @@
         <text encoding="base64">ICAgICAgICA8YnV0dG9uIHYtb246Y2xpY2s9ImluY3JlbWVudCI+7Kad6rCAPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiB2LW9uOmNsaWNrPSJkZWNyZW1lbnQiPuqwkOyImDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXNwb25zZSgpLT5qc29uKCRjb2wsMjAwLCBbXSwgSlNPTl9QUkVUVFlfUFJJTlQpOwo=</text>
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBncmVlbjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkY29sLT50b0pzb24oKQo=</text>
+        <text encoding="base64">ICBAZXh0ZW5kIC5ib3g7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICRjb2wtPmNvbnRhaW5zKCdEZXNrJyk7CiAgICAkY29sLT5jb25jYXQoMTAxKTsK</text>
+        <text encoding="base64">JHByaW1hcnktY29sb3I6ICMzMzM7Cgpib2R5IHsKICAkcHJpbWFyeS1jb2xvcjogI2VlZTsKICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1jb2xvcjsKfQoKcCB7CiAgY29sb3I6ICRwcmltYXJ5LWNvbG9yOwp9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGNvbGxlY3Rpb24gPSBjb2xsZWN0KFsxLDIsMyw0LF0pOwo=</text>
+        <text encoding="base64">ICAkcHJpbWFyeS1jb2xvcjogI2VlZSAhZ2xvYmFsOzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGNvbGxlY3Rpb24gPSBjb2xsZWN0KFsxLDIsMyw0LF0pOwo=</text>
+        <text encoding="base64">ICAkcHJpbWFyeS1jb2xvcjogI2VlZSAhZ2xvYmFsOzsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICRjb2wtPgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">JG1haW4tY29sb3I6ICNjZTRkZDY7CiRzdHlsZTogc29saWQ7CgojbmF2YmFyIHsKICAkbmF2YmFyLXdpZHRoOiA4MDBweDsKICAkaXRlbXM6IDU7CiAgJG5hdmJhci1jb2xvcjogI2NlNGRkNjsKICB3aWRodDogJG5hdmJhci13aWR0aDsKICBib3JkZXItYm90dG9tOiAycHggc29saWQgJG5hdmJhci1jb2xvcjsKICB3aWR0aDogODAlOwogIGhlaWdodDogMjNweDsKCiAgdWwgeyBsaXN0LXN0eWxlLXR5cGU6IG5vbmUgfQogIGxpIHsKICAgIGZsb2F0OiBsZWZ0OwogICAgd2lkdGg6ICRuYXZiYXItd2lkdGgvJGl0ZW1zIC0gMTBweDsKCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodGVuKCRuYXZiYXItY29sb3IsIDIwJSk7CiAgICAmOmhvdmVyIHsKICAgICAgYmFja2dyb3VuZC1jb2xvcjogbGlnaHRlbigkbmF2YmFyLWNvbG9yLCAxMCUpOwogICAgfQogICAgIGEgeyBmb250LXdlaWdodDogYm9sZDsgfQogIH0KCiAgYm9yZGVyLWJvdHRvbTogewogICAgY29sb3I6ICRtYWluLWNvbG9yOwogICAgc3R5bGU6ICRzdHlsZTsKICB9Cn0KCi5mYWtlc2hhZG93IHsKICBib3JkZXI6IHsKICAgIHN0eWxlOiBzb2xpZDsKICAgIGxlZnQ6IHsKICAgICAgd2lkdGg6IDRweDsKICAgICAgY29sb3I6ICM4ODg7CiAgICB9CiAgICByaWdodDogewogICAgICB3aWR0aDogMnB4OwogICAgICBjb2xvcjogI2NjYzsKICAgIH0KICB9Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSB7CiAgY29sb3I6ICNjZTRkZDY7CiAgJjpob3ZlciB7IGNvbG9yOiAjZmZiM2ZmOyB9CiAgJjp2aXNpdGVkIHsgY29sb3I6ICNjNDU4Y2I7IH0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Um91dGU6Ogo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctY29sb3I6ICRtYWluLWNvbG9yOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIHYtZm9yPSJ0b2RvIGluIHRvZG9zIj57eyB0b2RvLnRleHQgfX08L2xpPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
