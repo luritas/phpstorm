@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/routes/web.php" timestamp="1502508607973" />
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/resources/templates/greeting.html" timestamp="1500707519721">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="6" />
@@ -160,6 +161,13 @@
         <mark key="." line="18" column="11" />
         <mark key="^" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" timestamp="1502508444321">
+        <mark key="'" line="70" column="19" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="69" column="15" />
+      </file>
       <file name="$USER_HOME$/developements/git/bus/resources/assets/js/components/Todo.vue" timestamp="1502009914031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -177,6 +185,12 @@
         <mark key="]" line="13" column="42" />
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/webpack.mix.js" timestamp="1502508033853">
+        <mark key="[" line="14" column="56" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+        <mark key="." line="14" column="65" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/closure/arrayMap.php" timestamp="1499570293276">
         <mark key="[" line="6" column="8" />
@@ -261,6 +275,12 @@
         <mark key="]" line="2" column="35" />
         <mark key="." line="2" column="35" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/resources/views/home.blade.php" timestamp="1502508528685">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/snsl/nh-api/build.gradle" timestamp="1500716075829">
         <mark key="[" line="13" column="0" />
@@ -352,6 +372,11 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/app/Http/Controllers/HomeController.php" timestamp="1502508650178">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1500703333385">
         <mark key="[" line="0" column="0" />
       </file>
@@ -433,6 +458,9 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/components/Example.vue" timestamp="1502508440798">
+        <mark key="'" line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-admin/widgets.php" timestamp="1500989152644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="440" column="53" />
@@ -452,6 +480,9 @@
         <mark key="]" line="4" column="56" />
         <mark key="^" line="4" column="56" />
         <mark key="." line="4" column="56" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/app.js" timestamp="1502508439353">
+        <mark key="'" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/child/functions.php" timestamp="1500830264632">
         <mark key="[" line="11" column="1" />
@@ -500,12 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="109" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="136" column="53" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
-      <jump line="37" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="20" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/developements/git/gs-spring-boot/complete/build.gradle" />
       <jump line="17" column="4" filename="$USER_HOME$/developements/git/spring-boot/nhapi/src/main/java/kr/pineapples/nhapi/Post.java" />
       <jump line="17" column="13" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
       <jump line="11" column="13" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/PatternLayout.class" />
@@ -600,6 +625,12 @@
       <jump line="39" column="4" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
       <jump line="10" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
       <jump line="1" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
+      <jump line="19" column="25" filename="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" />
+      <jump line="17" column="15" filename="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/app.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/components/Example.vue" />
+      <jump line="8" column="31" filename="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/components/Example.vue" />
+      <jump line="69" column="15" filename="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" />
+      <jump line="70" column="19" filename="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -651,7 +682,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBncmVlbjsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICcxMjMxMjMyMyc7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -663,52 +694,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICFnbG9iYWw7</text>
+        <text>oot</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93TW9kYWxcPg==</text>
+        <text encoding="base64">XDxleGFtcGxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIHYtb246Y2xpY2s9ImluY3JlbWVudCI+7Kad6rCAPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiB2LW9uOmNsaWNrPSJkZWNyZW1lbnQiPuqwkOyImDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Int7IG1peCgnL2Nzcy9hcHAuY3NzJykgfX0iPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBncmVlbjsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICcxMjMxMjMyMyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAZXh0ZW5kIC5ib3g7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JHByaW1hcnktY29sb3I6ICMzMzM7Cgpib2R5IHsKICAkcHJpbWFyeS1jb2xvcjogI2VlZTsKICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1jb2xvcjsKfQoKcCB7CiAgY29sb3I6ICRwcmltYXJ5LWNvbG9yOwp9Cgo=</text>
+        <text encoding="base64">ICAgIDxleGFtcGxlPjwvZXhhbXBsZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAkcHJpbWFyeS1jb2xvcjogI2VlZSAhZ2xvYmFsOzsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPu2VmOydtOyXvDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkcHJpbWFyeS1jb2xvcjogI2VlZSAhZ2xvYmFsOzsK</text>
+        <text encoding="base64">ICAgICAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Int7IG1peCgnL2Nzcy9hcHAuY3NzJykgfX0iPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JG1haW4tY29sb3I6ICNjZTRkZDY7CiRzdHlsZTogc29saWQ7CgojbmF2YmFyIHsKICAkbmF2YmFyLXdpZHRoOiA4MDBweDsKICAkaXRlbXM6IDU7CiAgJG5hdmJhci1jb2xvcjogI2NlNGRkNjsKICB3aWRodDogJG5hdmJhci13aWR0aDsKICBib3JkZXItYm90dG9tOiAycHggc29saWQgJG5hdmJhci1jb2xvcjsKICB3aWR0aDogODAlOwogIGhlaWdodDogMjNweDsKCiAgdWwgeyBsaXN0LXN0eWxlLXR5cGU6IG5vbmUgfQogIGxpIHsKICAgIGZsb2F0OiBsZWZ0OwogICAgd2lkdGg6ICRuYXZiYXItd2lkdGgvJGl0ZW1zIC0gMTBweDsKCiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodGVuKCRuYXZiYXItY29sb3IsIDIwJSk7CiAgICAmOmhvdmVyIHsKICAgICAgYmFja2dyb3VuZC1jb2xvcjogbGlnaHRlbigkbmF2YmFyLWNvbG9yLCAxMCUpOwogICAgfQogICAgIGEgeyBmb250LXdlaWdodDogYm9sZDsgfQogIH0KCiAgYm9yZGVyLWJvdHRvbTogewogICAgY29sb3I6ICRtYWluLWNvbG9yOwogICAgc3R5bGU6ICRzdHlsZTsKICB9Cn0KCi5mYWtlc2hhZG93IHsKICBib3JkZXI6IHsKICAgIHN0eWxlOiBzb2xpZDsKICAgIGxlZnQ6IHsKICAgICAgd2lkdGg6IDRweDsKICAgICAgY29sb3I6ICM4ODg7CiAgICB9CiAgICByaWdodDogewogICAgICB3aWR0aDogMnB4OwogICAgICBjb2xvcjogI2NjYzsKICAgIH0KICB9Cn0K</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0Pjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YSB7CiAgY29sb3I6ICNjZTRkZDY7CiAgJjpob3ZlciB7IGNvbG9yOiAjZmZiM2ZmOyB9CiAgJjp2aXNpdGVkIHsgY29sb3I6ICNjNDU4Y2I7IH0KfQo=</text>
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBncmVlbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctY29sb3I6ICRtYWluLWNvbG9yOwo=</text>
+        <text encoding="base64">ICBAZXh0ZW5kIC5ib3g7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">JHByaW1hcnktY29sb3I6ICMzMzM7Cgpib2R5IHsKICAkcHJpbWFyeS1jb2xvcjogI2VlZTsKICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1jb2xvcjsKfQoKcCB7CiAgY29sb3I6ICRwcmltYXJ5LWNvbG9yOwp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93TW9kYWxcPg==</last-search>
+      <last-search encoding="base64">XDxleGFtcGxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93TW9kYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleGFtcGxlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -716,7 +747,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>WP_DEBUG</entry>
         <entry>auto</entry>
         <entry>EXAFE_OTA_CLIENT_PROCESS</entry>
@@ -736,6 +766,7 @@
         <entry encoding="base64">XDw+XD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzaG93TW9kYWxcPg==</entry>
+        <entry encoding="base64">XDxleGFtcGxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>5437</entry>
