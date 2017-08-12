@@ -387,6 +387,13 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/vue/main.js" timestamp="1502521393945">
+        <mark key="'" line="44" column="17" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="17" column="1" />
+      </file>
       <file name="$USER_HOME$/developements/study/daily/Laravel/resources/views/home.blade.php" timestamp="1502508528685">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="3" column="12" />
@@ -403,6 +410,12 @@
         <mark key="]" line="11" column="28" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/vue/index.html" timestamp="1502521073378">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
       </file>
       <file name="/PHP Console" timestamp="1499595849095">
         <mark key="[" line="0" column="0" />
@@ -524,14 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="45" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="136" column="62" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="134" column="38" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="130" column="61" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="128" column="38" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="125" column="42" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="120" column="16" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
-      <jump line="119" column="26" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
       <jump line="118" column="31" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
       <jump line="117" column="24" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
       <jump line="62" column="33" filename="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/lib/exafe-common-1.0.2.jar!/com/extrus/common/log4j/DailyRollingFileAppender.class" />
@@ -624,6 +629,14 @@
       <jump line="23" column="10" filename="$USER_HOME$/developements/study/daily/Laravel/app/Http/Controllers/HomeController.php" />
       <jump line="64" column="0" filename="$USER_HOME$/developements/study/daily/Laravel/config/app.php" />
       <jump line="3" column="0" filename="$USER_HOME$/developements/study/daily/Laravel/config/app.php" />
+      <jump line="14" column="5" filename="$USER_HOME$/developements/study/daily/vue/index.html" />
+      <jump line="13" column="14" filename="$USER_HOME$/developements/study/daily/vue/index.html" />
+      <jump line="11" column="22" filename="$USER_HOME$/developements/study/daily/vue/index.html" />
+      <jump line="2" column="65" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
+      <jump line="15" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
+      <jump line="19" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -674,8 +687,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6dGFibGUoJ3Bvc3RzJyktPmRlbGV0ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -687,52 +700,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'joe'</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>dusk</text>
+        <text encoding="base64">XDxvbkNvdXBvbkFwcGxpZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6OnRhYmxlKCd1c2VycycpLT51cGRhdGUoWyduYW1lJyA9PiAnam9lJ10pOwo=</text>
+        <text encoding="base64">ICAgIDxjb3Vwb24gQGFwcGxpZWQ9Im9uQ291cG9uQXBwbGllZCI+PC9jb3Vwb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6dGFibGUoJ3Bvc3RzJyktPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6dGFibGUoJ3Bvc3RzJyktPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZW1pdCgnYXBwbGllZCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6OnRhYmxlKCd1c2VycycpLT51cGRhdGUoWyd2JyA9PiAxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kb24oJ2FwcGxpZWRkJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6OnRhYmxlKCd1c2VycycpLT51cGRhdGUoWyd2JyA9PiAxXSk7Cg==</text>
+        <text encoding="base64">ICAgIDxjb3Vwb24gQGFwcGxpZWQ9Im9uQ291cG9uQXBwbGllZCI+PC9jb3Vwb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ0l0IHdhcyBhcHBsaWVkJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREI6dGFibGUoJ3Bvc3RzJyktPmRlbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIDxoMSB2LWlmPSJjb3Vwb24iPjwvaDE+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0OwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2FwcGxpZWQhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dusk</last-search>
+      <last-search encoding="base64">XDxvbkNvdXBvbkFwcGxpZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>dusk</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNvdXBvbkFwcGxpZWRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -740,7 +753,6 @@
     </search>
     <history>
       <history-search>
-        <entry>auto</entry>
         <entry>EXAFE_OTA_CLIENT_PROCESS</entry>
         <entry>File</entry>
         <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
@@ -760,6 +772,7 @@
         <entry encoding="base64">XDxzaG93TW9kYWxcPg==</entry>
         <entry encoding="base64">XDxleGFtcGxlXD4=</entry>
         <entry>dusk</entry>
+        <entry encoding="base64">XDxvbkNvdXBvbkFwcGxpZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>5437</entry>
