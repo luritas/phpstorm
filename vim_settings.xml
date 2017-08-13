@@ -127,11 +127,12 @@
         <mark key="." line="357" column="73" />
         <mark key="^" line="349" column="81" />
       </file>
-      <file name="$USER_HOME$/developements/study/daily/vue2/index.html" timestamp="1502631475927">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/developements/study/daily/vue2/index.html" timestamp="1502634870139">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="109" column="43" />
+        <mark key="]" line="109" column="43" />
+        <mark key="." line="109" column="43" />
+        <mark key="^" line="109" column="43" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-includes/load.php" timestamp="1502535321978">
         <mark key="[" line="243" column="0" />
@@ -602,6 +603,12 @@
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/test/java/kr/pineapples/nhapi/repository/UserRepositoryTest.java" timestamp="1500705212277">
         <mark key="[" line="26" column="44" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/vue2/component.html" timestamp="1502634484202">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="6" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1502536438512">
         <mark key="[" line="0" column="0" />
       </file>
@@ -669,16 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
-      <jump line="10" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
-      <jump line="1" column="0" filename="$USER_HOME$/developements/study/daily/sass/style.scss" />
-      <jump line="19" column="25" filename="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" />
-      <jump line="17" column="15" filename="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/app.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/components/Example.vue" />
-      <jump line="8" column="31" filename="$USER_HOME$/developements/study/daily/Laravel/resources/assets/js/components/Example.vue" />
-      <jump line="69" column="15" filename="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" />
-      <jump line="70" column="19" filename="$USER_HOME$/developements/study/daily/Laravel/resources/views/welcome.blade.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/developements/study/daily/Laravel/.env" />
       <jump line="24" column="4" filename="$USER_HOME$/developements/study/daily/Laravel/app/Providers/AppServiceProvider.php" />
       <jump line="23" column="10" filename="$USER_HOME$/developements/study/daily/Laravel/app/Http/Controllers/HomeController.php" />
       <jump line="64" column="0" filename="$USER_HOME$/developements/study/daily/Laravel/config/app.php" />
@@ -769,6 +766,16 @@
       <jump line="76" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
       <jump line="55" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
       <jump line="5925" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="29" column="7" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="55" column="0" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="85" column="14" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="84" column="8" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="20" column="5" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="39" column="0" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="90" column="12" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="40" column="4" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="45" column="8" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -820,7 +827,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -832,52 +839,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Vegetables</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMlw+</text>
+        <text encoding="base64">XDxhcHA2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b20tY29sb3I6ICNmOGY4Zjg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IGlkOiAwLCB0ZXh0OiAnVmVnZXRhYmxlcycgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjZWVlZWVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR0eXBlID0gJGFycl9pbWFnZXNbJHZhbHVlWydNeUluZGV4J10gJSAxMl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IGlkOiAwLCB0ZXh0OiAnVmVnZXRhYmxlcycgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cjw/cGhwCiTsnpDquIjsmqnrj4QgPSAn6riw7KG0IOqzoOq4iOumrOuMgOy2nCDrjIDtmZgnOwo/PgoKPGRpdiBjbGFzcz0iY29sLXNtLTEyIGJvcnJvd2VycyI+CiAgICA8aDQ+W+yekOq4iOyaqeuPhF08L2g0PgogICAgPHVsIGNsYXNzPSJib3Jyb3dlcnMgcm93Ij4KICAgICAgICA8bGk+CiAgICAgICAgICAgIDw/PSAk7J6Q6riI7Jqp64+EID8+CiAgICAgICAgPC9saT4KICAgIDwvdWw+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsZWZ0Ij7si5zshLg8L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJyaWdodCI+PD89ICRmdW5kaW5nLT5nZXTrgrTsmqkoKVsn7Iuc7IS4J10gPz48L3NwYW4+CiAgICAgICAgPC9saT4KICAgICAgICA8bGk+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsZWZ0Ij7tg4DshLjrjIDsoITsnoU8L3NwYW4+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJyaWdodCI+PD89ICRmdW5kaW5nLT5nZXTrgrTsmqkoKVsn7YOA7IS464yA7KCE7J6FJ10gPz48L3NwYW4+CiAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFvri7Trs7TrgrTsl61dCuyGjOyerOyngDog7ISc7Jq47IucIOqwleuCqOq1rCDsgrzshLHroZwgMjEyLCDrjIDsuZjrj5kg7J2A66eI7JWE7YyM7Yq4CuyaqeuPhDog7IOB6rCA6rG066y8CuuptOyggTog7Yag7KeAIDcxNeOOoSAsIOqxtOusvCA4MDTjjqEK6rCQ7KCV6rCAOiAgMTM4LDAwMOunjOybkCAo66ek66ek7Iuc7IS4IDE3MCwwMDDrp4zsm5ApCuyEoOyInOychOq2jOumrDogMTAsMDAw66eM7JuQIOyLoO2VnOydgO2WiSAsIDUsMDAw66eM7JuQIOyehOuMgOywqOuztOymneq4iArqtozrpqzsuajtlbQ6IOqwgOyVleulmC3qsbTqsJXrs7Ttl5jqtIDrpqzqs7Xri6gK6riwIO2DgDog7J6E64yA7IiY7J21IOyblDI1MOunjOybkAo=</text>
+        <text encoding="base64">PG9sPgogICAgPHRvZG8taXRlbT48L3RvZG8taXRlbT4KPC9vbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICfsi5zshLjqsLHsi6DsnbwnID0+ICcyMDE3LjA4LjA0JywKICAgICftg4DshLjrjIDsoITsnoUnID0+ICfrrLQnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICftmZXsoJXsnbzsnpAnICA9PiAnMjAxNeuFhDEw7JuUMDHsnbwnLAogICAgJ+yghOyeheydvOyekCcgID0+ICcyMDE164WEMTDsm5QwM+ydvCcsCg==</text>
+        <text encoding="base64">PC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>1126</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMlw+</last-search>
+      <last-search encoding="base64">XDxhcHA2XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMlw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHA2XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -885,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNvdXBvbkFwcGxpZWRcPg==</entry>
         <entry>laravel</entry>
         <entry>style</entry>
         <entry>script.js</entry>
@@ -905,6 +911,7 @@
         <entry>type1</entry>
         <entry>자금용도</entry>
         <entry encoding="base64">XDwxMlw+</entry>
+        <entry encoding="base64">XDxhcHA2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
