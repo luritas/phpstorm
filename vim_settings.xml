@@ -603,11 +603,11 @@
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/test/java/kr/pineapples/nhapi/repository/UserRepositoryTest.java" timestamp="1500705212277">
         <mark key="[" line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/developements/study/daily/vue2/component.html" timestamp="1502634484202">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="6" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
+      <file name="$USER_HOME$/developements/study/daily/vue2/component.html" timestamp="1502643197681">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
+        <mark key="^" line="50" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1502536438512">
         <mark key="[" line="0" column="0" />
@@ -826,8 +826,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLm1lc3NhZ2Uuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, 500</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -839,43 +839,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reversedMessage</text>
+        <text>, 500</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGFtcGxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwPuuSpOynke2eiOuPhOuhnSDqsJzsgrDrkJwg66mU7Iuc7KeAICJ7eyByZXZlcnNlZE1lc3NhZ2UgfX0iPC9wPgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9heGlvc0AwLjEyLjAvZGlzdC9heGlvcy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLm1lc3NhZ2Uuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICksIDUwMCA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNyaXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIFZ1ZS5jb21wb25lbnQoJ3RvZG8taXRlbScsIHsKICAgICAgICBwcm9wczogWyd0b2RvJ10sCiAgICAgICAgdGVtcGxhdGU6ICc8bGk+IHt7IHRvZG8udGV4dH19PC9saT4nCiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">PG9sPgogICAgPHRvZG8taXRlbT48L3RvZG8taXRlbT4KPC9vbD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YTogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLm1lc3NhZ2Uuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IGlkOiAwLCB0ZXh0OiAnVmVnZXRhYmxlcycgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>1126</text>
