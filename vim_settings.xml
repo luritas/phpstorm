@@ -92,6 +92,13 @@
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/css/app.scss" timestamp="1502798041100">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/developements/study/daily/Laravel/webpack.mix.js" timestamp="1502508033853">
         <mark key="[" line="14" column="56" />
         <mark key="]" line="14" column="65" />
@@ -178,12 +185,11 @@
       <file name="/a.sql" timestamp="1500703307333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1502787155432">
-        <mark key="'" line="1143" column="20" />
-        <mark key="[" line="6856" column="0" />
-        <mark key="]" line="6856" column="0" />
-        <mark key="." line="6856" column="0" />
-        <mark key="^" line="6849" column="19" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1502797760690">
+        <mark key="[" line="7033" column="21" />
+        <mark key="]" line="7033" column="22" />
+        <mark key="." line="7033" column="22" />
+        <mark key="^" line="7033" column="22" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/HelloController.java" timestamp="1500713606181">
         <mark key="[" line="20" column="0" />
@@ -572,13 +578,13 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1502792802330">
-        <mark key="'" line="177" column="45" />
-        <mark key="i" line="393" column="11" />
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="^" line="322" column="60" />
-        <mark key="." line="323" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" timestamp="1502798183564">
+        <mark key="'" line="106" column="2" />
+        <mark key="i" line="401" column="11" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="32" column="12" />
+        <mark key="^" line="32" column="12" />
+        <mark key="." line="32" column="12" />
       </file>
       <file name="$USER_HOME$/developements/study/daily/vue/main.js" timestamp="1502521393945">
         <mark key="'" line="44" column="17" />
@@ -666,7 +672,7 @@
         <mark key="." line="39" column="41" />
         <mark key="^" line="39" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502788351948">
+      <file name="/Dummy.txt" timestamp="1502797761312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/domain/User.java" timestamp="1500704945193">
@@ -738,23 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-settings.php" />
-      <jump line="214" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="989" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="60" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="1383" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/functions.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="64" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
-      <jump line="76" column="39" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding-content/funding-type1.php" />
-      <jump line="55" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
-      <jump line="5925" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="29" column="7" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
-      <jump line="55" column="0" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
-      <jump line="85" column="14" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
-      <jump line="84" column="8" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
-      <jump line="20" column="5" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
-      <jump line="39" column="0" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
       <jump line="90" column="12" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
       <jump line="40" column="4" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
       <jump line="45" column="8" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
@@ -800,7 +789,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="110" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="374" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="44" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="7" column="9" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/vue/hello.vue" />
       <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/vue/hello.vue" />
@@ -811,8 +799,6 @@
       <jump line="1143" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="357" column="59" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="395" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="120" column="107" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="127" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="393" column="69" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="394" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="38" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
@@ -838,6 +824,26 @@
       <jump line="92" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="96" column="51" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
       <jump line="177" column="45" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="6859" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="7075" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="7076" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="6970" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="4893" column="2" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="5698" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="5967" column="6" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="6935" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="7033" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
+      <jump line="170" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="19" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/css/app.scss" />
+      <jump line="10" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="115" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="111" column="37" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="127" column="38" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="120" column="60" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="117" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="116" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
+      <jump line="103" column="2" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -889,7 +895,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQoJEdMT0JBTFMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -901,52 +907,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>style</text>
       </register>
-      <register name="0" type="4">
-        <text>checkRequiredInformation</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGl2LmJnLWJveCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2VlZTsKCiAgcGFkZGluZzogMjBweCAzMHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQoJEdMT0JBTFMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQoJEdMT0JBTFMpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGQoJEdMT0JBTFMpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZGQoJHVzZXItPmNoZWNrUmVxdWlyZWRJbmZvcm1hdGlvbigpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNlZWU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSAgICAgPSAkdGhpcy0+aW52ZXN0bWVudEluZm9bJ2RhdGEnXVsndGF4J107CiAgICAgICAgZm9yZWFjaCAoJHJlcXVpcmVkIGFzICRwYXJhbSkgewogICAgICAgICAgICBpZiAoZW1wdHkoJGRhdGFbJHBhcmFtXSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNhcm91c2VsLWluZGljYXRvcnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWlyZWQgPSBbCiAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgJ3JlZ19udW0xJywKICAgICAgICAgICAgJ3JlZ19udW0yJywKICAgICAgICAgICAgJ2FkZHJlc3MxJywKICAgICAgICAgICAgJ2FkZHJlc3MyJywKLy8gICAgICAgICAgICAncGhvbmUnLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aW52ZXN0bWVudEluZm8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+dXNlckluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3JjJyAgICAgICAgICAgPT4gJ2h0dHA6Ly9wbGFjZWhvbGQuaXQvNjAweDMwMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NyY190aHVtYm5haWwnID0+ICdodHRwOi8vcGxhY2Vob2xkLml0LzEwMHg1MCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>6857</text>
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>style</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>style</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -954,12 +960,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwxMlw+</entry>
-        <entry encoding="base64">XDxhcHA2XD4=</entry>
-        <entry>axios</entry>
-        <entry encoding="base64">XDxjaGVja2VkTmFtZXNcPg==</entry>
-        <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
-        <entry encoding="base64">XDxjb3VudGVyXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVWYWx1ZVw+</entry>
         <entry encoding="base64">XDxleGFtcGxlXD4=</entry>
@@ -967,13 +967,19 @@
         <entry>examp</entry>
         <entry>example</entry>
         <entry>form</entry>
-        <entry>script</entry>
         <entry>최대</entry>
         <entry>v-bind</entry>
         <entry>comma</entry>
         <entry>원천</entry>
         <entry encoding="base64">XDxpbnZlc3RtZW50SW5mb1w+</entry>
         <entry>img</entry>
+        <entry>carousel-indicators</entry>
+        <entry>780</entry>
+        <entry encoding="base64">XDxpbmRpY2F0b3JzXD4=</entry>
+        <entry>app.css</entry>
+        <entry>tabs-select-cover</entry>
+        <entry>script</entry>
+        <entry>style</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
