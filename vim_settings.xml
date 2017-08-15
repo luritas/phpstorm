@@ -248,6 +248,13 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/vue2/binding.html" timestamp="1502764509256">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="88" column="29" />
+        <mark key="]" line="88" column="33" />
+        <mark key="." line="88" column="33" />
+        <mark key="^" line="88" column="33" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" timestamp="1502532931129">
         <mark key="'" line="92" column="0" />
         <mark key="[" line="149" column="19" />
@@ -684,8 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="65" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
-      <jump line="5" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
       <jump line="15" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
       <jump line="19" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
       <jump line="20" column="17" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
@@ -784,6 +789,8 @@
       <jump line="53" column="7" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
       <jump line="14" column="15" filename="$USER_HOME$/developements/study/daily/vue2/component.html" />
       <jump line="17" column="12" filename="$USER_HOME$/developements/study/daily/vue2/my-project/binding.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/developements/study/daily/vue2/binding.html" />
+      <jump line="26" column="9" filename="$USER_HOME$/developements/study/daily/vue2/binding.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -834,8 +841,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>key</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -847,13 +854,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>axios</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS92dWUiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYtYmluZDprZXk9ImluZGV4Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -862,28 +869,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qIGVzbGludC1kaXNhYmxlIG5vLXVudXNlZC12YXJzICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXMK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPu2BtOuemOyKpOyZgCDruYTsnbjrlKk8L2gxPgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDwv44WUPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1126</text>
