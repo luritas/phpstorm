@@ -248,11 +248,12 @@
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/study/daily/vue2/binding.html" timestamp="1502766028726">
+      <file name="$USER_HOME$/developements/study/daily/vue2/binding.html" timestamp="1502766842870">
         <mark key="'" line="26" column="9" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="96" column="92" />
+        <mark key="." line="96" column="92" />
+        <mark key="^" line="96" column="92" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/classes/Funding.php" timestamp="1502532931129">
         <mark key="'" line="92" column="0" />
