@@ -368,6 +368,13 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
+      <file name="$USER_HOME$/developements/study/daily/vue2/my-project/binding.html" timestamp="1502760688257">
+        <mark key="'" line="17" column="12" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nhapi/src/main/resources/templates/new.html" timestamp="1500476364223">
         <mark key="[" line="5" column="56" />
         <mark key="]" line="5" column="56" />
@@ -603,11 +610,12 @@
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/test/java/kr/pineapples/nhapi/repository/UserRepositoryTest.java" timestamp="1500705212277">
         <mark key="[" line="26" column="44" />
       </file>
-      <file name="$USER_HOME$/developements/study/daily/vue2/component.html" timestamp="1502643197681">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="50" column="21" />
-        <mark key="." line="50" column="21" />
-        <mark key="^" line="50" column="21" />
+      <file name="$USER_HOME$/developements/study/daily/vue2/component.html" timestamp="1502760553823">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="39" column="41" />
+        <mark key="^" line="39" column="41" />
       </file>
       <file name="/Dummy.txt" timestamp="1502536438512">
         <mark key="[" line="0" column="0" />
@@ -676,8 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="14" filename="$USER_HOME$/developements/study/daily/vue/index.html" />
-      <jump line="11" column="22" filename="$USER_HOME$/developements/study/daily/vue/index.html" />
       <jump line="2" column="65" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
       <jump line="5" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
       <jump line="15" column="8" filename="$USER_HOME$/developements/study/daily/vue/main.js" />
@@ -776,6 +782,8 @@
       <jump line="51" column="2" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
       <jump line="122" column="22" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
       <jump line="53" column="7" filename="$USER_HOME$/developements/study/daily/vue2/index.html" />
+      <jump line="14" column="15" filename="$USER_HOME$/developements/study/daily/vue2/component.html" />
+      <jump line="17" column="12" filename="$USER_HOME$/developements/study/daily/vue2/my-project/binding.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -826,8 +834,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 500</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -839,52 +847,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 500</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGFtcGxlXD4=</text>
+        <text>axios</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS9heGlvc0AwLjEyLjAvZGlzdC9heGlvcy5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL3VucGtnLmNvbS92dWUiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICksIDUwMCA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNyaXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFZ1ZS5jb21wb25lbnQoJ3RvZG8taXRlbScsIHsKICAgICAgICBwcm9wczogWyd0b2RvJ10sCiAgICAgICAgdGVtcGxhdGU6ICc8bGk+IHt7IHRvZG8udGV4dH19PC9saT4nCiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PG9sPgogICAgPHRvZG8taXRlbT48L3RvZG8taXRlbT4KPC9vbD4K</text>
+        <text encoding="base64">ICAgIC8qIGVzbGludC1kaXNhYmxlIG5vLXVudXNlZC12YXJzICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLm1lc3NhZ2Uuc3BsaXQoJycpLnJldmVyc2UoKS5qb2luKCcnKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGgxPu2BtOuemOyKpOyZgCDruYTsnbjrlKk8L2gxPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">PDwv44WUPgo=</text>
       </register>
       <register name=":" type="4">
         <text>1126</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGFtcGxlXD4=</last-search>
+      <last-search>axios</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGFtcGxlXD4=</last-pattern>
+      <last-pattern>axios</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -892,7 +900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>style</entry>
         <entry>script.js</entry>
         <entry>type</entry>
         <entry>set</entry>
@@ -912,6 +919,7 @@
         <entry encoding="base64">XDwxMlw+</entry>
         <entry encoding="base64">XDxhcHA2XD4=</entry>
         <entry encoding="base64">XDxleGFtcGxlXD4=</entry>
+        <entry>axios</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
