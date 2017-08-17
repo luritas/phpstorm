@@ -234,11 +234,10 @@
         <mark key="^" line="27" column="26" />
         <mark key="." line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1502606953789">
-        <mark key="[" line="57" column="44" />
-        <mark key="]" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="^" line="55" column="27" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1502992773335">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/daily/vue2/component1.html" timestamp="1502781602102">
         <mark key="'" line="7" column="0" />
@@ -911,7 +910,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -932,34 +931,34 @@
         <text encoding="base64">ZGl2LmJnLWJveCB7CiAgYmFja2dyb3VuZC1jb2xvcjogI2VlZTsKCiAgcGFkZGluZzogMjBweCAzMHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPmludGVnZXIoKSDri6TrjIDri6Qg65287IScIO2UvOu0hyDrp4zrk6TslrTslbztlagK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdGFibGUtPmludGVnZXIoKSDri6TrjIDri6Qg65287IScIO2UvOu0hyDrp4zrk6TslrTslbztlagK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNlZWU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>6857</text>
