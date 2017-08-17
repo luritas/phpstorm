@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7f57a861-a35d-455b-863f-8b837735b784" name="newSNSL" url="http://snsl.kr">
+        <fileTransfer host="snsl.kr" port="6424" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="6424" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
