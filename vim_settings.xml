@@ -15,9 +15,6 @@
         <mark key="." line="2" column="78" />
         <mark key="^" line="2" column="78" />
       </file>
-      <file name="/a.dummy" timestamp="1500705523287">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/child/page.php" timestamp="1500903793535">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -181,9 +178,6 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1500703307333">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" timestamp="1502797760690">
         <mark key="[" line="7033" column="21" />
@@ -568,22 +562,22 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1499595849095">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/study/daily/Laravel/tests/Unit/ExampleTest.php" timestamp="1502510097735">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1503144280757">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/developements/git/bus/resources/views/index.html" timestamp="1502014045173">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="12" column="50" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1499536750025">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/wordpress/wp-content/themes/child/style.css" timestamp="1500829945912">
         <mark key="[" line="2" column="14" />
@@ -609,23 +603,11 @@
         <mark key="." line="1168" column="47" />
         <mark key="^" line="1168" column="47" />
       </file>
-      <file name="$USER_HOME$/developements/wordpress/wp-content/themes/theme-itssue/sidebar.php" timestamp="1499710164362">
-        <mark key="[" line="7" column="11" />
-      </file>
       <file name="$USER_HOME$/developements/git/learning/database/migrations/2017_08_15_131804_create_lists_table.php" timestamp="1502803428325">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="52" />
         <mark key="^" line="19" column="52" />
         <mark key="." line="19" column="52" />
-      </file>
-      <file name="/dummy.sql" timestamp="1500703333385">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/test/java/kr/pineapples/nhapi/repository/UserRepositoryTest.java" timestamp="1500705212277">
-        <mark key="[" line="26" column="44" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1502797761312">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/spring-boot/nh-api/src/main/java/kr/pineapples/nhapi/domain/User.java" timestamp="1500704945193">
         <mark key="[" line="7" column="19" />
@@ -689,9 +671,6 @@
         <mark key="]" line="2" column="58" />
         <mark key="^" line="2" column="58" />
         <mark key="." line="2" column="58" />
-      </file>
-      <file name="/fragment.java" timestamp="1500713963514">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/.htaccess" timestamp="1502993555496">
         <mark key="[" line="11" column="15" />
@@ -879,28 +858,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIGNvbmZpZyB2YWx1ZXMKICovCmZ1bmN0aW9uIGVudigka2V5LCAkZGVmYXVsdCA9IG51bGwpIHsKICAgIAoKfQoK</text>
+        <text encoding="base64">MQoyCjMKaWYgKCAhY3VycmVudF91c2VyX2NhbignYWRtaW5pc3RyYXRvcicpICYmICFpc19hZG1pbigpKSB7CiAgICBzaG93X2FkbWluX2JhciggZmFsc2UgKTsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUgX19ESVJfXyAuICcvLmVudic7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIGNvbmZpZyB2YWx1ZXMKICovCmZ1bmN0aW9uIGVudigka2V5LCAkZGVmYXVsdCA9IG51bGwpIHsKICAgIAoKfQoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUgX19ESVJfXyAuICcvLmVudic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXNkZmFzZGYKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXNkZmxob2h3O29oYXM7aAo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuZGluZwo=</text>
+        <text encoding="base64">YXNkZmFzZGYKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d3AK</text>
+        <text encoding="base64">YXNkZmxob2h3O29oYXM7aAo=</text>
       </register>
       <register name=":" type="4">
         <text>6857</text>
