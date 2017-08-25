@@ -269,11 +269,11 @@
         <mark key="." line="25" column="27" />
         <mark key="^" line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1503224742071">
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1503670420054">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="27" column="12" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/real-estate/RealEstate.php" timestamp="1499582549826">
         <mark key="[" line="5" column="5" />
@@ -704,11 +704,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1503249398305">
-        <mark key="'" line="39" column="15" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1503671723676">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="56" />
       </file>
       <file name="$USER_HOME$/developements/git/modern/real-estate/Calculator.php" timestamp="1499596872432">
         <mark key="[" line="7" column="21" />
@@ -775,37 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2002" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="2006" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="2010" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="2014" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5057" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5075" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5079" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5151" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5133" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5099" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5090" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="5095" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="7033" column="5" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="7079" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="77" column="4" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/funding.php" />
-      <jump line="27" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" />
-      <jump line="27" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" />
-      <jump line="7032" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6872" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6840" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="38" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" />
-      <jump line="6833" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6835" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6849" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6867" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6876" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6925" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6946" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6951" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="6980" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
-      <jump line="7003" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="7007" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="7012" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="7021" column="7" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
@@ -856,14 +826,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="64" column="24" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/public/css/css-circular-prog-bar.css" />
       <jump line="1" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="82" column="15" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="97" column="8" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="108" column="2" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="99" column="1" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="100" column="44" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="17" column="11" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="40" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="27" column="15" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
       <jump line="11" column="33" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/api-funding-list.php" />
       <jump line="30" column="26" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" />
       <jump line="29" column="26" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" />
@@ -875,6 +842,40 @@
       <jump line="43" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/index.php" />
       <jump line="32" column="6" filename="$USER_HOME$/PhpstormProjects/newSNSL/index.php" />
       <jump line="14" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/helper.php" />
+      <jump line="43" column="36" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="6" column="25" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="52" column="19" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="7" column="24" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="40" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="72" column="33" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="73" column="33" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="75" column="36" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="79" column="20" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="80" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="82" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="83" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="84" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="81" column="16" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="46" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="50" column="15" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="56" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="36" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="27" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="22" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="11" column="8" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="59" column="18" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="4" column="8" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="5" column="21" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="64" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="3" column="28" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="68" column="35" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="42" column="26" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="35" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="63" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="51" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="61" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="32" column="21" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
+      <jump line="26" column="13" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -925,8 +926,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdFR5cGU6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -938,66 +939,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1aXJlXD4=</text>
+        <text encoding="base64">XDxnZXRPbmdvaW5nTGlzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">JHVybCA9IEFQSV9MSVNUWydpdGVtX2luZm8nXVsndXJsJ107CiRjbGllbnQgICAgID0gbmV3IENsaWVudCgpOwokcmVzcG9uc2UgICA9ICRjbGllbnQtPnJlcXVlc3QoJ0dFVCcsICR1cmwsIFtdKS0+Z2V0Qm9keSgpLT5nZXRDb250ZW50cygpOwokZGF0YSA9IGpzb25fZGVjb2RlKCRyZXNwb25zZSx0cnVlKTsKZWNobyBqc29uX2VuY29kZSgkZGF0YVsncHNmb3JtJ11bJ2JvZHknXSk7CmRpZSgpOwo=</text>
+      <register name="0" type="4">
+        <text>{{ card.MyIndex }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdFR5cGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzZXQtc2l6ZSBjaGFydHMtY29udGFpbmVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiA6Y2xhc3M9IidwaWUtd3JhcHBlciBwcm9ncmVzcy0nICsgY2FyZC5NeUluZGV4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJsYWJlbCI+e3sgY2FyZC5NeUluZGV4IH19PHNwYW4gY2xhc3M9InNtYWxsZXIiPiU8L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icGllIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJsZWZ0LXNpZGUgaGFsZi1jaXJjbGUiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJpZ2h0LXNpZGUgaGFsZi1jaXJjbGUiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg7Yis7J6Q66qo7KeR66WgIOuzgOyImCDtlYTsmpQhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWdyb3VwIGxpc3QtZ3JvdXAtZmx1c2giPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5wYXJzZShyZXN1bHQuZGF0YSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0LWdyb3VwIGxpc3QtZ3JvdXAtZmx1c2giPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1aXJlXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRPbmdvaW5nTGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1aXJlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRPbmdvaW5nTGlzdFw+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxzY3NzX2VucXVldWVfc3R5bGVzXD4=</last-substitute>
+      <last-substitute>key</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>carousel-custom</entry>
-        <entry>crouse</entry>
-        <entry>security</entry>
-        <entry>left</entry>
-        <entry>.left</entry>
-        <entry>.left {</entry>
-        <entry encoding="base64">PGZvcm0=</entry>
         <entry encoding="base64">PA==</entry>
         <entry encoding="base64">Zm9ybT4=</entry>
         <entry>value</entry>
@@ -1011,9 +1005,15 @@
         <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry>getAPI</entry>
         <entry encoding="base64">XDxyZXF1aXJlXD4=</entry>
+        <entry>console.</entry>
+        <entry encoding="base64">XDw+XD4=</entry>
+        <entry encoding="base64">XDxtYWtlT25nb2luZ0xpc3RcPg==</entry>
+        <entry encoding="base64">XDxodG1sXD4=</entry>
+        <entry>makeOngoingList</entry>
+        <entry>key</entry>
+        <entry encoding="base64">XDxnZXRPbmdvaW5nTGlzdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
         <entry>100</entry>
         <entry>91</entry>
         <entry>101</entry>
@@ -1033,6 +1033,7 @@
         <entry>61</entry>
         <entry>151</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5ub3JtIGkg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
