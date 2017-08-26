@@ -118,11 +118,10 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/developements/study/daily/vue/vue.html" timestamp="1503740707943">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
+      <file name="$USER_HOME$/developements/study/daily/vue/vue.html" timestamp="1503742105498">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/includes/mypage.php" timestamp="1503197207991">
         <mark key="'" line="56" column="12" />
@@ -487,8 +486,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>todo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmEpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -500,7 +499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>todo</text>
+        <text>vm</text>
       </register>
       <register name="/" type="4">
         <text>준비중</text>
@@ -509,34 +508,34 @@
         <text encoding="base64">ICAgIHsgaWQ6MCwgdGV4dDogJ1ZlZ2V0YWJsZXMnfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3Z1ZUAyLjQuMiI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3Z1ZUAyLjQuMiI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2F0dGFjaG1lbnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcuYXR0YWNobWVudHMgYnV0dG9uJykub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBhbGVydCgn7KSA67mE7KSR7J6F64uI64ukLicpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIFNuc2xcVXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAvL2F0dGFjaG1lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGFzRXJyb3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCcuYXR0YWNobWVudHMgYnV0dG9uJykub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBhbGVydCgn7KSA67mE7KSR7J6F64uI64ukLicpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
+        <text encoding="base64">dXNlIFNuc2xcVXNlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">aGFzRXJyb3IoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
