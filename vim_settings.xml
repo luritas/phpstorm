@@ -105,11 +105,11 @@
         <mark key="." line="36" column="3" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/study/daily/vue/템플릿문법/index.html" timestamp="1503834739190">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="32" column="6" />
-        <mark key="^" line="32" column="6" />
-        <mark key="." line="32" column="6" />
+      <file name="$USER_HOME$/developements/study/daily/vue/템플릿문법/index.html" timestamp="1503835137333">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="23" column="22" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/js/app.js" timestamp="1503166254590">
         <mark key="'" line="1" column="9" />
@@ -129,6 +129,19 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="8" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/vue/클래스와스타일바인딩/index.html" timestamp="1503837202103">
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="11" column="79" />
+        <mark key="." line="11" column="79" />
+        <mark key="^" line="11" column="79" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" timestamp="1503838582782">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="59" column="6" />
+        <mark key="." line="24" column="73" />
+        <mark key="^" line="24" column="73" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/includes/mypage.php" timestamp="1503197207991">
         <mark key="'" line="56" column="12" />
@@ -165,6 +178,13 @@
         <mark key="]" line="272" column="0" />
         <mark key="." line="35" column="3" />
         <mark key="^" line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/vue/리스트렌더링/index.html" timestamp="1503840892104">
+        <mark key="'" line="46" column="68" />
+        <mark key="[" line="39" column="77" />
+        <mark key="]" line="39" column="79" />
+        <mark key="." line="39" column="79" />
+        <mark key="^" line="39" column="79" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/webpack.mix.js" timestamp="1503160777518">
         <mark key="[" line="13" column="30" />
@@ -222,6 +242,13 @@
         <mark key="]" line="78" column="33" />
         <mark key="." line="78" column="33" />
         <mark key="^" line="78" column="33" />
+      </file>
+      <file name="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" timestamp="1503836767512">
+        <mark key="'" line="32" column="1" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="6" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/investment.php" timestamp="1503724513834">
         <mark key="'" line="54" column="16" />
@@ -333,35 +360,11 @@
         <mark key="." line="7" column="1" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-ongoing.php" timestamp="1503720381780">
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1500713963514">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="26" column="13" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="32" column="50" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="82" column="9" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="2" column="13" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="16" column="55" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="78" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/closed.vue" />
-      <jump line="9" column="71" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="35" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" />
-      <jump line="20" column="17" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/app.js" />
-      <jump line="55" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="84" column="32" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="85" column="23" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="54" column="12" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="76" column="20" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="12" column="66" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" />
-      <jump line="33" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="47" column="4" filename="$USER_HOME$/PhpstormProjects/newSNSL/helper.php" />
       <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/helper.php" />
       <jump line="50" column="19" filename="$USER_HOME$/PhpstormProjects/newSNSL/helper.php" />
@@ -443,6 +446,25 @@
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-content/funding-type1.php" />
       <jump line="157" column="40" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="42" column="22" filename="$USER_HOME$/developements/study/daily/vue/vue.html" />
+      <jump line="11" column="21" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="34" column="0" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="52" column="0" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="66" column="12" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="83" column="3" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="65" column="37" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="67" column="0" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="32" column="1" filename="$USER_HOME$/developements/study/daily/vue/계산된속성과감시자/index.html" />
+      <jump line="30" column="20" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="44" column="12" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="22" column="35" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="41" column="24" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="45" column="53" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="28" column="71" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/developements/study/daily/vue/조건부렌더링/index.html" />
+      <jump line="71" column="12" filename="$USER_HOME$/developements/study/daily/vue/리스트렌더링/index.html" />
+      <jump line="45" column="8" filename="$USER_HOME$/developements/study/daily/vue/리스트렌더링/index.html" />
+      <jump line="43" column="68" filename="$USER_HOME$/developements/study/daily/vue/리스트렌더링/index.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -493,8 +515,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYTogMQo=</text>
+      <register name="&quot;" type="4">
+        <text>index</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -506,52 +528,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>vm</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
-        <text>준비중</text>
+        <text encoding="base64">XDxyZW1vdmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICA8bGkgdi1mb3I9Iml0ZW0gaW4gaXRlbXMiPgogICAgICAgICAgICB7eyBpdGVtLm1lc3NhZ2UgfX0KICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYTogMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmEpOwo=</text>
+        <text encoding="base64">ICAgIDxsaSB2LWZvcj0ibiBpbiBldmVuTnVtYmVycyI+IHt7IG4gfX0gPGJ1dHRvbiB2LW9uOnJlbW92ZT0ibnVtYmVycy5zcGxpY2UoaW5kZXgsIDEpIj5YPC9idXR0b24+PC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vdW5wa2cuY29tL3Z1ZUAyLjQuMiI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2F0dGFjaG1lbnQK</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmU6IGZ1bmN0aW9uIChpbmRleCkgewogICAgICAgICAgICB0aGlzLnRvZG9zLnNsaWNlKGluZGV4LCAxKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcuYXR0YWNobWVudHMgYnV0dG9uJykub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICBhbGVydCgn7KSA67mE7KSR7J6F64uI64ukLicpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlOiBmdW5jdGlvbiAoaW5kZXgpIHsKICAgICAgICAgICAgICAgIHRoaXMudG9kb3Muc2xpY2UoaW5kZXgsIDEpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFNuc2xcVXNlcjsK</text>
+        <text encoding="base64">PCEtLSAgICAgICAgdi1vbjpyZW1vdmU9InRvZG9zLnNwbGljZShpbmRleCwxKSItLT4K</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
       </register>
     </registers>
     <search>
-      <last-search>준비중</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVcPg==</last-search>
       <last-offset />
-      <last-pattern>준비중</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>debu</last-substitute>
       <last-dir>1</last-dir>
@@ -559,11 +581,6 @@
     </search>
     <history>
       <history-search>
-        <entry>약관</entry>
-        <entry>close</entry>
-        <entry>project-sidebar</entry>
-        <entry>상품정보</entry>
-        <entry>투자자현황</entry>
         <entry>투자자</entry>
         <entry>투자현황</entry>
         <entry>content-box</entry>
@@ -579,6 +596,11 @@
         <entry>3</entry>
         <entry>button</entry>
         <entry>준비중</entry>
+        <entry encoding="base64">XDxyZXZlcnNlZE1lc3NhZ2VcPg==</entry>
+        <entry>script</entry>
+        <entry encoding="base64">XDxjaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
+        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>42</entry>
