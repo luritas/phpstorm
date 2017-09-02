@@ -9,6 +9,14 @@
           <option name="port" value="6424" />
         </fileTransfer>
       </webServer>
+      <webServer id="be33aea8-bcf5-4ca1-919a-a4526061abae" name="seoul" url="http://seoul.peterpanz.com">
+        <fileTransfer host="seoul.peterpanz.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
