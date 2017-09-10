@@ -21,11 +21,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505038095448">
-        <mark key="[" line="60" column="69" />
-        <mark key="]" line="60" column="77" />
-        <mark key="." line="60" column="69" />
-        <mark key="^" line="60" column="49" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505039618326">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/dashboard.php" timestamp="1503720742337">
         <mark key="'" line="58" column="0" />
@@ -182,12 +181,12 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505038611536">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="397" column="1" />
-        <mark key="]" line="428" column="0" />
-        <mark key="^" line="428" column="0" />
-        <mark key="." line="428" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505039451523">
+        <mark key="'" line="399" column="0" />
+        <mark key="[" line="429" column="18" />
+        <mark key="]" line="429" column="39" />
+        <mark key="^" line="429" column="39" />
+        <mark key="." line="429" column="39" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Db.php" timestamp="1504421839605">
         <mark key="[" line="0" column="5" />
@@ -222,7 +221,7 @@
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-blog-header.php" timestamp="1504328347262">
         <mark key="'" line="18" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505038309303">
+      <file name="/Dummy.txt" timestamp="1505040824775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -276,12 +275,11 @@
         <mark key="." line="9" column="80" />
         <mark key="^" line="9" column="80" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1505038282560">
-        <mark key="'" line="65" column="37" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1505040264575">
+        <mark key="'" line="139" column="26" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-        <mark key="^" line="61" column="99" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-config.php" timestamp="1505036381210">
         <mark key="[" line="19" column="0" />
@@ -299,13 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="12" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
-      <jump line="10" column="10" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/vendor/illuminate/contracts/Pagination/Paginator.php" />
-      <jump line="11" column="6" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/vendor/illuminate/contracts/Pagination/Paginator.php" />
-      <jump line="15" column="13" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/vendor/illuminate/contracts/Pagination/Paginator.php" />
-      <jump line="24" column="13" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/vendor/illuminate/contracts/Pagination/Paginator.php" />
-      <jump line="14" column="135" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/vendor/illuminate/pagination/Paginator.php" />
       <jump line="77" column="20" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
       <jump line="68" column="7" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
       <jump line="135" column="4" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
@@ -399,6 +390,13 @@
       <jump line="6731" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/backer/style.css" />
       <jump line="344" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" />
       <jump line="379" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" />
+      <jump line="399" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" />
+      <jump line="88" column="25" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="34" column="9" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="135" column="32" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="136" column="81" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" />
+      <jump line="139" column="26" filename="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -450,7 +448,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -462,40 +460,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data['예치금현황']['현재예치금']</text>
+        <text>currency</text>
       </register>
       <register name="/" type="4">
-        <text>dashboard</text>
+        <text>누적투자</text>
       </register>
-      <register name="0" type="4">
-        <text>['투자요약']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5vLWJvcmRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz7snbTrsojri6zsg4HtmZjsmIjsoJXquIjslaE8L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjdXJyZW5jeSI+IDw/PSBudW1iZXJfZm9ybWF0KCR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7Yis7J6Q7JqU7JW9J11bJ+ydtOuyiOuLrOyDge2ZmOyYiOygleq4iOyVoSddKSA/PiA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">ZGQoQVBJX0xJU1QpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly9kZChBUElfTElTVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz7stJ3tiKzsnpDquIjslaE8L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImN1cnJlbmN5Ij4gPD89IG51bWJlcl9mb3JtYXQoJHVzZXItPmludmVzdG1lbnRJbmZvWyftiKzsnpDsmpTslb0nXVsn7LSd7Yis7J6Q6riI7JWhJ10pID8+IDwvc3Bhbj4K</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">MDogCjE6IAoyOiAKMzog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+7LSd7Yis7J6Q7IOB7ZKI7IiYPC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iIj4gPD89IG51bWJlcl9mb3JtYXQoJHVzZXItPmludmVzdG1lbnRJbmZvWyftiKzsnpDsmpTslb0nXVsn7LSd7Yis7J6Q7IOB7ZKI7IiYJ10pID8+IOqxtDwvc3Bhbj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5vLWJvcmRlciI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5vLWJvcmRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz7stJ3tiKzsnpDsg4HtkojsiJg8L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjdXJyZW5jeSI+IDw/PSBudW1iZXJfZm9ybWF0KCR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7Yis7J6Q7JqU7JW9J11bJ+y0ne2IrOyekOyDge2SiOyImCddKSA/PiA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ZGQoJHVzZXIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
@@ -505,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dashboard</last-search>
+      <last-search>누적투자</last-search>
       <last-offset />
-      <last-pattern>dashboard</last-pattern>
+      <last-pattern>누적투자</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>debu</last-substitute>
       <last-dir>1</last-dir>
@@ -515,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toArray</entry>
         <entry>ampInfo</entry>
         <entry>mapInfo</entry>
         <entry encoding="base64">XDxsb25nXD4=</entry>
@@ -535,6 +532,7 @@
         <entry>Info</entry>
         <entry>decode</entry>
         <entry>dashboard</entry>
+        <entry>누적투자</entry>
       </history-search>
       <history-cmd>
         <entry>16</entry>
