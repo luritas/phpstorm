@@ -16,6 +16,12 @@
       <file name="/a.dummy" timestamp="1504421841799">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/routes/web.php" timestamp="1508434212955">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1505059737250">
         <mark key="'" line="48" column="9" />
         <mark key="[" line="40" column="27" />
@@ -43,11 +49,22 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/.env" timestamp="1508433338688">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/plugins/fusion-builder/css/fusion-builder.css" timestamp="1504438765078">
         <mark key="'" line="908" column="98" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-load.php" timestamp="1504328391815">
         <mark key="'" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/composer.json" timestamp="1508433685793">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/api/index.php" timestamp="1504422080123">
         <mark key="'" line="47" column="14" />
@@ -181,7 +198,7 @@
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-blog-header.php" timestamp="1504328347262">
         <mark key="'" line="18" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505539236022">
+      <file name="/Dummy.txt" timestamp="1508433621392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -235,6 +252,13 @@
         <mark key="." line="142" column="34" />
         <mark key="^" line="142" column="34" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" timestamp="1508434561859">
+        <mark key="'" line="258" column="53" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-config.php" timestamp="1505036381210">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -250,8 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="59" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
-      <jump line="238" column="64" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
       <jump line="258" column="36" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
       <jump line="262" column="16" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
       <jump line="276" column="9" filename="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" />
@@ -350,6 +372,8 @@
       <jump line="22" column="12" filename="$USER_HOME$/developements/git/address/index.php" />
       <jump line="87" column="10" filename="$USER_HOME$/developements/git/address/index.php" />
       <jump line="14" column="0" filename="$USER_HOME$/developements/git/address/index.php" />
+      <jump line="7" column="0" filename="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" />
+      <jump line="258" column="53" filename="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -400,8 +424,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJHN0cmluZyk7CmRpZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>../../dist/css/bootstrap.min.css</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -413,52 +437,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>../../dist/css/bootstrap.min.css</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudFw+</text>
+        <text>css</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJHN0cmluZyk7CmRpZSgpOwo=</text>
+        <text encoding="base64">PHNjcmlwdD53aW5kb3cualF1ZXJ5IHx8IGRvY3VtZW50LndyaXRlKCc8c2NyaXB0IHNyYz0iLi4vLi4vYXNzZXRzL2pzL3ZlbmRvci9qcXVlcnkubWluLmpzIj48XC9zY3JpcHQ+Jyk8L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGRhdGEgPSBpY29udignQVNDSUknLCAnVVRGLTgnLCAkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYmFycnl2ZGgvbGFyYXZlbC1kZWJ1Z2JhciI6ICJeMy4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJHN0cmluZyk7CmRpZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJGRhdGEpOwo=</text>
+        <text encoding="base64">JGRhdGEgPSBpY29udignQVNDSUknLCAnVVRGLTgnLCAkZGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gXEd1enpsZUh0dHBcanNvbl9lbmNvZGUoJGRhdGEsIHRydWUpOwo=</text>
+        <text encoding="base64">ZWNobyBtYl9kZXRlY3RfZW5jb2RpbmcoJGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJzxicj4nOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gXEd1enpsZUh0dHBcanNvbl9lbmNvZGUoJGRhdGEsIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudFw+</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudFw+</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxxdWVyeVN0cmluZ1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -466,10 +490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contract</entry>
-        <entry>real_</entry>
-        <entry>orW</entry>
-        <entry encoding="base64">XDxzaXplUmFuZ2VcPg==</entry>
         <entry>orWh</entry>
         <entry>additional_options</entry>
         <entry>zoomLevel</entry>
@@ -486,6 +506,10 @@
         <entry>etc</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxjb3VudFw+</entry>
+        <entry>laravel-midx</entry>
+        <entry>mix</entry>
+        <entry>yield</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>159</entry>
