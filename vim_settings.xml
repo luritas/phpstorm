@@ -237,12 +237,12 @@
         <mark key="^" line="71" column="48" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/PointController.php" timestamp="1508521206256">
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/PointController.php" timestamp="1508594525895">
         <mark key="'" line="31" column="10" />
         <mark key="[" line="105" column="5" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="23" column="55" />
+        <mark key="]" line="107" column="33" />
+        <mark key="." line="107" column="33" />
+        <mark key="^" line="107" column="33" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/CheckUserType.php" timestamp="1508441087789">
         <mark key="[" line="6" column="11" />
