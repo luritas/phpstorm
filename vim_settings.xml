@@ -10,6 +10,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="56" column="51" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/student/dashboard.blade.php" timestamp="1509251352971">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="58" column="47" />
+        <mark key="^" line="58" column="47" />
+        <mark key="." line="58" column="47" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/InvitationFactory.php" timestamp="1509126482076">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="65" />
@@ -92,6 +98,12 @@
         <mark key="]" line="24" column="16" />
         <mark key="^" line="24" column="16" />
         <mark key="." line="24" column="16" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509251337356">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+        <mark key="^" line="31" column="37" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509160423034">
         <mark key="[" line="22" column="64" />
@@ -303,14 +315,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="^" line="35" column="28" />
         <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/resources/views/point.blade.php" timestamp="1509136300986">
-        <mark key="'" line="63" column="37" />
-        <mark key="i" line="35" column="31" />
-        <mark key="[" line="80" column="56" />
-        <mark key="]" line="80" column="63" />
-        <mark key="." line="80" column="63" />
-        <mark key="^" line="80" column="63" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Point.php" timestamp="1509136474957">
         <mark key="'" line="22" column="0" />
@@ -658,7 +662,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>의</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -670,7 +674,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>의</text>
       </register>
       <register name="/" type="4">
         <text>teacher</text>
@@ -679,34 +683,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS08dGQ+e3sgJHN0dWRlbnQtPnBvaW50IH19PC90ZD4tLX19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS08dGQ+e3sgJHN0dWRlbnQtPnBvaW50IH19PC90ZD4tLX19Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcG9pbnRUcmFuc2FjdGlvbnMpOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">CiAgICAgICAgJHBvaW50ID0gUG9pbnQ6OmxlZnRKb2luKCdwb2ludF90cmFuc2FjdGlvbnMnICwncG9pbnRzLmlkJyAsJz0nLCdwb2ludF90cmFuc2FjdGlvbnMucG9pbnRfaWQnKQogICAgICAgIC0+d2hlcmUoJ3BvaW50LicpOwogICAgICAgIGRkKCRwb2ludCk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGdldHR5cGUoJHBvaW50LT5wZXJpb2QpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcG9pbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS08dGQ+e3sgJHN0dWRlbnQtPnBvaW50IH19PC90ZD4tLX19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJlZGl0MSIgZm9ybT0ncG9pbnR7eyRtb2RlbC0+aWR9fSc+7IiY7KCVPC9idXR0b24+LS19fQo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJG1vZGVsOjp0ZWFjaGVyKCRtb2RlbC0+aWQpKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKGdldHR5cGUoJHBvaW50LT5wZXJpb2QpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3NSb29tSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3NSb29tSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJlZGl0MSIgZm9ybT0ncG9pbnR7eyRtb2RlbC0+aWR9fSc+7IiY7KCVPC9idXR0b24+LS19fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPndoZXJlKCdjbGFzc19yb29tX2lkJywgJGNsYXNzSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJG1vZGVsOjp0ZWFjaGVyKCRtb2RlbC0+aWQpKSB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
