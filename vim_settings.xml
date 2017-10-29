@@ -75,18 +75,23 @@
         <mark key="." line="41" column="5" />
         <mark key="^" line="41" column="5" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/ClassRoomUserTableSeeder.php" timestamp="1509246472783">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/ProductFactory.php" timestamp="1509132065353">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/resources/views/class/students.blade.php" timestamp="1509136001493">
+      <file name="$USER_HOME$/developements/git/point/resources/views/class/students.blade.php" timestamp="1509246429814">
         <mark key="'" line="8" column="23" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="27" />
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509160423034">
         <mark key="[" line="22" column="64" />
@@ -99,6 +104,11 @@
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/PointTransactionsTableSeeder.php" timestamp="1509130081403">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointFactory.php" timestamp="1509126529864">
         <mark key="[" line="12" column="0" />
@@ -275,6 +285,11 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/ClassRoomsTableSeeder.php" timestamp="1509130055651">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505246093292">
         <mark key="'" line="480" column="0" />
         <mark key="[" line="477" column="34" />
@@ -376,6 +391,11 @@
         <mark key="]" line="128" column="30" />
         <mark key="." line="128" column="30" />
         <mark key="^" line="128" column="30" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/TestUsersTableSeeder.php" timestamp="1509130084882">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_14_034355_add_columns_to_users_table.php" timestamp="1509124725266">
         <mark key="[" line="17" column="43" />
@@ -479,6 +499,11 @@
         <mark key="[" line="46" column="70" />
         <mark key="]" line="46" column="70" />
         <mark key="." line="46" column="70" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/HomeController.php" timestamp="1509126589204">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -633,7 +658,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -645,43 +670,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>teacher</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJ3RyW2NsYXNzXj1jbGFzc19dJykuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS08dGQ+e3sgJHN0dWRlbnQtPnBvaW50IH19PC90ZD4tLX19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7LS08dGQ+e3sgJHN0dWRlbnQtPnBvaW50IH19PC90ZD4tLX19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGdldHR5cGUoJHBvaW50LT5wZXJpb2QpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKGdldHR5cGUoJHBvaW50LT5wZXJpb2QpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJlZGl0MSIgZm9ybT0ncG9pbnR7eyRtb2RlbC0+aWR9fSc+7IiY7KCVPC9idXR0b24+LS19fQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJG1vZGVsOjp0ZWFjaGVyKCRtb2RlbC0+aWQpKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7LS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJlZGl0MSIgZm9ybT0ncG9pbnR7eyRtb2RlbC0+aWR9fSc+7IiY7KCVPC9idXR0b24+LS19fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3NSb29tSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgZGQoJG1vZGVsOjp0ZWFjaGVyKCRtb2RlbC0+aWQpKSB9fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkY2xhc3NSb29tSWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPndoZXJlKCdjbGFzc19yb29tX2lkJywgJGNsYXNzSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2xhc3NSb29tSWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBkZCgkbW9kZWwtPnVzZXIpIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnktPndoZXJlKCdjbGFzc19yb29tX2lkJywgJGNsYXNzSWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>57</text>
