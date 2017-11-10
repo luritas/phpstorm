@@ -10,8 +10,8 @@
         <mark key="^" line="80" column="19" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335237116">
-        <mark key="[" line="3" column="10" />
+      <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335630603">
+        <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
@@ -441,7 +441,6 @@
         <mark key="^" line="287" column="18" />
         <mark key="." line="286" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1509284647300" />
       <file name="$USER_HOME$/developements/git/point/resources/views/auth/login.blade.php" timestamp="1508865093081">
         <mark key="[" line="65" column="50" />
         <mark key="]" line="65" column="51" />
