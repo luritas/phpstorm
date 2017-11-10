@@ -34,12 +34,17 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/.env" timestamp="1509127634246">
+      <file name="$USER_HOME$/developements/git/point/.env" timestamp="1509817233540">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="2" />
-        <mark key="]" line="41" column="5" />
-        <mark key="." line="41" column="5" />
-        <mark key="^" line="41" column="5" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="46" column="5" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/ClassRoomUserTableSeeder.php" timestamp="1509246472783">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
@@ -239,6 +244,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/HomeController.php" timestamp="1509126589204">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1505245506350">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="1" column="0" />
@@ -272,11 +282,10 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509279832617">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="27" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+      <file name="$USER_HOME$/developements/git/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509817101181">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/api/routes.php" timestamp="1505646959921">
         <mark key="'" line="67" column="12" />
@@ -311,17 +320,22 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/PointTransactionsTableSeeder.php" timestamp="1509130081403">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/DatabaseSeeder.php" timestamp="1509279775771">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/app/ClassRoom.php" timestamp="1509277151123">
+      <file name="$USER_HOME$/developements/git/point/app/ClassRoom.php" timestamp="1509817057726">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="60" column="33" />
-        <mark key="]" line="60" column="33" />
-        <mark key="^" line="60" column="31" />
-        <mark key="." line="60" column="33" />
+        <mark key="[" line="93" column="35" />
+        <mark key="]" line="93" column="33" />
+        <mark key="^" line="93" column="33" />
+        <mark key="." line="93" column="33" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/partials/footer/class/students.blade.php" timestamp="1509135797888">
         <mark key="[" line="1" column="91" />
@@ -422,6 +436,11 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/ClassRoomsTableSeeder.php" timestamp="1509130055651">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505246093292">
         <mark key="'" line="480" column="0" />
         <mark key="[" line="477" column="34" />
@@ -482,6 +501,11 @@
         <mark key="]" line="128" column="30" />
         <mark key="." line="128" column="30" />
         <mark key="^" line="128" column="30" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/TestUsersTableSeeder.php" timestamp="1509130084882">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/assets/bank.csv" timestamp="1505241374574">
         <mark key="'" line="82" column="3" />
@@ -704,8 +728,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Json(0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -717,7 +741,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Json(0)</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>sumP</text>
@@ -726,34 +750,34 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcG9pbnRUcmFuc2FjdGlvbnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBiYWxhbmNlQWNjb3VudHMoKQogICAgewogICAgICAgICRwb2ludFRyYW5zYWN0aW9ucyA9IFBvaW50VHJhbnNhY3Rpb246Om9sZGVzdCgpLT53aXRoTWluZSgpOwogICAgICAgIGZvcmVhY2ggKCRwb2ludFRyYW5zYWN0aW9ucyBhcyAka2V5ID0+ICRwb2ludFRyYW5zYWN0aW9uKSB7CiAgICAgICAgICAgIGR1bXAoJGtleSk7CiAgICAgICAgICAgIGR1bXAoJHBvaW50VHJhbnNhY3Rpb25zKTsKICAgICAgICB9CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdXNlcklkcyBhcyAkdXNlcklkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R0lUSFVCX0lEPQpHSVRIVUJfU0VDUkVUPQpHSVRIVUJfQ0FMTEJBQ0s9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">R0lUSFVCX0lEPTU1ZmM4YWQzMjE4YWQ3ODE4NjM3CkdJVEhVQl9TRUNSRVQ9MGZlNGZhNzYyOTM0MjY4Y2U2OGU5ZmYyZDlmMTFjNWIwNTNmZDcyZApHSVRIVUJfQ0FMTEJBQ0s9aHR0cDovL3BvaW50LmRldi9sb2dpbi9zb2NpYWwvZ2l0aHViL2NhbGxiYWNrCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBhZGQtc29jaWFsLWxvZ2luCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
