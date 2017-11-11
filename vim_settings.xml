@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/developements/git/point/resources/views/student/dashboard.blade.php" timestamp="1509281002622">
+      <file name="$USER_HOME$/developements/git/point/resources/views/student/dashboard.blade.php" timestamp="1510420600005">
         <mark key="'" line="10" column="8" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="80" column="19" />
-        <mark key="." line="82" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="136" column="19" />
+        <mark key="^" line="136" column="19" />
+        <mark key="." line="136" column="19" />
       </file>
       <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335630603">
         <mark key="[" line="3" column="12" />
@@ -749,7 +749,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>c/</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -761,10 +761,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>pubic</text>
+        <text>Class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">L3B1YmxpYy9zdG9yYWdlCg==</text>
@@ -804,9 +804,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pubic</last-search>
+      <last-search>Class</last-search>
       <last-offset />
-      <last-pattern>pubic</last-pattern>
+      <last-pattern>Class</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>stu</last-substitute>
       <last-dir>1</last-dir>
@@ -814,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>선생님</entry>
         <entry>student</entry>
         <entry>Home</entry>
         <entry>dashboard</entry>
@@ -834,6 +833,7 @@
         <entry>sumP</entry>
         <entry>font</entry>
         <entry>pubic</entry>
+        <entry>Class</entry>
       </history-search>
       <history-cmd>
         <entry>97</entry>
