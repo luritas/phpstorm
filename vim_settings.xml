@@ -387,6 +387,12 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
+      <file name="$USER_HOME$/developements/study/identify/database/migrations/2017_11_24_145221_create_books_table.php" timestamp="1511541992316">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509817101181">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -889,8 +895,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>content</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -902,7 +908,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text>store</text>
@@ -911,34 +917,34 @@
         <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0idGl0bGUiPuygnOuqqTwvbGFiZWw+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0idGl0bGUiIGlkPSJ0aXRsZSIgdmFsdWU9Int7IG9sZCgndGl0bGUnKSB9fSJwbGFjZWhvbGRlcj0iSW5wdXQuLi4iPgogICAgICAgICAgICAgICAgeyEhICAkZXJyb3JzLT5maXJzdCgndGl0bGUnLCAnPHNwYW4gY2xhc3M9ImZvcm0tZXJyb3IiTD46bWVzc2FnZTwvc3Bhbj4nKSAhIX0KICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ2F1dGhvcicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9naW46OmNsYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQpOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9naW46OmNsYXNzCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgn7J2067Kk7Yq466W8IOuwm+yVmOyKteuLiOuLpCDrsJvsnYAg642w7J207YSw64qUIOuLpOydjOqzvCDqsJnsirXri4jri6QnKTsKICAgICAgICB2YXJfZHVtcCgkZXZlbnQtPmFydGljbGUtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd1c2VycycsIGZ1bmN0aW9uIChCbHVlcHJpbnQgJHRhYmxlKSB7CiAgICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgn7J2067Kk7Yq466W8IOuwm+yVmOyKteuLiOuLpCDrsJvsnYAg642w7J207YSw64qUIOuLpOydjOqzvCDqsJnsirXri4jri6QnKTsKICAgICAgICB2YXJfZHVtcCgkZXZlbnQtPmFydGljbGUtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
