@@ -106,7 +106,6 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="71" column="7" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/composer.json" timestamp="1511534581836" />
       <file name="$USER_HOME$/developements/git/point/resources/views/point/transaction.blade.php" timestamp="1509280236115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="23" column="7" />
@@ -273,6 +272,12 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511552996101">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="25" />
+        <mark key="^" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/AcademyTableSeeder.php" timestamp="1509126054513">
         <mark key="[" line="13" column="37" />
         <mark key="]" line="13" column="37" />
@@ -375,12 +380,12 @@
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/includes/mypage.php" timestamp="1509275442186">
         <mark key="'" line="59" column="7" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" timestamp="1511551851351">
+      <file name="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" timestamp="1511552557213">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="64" column="50" />
-        <mark key="]" line="64" column="50" />
-        <mark key="^" line="64" column="50" />
-        <mark key="." line="64" column="50" />
+        <mark key="[" line="74" column="142" />
+        <mark key="]" line="74" column="141" />
+        <mark key="^" line="74" column="141" />
+        <mark key="." line="74" column="141" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/InvitationFactory.php" timestamp="1509126482076">
         <mark key="[" line="5" column="0" />
@@ -702,10 +707,10 @@
       <file name="/Dummy.txt" timestamp="1511549486031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511550542972">
+      <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511552625824">
         <mark key="'" line="67" column="24" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="33" />
         <mark key="." line="68" column="0" />
         <mark key="^" line="67" column="21" />
       </file>
@@ -971,7 +976,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">7JWE66y06rGw64KYIA==</text>
+        <text>everyMinute</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -983,43 +988,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">7JWE66y06rGw64KYIA==</text>
+        <text>everyMinute</text>
       </register>
       <register name="/" type="4">
         <text>guzzle</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JGJvb2tzQnVpbGRlci0+Zmlyc3QoKS0+ZXhpc3RzKCk/ICRib29rc0J1aWxkZXItPmZpcnN0KCktPnRpdGxlOiAn7JeG7J2MJyw=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRoKCktPnVzZXIoKS0+cmVwb3J0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFRpdGxlQXR0cmlidXRlKCR2YWx1ZSkKICAgIHsKICAgICAgICByZXR1cm4gJHZhbHVlPyA6ICfsl4bsnYwnOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFRpdGxlQXR0cmlidXRlKCR2YWx1ZSkKICAgIHsKICAgICAgICByZXR1cm4gJHZhbHVlPyA6ICfsl4bsnYwnOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudAogICAgICAgICAgICA9IDw8PENPTlRFTlQK7ZiE7J6sIOydveuKlCDspJHsnbgg7LGFOiB7JGJvb2tCdWlsZGVyLT5maXJzdCgpLT50aXRsZX0K7LSdIOydveydgOyxhTogeyRib29rc0J1aWxkZXItPmNvdW50KCl9CgogICAgICAgIAp7JGR1cmF0aW9ufQpDT05URU5UOwoKCg==</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAkY29udGVudAogICAgICAgICAgICA9IDw8PENPTlRFTlQK7ZiE7J6sIOydveuKlCDspJHsnbgg7LGFOiB7JGJvb2tCdWlsZGVyLT5maXJzdCgpLT50aXRsZX0K7LSdIOydveydgOyxhTogeyRib29rc0J1aWxkZXItPmNvdW50KCl9CgogICAgICAgIAp7JGR1cmF0aW9ufQpDT05URU5UOwoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb250ZW50KCcjI+ymkOqxsOyatCDslYTsuagg7Iuc7J6RISEhJykK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2htZW50KGZ1bmN0aW9uICgkYXR0YWNobWVudCkgdXNlICgkY29udGVudCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5jb250ZW50KCcjI+ymkOqxsOyatCDslYTsuagg7Iuc7J6RISEhJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdHRhY2htZW50LT50aXRsZSgn642w7J2866asIOumrO2PrO2KuCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2htZW50KGZ1bmN0aW9uICgkYXR0YWNobWVudCkgdXNlICgkY29udGVudCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdHRhY2htZW50LT50aXRsZSgn642w7J2866asIOumrO2PrO2KuCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPm1hcmtkb3duKFsndGV4dCddKTsK</text>
+        <text encoding="base64">ICAgICAgICAtPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
