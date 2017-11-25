@@ -32,11 +32,6 @@
       <file name="/a.dummy" timestamp="1511544400113">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_28_041411_create_products_table.php" timestamp="1509131926092">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="66" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/routes/web.php" timestamp="1510334841784">
         <mark key="'" line="48" column="14" />
         <mark key="[" line="38" column="51" />
@@ -49,6 +44,13 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="31" column="35" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/config/app.php" timestamp="1511609903907">
+        <mark key="'" line="93" column="27" />
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="27" />
+        <mark key="." line="93" column="27" />
+        <mark key="^" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_22_165024_create_class_rooms_table.php" timestamp="1509160699840">
         <mark key="[" line="23" column="20" />
@@ -75,21 +77,11 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/ClassRoomUserTableSeeder.php" timestamp="1509246472783">
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/Auth/LoginController.php" timestamp="1508864592469">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/dashboard.blade.php" timestamp="1508863709872">
         <mark key="'" line="12" column="0" />
@@ -135,11 +127,11 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/routes/web.php" timestamp="1511550533844">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="59" />
-        <mark key="." line="21" column="59" />
-        <mark key="^" line="21" column="59" />
+      <file name="$USER_HOME$/developements/study/identify/routes/web.php" timestamp="1511555011766">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1509127386582">
         <mark key="[" line="20" column="30" />
@@ -229,11 +221,6 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/resources/assets/js/app.js" timestamp="1508517662435">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/resources/assets/js/bootstrap.js" timestamp="1510334628425">
         <mark key="'" line="38" column="0" />
       </file>
@@ -243,11 +230,6 @@
         <mark key="]" line="73" column="0" />
         <mark key="^" line="35" column="28" />
         <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/InvitationController.php" timestamp="1508867170267">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/CheckTeacher.php" timestamp="1509127843415">
         <mark key="[" line="19" column="66" />
@@ -261,21 +243,16 @@
         <mark key="." line="126" column="38" />
         <mark key="^" line="126" column="43" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_19_184321_create_points_table.php" timestamp="1509280775177">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/point/menu.blade.php" timestamp="1509280415457">
         <mark key="[" line="13" column="20" />
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511552996101">
-        <mark key="[" line="31" column="20" />
+      <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511609940966">
+        <mark key="[" line="31" column="24" />
         <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
+        <mark key="^" line="31" column="39" />
         <mark key="." line="31" column="25" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/AcademyTableSeeder.php" timestamp="1509126054513">
@@ -341,11 +318,11 @@
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/resources/views/book/create.blade.php" timestamp="1511548620619">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="49" />
-        <mark key="." line="33" column="49" />
-        <mark key="^" line="33" column="49" />
+      <file name="$USER_HOME$/developements/study/identify/resources/views/book/create.blade.php" timestamp="1511555259872">
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Kernel.php" timestamp="1509127891797">
         <mark key="[" line="60" column="52" />
@@ -360,16 +337,6 @@
         <mark key="." line="61" column="27" />
         <mark key="^" line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Providers/EventServiceProvider.php" timestamp="1511459943438">
-        <mark key="[" line="37" column="56" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/HomeController.php" timestamp="1509126589204">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1505245506350">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="1" column="0" />
@@ -380,12 +347,12 @@
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/includes/mypage.php" timestamp="1509275442186">
         <mark key="'" line="59" column="7" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" timestamp="1511552557213">
+      <file name="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" timestamp="1511609474204">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="74" column="142" />
-        <mark key="]" line="74" column="141" />
-        <mark key="^" line="74" column="141" />
-        <mark key="." line="74" column="141" />
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="62" column="26" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="62" column="26" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/InvitationFactory.php" timestamp="1509126482076">
         <mark key="[" line="5" column="0" />
@@ -420,19 +387,14 @@
         <mark key="." line="22" column="74" />
         <mark key="^" line="22" column="74" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/database/migrations/2017_11_24_145221_create_books_table.php" timestamp="1511550199376">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="80" />
-        <mark key="." line="20" column="80" />
-        <mark key="^" line="20" column="80" />
+      <file name="$USER_HOME$/developements/study/identify/database/migrations/2017_11_24_145221_create_books_table.php" timestamp="1511554413766">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/resources/views/layouts/app.blade.php" timestamp="1511548717911">
         <mark key="'" line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1509817101181">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/api/routes.php" timestamp="1505646959921">
         <mark key="'" line="67" column="12" />
@@ -470,28 +432,18 @@
         <mark key="." line="20" column="13" />
         <mark key="^" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" timestamp="1511549684632">
-        <mark key="'" line="17" column="20" />
-        <mark key="[" line="22" column="100" />
-        <mark key="]" line="22" column="104" />
-        <mark key="^" line="22" column="104" />
-        <mark key="." line="22" column="104" />
+      <file name="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" timestamp="1511555284028">
+        <mark key="'" line="52" column="39" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509278643756">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/PointTransactionsTableSeeder.php" timestamp="1509130081403">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/DatabaseSeeder.php" timestamp="1509279775771">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/UsersTablesSeeder.php" timestamp="1511202778021">
         <mark key="[" line="14" column="31" />
@@ -534,16 +486,11 @@
         <mark key="^" line="30" column="5" />
         <mark key="." line="30" column="5" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/resources/views/articles/index.blade.php" timestamp="1511285831138">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/study/identify/resources/assets/sass/app.scss" timestamp="1511548747759">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/developements/study/identify/resources/assets/sass/app.scss" timestamp="1511555445455">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BooksController.php" timestamp="1511544391161">
         <mark key="[" line="7" column="10" />
@@ -624,10 +571,11 @@
         <mark key="^" line="39" column="39" />
         <mark key="." line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Book.php" timestamp="1511551448749">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/developements/study/identify/app/Book.php" timestamp="1511554404791">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1509275744975">
         <mark key="'" line="88" column="0" />
@@ -635,11 +583,6 @@
         <mark key="]" line="286" column="0" />
         <mark key="^" line="287" column="18" />
         <mark key="." line="286" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Article.php" timestamp="1511202170977">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175539_create_articles_table.php" timestamp="1511201491440">
         <mark key="[" line="15" column="0" />
@@ -666,13 +609,8 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/ClassRoomsTableSeeder.php" timestamp="1509130055651">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-      </file>
-      <file name="$USER_HOME$/developements/study/identify/.env" timestamp="1511549677072">
-        <mark key="'" line="37" column="95" />
+      <file name="$USER_HOME$/developements/study/identify/.env" timestamp="1511609876523">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="33" column="18" />
         <mark key="]" line="37" column="95" />
         <mark key="^" line="37" column="95" />
@@ -704,15 +642,15 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511549486031">
+      <file name="/Dummy.txt" timestamp="1511609661739">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511552625824">
-        <mark key="'" line="67" column="24" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="67" column="21" />
+      <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="72" column="26" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
         <mark key="'" line="44" column="3" />
@@ -739,11 +677,6 @@
         <mark key="]" line="128" column="30" />
         <mark key="." line="128" column="30" />
         <mark key="^" line="128" column="30" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/TestUsersTableSeeder.php" timestamp="1509130084882">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Events/ArticlesEvent.php" timestamp="1511458984660">
         <mark key="[" line="29" column="5" />
@@ -776,11 +709,6 @@
         <mark key="]" line="36" column="27" />
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php" timestamp="1509127286218">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/ClassRoomUser.php" timestamp="1509137734880">
         <mark key="[" line="16" column="5" />
@@ -825,16 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="41" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="47" column="37" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="80" column="38" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="81" column="70" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="82" column="68" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="121" column="63" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="123" column="55" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="124" column="50" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="122" column="78" filename="$USER_HOME$/developements/git/point/resources/views/class.blade.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/developements/git/point/app/PointTransaction.php" />
       <jump line="8" column="6" filename="$USER_HOME$/developements/git/point/app/Http/Controllers/PointController.php" />
       <jump line="9" column="6" filename="$USER_HOME$/developements/git/point/app/Http/Controllers/PointTransactionController.php" />
       <jump line="37" column="20" filename="$USER_HOME$/developements/git/point/app/Http/Controllers/PointTransactionController.php" />
@@ -911,7 +829,6 @@
       <jump line="25" column="6" filename="$USER_HOME$/developements/study/myapp/app/Listeners/ArticlesEventListener.php" />
       <jump line="10" column="30" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
       <jump line="31" column="5" filename="$USER_HOME$/developements/study/identify/resources/views/layouts/app.blade.php" />
-      <jump line="42" column="31" filename="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" />
       <jump line="4" column="0" filename="$USER_HOME$/developements/study/identify/.env" />
       <jump line="45" column="40" filename="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" />
       <jump line="54" column="0" filename="$USER_HOME$/developements/study/identify/resources/views/layouts/app.blade.php" />
@@ -919,12 +836,23 @@
       <jump line="30" column="20" filename="$USER_HOME$/developements/study/identify/app/User.php" />
       <jump line="28" column="5" filename="$USER_HOME$/developements/study/identify/app/User.php" />
       <jump line="58" column="46" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
-      <jump line="67" column="24" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
       <jump line="23" column="5" filename="$USER_HOME$/developements/study/identify/app/User.php" />
       <jump line="37" column="95" filename="$USER_HOME$/developements/study/identify/.env" />
       <jump line="51" column="6" filename="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" />
       <jump line="17" column="20" filename="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" />
       <jump line="10" column="0" filename="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" />
+      <jump line="67" column="32" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
+      <jump line="42" column="55" filename="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" />
+      <jump line="46" column="73" filename="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" />
+      <jump line="117" column="30" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
+      <jump line="96" column="0" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
+      <jump line="52" column="39" filename="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/developements/study/identify/.env" />
+      <jump line="16" column="0" filename="$USER_HOME$/developements/study/identify/config/app.php" />
+      <jump line="54" column="36" filename="$USER_HOME$/developements/study/identify/config/app.php" />
+      <jump line="93" column="27" filename="$USER_HOME$/developements/study/identify/config/app.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -976,7 +904,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>everyMinute</text>
+        <text>n</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -988,52 +916,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>everyMinute</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>guzzle</text>
+        <text>loca</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoKCktPnVzZXIoKS0+cmVwb3J0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKS0+d2l0aElucHV0KCktPndpdGgoJ2Vycm9ycycsICRlLT5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdGF0dXMnICAgPT4gJHN0YXR1cywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFRpdGxlQXR0cmlidXRlKCR2YWx1ZSkKICAgIHsKICAgICAgICByZXR1cm4gJHZhbHVlPyA6ICfsl4bsnYwnOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYm9vayk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKCR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudAogICAgICAgICAgICA9IDw8PENPTlRFTlQK7ZiE7J6sIOydveuKlCDspJHsnbgg7LGFOiB7JGJvb2tCdWlsZGVyLT5maXJzdCgpLT50aXRsZX0K7LSdIOydveydgOyxhTogeyRib29rc0J1aWxkZXItPmNvdW50KCl9CgogICAgICAgIAp7JGR1cmF0aW9ufQpDT05URU5UOwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5jb250ZW50KCcjI+ymkOqxsOyatCDslYTsuagg7Iuc7J6RISEhJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldE1lc3NhZ2UoKSk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5hdHRhY2htZW50KGZ1bmN0aW9uICgkYXR0YWNobWVudCkgdXNlICgkY29udGVudCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhdHRhY2htZW50LT50aXRsZSgn642w7J2866asIOumrO2PrO2KuCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAkYm9vay0+ZGVsZXRlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>guzzle</last-search>
+      <last-search>loca</last-search>
       <last-offset />
-      <last-pattern>guzzle</last-pattern>
+      <last-pattern>loca</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>추가</last-substitute>
       <last-dir>1</last-dir>
@@ -1041,11 +969,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
-        <entry>point</entry>
-        <entry>title-select</entry>
-        <entry>sumP</entry>
         <entry>font</entry>
         <entry>pubic</entry>
         <entry>Class</entry>
@@ -1061,6 +984,11 @@
         <entry>추가</entry>
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
         <entry>guzzle</entry>
+        <entry>delete</entry>
+        <entry encoding="base64">XDxkZXN0cm95XD4=</entry>
+        <entry>desto</entry>
+        <entry>loc</entry>
+        <entry>loca</entry>
       </history-search>
       <history-cmd>
         <entry>17</entry>
