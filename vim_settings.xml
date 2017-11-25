@@ -249,11 +249,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511609940966">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="39" />
-        <mark key="." line="31" column="25" />
+      <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511621599570">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/AcademyTableSeeder.php" timestamp="1509126054513">
         <mark key="[" line="13" column="37" />
@@ -904,7 +904,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>3</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -916,7 +916,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>loca</text>
