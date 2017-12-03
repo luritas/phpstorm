@@ -479,8 +479,8 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1512296442432">
-        <mark key="'" line="492" column="3" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1512296645662">
+        <mark key="'" line="310" column="0" />
         <mark key="[" line="343" column="78" />
         <mark key="]" line="343" column="76" />
         <mark key="." line="343" column="76" />
@@ -815,7 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="$USER_HOME$/developements/study/myapp/app/Listeners/ArticlesEventListener.php" />
       <jump line="10" column="30" filename="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" />
       <jump line="31" column="5" filename="$USER_HOME$/developements/study/identify/resources/views/layouts/app.blade.php" />
       <jump line="4" column="0" filename="$USER_HOME$/developements/study/identify/.env" />
@@ -915,6 +914,7 @@
       <jump line="481" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="486" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="492" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="310" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
