@@ -18,11 +18,11 @@
         </fileTransfer>
       </webServer>
       <webServer id="c456f703-c8e8-45c5-8d72-72b4c1543c08" name="snsld" url="http://snsl.kr">
-        <fileTransfer host="snsl.kr" port="6424" rootFolder="/var/www/www.snsl.kr" accessType="SFTP">
+        <fileTransfer host="snsl.kr" port="22" rootFolder="/var/www/www.snsl.kr" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="6424" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
