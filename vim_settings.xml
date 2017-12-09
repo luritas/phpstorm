@@ -17,12 +17,12 @@
         <mark key="." line="76" column="49" />
         <mark key="^" line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1512795909698">
-        <mark key="'" line="160" column="33" />
-        <mark key="[" line="572" column="81" />
-        <mark key="]" line="572" column="87" />
-        <mark key="^" line="572" column="81" />
-        <mark key="." line="572" column="81" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1512799585538">
+        <mark key="'" line="351" column="24" />
+        <mark key="[" line="124" column="9" />
+        <mark key="]" line="125" column="7" />
+        <mark key="^" line="125" column="7" />
+        <mark key="." line="125" column="7" />
       </file>
       <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335630603">
         <mark key="[" line="3" column="12" />
@@ -947,17 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="132" column="46" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="279" column="55" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="285" column="59" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="286" column="33" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="266" column="30" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="267" column="32" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="143" column="18" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/plugins/fusion-builder/js/app.js" />
-      <jump line="251" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="79" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/helper.php" />
-      <jump line="18" column="17" filename="$USER_HOME$/PhpstormProjects/snsld/helper.php" />
       <jump line="328" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="60" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/index.php" />
       <jump line="42" column="6" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
@@ -1047,6 +1036,17 @@
       <jump line="319" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="506" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="160" column="33" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="338" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="467" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="63" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="120" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="330" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="332" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="327" column="13" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="126" column="25" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="343" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="117" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="340" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1098,7 +1098,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgJyAn</text>
+        <text>absolute</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1110,10 +1110,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJyAn</text>
+        <text>absolute</text>
       </register>
       <register name="/" type="4">
-        <text>investment-mobile</text>
+        <text>background-mobile</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Zm5fY2hhbmdlX2hhbmd1bF9tb25leSh0eHRfaWQpIA==</text>
@@ -1153,9 +1153,9 @@
       </register>
     </registers>
     <search>
-      <last-search>investment-mobile</last-search>
+      <last-search>background-mobile</last-search>
       <last-offset />
-      <last-pattern>investment-mobile</last-pattern>
+      <last-pattern>background-mobile</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmbl9jaGFuZ2VfaGFuZ3VsX21vbmV5XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1163,8 +1163,6 @@
     </search>
     <history>
       <history-search>
-        <entry>investmentList</entry>
-        <entry>$schedule</entry>
         <entry>user_info_schedule</entry>
         <entry encoding="base64">XDxBUElfU0NIRURVTEVcPg==</entry>
         <entry>schedule</entry>
@@ -1183,6 +1181,8 @@
         <entry encoding="base64">XDxoYW5fdmFsdWVcPg==</entry>
         <entry>mobile-investment</entry>
         <entry>investment-mobile</entry>
+        <entry>aside</entry>
+        <entry>background-mobile</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
