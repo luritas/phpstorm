@@ -113,11 +113,11 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512827428116">
-        <mark key="[" line="42" column="52" />
-        <mark key="]" line="42" column="55" />
-        <mark key="." line="42" column="55" />
-        <mark key="^" line="42" column="55" />
+      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512835631024">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="52" column="11" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
@@ -817,7 +817,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512761565509">
+      <file name="/Dummy.txt" timestamp="1512835504754">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
@@ -1095,8 +1095,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">WzFdOiBodHRwOi8vZGFyaW5nZmlyZWJhbGwubmV0L3Byb2plY3RzL21hcmtkb3duCkVPVDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1117,34 +1117,34 @@
         <text encoding="base64">IyBNQUlMX0RSSVZFUj1zbXRwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
+        <text encoding="base64">WzFdOiBodHRwOi8vZGFyaW5nZmlyZWJhbGwubmV0L3Byb2plY3RzL21hcmtkb3duCkVPVDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W14xXTog65GQIOuyiOynuCDtla3rqqlfIGh0dHA6Ly9nb29nbGUuY29tCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TUFJTF9EUklWRVI9bWFpbGd1bgpNQUlMR1VOX0RPTUFJTj1zYW5kYm94MmNlMDlmNTk5Nzg4NDBhZmJmMWViODgzMjczMTgzNDUubWFpbGd1bi5vcmcKTUFJTEdVTl9TRUNSRVQ9a2V5LWUxMmIwOWQ5NjJkMDI3ZGQzZGFiYjY5YjEwMjc0ZWIzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVybGJpIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHt7IGNvbmZpZygnTUFJTF9IT1NUJykgfX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
