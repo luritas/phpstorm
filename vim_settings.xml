@@ -43,10 +43,11 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512825876506">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="14" />
-        <mark key="." line="32" column="14" />
+      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512827600200">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1511544400113">
         <mark key="[" line="0" column="0" />
@@ -112,11 +113,11 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512825583960">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="10" />
-        <mark key="." line="32" column="10" />
-        <mark key="^" line="32" column="10" />
+      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512827428116">
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="42" column="55" />
+        <mark key="." line="42" column="55" />
+        <mark key="^" line="42" column="55" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
@@ -247,10 +248,11 @@
       <file name="$USER_HOME$/developements/study/myapp/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php" timestamp="1511201451167">
         <mark key="'" line="165" column="36" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/resources/views/emails/articles/created.blade.php" timestamp="1512824167069">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/emails/articles/created.blade.php" timestamp="1512827723827">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="63" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" timestamp="1505553455904">
         <mark key="'" line="318" column="247" />
@@ -404,11 +406,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/config/mail.php" timestamp="1512825904718">
-        <mark key="[" line="59" column="41" />
-        <mark key="]" line="59" column="47" />
-        <mark key="." line="59" column="47" />
-        <mark key="^" line="59" column="47" />
+      <file name="$USER_HOME$/developements/study/myapp/config/mail.php" timestamp="1512827310816">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" timestamp="1508434561859">
         <mark key="'" line="258" column="53" />
@@ -1095,7 +1096,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Example</text>
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1107,7 +1108,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Example</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Mail</text>
@@ -1116,34 +1117,34 @@
         <text encoding="base64">IyBNQUlMX0RSSVZFUj1zbXRwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHt7IGNvbmZpZygnTUFJTF9IT1NUJykgfX0K</text>
+        <text encoding="base64">TUFJTF9EUklWRVI9bWFpbGd1bgpNQUlMR1VOX0RPTUFJTj1zYW5kYm94MmNlMDlmNTk5Nzg4NDBhZmJmMWViODgzMjczMTgzNDUubWFpbGd1bi5vcmcKTUFJTEdVTl9TRUNSRVQ9a2V5LWUxMmIwOWQ5NjJkMDI3ZGQzZGFiYjY5YjEwMjc0ZWIzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCRhcnRpY2xlLT5maXJzdCgpKTsK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImtvIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCB1c2VyLXNjYWxhYmxlPW5vLCBpbml0aWFsLXNjYWxlPTEuMCwgbWF4aW11bS1zY2FsZT0xLjAsIG1pbmltdW0tc2NhbGU9MS4wIj4KICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iaWU9ZWRnZSI+CiAgICA8dGl0bGU+RG9jdW1lbnQ8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIHt7IGNvbmZpZygnTUFJTF9IT1NUJykgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
