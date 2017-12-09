@@ -17,12 +17,12 @@
         <mark key="." line="76" column="49" />
         <mark key="^" line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1512799585538">
-        <mark key="'" line="351" column="24" />
-        <mark key="[" line="124" column="9" />
-        <mark key="]" line="125" column="7" />
-        <mark key="^" line="125" column="7" />
-        <mark key="." line="125" column="7" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1512802685044">
+        <mark key="'" line="128" column="23" />
+        <mark key="[" line="467" column="46" />
+        <mark key="]" line="128" column="23" />
+        <mark key="." line="128" column="23" />
+        <mark key="^" line="128" column="23" />
       </file>
       <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335630603">
         <mark key="[" line="3" column="12" />
@@ -947,15 +947,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
-      <jump line="60" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/index.php" />
-      <jump line="42" column="6" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="217" column="51" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="250" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="255" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="358" column="33" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="427" column="29" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
-      <jump line="434" column="29" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="229" column="16" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="227" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="245" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
@@ -1043,10 +1034,19 @@
       <jump line="330" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="332" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="327" column="13" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="126" column="25" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="343" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="117" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="340" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="126" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="153" column="26" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="366" column="54" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="604" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="100" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="127" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="607" column="17" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="608" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
+      <jump line="128" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1098,7 +1098,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>absolute</text>
+        <text>.panel</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1110,64 +1110,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>.panel</text>
       </register>
       <register name="/" type="4">
-        <text>background-mobile</text>
+        <text>separator</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Zm5fY2hhbmdlX2hhbmd1bF9tb25leSh0eHRfaWQpIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tOiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgIHZhciBoZWlnaHQgPSAkKHdpbmRvdykuaGVpZ2h0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tOiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4LWhlaWdodDogNzAwcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLXdlYmtpdC1ib3JkZXItcmFkaXVzOiAwOwogICAgICAgICAgICAtbW96LWJvcmRlci1yYWRpdXM6IDA7CiAgICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAxMDAwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT0icGFkZGluZzogMTVweCAxMHB4OyB3aWR0aDoxMDAlOyBoZWlnaHQ6IDcwcHg7ICI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLWNhbmR5LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJm5ic3A7PGJyLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmbmJzcDs8YnIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZuYnNwOzxici8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJm5ic3A7PGJyLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmbmJzcDs8YnIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zbWFsbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMzA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy10b3A6IDMwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0iIiBpZD0iaGFuX21vbmV5Ij7quIjslaHtkZzsi5w8L3NtYWxsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tOiAzMHB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tOiAzMHB4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9wOiAzMHB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
       </register>
     </registers>
     <search>
-      <last-search>background-mobile</last-search>
+      <last-search>separator</last-search>
       <last-offset />
-      <last-pattern>background-mobile</last-pattern>
+      <last-pattern>separator</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxmbl9jaGFuZ2VfaGFuZ3VsX21vbmV5XD4=</last-substitute>
+      <last-substitute>background-mobile</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>user_info_schedule</entry>
-        <entry encoding="base64">XDxBUElfU0NIRURVTEVcPg==</entry>
-        <entry>schedule</entry>
-        <entry encoding="base64">XDx0cnlcPg==</entry>
-        <entry encoding="base64">XDxmdW5kaW5nSW5kZXhcPg==</entry>
         <entry>내역</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
         <entry>480</entry>
@@ -1183,6 +1178,11 @@
         <entry>investment-mobile</entry>
         <entry>aside</entry>
         <entry>background-mobile</entry>
+        <entry encoding="base64">XDxwYW5lbFw+</entry>
+        <entry>max-</entry>
+        <entry>modal-pannel</entry>
+        <entry>modal-pa</entry>
+        <entry>separator</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
