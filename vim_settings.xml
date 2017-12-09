@@ -43,11 +43,11 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512810620594">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512824164728">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1511544400113">
         <mark key="[" line="0" column="0" />
@@ -112,6 +112,11 @@
         <mark key="]" line="24" column="15" />
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512824013479">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
@@ -241,6 +246,11 @@
       </file>
       <file name="$USER_HOME$/developements/study/myapp/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php" timestamp="1511201451167">
         <mark key="'" line="165" column="36" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/emails/articles/created.blade.php" timestamp="1512824167069">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" timestamp="1505553455904">
         <mark key="'" line="318" column="247" />
@@ -399,10 +409,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1512757183011">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="49" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" timestamp="1508434561859">
         <mark key="'" line="258" column="53" />
@@ -1094,8 +1100,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7IGNvbmZpZygnTUFJTF9IT1NUJykgfX0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1107,52 +1113,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>Mail</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHN0eWxlPSJsaW5lLWhlaWdodDogMXJlbTsi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
+        <text encoding="base64">ICAgIHt7IGNvbmZpZygnTUFJTF9IT1NUJykgfX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgIGRkKCRhcnRpY2xlLT5maXJzdCgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBoZWlnaHQgPSAkKHdpbmRvdykuaGVpZ2h0KCk7Cg==</text>
+        <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImtvIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCB1c2VyLXNjYWxhYmxlPW5vLCBpbml0aWFsLXNjYWxlPTEuMCwgbWF4aW11bS1zY2FsZT0xLjAsIG1pbmltdW0tc2NhbGU9MS4wIj4KICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iaWU9ZWRnZSI+CiAgICA8dGl0bGU+RG9jdW1lbnQ8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4LWhlaWdodDogNzAwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAxMDAwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDogMzA7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBoZWlnaHQgPSAkKHdpbmRvdykuaGVpZ2h0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZy10b3A6IDMwcHg7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm90dG9tOiAzMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4LWhlaWdodDogNzAwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>Mail</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>Mail</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>background-mobile</last-substitute>
       <last-dir>1</last-dir>
@@ -1160,7 +1166,6 @@
     </search>
     <history>
       <history-search>
-        <entry>480</entry>
         <entry>investment</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxpdGVtX3JlcXVlc3RcPg==</entry>
@@ -1180,6 +1185,7 @@
         <entry>separator</entry>
         <entry>투자중</entry>
         <entry>show</entry>
+        <entry>Mail</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
