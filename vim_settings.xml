@@ -763,17 +763,18 @@
         <mark key="." line="478" column="19" />
         <mark key="^" line="478" column="19" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512907182976">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="30" />
-        <mark key="." line="33" column="30" />
-        <mark key="^" line="33" column="30" />
+      <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512909570005">
+        <mark key="[" line="49" column="48" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512907089036">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="47" />
-        <mark key="." line="24" column="47" />
-        <mark key="^" line="24" column="47" />
+      <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512909023819">
+        <mark key="'" line="28" column="38" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo_111.php" timestamp="1512564346117">
         <mark key="[" line="2" column="25" />
@@ -937,7 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
       <jump line="51" column="27" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
       <jump line="179" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="226" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
@@ -1037,6 +1037,7 @@
       <jump line="450" column="74" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="57" column="28" filename="$USER_HOME$/developements/study/myapp/app/Http/Controllers/ArticlesController.php" />
       <jump line="25" column="23" filename="$USER_HOME$/developements/study/myapp/.env" />
+      <jump line="28" column="38" filename="$USER_HOME$/developements/study/myapp/app/Documentation.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1088,7 +1089,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1100,7 +1101,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>cach</text>
