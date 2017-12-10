@@ -43,7 +43,8 @@
         <mark key="." line="31" column="14" />
         <mark key="^" line="31" column="14" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512827600200">
+      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512906088368">
+        <mark key="'" line="25" column="23" />
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="23" />
         <mark key="." line="25" column="23" />
@@ -110,10 +111,11 @@
         <mark key="." line="24" column="15" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512838401148">
-        <mark key="[" line="66" column="27" />
-        <mark key="]" line="66" column="27" />
-        <mark key="." line="66" column="27" />
+      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512906777883">
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="69" column="54" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
@@ -761,17 +763,17 @@
         <mark key="." line="478" column="19" />
         <mark key="^" line="478" column="19" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512838236289">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="10" />
+      <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512907181594">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="39" column="10" />
+        <mark key="." line="39" column="10" />
+        <mark key="^" line="39" column="10" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512837656172">
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="10" column="46" />
+      <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512907089036">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+        <mark key="^" line="24" column="47" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo_111.php" timestamp="1512564346117">
         <mark key="[" line="2" column="25" />
@@ -804,7 +806,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512835504754">
+      <file name="/Dummy.txt" timestamp="1512906976319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
@@ -935,7 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="22" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
       <jump line="40" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
       <jump line="51" column="27" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/dashboard.php" />
       <jump line="179" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" />
@@ -1035,6 +1036,7 @@
       <jump line="128" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="450" column="74" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="57" column="28" filename="$USER_HOME$/developements/study/myapp/app/Http/Controllers/ArticlesController.php" />
+      <jump line="25" column="23" filename="$USER_HOME$/developements/study/myapp/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,7 +1088,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1098,52 +1100,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>Mail</text>
+        <text>cach</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBNQUlMX0RSSVZFUj1zbXRwCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gKCRmaWxlID0gbnVsbCkgewogICAgJHRleHQgPSAobmV3IFxBcHBcRG9jdW1lbnRhdGlvbigpKS0+Z2V0KCRmaWxlKTsKCiAgICByZXR1cm4gYXBwKFBhcnNlZG93bkV4dHI=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoMTIzMTMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7fX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29udGVudCA9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJGZpbGUpKSB7CiAgICAgICAgICAgICRmaWxlID0gCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkKCRmaWxlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaW5kZXggICA9IG1hcmtkb3duKCR0aGlzLT5kb2NzLT5nZXQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
       </register>
     </registers>
     <search>
-      <last-search>Mail</last-search>
+      <last-search>cach</last-search>
       <last-offset />
-      <last-pattern>Mail</last-pattern>
+      <last-pattern>cach</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>background-mobile</last-substitute>
       <last-dir>1</last-dir>
@@ -1151,7 +1153,6 @@
     </search>
     <history>
       <history-search>
-        <entry>investment</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxpdGVtX3JlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxBUElfUkVRVUVTVF9OQU1FXD4=</entry>
@@ -1171,6 +1172,7 @@
         <entry>투자중</entry>
         <entry>show</entry>
         <entry>Mail</entry>
+        <entry>cach</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
