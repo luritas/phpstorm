@@ -80,6 +80,11 @@
         <mark key="." line="93" column="27" />
         <mark key="^" line="93" column="27" />
       </file>
+      <file name="$USER_HOME$/developements/math/resources/views/home.blade.php" timestamp="1513410816277">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1512761762311">
         <mark key="[" line="14" column="99" />
         <mark key="]" line="14" column="100" />
@@ -608,11 +613,10 @@
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_181625_create_tags_table.php" timestamp="1511201833915">
         <mark key="[" line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/developements/math/routes/web.php" timestamp="1513410097406">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="35" column="26" />
-        <mark key="^" line="35" column="26" />
-        <mark key="." line="35" column="26" />
+      <file name="$USER_HOME$/developements/math/routes/web.php" timestamp="1513410788689">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_23_235523_create_point_transactions_table.php" timestamp="1513403909444">
         <mark key="[" line="30" column="0" />
@@ -1109,8 +1113,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>home</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBZb3UgYXJlIGxvZ2dlZCBpbiEK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1131,34 +1135,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2FzJyAgID0+ICdob21lJywKICAgICAgICAgICAgJ3VzZXMnID0+ICdIb21lQ29udHJvbGxlckBpbmRleCcsCiAgICAgICAgXQogICAgKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygnd2VsY29tZScpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBZb3UgYXJlIGxvZ2dlZCBpbiEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjpjaGVjaygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8g66mU7J24ClJvdXRlOjpnZXQoJy8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygnd2VsY29tZScpOwp9KTsK</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hYScsICdIb21lQ29udHJvbGxlckBpbmRleCcpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Um91dGU6Omdyb3VwKCcnKQo=</text>
+        <text encoding="base64">ICAgIFJvdXRlOjpnZXQoJy9hYWEnLCAnSG9tZScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygnd2VsY29tZScpOwogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChBdXRoOjpjaGVjaygpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">Ly8g66mU7J24ClJvdXRlOjpnZXQoJy8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygnd2VsY29tZScpOwp9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkKGVudignREJfREFUQUJBU0UnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
