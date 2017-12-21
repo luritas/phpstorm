@@ -658,12 +658,12 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1512567601877">
-        <mark key="'" line="162" column="38" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="166" column="38" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1513875981797">
+        <mark key="'" line="485" column="36" />
+        <mark key="[" line="581" column="48" />
+        <mark key="]" line="581" column="48" />
+        <mark key="." line="581" column="48" />
+        <mark key="^" line="581" column="51" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/UsersTablesSeeder.php" timestamp="1511202778021">
         <mark key="[" line="14" column="31" />
@@ -1127,8 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="543" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="482" column="39" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="570" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="572" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
@@ -1227,6 +1225,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/developements/math/resources/views/home.blade.php" />
       <jump line="26" column="18" filename="$USER_HOME$/developements/math/database/seeds/PointsTableSeeder.php" />
       <jump line="22" column="24" filename="$USER_HOME$/developements/math/database/migrations/2016_01_01_000000_create_pages_table.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="485" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1278,7 +1278,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1290,52 +1290,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>투자금액을</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlcjo6Y3JlYXRlKFsKICAgICAgICAgICAgICAgICduYW1lJyAgICAgICAgICAgPT4gJ0FkbWluJywKICAgICAgICAgICAgICAgICdlbWFpbCcgICAgICAgICAgPT4gJ2FkbWluQGFkbWluLmNvbScsCiAgICAgICAgICAgICAgICAncGFzc3dvcmQnICAgICAgID0+IGJjcnlwdCgncGFzc3dvcmQnKSwKICAgICAgICAgICAgICAgICdyZW1lbWJlcl90b2tlbicgPT4gc3RyX3JhbmRvbSg2MCksCiAgICAgICAgICAgICAgICAncm9sZV9pZCcgICAgICAgID0+ICRyb2xlLT5pZCwKICAgICAgICAgICAgXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNzY2hlZHVsZScpLmF0dHIoJ2lkJywgJ3NjaGVkdWxlMScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhbnNhY3Rpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhbnNhY3Rpb25zQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhbnNhY3Rpb25zQnVpbGRlci0+dG9TcWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDripQg7Yis7J6Q6riI7JWh7J2EIOyeheugpe2VnCDtm4Qg7IKs7Jqp7ZW07KO87IS47JqUCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbjo6Y3JlYXRlKFsKICAgICAgICAgICAgJ3VzZXJfaWQnICA9PiByYW5kKCRtaW5Vc2VyLCAkbWF4VXNlciksCiAgICAgICAgICAgICdwb2ludF9pZCcgPT4gcmFuZCgkbWluUG9pbnQsICRtYXhQb2ludCksCgogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWluUG9pbnQgPSBQb2ludDo6bWluKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIGRhdGEtdG9nZ2xlPSJtb2RhbCIgaHJlZj0iI3NjaGVkdWxlIj7snbTsnpDqs4TsgrDquLA8L2E+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkbWluVXNlciA9IFVzZXI6Om1pbignaWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>투자금액을</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern>투자금액을</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxnZXRBUElDb250ZW50XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1343,8 +1343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Mail</entry>
-        <entry>cach</entry>
         <entry encoding="base64">XDxkYXRhdGFiZWxzXD4=</entry>
         <entry>scss</entry>
         <entry>sass</entry>
@@ -1363,6 +1361,8 @@
         <entry>user-table</entry>
         <entry>order</entry>
         <entry>sort</entry>
+        <entry>상환스케</entry>
+        <entry>투자금액을</entry>
       </history-search>
       <history-cmd>
         <entry>154</entry>
