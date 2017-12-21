@@ -307,12 +307,12 @@
         <mark key="." line="214" column="7" />
         <mark key="^" line="214" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1512567746302">
-        <mark key="'" line="53" column="12" />
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="53" />
-        <mark key="." line="37" column="53" />
-        <mark key="^" line="37" column="62" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1513883800202">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/developements/git/address/index.php" timestamp="1505651124065">
         <mark key="'" line="16" column="0" />
@@ -346,6 +346,13 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" timestamp="1513886012536">
+        <mark key="'" line="123" column="15" />
+        <mark key="[" line="124" column="89" />
+        <mark key="]" line="124" column="103" />
+        <mark key="." line="124" column="103" />
+        <mark key="^" line="124" column="103" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1505245831929">
         <mark key="'" line="48" column="0" />
@@ -398,6 +405,9 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1513884951446">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511621599570">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="24" />
@@ -427,9 +437,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/developements/math/vendor/yajra/laravel-datatables-oracle/src/DataTables.php" timestamp="1513495755957">
-        <mark key="'" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/developements/math/database/seeds/DatabaseSeeder.php" timestamp="1513500427966">
         <mark key="[" line="13" column="46" />
@@ -466,6 +473,12 @@
         <mark key="]" line="44" column="9" />
         <mark key="." line="44" column="9" />
         <mark key="^" line="44" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/api.json" timestamp="1513883399676">
+        <mark key="[" line="0" column="7976" />
+        <mark key="]" line="0" column="7975" />
+        <mark key="." line="0" column="7975" />
+        <mark key="^" line="0" column="7975" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Tag.php" timestamp="1511202584283">
         <mark key="'" line="1" column="0" />
@@ -618,6 +631,12 @@
         <mark key="]" line="71" column="6" />
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1513885538527">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="134" column="103" />
+        <mark key="^" line="134" column="103" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175205_create_authors_table.php" timestamp="1511200388876">
         <mark key="[" line="18" column="20" />
@@ -865,6 +884,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1513884908703">
+        <mark key="'" line="334" column="32" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1512577578629">
         <mark key="'" line="150" column="0" />
         <mark key="[" line="21" column="7" />
@@ -924,6 +949,12 @@
         <mark key="." line="478" column="19" />
         <mark key="^" line="478" column="19" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1513884143408">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="107" />
+        <mark key="." line="22" column="107" />
+        <mark key="^" line="22" column="107" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512909570005">
         <mark key="[" line="49" column="48" />
         <mark key="]" line="38" column="32" />
@@ -975,7 +1006,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513500759639">
+      <file name="/Dummy.txt" timestamp="1513884403525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
@@ -1127,41 +1158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="39" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="570" column="31" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="572" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="548" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="407" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="505" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="317" column="48" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="93" column="5" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="110" column="7" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="319" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="506" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="160" column="33" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="338" column="43" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="467" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="63" column="4" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="120" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="330" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="332" column="10" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="327" column="13" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="343" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="117" column="8" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="340" column="24" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="126" column="9" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="153" column="26" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="366" column="54" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="604" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="100" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="127" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="607" column="17" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="608" column="12" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="128" column="23" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="450" column="74" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
-      <jump line="57" column="28" filename="$USER_HOME$/developements/study/myapp/app/Http/Controllers/ArticlesController.php" />
-      <jump line="25" column="23" filename="$USER_HOME$/developements/study/myapp/.env" />
       <jump line="28" column="38" filename="$USER_HOME$/developements/study/myapp/app/Documentation.php" />
       <jump line="326" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
       <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" />
@@ -1227,6 +1223,41 @@
       <jump line="22" column="24" filename="$USER_HOME$/developements/math/database/migrations/2016_01_01_000000_create_pages_table.php" />
       <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="485" column="36" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="29" column="5680" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="156" column="3" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="155" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="172" column="14" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="158" column="44" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="4" column="1" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="13" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="14" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="157" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="174" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="171" column="11" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="187" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="170" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="21" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/helper.php" />
+      <jump line="399" column="13" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="134" column="29" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="135" column="28" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="136" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="137" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="138" column="26" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="139" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="140" column="24" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="141" column="21" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="142" column="27" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" />
+      <jump line="210" column="8" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="277" column="22" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="282" column="23" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="305" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="314" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="334" column="32" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/index.php" />
+      <jump line="106" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" />
+      <jump line="123" column="15" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1277,8 +1308,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA/Pgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1290,67 +1321,63 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IGJ0bi1zbWFsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>투자금액을</text>
+        <text>480</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICQoJyNzY2hlZHVsZScpLmF0dHIoJ2lkJywgJ3NjaGVkdWxlMScpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8dGggY2xhc3M9IuuMgOy2nOy0neq4sOqwhCI+64yA7Lac7LSd6riw6rCEPC90aD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA/Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJldmVudERlZmF1bHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICA8P3BocAogICAgICAgIGRkKCR2YWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGFuZ2VyIj7rs7TquLA8L2J1dHRvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGFuZ2VyIGJ0bi1zbWFsbCI+PC9idXR0b24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDripQg7Yis7J6Q6riI7JWh7J2EIOyeheugpe2VnCDtm4Qg7IKs7Jqp7ZW07KO87IS47JqUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1vdmVyZmxkZGVuOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>ow: ellipsis;
+            white-space: nowrap;
+            word-wrap: normal;
+            width: 100%;
+            overflow: hi</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIGRhdGEtdG9nZ2xlPSJtb2RhbCIgaHJlZj0iI3NjaGVkdWxlIj7snbTsnpDqs4TsgrDquLA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYuY29udGFpbmVyIHsKICAgICAgICAgICAgcGFkZGluZzogMCAhaW1wb3J0YW50OwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZGQoJGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>119</text>
+        <text>150</text>
       </register>
     </registers>
     <search>
-      <last-search>투자금액을</last-search>
+      <last-search>480</last-search>
       <last-offset />
-      <last-pattern>투자금액을</last-pattern>
+      <last-pattern>480</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxnZXRBUElDb250ZW50XD4=</last-substitute>
+      <last-substitute>function dd</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhdGFiZWxzXD4=</entry>
-        <entry>scss</entry>
-        <entry>sass</entry>
-        <entry>layout</entry>
-        <entry>nav</entry>
-        <entry>name</entry>
-        <entry>title</entry>
-        <entry>admin_icon_image</entry>
         <entry>list</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
@@ -1363,10 +1390,16 @@
         <entry>sort</entry>
         <entry>상환스케</entry>
         <entry>투자금액을</entry>
+        <entry>dd</entry>
+        <entry>function dd</entry>
+        <entry encoding="base64">XDxXSElURV9MSVNUXD4=</entry>
+        <entry>api.j</entry>
+        <entry>=</entry>
+        <entry>investment</entry>
+        <entry encoding="base64">XDxBUElfU0NIRURVTEVfREVUQUlMX05BTUVcPg==</entry>
+        <entry>480</entry>
       </history-search>
       <history-cmd>
-        <entry>154</entry>
-        <entry>161</entry>
         <entry>144</entry>
         <entry>524</entry>
         <entry>26</entry>
@@ -1385,6 +1418,8 @@
         <entry>260</entry>
         <entry>119</entry>
         <entry encoding="base64">JzwsJz5ub3JtIGkj</entry>
+        <entry>453</entry>
+        <entry>150</entry>
       </history-cmd>
       <history-expr />
       <history-input />
