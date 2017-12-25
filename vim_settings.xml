@@ -3,18 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1514203314767">
-        <mark key="'" line="350" column="0" />
-        <mark key="[" line="44" column="48" />
-        <mark key="]" line="44" column="59" />
-        <mark key="." line="44" column="59" />
-        <mark key="^" line="44" column="59" />
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/layouts/app.blade.php" timestamp="1511286915409">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="75" column="108" />
+        <mark key="]" line="76" column="49" />
+        <mark key="." line="76" column="49" />
+        <mark key="^" line="76" column="49" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Exceptions/Handler.php" timestamp="1512810423050">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="54" column="53" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1512924210150">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="623" column="2" />
+        <mark key="." line="385" column="55" />
+        <mark key="^" line="384" column="78" />
       </file>
       <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335630603">
         <mark key="[" line="3" column="12" />
@@ -22,24 +23,42 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Listeners/ArticlesEventListener.php" timestamp="1511459040810">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512906088368">
+        <mark key="'" line="25" column="23" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="/a.dummy" timestamp="1511544400113">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1512761433359">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="31" />
+        <mark key="." line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Listeners/UserEventListener.php" timestamp="1511460140363">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="31" column="35" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/math/resources/views/home.blade.php" timestamp="1514187260598">
-        <mark key="'" line="49" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="90" column="27" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1512761762311">
-        <mark key="[" line="14" column="99" />
-        <mark key="]" line="14" column="100" />
-        <mark key="^" line="14" column="108" />
-        <mark key="." line="14" column="100" />
+      <file name="$USER_HOME$/developements/study/identify/config/app.php" timestamp="1511609903907">
+        <mark key="'" line="93" column="27" />
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="27" />
+        <mark key="." line="93" column="27" />
+        <mark key="^" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_22_165024_create_class_rooms_table.php" timestamp="1509160699840">
         <mark key="[" line="23" column="20" />
@@ -53,24 +72,6 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Events/ArticleCreated.php" timestamp="1511458515787">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="33" />
-      </file>
-      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512906777883">
-        <mark key="[" line="66" column="50" />
-        <mark key="]" line="69" column="54" />
-        <mark key="." line="69" column="54" />
-        <mark key="^" line="69" column="54" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointFactory.php" timestamp="1509279890213">
         <mark key="[" line="17" column="16" />
         <mark key="]" line="17" column="16" />
@@ -82,12 +83,6 @@
         <mark key="]" line="29" column="51" />
         <mark key="." line="29" column="51" />
         <mark key="^" line="29" column="51" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/composer.json" timestamp="1509122056405">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="71" column="7" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/composer.json" timestamp="1512837974009">
         <mark key="[" line="34" column="13" />
@@ -101,18 +96,18 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="16" column="51" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/api/index.php" timestamp="1504422080123">
+        <mark key="'" line="47" column="14" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="46" column="8" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/Auth/RegisterController.php" timestamp="1508443782771">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="43" />
         <mark key="." line="83" column="12" />
         <mark key="^" line="76" column="20" />
-      </file>
-      <file name="$USER_HOME$/developements/math/database/migrations/2017_12_16_053456_create_transactions_table.php" timestamp="1514182404459">
-        <mark key="j" line="22" column="21" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="23" column="11" />
       </file>
       <file name="$USER_HOME$/developements/math/app/User.php" timestamp="1514187475156">
         <mark key="'" line="9" column="6" />
@@ -127,23 +122,11 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/study/identify/routes/web.php" timestamp="1511555011766">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="33" />
-        <mark key="." line="14" column="33" />
-        <mark key="^" line="14" column="33" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1509127386582">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
-      </file>
-      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_181708_create_article_tag_table.php" timestamp="1511201953239">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="20" column="108" />
-        <mark key="^" line="20" column="108" />
-        <mark key="." line="20" column="108" />
       </file>
       <file name="$USER_HOME$/developements/math/resources/views/point/transaction.blade.php" timestamp="1514183349408">
         <mark key="[" line="4" column="40" />
@@ -157,17 +140,46 @@
         <mark key="^" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1512511037552">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="61" column="55" />
+        <mark key="." line="61" column="55" />
+        <mark key="^" line="61" column="55" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/config/app.php" timestamp="1513449726322">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="21" />
+        <mark key="." line="67" column="21" />
+        <mark key="^" line="67" column="21" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/articles/create.blade.php" timestamp="1511286410901">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/PointController.php" timestamp="1509160177178">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="51" />
+        <mark key="." line="59" column="51" />
+        <mark key="^" line="59" column="51" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" timestamp="1512513842199">
         <mark key="[" line="123" column="130" />
         <mark key="]" line="123" column="131" />
         <mark key="." line="123" column="131" />
         <mark key="^" line="123" column="134" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1512514146022">
-        <mark key="[" line="47" column="35" />
-        <mark key="]" line="47" column="39" />
-        <mark key="." line="47" column="39" />
-        <mark key="^" line="47" column="39" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1512794061907">
+        <mark key="'" line="361" column="30" />
+        <mark key="[" line="250" column="59" />
+        <mark key="]" line="250" column="59" />
+        <mark key="." line="250" column="59" />
+        <mark key="^" line="250" column="59" />
       </file>
       <file name="$USER_HOME$/developements/p2p/app/Content.php" timestamp="1513448842925">
         <mark key="[" line="11" column="28" />
@@ -175,24 +187,18 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_23_174616_add_last_login_column_on_users_table.php" timestamp="1511459187430">
-        <mark key="[" line="15" column="60" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashBoardTeacherController.php" timestamp="1510422644383">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="22" />
+        <mark key="." line="64" column="22" />
+        <mark key="^" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/resources/views/emails/articles/created.blade.php" timestamp="1512827723827">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-        <mark key="^" line="12" column="63" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1514203131129">
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/updateUser.php" timestamp="1514223410222">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="32" />
-        <mark key="^" line="46" column="31" />
-        <mark key="." line="46" column="32" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/ArticlesTableSeeder.php" timestamp="1511203214760">
         <mark key="[" line="15" column="37" />
@@ -200,27 +206,26 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/node_modules/jquery/package.json" timestamp="1514003572732">
-        <mark key="'" line="105" column="11" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" timestamp="1514008343243">
+        <mark key="'" line="112" column="12" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="121" column="69" />
       </file>
-      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175358_add_name_to_authors_table.php" timestamp="1511200457428">
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1505245831929">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/math/resources/views/admin.blade.php" timestamp="1514187258004">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
-      </file>
-      <file name="$USER_HOME$/developements/math/resources/assets/js/app.js" timestamp="1514182049607">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
-        <mark key="^" line="16" column="2" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" timestamp="1512793808602">
+        <mark key="'" line="17" column="10" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/CheckTeacher.php" timestamp="1509127843415">
         <mark key="[" line="19" column="66" />
@@ -228,24 +233,11 @@
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
       </file>
-      <file name="$USER_HOME$/developements/math/app/Transaction.php" timestamp="1514183225244">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="^" line="14" column="3" />
-        <mark key="." line="14" column="3" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/app/User.php" timestamp="1509284584999">
         <mark key="[" line="126" column="38" />
         <mark key="]" line="126" column="38" />
         <mark key="." line="126" column="38" />
         <mark key="^" line="126" column="43" />
-      </file>
-      <file name="$USER_HOME$/developements/math/app/Http/Controllers/HomeController.php" timestamp="1514187364856">
-        <mark key="'" line="80" column="79" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="57" />
-        <mark key="^" line="52" column="57" />
-        <mark key="." line="52" column="57" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/point/menu.blade.php" timestamp="1509280415457">
         <mark key="[" line="13" column="20" />
@@ -253,26 +245,11 @@
         <mark key="." line="13" column="20" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/index.php" timestamp="1513999141384">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511621599570">
         <mark key="[" line="31" column="23" />
         <mark key="]" line="31" column="24" />
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/AcademyTableSeeder.php" timestamp="1509126054513">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="58" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/ClassRoomController.php" timestamp="1509136625671">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/resources/views/errors/notice.blade.php" timestamp="1512810392650">
         <mark key="[" line="9" column="6" />
@@ -292,46 +269,31 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1512759174093">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
+      <file name="$USER_HOME$/developements/git/point/config/app.php" timestamp="1508518167282">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="187" column="74" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
+        <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/api.json" timestamp="1513883399676">
-        <mark key="[" line="0" column="7976" />
-        <mark key="]" line="0" column="7975" />
-        <mark key="." line="0" column="7975" />
-        <mark key="^" line="0" column="7975" />
-      </file>
-      <file name="$USER_HOME$/developements/p2p/composer.json" timestamp="1513440008406">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-      </file>
-      <file name="$USER_HOME$/developements/math/resources/assets/sass/app.scss" timestamp="1514183669462">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-        <mark key="." line="11" column="18" />
+      <file name="$USER_HOME$/developements/study/myapp/app/Tag.php" timestamp="1511202584283">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/developements/math/database/migrations/2017_12_16_053449_create_points_table.php" timestamp="1514182400909">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/t-funding-detail.php" timestamp="1512565515138">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1512761554034">
-        <mark key="[" line="520" column="23" />
-        <mark key="]" line="520" column="23" />
-        <mark key="^" line="520" column="39" />
-        <mark key="." line="520" column="23" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1512567362393">
+        <mark key="'" line="51" column="134" />
+        <mark key="[" line="44" column="78" />
+        <mark key="]" line="44" column="82" />
+        <mark key="." line="44" column="82" />
+        <mark key="^" line="44" column="82" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/resources/views/book/create.blade.php" timestamp="1511555259872">
         <mark key="[" line="5" column="48" />
@@ -339,17 +301,12 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Kernel.php" timestamp="1509127891797">
-        <mark key="[" line="60" column="52" />
-        <mark key="]" line="60" column="58" />
-        <mark key="^" line="60" column="58" />
-        <mark key="." line="60" column="58" />
-      </file>
-      <file name="$USER_HOME$/developements/math/database/seeds/TransactionsTableSeeder.php" timestamp="1513501744773">
-        <mark key="[" line="31" column="62" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1514048068428">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="60" column="41" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/public/js/jquery.js" timestamp="1514003973878">
         <mark key="[" line="0" column="0" />
@@ -357,18 +314,12 @@
         <mark key="^" line="11025" column="3" />
         <mark key="." line="11025" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/factories/InvitationFactory.php" timestamp="1509126482076">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="65" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="55" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1514203267833">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="384" column="0" />
-        <mark key="^" line="96" column="26" />
-        <mark key="." line="96" column="26" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505244239236">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="229" column="133" />
+        <mark key="]" line="229" column="133" />
+        <mark key="." line="229" column="133" />
+        <mark key="^" line="229" column="170" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_25_021400_create_invitations_table.php" timestamp="1509124270957">
         <mark key="[" line="22" column="74" />
@@ -382,17 +333,18 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/api/routes.php" timestamp="1505646959921">
+        <mark key="'" line="67" column="12" />
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="71" column="6" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1514000981911">
         <mark key="[" line="135" column="87" />
         <mark key="]" line="135" column="87" />
         <mark key="." line="135" column="87" />
         <mark key="^" line="135" column="87" />
-      </file>
-      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175205_create_authors_table.php" timestamp="1511200388876">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="25" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/ProductFactory.php" timestamp="1509132065353">
         <mark key="[" line="5" column="17" />
@@ -400,23 +352,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509278643756">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-      </file>
-      <file name="$USER_HOME$/developements/study/myapp/database/seeds/UsersTablesSeeder.php" timestamp="1511202778021">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="31" />
-      </file>
-      <file name="$USER_HOME$/developements/p2p/resources/views/p2p.list.blade.php" timestamp="1513443253663">
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="8" column="58" />
-        <mark key="." line="8" column="58" />
-        <mark key="^" line="8" column="52" />
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509284493007">
+        <mark key="'" line="33" column="35" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/DatabaseSeeder.php" timestamp="1511203287460">
         <mark key="[" line="12" column="5" />
@@ -424,11 +365,15 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/resources/views/partials/footer/class/students.blade.php" timestamp="1509135797888">
-        <mark key="[" line="1" column="91" />
-        <mark key="]" line="1" column="97" />
-        <mark key="." line="1" column="97" />
-        <mark key="^" line="1" column="97" />
+      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_181625_create_tags_table.php" timestamp="1511201833915">
+        <mark key="[" line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/app/Http/Controllers/ContentController.php" timestamp="1513452100359">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/developements/math/routes/web.php" timestamp="1514182643167">
         <mark key="'" line="53" column="19" />
@@ -437,17 +382,18 @@
         <mark key="." line="46" column="11" />
         <mark key="^" line="48" column="48" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_23_235523_create_point_transactions_table.php" timestamp="1513403909444">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="65" />
-        <mark key="." line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-      </file>
       <file name="$USER_HOME$/developements/p2p/app/Company.php" timestamp="1513448840821">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="28" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Product.php" timestamp="1509279686597">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="5" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/resources/assets/sass/app.scss" timestamp="1511555445455">
         <mark key="[" line="11" column="0" />
@@ -461,29 +407,62 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/developements/p2p/.gitignore" timestamp="1513452214718">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/ProductsTableSeeder.php" timestamp="1509160598611">
-        <mark key="[" line="13" column="55" />
-        <mark key="]" line="13" column="55" />
-        <mark key="." line="13" column="55" />
-        <mark key="^" line="13" column="55" />
-      </file>
       <file name="$USER_HOME$/developements/study/identify/app/Books.php" timestamp="1511544245173">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/ArticlesController.php" timestamp="1512810589020">
+        <mark key="'" line="57" column="28" />
+        <mark key="[" line="71" column="5" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="72" column="25" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/resources/assets/sass/app.scss" timestamp="1513451605114">
+        <mark key="[" line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Providers/RouteServiceProvider.php" timestamp="1508435686932">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="71" column="48" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/CheckUserType.php" timestamp="1509127764314">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/class.blade.php" timestamp="1509137856903">
+        <mark key="'" line="123" column="78" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="148" column="19" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/auth/register.blade.php" timestamp="1508441789783">
+        <mark key="'" line="253" column="44" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/schedule.php" timestamp="1512762143446">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/StudentController.php" timestamp="1508867131116">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/point/create.blade.php" timestamp="1514181368382">
         <mark key="[" line="4" column="26" />
@@ -497,29 +476,25 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/developements/math/resources/assets/js/bootstrap.js" timestamp="1514180946326">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/developements/study/identify/app/Book.php" timestamp="1511554404791">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/p2p/database/migrations/2017_12_16_162528_create_contents_table.php" timestamp="1514208379698">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="20" />
         <mark key="^" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/developements/math/app/Point.php" timestamp="1513497547631">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="12" column="30" />
+      <file name="$USER_HOME$/developements/math/database/migrations/2016_01_01_000000_create_pages_table.php" timestamp="1513500657285">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1514000083571">
+        <mark key="'" line="334" column="32" />
+        <mark key="[" line="264" column="20" />
+        <mark key="]" line="264" column="20" />
+        <mark key="^" line="264" column="20" />
+        <mark key="." line="264" column="20" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175539_create_articles_table.php" timestamp="1511201491440">
         <mark key="[" line="15" column="0" />
@@ -527,29 +502,25 @@
         <mark key="^" line="30" column="6" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/resources/views/auth/login.blade.php" timestamp="1508865093081">
-        <mark key="[" line="65" column="50" />
-        <mark key="]" line="65" column="51" />
-        <mark key="^" line="65" column="51" />
-        <mark key="." line="65" column="51" />
+      <file name="$USER_HOME$/developements/study/myapp/app/User.php" timestamp="1511460009789">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/UsersTableSeeder.php" timestamp="1509137396579">
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="20" column="38" />
+      <file name="$USER_HOME$/developements/study/identify/.env" timestamp="1511609876523">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="37" column="95" />
+        <mark key="^" line="37" column="95" />
+        <mark key="." line="37" column="95" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512909570005">
         <mark key="[" line="49" column="48" />
         <mark key="]" line="38" column="32" />
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo_111.php" timestamp="1512564346117">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PostFactory.php" timestamp="1508514679730">
         <mark key="[" line="10" column="9" />
@@ -569,38 +540,29 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/routes/api.php" timestamp="1508517825056">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="/Dummy.txt" timestamp="1514224526342">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/math/database/migrations/2016_01_01_000000_create_posts_table.php" timestamp="1513500676948">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="14" />
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
+        <mark key="'" line="44" column="3" />
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="50" />
       </file>
-      <file name="$USER_HOME$/developements/p2p/routes/web.php" timestamp="1514222227576">
-        <mark key="[" line="44" column="6" />
-        <mark key="]" line="44" column="6" />
-        <mark key="." line="44" column="6" />
-        <mark key="^" line="44" column="6" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1505037896703">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="128" column="19" />
+        <mark key="]" line="128" column="30" />
+        <mark key="." line="128" column="30" />
+        <mark key="^" line="128" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/git/point/database/seeds/InvitationsTableSeeder.php" timestamp="1509130067673">
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="61" />
-      </file>
-      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/PointTeacherController.php" timestamp="1514181233220">
-        <mark key="'" line="29" column="15" />
-      </file>
-      <file name="$USER_HOME$/developements/study/myapp/app/Events/ArticlesEvent.php" timestamp="1511458984660">
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-        <mark key="." line="30" column="3" />
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/assets/bank.csv" timestamp="1505241374574">
+        <mark key="'" line="82" column="3" />
+        <mark key="[" line="99" column="4" />
+        <mark key="]" line="99" column="3" />
+        <mark key="." line="99" column="3" />
+        <mark key="^" line="99" column="3" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_27_214022_create_class_room_user_table.php" timestamp="1509134040400">
         <mark key="[" line="25" column="0" />
@@ -639,16 +601,591 @@
         <mark key="^" line="35" column="25" />
         <mark key="." line="35" column="25" />
       </file>
+      <file name="$USER_HOME$/developements/p2p/resources/views/company-list.blade.php" timestamp="1513451831617">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="35" column="110" />
+        <mark key="]" line="35" column="110" />
+        <mark key="^" line="35" column="116" />
+        <mark key="." line="35" column="110" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1514223993450">
+        <mark key="'" line="160" column="68" />
+        <mark key="[" line="223" column="73" />
+        <mark key="]" line="223" column="74" />
+        <mark key="^" line="223" column="74" />
+        <mark key="." line="223" column="74" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Exceptions/Handler.php" timestamp="1512810423050">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="54" column="53" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/languages/plugins/ultimate-member-ko_KR.po" timestamp="1514224555981">
+        <mark key="[" line="3735" column="8" />
+        <mark key="]" line="3735" column="10" />
+        <mark key="." line="3735" column="10" />
+        <mark key="^" line="3735" column="10" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/routes/web.php" timestamp="1510334841784">
+        <mark key="'" line="48" column="14" />
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="38" column="50" />
+        <mark key="." line="38" column="50" />
+        <mark key="^" line="38" column="50" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ultimate-member/core/um-builtin.php" timestamp="1514224600901">
+        <mark key="[" line="969" column="98" />
+        <mark key="]" line="969" column="98" />
+        <mark key="." line="969" column="98" />
+        <mark key="^" line="969" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/views/home.blade.php" timestamp="1514187260598">
+        <mark key="'" line="49" column="20" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="90" column="27" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1512761762311">
+        <mark key="[" line="14" column="99" />
+        <mark key="]" line="14" column="100" />
+        <mark key="^" line="14" column="108" />
+        <mark key="." line="14" column="100" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Events/ArticleCreated.php" timestamp="1511458515787">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="33" />
+        <mark key="^" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/.env" timestamp="1510334781684">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1512906777883">
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="69" column="54" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/app/Http/Controllers/HomeController.php" timestamp="1513450745207">
+        <mark key="'" line="46" column="52" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/composer.json" timestamp="1509122056405">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="71" column="7" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1514224655123">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="526" column="17" />
+        <mark key="]" line="526" column="13" />
+        <mark key="^" line="526" column="13" />
+        <mark key="." line="526" column="13" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/migrations/2017_12_16_053456_create_transactions_table.php" timestamp="1514182404459">
+        <mark key="j" line="22" column="21" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/routes/web.php" timestamp="1511555011766">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_181708_create_article_tag_table.php" timestamp="1511201953239">
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="20" column="108" />
+        <mark key="^" line="20" column="108" />
+        <mark key="." line="20" column="108" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1512514146022">
+        <mark key="[" line="47" column="35" />
+        <mark key="]" line="47" column="39" />
+        <mark key="." line="47" column="39" />
+        <mark key="^" line="47" column="39" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_23_174616_add_last_login_column_on_users_table.php" timestamp="1511459187430">
+        <mark key="[" line="15" column="60" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/emails/articles/created.blade.php" timestamp="1512827723827">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="37" />
+        <mark key="." line="12" column="37" />
+        <mark key="^" line="12" column="63" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" timestamp="1505553455904">
+        <mark key="'" line="318" column="247" />
+        <mark key="[" line="214" column="8" />
+        <mark key="]" line="214" column="7" />
+        <mark key="." line="214" column="7" />
+        <mark key="^" line="214" column="7" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1514008521267">
+        <mark key="'" line="285" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/address/index.php" timestamp="1505651124065">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/invitation.blade.php" timestamp="1508868165006">
+        <mark key="'" line="63" column="88" />
+        <mark key="[" line="105" column="66" />
+        <mark key="]" line="110" column="36" />
+        <mark key="." line="110" column="36" />
+        <mark key="^" line="110" column="36" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app.blade.php" timestamp="1509132542046">
+        <mark key="'" line="16" column="5" />
+        <mark key="[" line="49" column="75" />
+        <mark key="]" line="49" column="75" />
+        <mark key="." line="49" column="75" />
+        <mark key="^" line="49" column="74" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175358_add_name_to_authors_table.php" timestamp="1511200457428">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/views/admin.blade.php" timestamp="1514187258004">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/assets/js/app.js" timestamp="1514182049607">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="2" />
+        <mark key="^" line="16" column="2" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Transaction.php" timestamp="1514183225244">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Http/Controllers/HomeController.php" timestamp="1514187364856">
+        <mark key="'" line="80" column="79" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="57" />
+        <mark key="^" line="52" column="57" />
+        <mark key="." line="52" column="57" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/AcademyTableSeeder.php" timestamp="1509126054513">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="58" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/ClassRoomController.php" timestamp="1509136625671">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="18" column="9" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/seeds/DatabaseSeeder.php" timestamp="1513500427966">
+        <mark key="[" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1512759174093">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1505246376942">
+        <mark key="'" line="142" column="32" />
+        <mark key="[" line="142" column="34" />
+        <mark key="]" line="142" column="34" />
+        <mark key="." line="142" column="34" />
+        <mark key="^" line="142" column="34" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Http/Requests/ArticleRequest.php" timestamp="1511457470147">
+        <mark key="'" line="43" column="9" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="44" column="9" />
+        <mark key="^" line="44" column="9" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/api.json" timestamp="1513883399676">
+        <mark key="[" line="0" column="7976" />
+        <mark key="]" line="0" column="7975" />
+        <mark key="." line="0" column="7975" />
+        <mark key="^" line="0" column="7975" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/composer.json" timestamp="1513440008406">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="16" column="45" />
+        <mark key="." line="16" column="45" />
+        <mark key="^" line="16" column="45" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/assets/sass/app.scss" timestamp="1514183669462">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/seeds/PointsTableSeeder.php" timestamp="1513499907912">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="27" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" timestamp="1508434561859">
+        <mark key="'" line="258" column="53" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/t-funding-detail.php" timestamp="1512565515138">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1512761554034">
+        <mark key="[" line="520" column="23" />
+        <mark key="]" line="520" column="23" />
+        <mark key="^" line="520" column="39" />
+        <mark key="." line="520" column="23" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Kernel.php" timestamp="1509127891797">
+        <mark key="[" line="60" column="52" />
+        <mark key="]" line="60" column="58" />
+        <mark key="^" line="60" column="58" />
+        <mark key="." line="60" column="58" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/seeds/TransactionsTableSeeder.php" timestamp="1513501744773">
+        <mark key="[" line="31" column="62" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1505245506350">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="56" column="51" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" timestamp="1511609474204">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="62" column="26" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/factories/InvitationFactory.php" timestamp="1509126482076">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="65" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="7" column="55" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/app/User.php" timestamp="1511549432904">
+        <mark key="'" line="23" column="5" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1514203267833">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="384" column="0" />
+        <mark key="^" line="96" column="26" />
+        <mark key="." line="96" column="26" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1505059737250">
+        <mark key="'" line="48" column="9" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/helpers.php" timestamp="1512838014263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175205_create_authors_table.php" timestamp="1511200388876">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/class/students.blade.php" timestamp="1509277837133">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" timestamp="1511555284028">
+        <mark key="'" line="52" column="39" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509278643756">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1514009253665">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="557" column="21" />
+        <mark key="]" line="557" column="22" />
+        <mark key="^" line="560" column="41" />
+        <mark key="." line="557" column="22" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/database/seeds/UsersTablesSeeder.php" timestamp="1511202778021">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/resources/views/p2p.list.blade.php" timestamp="1513443253663">
+        <mark key="[" line="8" column="58" />
+        <mark key="]" line="8" column="58" />
+        <mark key="." line="8" column="58" />
+        <mark key="^" line="8" column="52" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/ClassRoom.php" timestamp="1509817057726">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="93" column="35" />
+        <mark key="]" line="93" column="33" />
+        <mark key="^" line="93" column="33" />
+        <mark key="." line="93" column="33" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/partials/footer/class/students.blade.php" timestamp="1509135797888">
+        <mark key="[" line="1" column="91" />
+        <mark key="]" line="1" column="97" />
+        <mark key="." line="1" column="97" />
+        <mark key="^" line="1" column="97" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_23_235523_create_point_transactions_table.php" timestamp="1513403909444">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="65" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Academy.php" timestamp="1508439710611">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/.gitignore" timestamp="1513452214718">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/ProductsTableSeeder.php" timestamp="1509160598611">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/.env" timestamp="1513451519444">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/assets/js/bootstrap.js" timestamp="1514180946326">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/config/services.php" timestamp="1508861866154">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="39" />
+        <mark key="^" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/app/Book.php" timestamp="1511554404791">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1514003723620">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Point.php" timestamp="1513497547631">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="12" column="30" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/test_funding-detail.php" timestamp="1512564297400">
+        <mark key="'" line="507" column="6" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/auth/login.blade.php" timestamp="1508865093081">
+        <mark key="[" line="65" column="50" />
+        <mark key="]" line="65" column="51" />
+        <mark key="^" line="65" column="51" />
+        <mark key="." line="65" column="51" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/UsersTableSeeder.php" timestamp="1509137396579">
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505246093292">
+        <mark key="'" line="480" column="0" />
+        <mark key="[" line="477" column="34" />
+        <mark key="]" line="478" column="19" />
+        <mark key="." line="478" column="19" />
+        <mark key="^" line="478" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1514003744093">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="17" column="91" />
+        <mark key="]" line="17" column="91" />
+        <mark key="." line="17" column="91" />
+        <mark key="^" line="18" column="122" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512909023819">
+        <mark key="'" line="28" column="38" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo_111.php" timestamp="1512564346117">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="29" />
+        <mark key="^" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Point.php" timestamp="1509280122637">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="54" column="89" />
+        <mark key="." line="54" column="89" />
+        <mark key="^" line="54" column="89" />
+      </file>
+      <file name="$USER_HOME$/developements/math/config/voyager.php" timestamp="1513494648392">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="199" column="24" />
+        <mark key="]" line="199" column="30" />
+        <mark key="." line="199" column="30" />
+        <mark key="^" line="199" column="30" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="72" column="26" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/routes/api.php" timestamp="1508517825056">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/migrations/2016_01_01_000000_create_posts_table.php" timestamp="1513500676948">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="14" column="14" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/routes/web.php" timestamp="1514222227576">
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="44" column="6" />
+        <mark key="." line="44" column="6" />
+        <mark key="^" line="44" column="6" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/database/seeds/InvitationsTableSeeder.php" timestamp="1509130067673">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="61" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Events/ArticlesEvent.php" timestamp="1511458984660">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="30" column="3" />
+        <mark key="^" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1505242498078">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/AcademyFactory.php" timestamp="1509125853573">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/teacher/dashboard.blade.php" timestamp="1509136185300">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/developements/p2p/app/Providers/AppServiceProvider.php" timestamp="1514204381120">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/student.blade.php" timestamp="1508867065384">
+        <mark key="'" line="85" column="27" />
+        <mark key="[" line="119" column="20" />
+        <mark key="]" line="119" column="20" />
+        <mark key="." line="119" column="20" />
+        <mark key="^" line="109" column="95" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/ClassRoomUserFactory.php" timestamp="1509125459412">
         <mark key="[" line="11" column="47" />
@@ -670,17 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="19" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" />
-      <jump line="80" column="30" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" />
-      <jump line="107" column="25" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="579" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="721" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="323" column="94" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="328" column="48" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="329" column="52" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="330" column="56" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
-      <jump line="331" column="60" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="332" column="102" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="336" column="63" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
       <jump line="338" column="60" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" />
@@ -770,6 +1296,17 @@
       <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
       <jump line="350" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="80" column="111" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="363" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="364" column="16" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="370" column="20" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="220" column="18" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="87" column="12" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="222" column="55" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="112" column="64" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="160" column="68" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/style.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -821,7 +1358,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>json</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -833,61 +1370,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>클릭</text>
+        <text>저장</text>
       </register>
       <register name="0" type="4">
         <text>longText</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tXaXRoU3VjY2Vzcygn7Zy064yA7KCE7ZmU67KI7Zi46rCAIOyggOyepeuQmOyXiOyKteuLiOuLpC4nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC1vZmZzZXQtMyBjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tbWQiPuyggOyepTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwcFxDbGFzc2VzXFVzZXI7CgokZXhjZXB0ID0gZmFsc2U7CnJlcXVpcmUgX19ESVJfXyAuICcvaW5jbHVkZXMvbXlwYWdlLnBocCc7CgokcmVkaXJlY3RUbyA9IGZpbHRlcl9pbnB1dChJTlBVVF9HRVQsICdyZWRpcmVjdFRvJyk7CmlmIChpc3NldCgkX1NFU1NJT05bJ3JlZGlyZWN0VG8nXSkpIHsKICAgIHVuc2V0KCRfU0VTU0lPTlsncmVkaXJlY3RUbyddKTsKfQokX1NFU1NJT05bJ3JlZGlyZWN0VG8nXSA9ICRyZWRpcmVjdFRvOwppZiAoIWVtcHR5KCRyZWRpcmVjdFRvKSAmJiAkdXNlci0+aXNJbnZlc3RhYmxlKCkpIHsKICAgIHVuc2V0KCRfU0VTU0lPTlsncmVkaXJlY3RUbyddKTsKICAgIHdwX3JlZGlyZWN0KFdQX1NJVEVVUkwgLiAiL3skcmVkaXJlY3RUb30iKTsKfSBlbHNlaWYgKGlzc2V0KCRwYXRoWzJdKSAmJiAkcGF0aFsyXSA9PT0gJ3RheCcpIHsKCn0gZWxzZWlmICgkdXNlci0+aXNJbnZlc3RhYmxlKCkpIHsKICAgIC8vd3BfcmVkaXJlY3QoV1BfU0lURVVSTCAuICcvb25nb2luZycpOwp9CiRiYW5rcyA9IEJBTktTOwoKZ2V0X2hlYWRlcigpOwoKLy8g7Y6Y7J207KeA7IScIOyCrOyaqe2VoCDrs4DsiJgg7KCV7J2YOwokZGF0YSAgICAgICAgICAgICAgID0gWwogICAgJ+2ctOuMgO2PsCcgID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7Zy064yA7Y+wJ10sCiAgICAn7JuQ7LKc7KeV7IiYJyA9PiAkdXNlci0+aW52ZXN0bWVudEluZm9bJ+ybkOyynOynleyImOyXrOu2gCddLAogICAgJ+yYiOq4iOyjvCcgID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7IOB7ZmY6rOE7KKM7JiI6riI7KO8J10sCiAgICAn7J2A7ZaJ7L2U65OcJyA9PiAkdXNlci0+aW52ZXN0bWVudEluZm9bJ+yDge2ZmOqzhOyijOydgO2Wiey9lOuTnCddLAogICAgJ+ydgO2WiScgICA9PiAkdXNlci0+Z2V0QmFua05hbWVCeUNvZGUoJHVzZXItPmludmVzdG1lbnRJbmZvWyfsg4HtmZjqs4TsoozsnYDtlonsvZTrk5wnXSksCiAgICAn6rOE7KKM67KI7Zi4JyA9PiAkdXNlci0+aW52ZXN0bWVudEluZm9bJ+yDge2ZmOqzhOyijOuyiO2YuCddLAoKICAgICfso7zrr7zrsojtmLjslZ7snpDrpqwnID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7KO866+867KI7Zi47JWe7J6Q66asJ10sCi8vICAgICfso7zrr7zrsojtmLjrkrfsnpDrpqwnID0+IHN1YnN0cigkdXNlci0+aW52ZXN0bWVudEluZm9bJ+yjvOuvvOuyiO2YuOuSt+yekOumrCddLCAwLCAtMykgLiAnKioqJywKICAgICfso7zrr7zrsojtmLjrkrfsnpDrpqwnID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7KO866+867KI7Zi465K37J6Q66asJ10sCiAgICAn7KO87IaMJyAgICAgID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7KO87IaMJ10sCiAgICAn7KO87IaMMicgICAgID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7KO87IaMMiddLAoKICAgICdTTVPsiJjsi6Drj5nsnZjsl6zrtoAnID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1snU01T7IiY7Iug64+Z7J2Y7Jes67aAJ10sCl07CiRkaXNwbGF5QmFua0FjY291bnQgPSAnPHNtYWxsIGNsYXNzPSJ0ZXh0LXBpbmsiPlvsg4HtmZjqs4Tsoowg7J6F66ClXeydhCDtgbTrpq3tlZjsl6wg7KO87IS47JqUPC9zbWFsbD4nOwppZiAoJGRhdGFbJ+ydgO2WiSddICYmICRkYXRhWyfqs4TsoozrsojtmLgnXSkgeyAvLyYmICRkYXRhWyfsmIjquIjso7wnXSkgewogICAgJGRpc3BsYXlCYW5rQWNjb3VudCA9ICJ7JGRhdGFbJ+ydgO2WiSddfSB7JGRhdGFbJ+qzhOyijOuyiO2YuCddfSB7JGRhdGFbJ+yYiOq4iOyjvCddfSI7Cn0KLy8g7Jes6riw6rmM7KeA6rCAIGNvbnRyb2xsZXIg65286rOgIOyDneqwge2VmOuptCDrkKgKCj8+Cgo8IS0tIGpRdWVyeSAobmVjZXNzYXJ5IGZvciBCb290c3RyYXAncyBKYXZhU2NyaXB0IHBsdWdpbnMpIC0tPgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hamF4Lmdvb2dsZWFwaXMuY29tL2FqYXgvbGlicy9qcXVlcnkvMS4xMi40L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo8c3R5bGU+CiAgICBhIHsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CgogICAgYTpob3ZlciB7CiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgfQoKICAgIHNlY3Rpb24jaW5mbyB7CiAgICAgICAgcGFkZGluZzogMzBweCAwOwogICAgfQoKICAgICN0YXhfbmFtZSB7CiAgICAgICAgYm9yZGVyOiBub25lOwogICAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwogICAgfQo8L3N0eWxlPgoKPHNlY3Rpb24gaWQ9ImluZm8iIGNsYXNzPSJjb250YWluZXIiPgogICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTgiPgoKICAgICAgICAgICAgPGgzIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAzMHB4OyI+7Yis7J6Q7J6QIOygleuztDwvaDM+CgogICAgICAgICAgICA8aDQ+7KCE7ZmU67KI7Zi4PC9oND4KICAgICAgICAgICAgPGZvcm0gYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZSIgY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgbWV0aG9kPSJwb3N0IiByb2xlPSJmb3JtIgogICAgICAgICAgICAgICAgICBpZD0iZm9ybV9waG9uZSI+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBjb250cm9sLWxhYmVsIiBmb3I9InJlZ19udW0xIj7tnLTrjIDsoITtmZTrsojtmLg8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0ic3Itb25seSIgZm9yPSLtnLTrjIDsoITtmZTrsojtmLgyIj7tnLTrjIDsoITtmZTrsojtmLgyPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9InNyLW9ubHkiIGZvcj0i7Zy064yA7KCE7ZmU67KI7Zi4MyI+7Zy064yA7KCE7ZmU67KI7Zi4MzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTcgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSLtnLTrjIDsoITtmZTrsojtmLgiIG5hbWU9Iu2ctOuMgOyghO2ZlOuyiO2YuCIgdmFsdWU9Ijw/PSAkZGF0YVsn7Zy064yA7Y+wJ10gPz4iIHBsYWNlaG9sZGVyPSIt66W8IOygnOyZuO2VmOqzoCDsnoXroKXtlbTso7zshLjsmpQiPgogICAgICAgICAgICAgICAgICAgICAgICA8IS0tCiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1idG4iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIiB0eXBlPSJidXR0b24iIGlkPSJ2ZXJpZmljYXRpb24iPuyduOymneuyiO2YuDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgLS0+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwhLS0KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTMgY29udHJvbC1sYWJlbCBzci1vbmx5IiBmb3I9IiI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNyBjb2wtbWQtb2Zmc2V0LTMgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiIGlkPSJjZXJ0aS1udW1iZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJjb2RlIiBuYW1lPSJjb2RlIiBwbGFjZWhvbGRlcj0i7J247Kad67KI7Zi466W8IOyeheugpe2VtOyjvOyEuOyalCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtYnRuIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXdhcm5pbmciIHR5cGU9ImJ1dHRvbiIgaWQ9ImNvbmZpcm0iPu2ZleyduDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgLS0+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTMgY29sLW1kLTkiPgogICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLW1kICI+7KCA7J6lPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9mb3JtPgoKICAgICAgICAgICAgPGg0IGNsYXNzPSJjb2wtbWQtMTAiPgogICAgICAgICAgICAgICAg7IOB7ZmY6rOE7KKMIOygleuztAogICAgICAgICAgICAgICAgPCEtLSAgICAgICAgICAgICAgICA8c21hbGwgc3R5bGU9ImZsb2F0OnJpZ2h0Ij48YSBpZD0ibW9kaWZ5LWFjY291bnQiIGNsYXNzPSJ0ZXh0LXBpbmsgYnRuIGJ0bi1kYW5nZXIiPuyDge2ZmOqzhOyijCDsnoXroKU8L2E+PC9zbWFsbD4tLT4KICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgPGZvcm0gY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZSIgbWV0aG9kPSJQT1NUIiBpZD0iYWNjb3VudF9mb3JtIj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTMgY29udHJvbC1sYWJlbCIgZm9yPSJkaXNwbGF5LWFjY291bnQiPu2YhOyerCDsg4HtmZjqs4Tsoow8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC05Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHAgaWQ9ImRpc3BsYXktYWNjb3VudCIgY2xhc3M9ImZvcm0tY29udHJvbC1zdGF0aWMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD89ICRkaXNwbGF5QmFua0FjY291bnQgPz4KICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPGZpZWxkc2V0IGlkPSJuZXctYWNjb3VudCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTMgY29udHJvbC1sYWJlbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICDsg4gg7IOB7ZmY6rOE7KKMCiAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC0zIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9IuyDge2ZmOqzhOyijOydgO2Wiey9lOuTnCIgaWQ9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGZvcmVhY2ggKCRiYW5rcyBhcyAka2V5ID0+ICR2YWx1ZSk6ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI8Pz0gJHZhbHVlWydpZHgnXSA/PiI+PD89ICR2YWx1ZVsnYmFuayddID8+PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iYWNjb3VudC1udW1iZXIiIGNsYXNzPSJzci1vbmx5Ij48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJhY2NvdW50LW51bWJlciIgbmFtZT0i7IOB7ZmY6rOE7KKM67KI7Zi4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLqs4TsoozrsojtmLjrpbwg7J6F66Cl7ZW07KO87IS47JqUIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC03IGNvbC1tZC1vZmZzZXQtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSLsmIjquIjso7wiIGNsYXNzPSJzci1vbmx5Ij48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJhY2NvdW50LXVzZXIiIG5hbWU9IuyYiOq4iOyjvCIgcGxhY2Vob2xkZXI9IuyYiOq4iOyjvOulvCDsnoXroKXtlbTso7zshLjsmpQiPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0zIGNvbC1tZC05Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tbWQgIj7soIDsnqU8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2ZpZWxkc2V0PgogICAgICAgICAgICA8L2Zvcm0+CgogICAgICAgICAgICA8aDQgY2xhc3M9ImNvbC1tZC0xMCI+CiAgICAgICAgICAgICAgICDsm5Dsspzsp5XsiJgg7KCV67O0CiAgICAgICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgIDxzbWFsbCBzdHlsZT0iZmxvYXQ6cmlnaHQiPjxhIGlkPSJtb2RpZnktdGF4IiBjbGFzcz0idGV4dC1waW5rIGJ0biBidG4tZGFuZ2VyIj7sm5Dsspzsp5XsiJjsoJXrs7Qg7J6F66ClPC9hPjwvc21hbGw+LS0+CiAgICAgICAgICAgIDwvaDQ+CiAgICAgICAgICAgIDxmb3JtIGNsYXNzPSJmb3JtLWhvcml6b250YWwiIGFjdGlvbj0iPD89IGhvbWVfdXJsKCkgPz4vc25zbC91cGRhdGUiIG1ldGhvZD0iUE9TVCIgaWQ9ImluZm9fZm9ybSI+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBjb250cm9sLWxhYmVsIiBmb3I9ImRpc3BsYXktdGF4Ij7snbTrpoQ8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC03IGNvbC1zbS0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0idGF4X25hbWUiIG5hbWU9IuydtOumhCIgdmFsdWU9Ijw/PSAkZGF0YVsn7JiI6riI7KO8J10gPz4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i7JiI6riI7KO866qF7J20IOyekOuPmSDsnoXroKXrkKnri4jri6QiIHJlYWRvbmx5PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbC1tZC0zIGNvbnRyb2wtbGFiZWwiIGZvcj0icmVnX251bTEiPuyjvOuvvOuTseuhneuyiO2YuDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJzci1vbmx5IiBmb3I9InJlZ19udW0yIj7so7zrr7zrk7HroZ3rsojtmLgyPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNyBjb2wtc20tMTIiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9InJlZ19udW0xIiBuYW1lPSLso7zrr7zrsojtmLjslZ7snpDrpqwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9Ijw/PSAkZGF0YVsn7KO866+867KI7Zi47JWe7J6Q66asJ10gPz4iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj4tPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJyZWdfbnVtMiIgbmFtZT0i7KO866+867KI7Zi465K37J6Q66asIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSI8Pz0gJGRhdGFbJ+yjvOuvvOuyiO2YuOuSt+yekOumrCddID8+Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAwOyI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBjb250cm9sLWxhYmVsIiBmb3I9ImRpc3BsYXktaW5mbyI+7KO866+865Ox66Gd7KeA7IOBIOyjvOyGjDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTcgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgaW5wdXQiIGlkPSJhZGRyZXNzMSIgbmFtZT0i7KO87IaMIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLso7zshozrpbwg7J6F66Cl7ZWY7IS47JqUIiB2YWx1ZT0iPD89ICRkYXRhWyfso7zshownXSA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbmNsaWNrPSJvcGVuRGF1bVBvc3Rjb2RlKCdhZGRyZXNzMScsJ2FkZHJlc3MyJykiIHJlYWRvbmx5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWJ0biI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXdhcm5pbmciIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25jbGljaz0ib3BlbkRhdW1Qb3N0Y29kZSgnYWRkcmVzczEnLCdhZGRyZXNzMicpIj7so7zshozqsoDsg4k8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0zIGNvbC1tZC03IGNvbC1zbS0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0IiBpZD0iYWRkcmVzczIiIG5hbWU9IuyjvOyGjDIiIHZhbHVlPSI8Pz0gJGRhdGFbJ+yjvOyGjDInXSA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLrgpjrqLjsp4Ag7KO87IaM66W8IOyeheugpe2VmOyEuOyalCI+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC1vZmZzZXQtMyBjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tbWQiPuyggOyepTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTEgY29sLW1kLTExIHRleHQtYmx1ZSIgc3R5bGU9ImxpbmUtaGVpZ2h0OiAxLjVyZW07Ij4KICAgICAgICAgICAgICAgICAgICDtiKzsnpDtlZjsi6Ag6rOg6rCd64uY7J2YIOydtOyekOyImOydteyXkCDrjIDtlZwg7IS46riI7J2EIOuMgOyLoCDrgqnrtoDtlZjquLAg7JyE7ZW0IOybkOyynOynleyImCDsoJXrs7Trpbwg7IiY7KeR7ZWY6rOgIOyeiOyKteuLiOuLpC4KICAgICAgICAgICAgICAgICAgICDso7zrr7zrk7HroZ3rsojtmLjsmYAg7KO87IaM7KCV67O064qUIOyVlO2YuO2ZlOuQmOyWtCDsm5Dsspzsp5XsiJgg7Iug6rOgIOydtOyZuOydmCDsmqnrj4TroZzripQg7IKs7Jqp65CY7KeAIOyViuyKteuLiOuLpC4KICAgICAgICAgICAgICAgIDwvc21hbGw+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBpZD0icG9zdGNvZGUiIG5hbWU9IuyasO2OuOuyiO2YuCI+CgogICAgICAgICAgICA8L2Zvcm0+CgogICAgICAgICAgICA8YnI+PGJyPgoKICAgICAgICAgICAgPGg0IGNsYXNzPSJjb2wtbWQtMTAiIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAxcmVtOyI+CiAgICAgICAgICAgICAgICDtiKzsnpDsnpAg7JWM66a8CiAgICAgICAgICAgIDwvaDQ+CgogICAgICAgICAgICA8Zm9ybSBjbGFzcz0iZm9ybS1ob3Jpem9udGFsIiBhY3Rpb249Ijw/PSBob21lX3VybCgpID8+L3Nuc2wvdXBkYXRlP3Ntcz1tb2RpZnkiIG1ldGhvZD0iUE9TVCIgaWQ9IiI+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTkgY29sLW1kLW9mZnNldC0zIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1jaGVjayI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tY2hlY2stbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9IlNNU+yImOyLoOuPmeydmOyXrOu2gCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9IlNNU+yImOyLoOuPmeydmOyXrOu2gDEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoJGRhdGFbJ1NNU+yImOyLoOuPmeydmOyXrOu2gCddKTogPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuwm+q4sAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InJhZGlvIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJTTVPsiJjsi6Drj5nsnZjsl6zrtoAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJTTVPsiJjsi6Drj5nsnZjsl6zrtoAyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0iZmFsc2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGlmICghJGRhdGFbJ1NNU+yImOyLoOuPmeydmOyXrOu2gCddKTogPz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOuwm+yngOyViuq4sAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTMgY29sLW1kLTkiPgogICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLW1kIj7soIDsnqU8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Zvcm0+CgoKICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKPC9zZWN0aW9uPgo8c3R5bGU+CiAgICAjYWNjb3VudF9mb3JtIC5mb3JtLWdyb3VwOmZpcnN0LWNoaWxkIHsKICAgICAgICBtYXJnaW4tYm90dG9tOiA1cHg7CiAgICB9CgogICAgI2FjY291bnRfZm9ybSAuZm9ybS1ncm91cCBwIHsKICAgICAgICBwYWRkaW5nLWJvdHRvbTogMDsKICAgIH0KCiAgICAjbmV3LWluZm8gLmZvcm0tZ3JvdXA6Zmlyc3QtY2hpbGQgewogICAgICAgIG1hcmdpbi1ib3R0b206IDA7CiAgICB9Cjwvc3R5bGU+Cgo8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgc3JjPSJodHRwczovL3NwaS5tYXBzLmRhdW0ubmV0L2ltYXAvbWFwX2pzX2luaXQvcG9zdGNvZGUudjIuanMiPjwvc2NyaXB0Pgo8c2NyaXB0PgogICAgZnVuY3Rpb24gb3BlbkRhdW1Qb3N0Y29kZShpZDEsIGlkMikgewogICAgICAgIHZhciB3aWR0aCA9IDUwMDsKICAgICAgICB2YXIgaGVpZ2h0ID0gNjAwOwogICAgICAgIG5ldyBkYXVtLlBvc3Rjb2RlKHsKICAgICAgICAgICAgd2lkdGg6IHdpZHRoLAogICAgICAgICAgICBoZWlnaHQ6IGhlaWdodCwKICAgICAgICAgICAgb25jb21wbGV0ZTogZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgICAgIGNvbnNvbGUuZGlyKGRhdGEpOwogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bvc3Rjb2RlJykudmFsdWUgPSBkYXRhLnBvc3Rjb2RlOwogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQxKS52YWx1ZSA9IGRhdGEuYWRkcmVzczsKICAgICAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGlkMikuZm9jdXMoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pLm9wZW4oewogICAgICAgICAgICBsZWZ0OiAod2luZG93LnNjcmVlbi53aWR0aCAvIDIpIC0gKHdpZHRoIC8gMiksCiAgICAgICAgICAgIHRvcDogKHdpbmRvdy5zY3JlZW4uaGVpZ2h0IC8gMikgLSAoaGVpZ2h0IC8gMikKICAgICAgICB9KTsKICAgIH0KCiAgICBmdW5jdGlvbiBtb2RpZnkoY2xpY2ssIHRhcmdldCkgewogICAgICAgICQoY2xpY2spLm9uKCdjbGljaycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgdmFyIG5ld19hY2NvdW50ID0gJCh0YXJnZXQpOwogICAgICAgICAgICBuZXdfYWNjb3VudC5zaG93KCk7CiAgICAgICAgICAgIG5ld19hY2NvdW50LnByb3AoJ2Rpc2FibGVkJywgZmFsc2UpOwovLyAgICAgICAgICAgIG5ld19hY2NvdW50LnByb3AoJ2Rpc2FibGVkJywgZnVuY3Rpb24gKGksIHYpIHsKLy8gICAgICAgICAgICAgICAgcmV0dXJuICF2OwovLyAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwogICAgfQoKCiAgICAkKGZ1bmN0aW9uICgpIHsKICAgICAgICBtb2RpZnkoJyNtb2RpZnktYWNjb3VudCcsICcjbmV3LWFjY291bnQnKTsKLy8gICAgICAgIG1vZGlmeSgnZGl2I21vZGlmeS1pbmZvJywgJ2ZpZWxkc2V0I25ldy1pbmZvJyk7CgogICAgICAgIDw/cGhwIGlmICgkdXNlci0+aGFzVGF4SW5mb3JtYXRpb24oKSk6ID8+CiAgICAgICAgJCgnI2luZm9fZm9ybSBpbnB1dCwgI2luZm9fZm9ybSBidXR0b24nKS5hdHRyKCdkaXNhYmxlZCcsIHRydWUpOwogICAgICAgIDw/cGhwIGVuZGlmOyA/PgogICAgICAgIDw/cGhwIGlmICghJHVzZXItPmhhc0JhbmtBY2NvdW50KCkpOiA/PgogICAgICAgICQoJyNuZXctYWNjb3VudCcpLnNob3coKTsKICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAkKCdib2R5Jykub24oJ2NsaWNrJywgJyNtb2RpZnktdGF4JywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICAkKCcjaW5mb19mb3JtIGlucHV0LCAjaW5mb19mb3JtIGJ1dHRvbicpLmF0dHIoJ2Rpc2FibGVkJywgZmFsc2UpOwogICAgICAgICAgICAkKCcjdGF4X25hbWUnKS5hdHRyKCdkaXNhYmxlZCcsIHRydWUpOwogICAgICAgIH0pOwoKICAgICAgICB2YXIgY29kZSA9ICIiOwogICAgICAgICQoJyN2ZXJpZmljYXRpb24nKS5vbignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICQoJyNjZXJ0aS1udW1iZXInKS5zaG93KCk7CiAgICAgICAgICAgIHZhciBwaG9uZSA9ICQoJyPtnLTrjIDsoITtmZTrsojtmLgnKS52YWwoKTsKICAgICAgICAgICAgaWYgKHBob25lLmxlbmd0aCA8IDEwKSB7CiAgICAgICAgICAgICAgICBhbGVydCgn7Zy064yA7KCE7ZmU67KI7Zi46rCAIOyemOuqu+uQmOyXiOyKteuLiOuLpCcpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvZGUgPSBwYXJzZUludChNYXRoLnJhbmRvbSgpICogMTAwMDAwKSArIDEwMDAwMDsKICAgICAgICAgICAgJC5hamF4KHsKICAgICAgICAgICAgICAgIHVybDogIi4vc21zIiwKICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICAncGhvbmUnOiBwaG9uZSwKICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZSc6IGNvZGUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkuZG9uZShmdW5jdGlvbiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBKU09OLnBhcnNlKHJlc3VsdCk7CiAgICAgICAgICAgICAgICBpZiAocmVzdWx0Lm1lc3NhZ2UgPT09ICdzdWNjZXNzJykgewogICAgICAgICAgICAgICAgICAgIGFsZXJ0KCfsnbjspp3rsojtmLjrpbwg7KCE7Iah7ZWY7JiA7Iq164uI64ukJyk7CiAgICAgICAgICAgICAgICAgICAgJCgnI+2ctOuMgOyghO2ZlOuyiO2YuCcpLmF0dHIoJ3JlYWRvbmx5JywgdHJ1ZSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGNvZGUgPSBwYXJzZUludChNYXRoLnJhbmRvbSgpICogMTAwMDAwKSArIDEwMDAwMDsKICAgICAgICAgICAgICAgICAgICBhbGVydCgn7J247Kad67KI7Zi4IOuwnOyGoeyXkCDsi6TtjKjtlojsirXri4jri6QnKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICAgICAgJCgnI2NvbmZpcm0nKS5vbignY2xpY2snLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICQoJyNmb3JtX3Bob25lJykuc3VibWl0KCk7CiAgICAgICAgICAgIHJldHVybjsKCiAgICAgICAgICAgIHZhciBpbnB1dENvZGUgPSBwYXJzZUludCgkKCcjY29kZScpLnZhbCgpKTsKICAgICAgICAgICAgaWYgKGlucHV0Q29kZSA9PT0gY29kZSkgewogICAgICAgICAgICAgICAgYWxlcnQoJ+yduOymneuyiO2YuOqwgCDsnbzsuZjtlanri4jri6QnKTsKICAgICAgICAgICAgICAgICQoJyNmb3JtX3Bob25lJykuc3VibWl0KCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBhbGVydCgn7J247Kad67KI7Zi46rCAIOydvOy5mO2VmOyngCDslYrsirXri4jri6QnKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfSk7Cjwvc2NyaXB0PgoKCjw/cGhwCmdldF9mb290ZXIoKTsKPz4KCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC1vZmZzZXQtMyBjb2wtbWQtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tbWQiPuyggOyepTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnVzZSBBcHBcQ2xhc3Nlc1xVc2VyOwoKJGV4Y2VwdCA9IGZhbHNlOwpyZXF1aXJlIF9fRElSX18gLiAnL2luY2x1ZGVzL215cGFnZS5waHAnOwoKJHJlZGlyZWN0VG8gPSBmaWx0ZXJfaW5wdXQoSU5QVVRfR0VULCAncmVkaXJlY3RUbycpOwppZiAoaXNzZXQoJF9TRVNTSU9OWydyZWRpcmVjdFRvJ10pKSB7CiAgICB1bnNldCgkX1NFU1NJT05bJ3JlZGlyZWN0VG8nXSk7Cn0KJF9TRVNTSU9OWydyZWRpcmVjdFRvJ10gPSAkcmVkaXJlY3RUbzsKaWYgKCFlbXB0eSgkcmVkaXJlY3RUbykgJiYgJHVzZXItPmlzSW52ZXN0YWJsZSgpKSB7CiAgICB1bnNldCgkX1NFU1NJT05bJ3JlZGlyZWN0VG8nXSk7CiAgICB3cF9yZWRpcmVjdChXUF9TSVRFVVJMIC4gIi97JHJlZGlyZWN0VG99Iik7Cn0gZWxzZWlmIChpc3NldCgkcGF0aFsyXSkgJiYgJHBhdGhbMl0gPT09ICd0YXgnKSB7Cgp9IGVsc2VpZiAoJHVzZXItPmlzSW52ZXN0YWJsZSgpKSB7CiAgICAvL3dwX3JlZGlyZWN0KFdQX1NJVEVVUkwgLiAnL29uZ29pbmcnKTsKfQokYmFua3MgPSBCQU5LUzsKCmdldF9oZWFkZXIoKTsKCi8vIO2OmOydtOyngOyEnCDsgqzsmqntlaAg67OA7IiYIOygleydmDsKJGRhdGEgPSBbCiAgICAn7Zy064yA7Y+wJyAgPT4gJHVzZXItPmludmVzdG1lbnRJbmZvWyftnLTrjIDtj7AnXSwKICAgICfsm5Dsspzsp5XsiJgnID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7JuQ7LKc7KeV7IiY7Jes67aAJ10sCiAgICAn7JiI6riI7KO8JyAgPT4gJHVzZXItPmludmVzdG1lbnRJbmZvWyfsg4HtmZjqs4TsoozsmIjquIjso7wnXSwKICAgICfsnYDtlonsvZTrk5wnID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7IOB7ZmY6rOE7KKM7J2A7ZaJ7L2U65OcJ10sCiAgICAn7J2A7ZaJJyAgID0+ICR1c2VyLT5nZXRCYW5rTmFtZUJ5Q29kZSgkdXNlci0+aW52ZXN0bWVudEluZm9bJ+yDge2ZmOqzhOyijOydgO2Wiey9lOuTnCddKSwKICAgICfqs4TsoozrsojtmLgnID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7IOB7ZmY6rOE7KKM67KI7Zi4J10sCgogICAgJ+yjvOuvvOuyiO2YuOyVnuyekOumrCcgPT4gJHVzZXItPmludmVzdG1lbnRJbmZvWyfso7zrr7zrsojtmLjslZ7snpDrpqwnXSwKLy8gICAgJ+yjvOuvvOuyiO2YuOuSt+yekOumrCcgPT4gc3Vic3RyKCR1c2VyLT5pbnZlc3RtZW50SW5mb1sn7KO866+867KI7Zi465K37J6Q66asJ10sIDAsIC0zKSAuICcqKionLAogICAgJ+yjvOuvvOuyiO2YuOuSt+yekOumrCcgPT4gJHVzZXItPmludmVzdG1lbnRJbmZvWyfso7zrr7zrsojtmLjrkrfsnpDrpqwnXSwKICAgICfso7zshownICAgICAgPT4gJHVzZXItPmludmVzdG1lbnRJbmZvWyfso7zshownXSwKICAgICfso7zshowyJyAgICAgPT4gJHVzZXItPmludmVzdG1lbnRJbmZvWyfso7zshowyJ10sCgogICAgJ1NNU+yImOyLoOuPmeydmOyXrOu2gCcgICAgID0+ICR1c2VyLT5pbnZlc3RtZW50SW5mb1snU01T7IiY7Iug64+Z7J2Y7Jes67aAJ10sCl07CiRkaXNwbGF5QmFua0FjY291bnQgPSAnPHNtYWxsIGNsYXNzPSJ0ZXh0LXBpbmsiPlvsg4HtmZjqs4Tsoowg7J6F66ClXeydhCDtgbTrpq3tlZjsl6wg7KO87IS47JqUPC9zbWFsbD4nOwppZiAoJGRhdGFbJ+ydgO2WiSddICYmICRkYXRhWyfqs4TsoozrsojtmLgnXSkgeyAvLyYmICRkYXRhWyfsmIjquIjso7wnXSkgewogICAgJGRpc3BsYXlCYW5rQWNjb3VudCA9ICJ7JGRhdGFbJ+ydgO2WiSddfSB7JGRhdGFbJ+qzhOyijOuyiO2YuCddfSB7JGRhdGFbJ+yYiOq4iOyjvCddfSI7Cn0KLy8g7Jes6riw6rmM7KeA6rCAIGNvbnRyb2xsZXIg65286rOgIOyDneqwge2VmOuptCDrkKgKCj8+Cgo8IS0tIGpRdWVyeSAobmVjZXNzYXJ5IGZvciBCb290c3RyYXAncyBKYXZhU2NyaXB0IHBsdWdpbnMpIC0tPgo8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hamF4Lmdvb2dsZWFwaXMuY29tL2FqYXgvbGlicy9qcXVlcnkvMS4xMi40L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo8c3R5bGU+CiAgICBhIHsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICB9CgogICAgYTpob3ZlciB7CiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgfQoKICAgIHNlY3Rpb24jaW5mbyB7CiAgICAgICAgcGFkZGluZzogMzBweCAwOwogICAgfQoKICAgICN0YXhfbmFtZSB7CiAgICAgICAgYm9yZGVyOiBub25lOwogICAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwogICAgfQo8L3N0eWxlPgoKPHNlY3Rpb24gaWQ9ImluZm8iIGNsYXNzPSJjb250YWluZXIiPgogICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTIgY29sLW1kLTgiPgoKICAgICAgICAgICAgPGgzIHN0eWxlPSJtYXJnaW4tYm90dG9tOiAzMHB4OyI+7Yis7J6Q7J6QIOygleuztDwvaDM+CgogICAgICAgICAgICA8aDQ+7KCE7ZmU67KI7Zi4PC9oND4KICAgICAgICAgICAgPGZvcm0gYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZSIgY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgbWV0aG9kPSJwb3N0IiByb2xlPSJmb3JtIgogICAgICAgICAgICAgICAgICBpZD0iZm9ybV9waG9uZSI+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBjb250cm9sLWxhYmVsIiBmb3I9InJlZ19udW0xIj7tnLTrjIDsoITtmZTrsojtmLg8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0ic3Itb25seSIgZm9yPSLtnLTrjIDsoITtmZTrsojtmLgyIj7tnLTrjIDsoITtmZTrsojtmLgyPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9InNyLW9ubHkiIGZvcj0i7Zy064yA7KCE7ZmU67KI7Zi4MyI+7Zy064yA7KCE7ZmU67KI7Zi4MzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTcgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSLtnLTrjIDsoITtmZTrsojtmLgiIG5hbWU9Iu2ctOuMgOyghO2ZlOuyiO2YuCIgdmFsdWU9Ijw/PSAkZGF0YVsn7Zy064yA7Y+wJ10gPz4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Ii3rpbwg7KCc7Jm47ZWY6rOgIOyeheugpe2VtOyjvOyEuOyalCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtYnRuIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4td2FybmluZyIgdHlwZT0iYnV0dG9uIiBpZD0idmVyaWZpY2F0aW9uIj7snbjspp3rsojtmLg8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTMgY29udHJvbC1sYWJlbCBzci1vbmx5IiBmb3I9IiI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNyBjb2wtbWQtb2Zmc2V0LTMgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiIGlkPSJjZXJ0aS1udW1iZXIiIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9ImNvZGUiIG5hbWU9ImNvZGUiIHBsYWNlaG9sZGVyPSLsnbjspp3rsojtmLjrpbwg7J6F66Cl7ZW07KO87IS47JqUIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1idG4iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4td2FybmluZyIgdHlwZT0iYnV0dG9uIiBpZD0iY29uZmlybSI+7ZmV7J24PC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZm9ybT4KCiAgICAgICAgICAgIDw/cGhwIGlmICghJHVzZXItPmhhc1Bob25lTnVtYmVyKCkpOiA/PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEwIGNvbC1tZC1vZmZzZXQtMSI+CgogICAgICAgICAgICAgICAgICAgIDxoND4KICAgICAgICAgICAgICAgICAgICAgICAg7JuQ7LKc7KeV7IiYIOygleuztCDsnoXroKXsnYQg7JyE7ZW0IDxiIGNsYXNzPSJ0ZXh0LXBpbmsiPu2ctOuMgOyghO2ZlCDsnbjspp08L2I+7J2EIO2VtOyjvOyLreyLnOyYpC4g7JuQ7LKc7KeV7IiYIOygleuztOqwgCDsnoXroKXrkJjsp4Ag7JWK7Jy866m0IDxiIGNsYXNzPSJ0ZXh0LXBpbmsiPu2IrOyekOqwgAogICAgICAgICAgICAgICAgICAgICAgICAgICAg67aI6rCAPC9iPu2VqeuLiOuLpC4KICAgICAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgICAgIDxicj4gPGJyPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDw/cGhwIGVsc2UgOiA/PgogICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJjb2wtbWQtMTAiPgogICAgICAgICAgICAgICAgICAgIOyDge2ZmOqzhOyijCDsoJXrs7QKICAgICAgICAgICAgICAgICAgICA8c21hbGwgc3R5bGU9ImZsb2F0OnJpZ2h0Ij48YSBpZD0ibW9kaWZ5LWFjY291bnQiIGNsYXNzPSJ0ZXh0LXBpbmsgYnRuIGJ0bi1kYW5nZXIiPuyDge2ZmOqzhOyijCDsnoXroKU8L2E+PC9zbWFsbD4KICAgICAgICAgICAgICAgIDwvaDQ+CiAgICAgICAgICAgICAgICA8Zm9ybSBjbGFzcz0iZm9ybS1ob3Jpem9udGFsIiBhY3Rpb249Ijw/PSBob21lX3VybCgpID8+L3Nuc2wvdXBkYXRlIiBtZXRob2Q9IlBPU1QiIGlkPSJhY2NvdW50X2Zvcm0iPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbC1tZC0zIGNvbnRyb2wtbGFiZWwiIGZvcj0iZGlzcGxheS1hY2NvdW50Ij7tmITsnqwg7IOB7ZmY6rOE7KKMPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgaWQ9ImRpc3BsYXktYWNjb3VudCIgY2xhc3M9ImZvcm0tY29udHJvbC1zdGF0aWMiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/PSAkZGlzcGxheUJhbmtBY2NvdW50ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICA8ZmllbGRzZXQgaWQ9Im5ldy1hY2NvdW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImNvbC1tZC0zIGNvbnRyb2wtbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOyDiCDsg4HtmZjqs4TsoowKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9IuyDge2ZmOqzhOyijOydgO2Wiey9lOuTnCIgaWQ9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3BocCBmb3JlYWNoICgkYmFua3MgYXMgJGtleSA9PiAkdmFsdWUpOiA/PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Ijw/PSAkdmFsdWVbJ2lkeCddID8+Ij48Pz0gJHZhbHVlWydiYW5rJ10gPz48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/cGhwIGVuZGZvcmVhY2g7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJhY2NvdW50LW51bWJlciIgY2xhc3M9InNyLW9ubHkiPjwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJhY2NvdW50LW51bWJlciIgbmFtZT0i7IOB7ZmY6rOE7KKM67KI7Zi4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i6rOE7KKM67KI7Zi466W8IOyeheugpe2VtOyjvOyEuOyalCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC03IGNvbC1tZC1vZmZzZXQtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0i7JiI6riI7KO8IiBjbGFzcz0ic3Itb25seSI+PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9ImFjY291bnQtdXNlciIgbmFtZT0i7JiI6riI7KO8IiBwbGFjZWhvbGRlcj0i7JiI6riI7KO866W8IOyeheugpe2VtOyjvOyEuOyalCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0zIGNvbC1tZC05Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLW1kICI+7KCA7J6lPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9maWVsZHNldD4KICAgICAgICAgICAgICAgIDwvZm9ybT4KCiAgICAgICAgICAgICAgICA8aDQgY2xhc3M9ImNvbC1tZC0xMCI+CiAgICAgICAgICAgICAgICAgICAg7JuQ7LKc7KeV7IiYIOygleuztAogICAgICAgICAgICAgICAgICAgIDxzbWFsbCBzdHlsZT0iZmxvYXQ6cmlnaHQiPjxhIGlkPSJtb2RpZnktdGF4IiBjbGFzcz0idGV4dC1waW5rIGJ0biBidG4tZGFuZ2VyIj7sm5Dsspzsp5XsiJjsoJXrs7Qg7J6F66ClPC9hPjwvc21hbGw+CiAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgPGZvcm0gY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZSIgbWV0aG9kPSJQT1NUIiBpZD0iaW5mb19mb3JtIj4KCiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTMgY29udHJvbC1sYWJlbCIgZm9yPSJkaXNwbGF5LXRheCI+7J2066aEPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTcgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0idGF4X25hbWUiIG5hbWU9IuydtOumhCIgdmFsdWU9Ijw/PSAkZGF0YVsn7JiI6riI7KO8J10gPz4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IuyYiOq4iOyjvOuqheydtCDsnpDrj5kg7J6F66Cl65Cp64uI64ukIiByZWFkb25seT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLW1kLTMgY29udHJvbC1sYWJlbCIgZm9yPSJyZWdfbnVtMSI+7KO866+865Ox66Gd67KI7Zi4PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJzci1vbmx5IiBmb3I9InJlZ19udW0yIj7so7zrr7zrk7HroZ3rsojtmLgyPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTcgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImlucHV0LWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9InJlZ19udW0xIiBuYW1lPSLso7zrr7zrsojtmLjslZ7snpDrpqwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlPSI8Pz0gJGRhdGFbJ+yjvOuvvOuyiO2YuOyVnuyekOumrCddID8+Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24iPi08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJyZWdfbnVtMiIgbmFtZT0i7KO866+867KI7Zi465K37J6Q66asIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0iPD89ICRkYXRhWyfso7zrr7zrsojtmLjrkrfsnpDrpqwnXSA/PiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCIgc3R5bGU9Im1hcmdpbi1ib3R0b206IDA7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtbWQtMyBjb250cm9sLWxhYmVsIiBmb3I9ImRpc3BsYXktaW5mbyI+7KO866+865Ox66Gd7KeA7IOBIOyjvOyGjDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC03IGNvbC1zbS0xMiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgaW5wdXQiIGlkPSJhZGRyZXNzMSIgbmFtZT0i7KO87IaMIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i7KO87IaM66W8IOyeheugpe2VmOyEuOyalCIgdmFsdWU9Ijw/PSAkZGF0YVsn7KO87IaMJ10gPz4iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2xpY2s9Im9wZW5EYXVtUG9zdGNvZGUoJ2FkZHJlc3MxJywnYWRkcmVzczInKSIgcmVhZG9ubHk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWJ0biI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLXdhcm5pbmciIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25jbGljaz0ib3BlbkRhdW1Qb3N0Y29kZSgnYWRkcmVzczEnLCdhZGRyZXNzMicpIj7so7zshozqsoDsg4k8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTMgY29sLW1kLTcgY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0IiBpZD0iYWRkcmVzczIiIG5hbWU9IuyjvOyGjDIiIHZhbHVlPSI8Pz0gJGRhdGFbJ+yjvOyGjDInXSA/PiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i64KY66i47KeAIOyjvOyGjOulvCDsnoXroKXtlZjshLjsmpQiPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0zIGNvbC1tZC05Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tbWQiPuyggOyepTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJjb2wtbWQtb2Zmc2V0LTEgY29sLW1kLTExIHRleHQtYmx1ZSIgc3R5bGU9ImxpbmUtaGVpZ2h0OiAxLjVyZW07Ij4KICAgICAgICAgICAgICAgICAgICAgICAg7Yis7J6Q7ZWY7IugIOqzoOqwneuLmOydmCDsnbTsnpDsiJjsnbXsl5Ag64yA7ZWcIOyEuOq4iOydhCDrjIDsi6Ag64Kp67aA7ZWY6riwIOychO2VtCDsm5Dsspzsp5XsiJgg7KCV67O066W8IOyImOynke2VmOqzoCDsnojsirXri4jri6QuCiAgICAgICAgICAgICAgICAgICAgICAgIOyjvOuvvOuTseuhneuyiO2YuOyZgCDso7zshozsoJXrs7TripQg7JWU7Zi47ZmU65CY7Ja0IOybkOyynOynleyImCDsi6Dqs6Ag7J207Jm47J2YIOyaqeuPhOuhnOuKlCDsgqzsmqnrkJjsp4Ag7JWK7Iq164uI64ukLgogICAgICAgICAgICAgICAgICAgIDwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgaWQ9InBvc3Rjb2RlIiBuYW1lPSLsmrDtjrjrsojtmLgiPgoKICAgICAgICAgICAgICAgIDwvZm9ybT4KICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cgo8YnI+PGJyPgoKICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0iY29sLW1kLTEwIiBzdHlsZT0ibWFyZ2luLWJvdHRvbTogMXJlbTsiPgogICAgICAgICAgICAgICAgICAgIO2IrOyekOyekCDslYzrprwKICAgICAgICAgICAgICAgIDwvaDQ+CgogICAgICAgICAgICAgICAgPGZvcm0gY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZT9zbXM9bW9kaWZ5IiBtZXRob2Q9IlBPU1QiIGlkPSIiPgoKIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtOSBjb2wtbWQtb2Zmc2V0LTMiPgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIj4KICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IgogICAgICAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgICAgICBuYW1lPSJTTVPsiJjsi6Drj5nsnZjsl6zrtoAiCiAgICAgICAgICAgICAgICAgICBpZD0iU01T7IiY7Iug64+Z7J2Y7Jes67aAMSIKICAgICAgICAgICAgICAgICAgIHZhbHVlPSJ0cnVlIgogICAgICAgICAgICAgICAgPD9waHAgaWYgKCRkYXRhWydTTVPsiJjsi6Drj5nsnZjsl6zrtoAnXSk6ID8+CiAgICAgICAgICAgICAgICAgICAgY2hlY2tlZAogICAgICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICAgICAgICAgID4KICAgICAgICAgICAg67Cb6riwCiAgICAgICAgICA8L2xhYmVsPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tY2hlY2siPgogICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIj4KICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNoZWNrLWlucHV0IgogICAgICAgICAgICAgICAgdHlwZT0icmFkaW8iCiAgICAgICAgICAgICAgICBuYW1lPSJTTVPsiJjsi6Drj5nsnZjsl6zrtoAiCiAgICAgICAgICAgICAgICBpZD0iU01T7IiY7Iug64+Z7J2Y7Jes67aAMiIKICAgICAgICAgICAgICAgIHZhbHVlPSJmYWxzZSIKICAgICAgICAgICAgICAgIDw/cGhwIGlmICghJGRhdGFbJ1NNU+yImOyLoOuPmeydmOyXrOu2gCddKTogPz4KICAgICAgICAgICAgICAgICAgICBjaGVja2VkCiAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgPgogICAgICAgICAgICDrsJvsp4DslYrquLAKICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLW9mZnNldC0zIGNvbC1tZC05Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tc3VjY2VzcyBidG4tbWQiPuyggOyepTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZm9ybT4KCgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cgo8L3NlY3Rpb24+CjxzdHlsZT4KICAgICNhY2NvdW50X2Zvcm0gLmZvcm0tZ3JvdXA6Zmlyc3QtY2hpbGQgewogICAgICAgIG1hcmdpbi1ib3R0b206IDVweDsKICAgIH0KCiAgICAjYWNjb3VudF9mb3JtIC5mb3JtLWdyb3VwIHAgewogICAgICAgIHBhZGRpbmctYm90dG9tOiAwOwogICAgfQoKICAgICNuZXctaW5mbyAuZm9ybS1ncm91cDpmaXJzdC1jaGlsZCB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgIH0KPC9zdHlsZT4KCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Imh0dHBzOi8vc3BpLm1hcHMuZGF1bS5uZXQvaW1hcC9tYXBfanNfaW5pdC9wb3N0Y29kZS52Mi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQ+CiAgICBmdW5jdGlvbiBvcGVuRGF1bVBvc3Rjb2RlKGlkMSwgaWQyKSB7CiAgICAgICAgdmFyIHdpZHRoID0gNTAwOwogICAgICAgIHZhciBoZWlnaHQgPSA2MDA7CiAgICAgICAgbmV3IGRhdW0uUG9zdGNvZGUoewogICAgICAgICAgICB3aWR0aDogd2lkdGgsCiAgICAgICAgICAgIGhlaWdodDogaGVpZ2h0LAogICAgICAgICAgICBvbmNvbXBsZXRlOiBmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgY29uc29sZS5kaXIoZGF0YSk7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncG9zdGNvZGUnKS52YWx1ZSA9IGRhdGEucG9zdGNvZGU7CiAgICAgICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChpZDEpLnZhbHVlID0gZGF0YS5hZGRyZXNzOwogICAgICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQyKS5mb2N1cygpOwogICAgICAgICAgICB9CiAgICAgICAgfSkub3Blbih7CiAgICAgICAgICAgIGxlZnQ6ICh3aW5kb3cuc2NyZWVuLndpZHRoIC8gMikgLSAod2lkdGggLyAyKSwKICAgICAgICAgICAgdG9wOiAod2luZG93LnNjcmVlbi5oZWlnaHQgLyAyKSAtIChoZWlnaHQgLyAyKQogICAgICAgIH0pOwogICAgfQoKICAgIGZ1bmN0aW9uIG1vZGlmeShjbGljaywgdGFyZ2V0KSB7CiAgICAgICAgJChjbGljaykub24oJ2NsaWNrJywgZnVuY3Rpb24gKCkgewogICAgICAgICAgICB2YXIgbmV3X2FjY291bnQgPSAkKHRhcmdldCk7CiAgICAgICAgICAgIG5ld19hY2NvdW50LnNob3coKTsKICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmYWxzZSk7Ci8vICAgICAgICAgICAgbmV3X2FjY291bnQucHJvcCgnZGlzYWJsZWQnLCBmdW5jdGlvbiAoaSwgdikgewovLyAgICAgICAgICAgICAgICByZXR1cm4gIXY7Ci8vICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CiAgICB9CgoKICAgICQoZnVuY3Rpb24gKCkgewogICAgICAgIG1vZGlmeSgnI21vZGlmeS1hY2NvdW50JywgJyNuZXctYWNjb3VudCcpOwovLyAgICAgICAgbW9kaWZ5KCdkaXYjbW9kaWZ5LWluZm8nLCAnZmllbGRzZXQjbmV3LWluZm8nKTsKCiAgICAgICAgPD9waHAgaWYgKCR1c2VyLT5oYXNUYXhJbmZvcm1hdGlvbigpKTogPz4KICAgICAgICAkKCcjaW5mb19mb3JtIGlucHV0LCAjaW5mb19mb3JtIGJ1dHRvbicpLmF0dHIoJ2Rpc2FibGVkJywgdHJ1ZSk7CiAgICAgICAgPD9waHAgZW5kaWY7ID8+CiAgICAgICAgPD9waHAgaWYgKCEkdXNlci0+aGFzQmFua0FjY291bnQoKSk6ID8+CiAgICAgICAgJCgnI25ldy1hY2NvdW50Jykuc2hvdygpOwogICAgICAgIDw/cGhwIGVuZGlmOyA/PgogICAgICAgICQoJ2JvZHknKS5vbignY2xpY2snLCAnI21vZGlmeS10YXgnLCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICQoJyNpbmZvX2Zvcm0gaW5wdXQsICNpbmZvX2Zvcm0gYnV0dG9uJykuYXR0cignZGlzYWJsZWQnLCBmYWxzZSk7CiAgICAgICAgICAgICQoJyN0YXhfbmFtZScpLmF0dHIoJ2Rpc2FibGVkJywgdHJ1ZSk7CiAgICAgICAgfSk7CgogICAgICAgIHZhciBjb2RlID0gIiI7CiAgICAgICAgJCgnI3ZlcmlmaWNhdGlvbicpLm9uKCdjbGljaycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgJCgnI2NlcnRpLW51bWJlcicpLnNob3coKTsKICAgICAgICAgICAgdmFyIHBob25lID0gJCgnI+2ctOuMgOyghO2ZlOuyiO2YuCcpLnZhbCgpOwogICAgICAgICAgICBpZiAocGhvbmUubGVuZ3RoIDwgMTApIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCftnLTrjIDsoITtmZTrsojtmLjqsIAg7J6Y66q765CY7JeI7Iq164uI64ukJyk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY29kZSA9IHBhcnNlSW50KE1hdGgucmFuZG9tKCkgKiAxMDAwMDApICsgMTAwMDAwOwogICAgICAgICAgICAkLmFqYXgoewogICAgICAgICAgICAgICAgdXJsOiAiLi9zbXMiLAogICAgICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgICAgICdwaG9uZSc6IHBob25lLAogICAgICAgICAgICAgICAgICAgICdtZXNzYWdlJzogY29kZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KS5kb25lKGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IEpTT04ucGFyc2UocmVzdWx0KTsKICAgICAgICAgICAgICAgIGlmIChyZXN1bHQubWVzc2FnZSA9PT0gJ3N1Y2Nlc3MnKSB7CiAgICAgICAgICAgICAgICAgICAgYWxlcnQoJ+yduOymneuyiO2YuOulvCDsoITshqHtlZjsmIDsirXri4jri6QnKTsKICAgICAgICAgICAgICAgICAgICAkKCcj7Zy064yA7KCE7ZmU67KI7Zi4JykuYXR0cigncmVhZG9ubHknLCB0cnVlKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgY29kZSA9IHBhcnNlSW50KE1hdGgucmFuZG9tKCkgKiAxMDAwMDApICsgMTAwMDAwOwogICAgICAgICAgICAgICAgICAgIGFsZXJ0KCfsnbjspp3rsojtmLgg67Cc7Iah7JeQIOyLpO2MqO2WiOyKteuLiOuLpCcpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9KTsKICAgICAgICAkKCcjY29uZmlybScpLm9uKCdjbGljaycsIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgdmFyIGlucHV0Q29kZSA9IHBhcnNlSW50KCQoJyNjb2RlJykudmFsKCkpOwogICAgICAgICAgICBpZiAoaW5wdXRDb2RlID09PSBjb2RlKSB7CiAgICAgICAgICAgICAgICBhbGVydCgn7J247Kad67KI7Zi46rCAIOydvOy5mO2VqeuLiOuLpCcpOwogICAgICAgICAgICAgICAgJCgnI2Zvcm1fcGhvbmUnKS5zdWJtaXQoKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGFsZXJ0KCfsnbjspp3rsojtmLjqsIAg7J287LmY7ZWY7KeAIOyViuyKteuLiOuLpCcpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9KTsKPC9zY3JpcHQ+CgoKPD9waHAKZ2V0X2Zvb3RlcigpOwo/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0i7Zy064yA7KCE7ZmU67KI7Zi4IiBuYW1lPSLtnLTrjIDsoITtmZTrsojtmLgiIHZhbHVlPSI8Pz0gJGRhdGFbJ+2ctOuMgO2PsCddID8+IiBwbGFjZWhvbGRlcj0iLeulvCDsoJzsmbjtlZjqs6Ag7J6F66Cl7ZW07KO87IS47JqUIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0i7Zy064yA7KCE7ZmU67KI7Zi4IiBuYW1lPSLtnLTrjIDsoITtmZTrsojtmLgiIHZhbHVlPSI8Pz0gJGRhdGFbJ+2ctOuMgO2PsCddID8+Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4td2FybmluZyIgdHlwZT0iYnV0dG9uIiBpZD0iY29uZmlybSI+7KCA7J6lPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZSIgY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgbWV0aG9kPSJwb3N0IiByb2xlPSJmb3JtIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgZW5kaWY7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGZvcm0gYWN0aW9uPSI8Pz0gaG9tZV91cmwoKSA/Pi9zbnNsL3VwZGF0ZSIgY2xhc3M9ImZvcm0taG9yaXpvbnRhbCIgbWV0aG9kPSJwb3N0IiByb2xlPSJmb3JtIiBpZD0iZm9ybV9waG9uZSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPD9waHAgaWYgKCEkdXNlci0+aGFzUGhvbmVOdW1iZXIoKSk6ID8+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTAgY29sLW1kLW9mZnNldC0xIj4KCiAgICAgICAgICAgICAgICAgICAgPGg0PgogICAgICAgICAgICAgICAgICAgICAgICDsm5Dsspzsp5XsiJgg7KCV67O0IOyeheugpeydhCDsnITtlbQgPGIgY2xhc3M9InRleHQtcGluayI+7Zy064yA7KCE7ZmUIOyduOymnTwvYj7snYQg7ZW07KO87Iut7Iuc7JikLiDsm5Dsspzsp5XsiJgg7KCV67O06rCAIOyeheugpeuQmOyngCDslYrsnLzrqbQgPGIgY2xhc3M9InRleHQtcGluayI+7Yis7J6Q6rCACiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg67aI6rCAPC9iPu2VqeuLiOuLpC4KICAgICAgICAgICAgICAgICAgICA8L2g0PgogICAgICAgICAgICAgICAgICAgIDxicj4gPGJyPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDw/cGhwIGVsc2UgOiA/Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>클릭</last-search>
+      <last-search>저장</last-search>
       <last-offset />
-      <last-pattern>클릭</last-pattern>
+      <last-pattern>저장</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>function dd</last-substitute>
+      <last-substitute encoding="base64">XDxmb3JtX3Bob25lXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>js</entry>
-        <entry>min</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVw+</entry>
         <entry>carou</entry>
         <entry encoding="base64">XDxpbWFnZV9jbnRcPg==</entry>
@@ -906,6 +1441,8 @@
         <entry encoding="base64">W+yDge2ZmOqzhOyijCDsnoXroKVd7J2EIO2BtOumre2VmOyXrCDso7zshLjsmpQgICA=</entry>
         <entry>클릭하여 주세요</entry>
         <entry>클릭</entry>
+        <entry encoding="base64">XDxmb3JtX3Bob25lXD4=</entry>
+        <entry>저장</entry>
       </history-search>
       <history-cmd>
         <entry>524</entry>
