@@ -235,12 +235,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="121" column="69" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1514580252496">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="21" />
-        <mark key="." line="61" column="21" />
-        <mark key="^" line="61" column="21" />
+      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1514607911303">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="379" column="23" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1505245831929">
         <mark key="'" line="48" column="0" />
@@ -261,6 +261,12 @@
         <mark key="]" line="19" column="70" />
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_detail.blade.php" timestamp="1514607927863">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/User.php" timestamp="1509284584999">
         <mark key="[" line="126" column="38" />
@@ -357,12 +363,12 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1514580374063">
-        <mark key="'" line="74" column="7" />
-        <mark key="[" line="73" column="51" />
-        <mark key="]" line="73" column="71" />
-        <mark key="^" line="73" column="71" />
-        <mark key="." line="73" column="71" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1514607934887">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="^" line="176" column="40" />
+        <mark key="." line="198" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/public/js/jquery.js" timestamp="1514003973878">
         <mark key="[" line="0" column="0" />
@@ -373,11 +379,12 @@
       <file name="$USER_HOME$/developements/git/point/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php" timestamp="1514475058953">
         <mark key="'" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" timestamp="1514575936884">
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" timestamp="1514608012876">
         <mark key="k" line="11" column="29" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="27" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505244239236">
         <mark key="'" line="17" column="20" />
@@ -606,12 +613,12 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding/list.blade.php" timestamp="1514577314835">
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding/list.blade.php" timestamp="1514604762793">
         <mark key="'" line="22" column="16" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="0" column="24" />
+        <mark key="[" line="58" column="60" />
+        <mark key="]" line="58" column="62" />
+        <mark key="." line="58" column="62" />
+        <mark key="^" line="58" column="62" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PostFactory.php" timestamp="1508514679730">
         <mark key="[" line="10" column="9" />
@@ -631,7 +638,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514579426235">
+      <file name="/Dummy.txt" timestamp="1514603353480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -1116,11 +1123,11 @@
         <mark key="^" line="31" column="22" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/assets/js/app.js" timestamp="1514475924787">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="$USER_HOME$/developements/snsl/resources/assets/js/app.js" timestamp="1514605380192">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="16" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509278643756">
         <mark key="[" line="22" column="9" />
@@ -1397,15 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13490" column="8" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="13491" column="8" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="13492" column="8" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="1731" column="6" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="1735" column="7" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="1736" column="7" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="1780" column="4" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="1784" column="5" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
-      <jump line="1785" column="5" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
       <jump line="3199" column="25" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
       <jump line="3200" column="25" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
       <jump line="3201" column="20" filename="$USER_HOME$/developements/snsl/public/css/app.css" />
@@ -1497,6 +1495,15 @@
       <jump line="244" column="15" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="69" column="32" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="66" column="21" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="56" column="5" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="72" column="30" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="223" column="22" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="80" column="27" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="180" column="18" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
+      <jump line="362" column="7" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="23" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="3" column="0" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1516,8 +1523,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1532,52 +1539,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>panel</text>
+        <text>nav</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS04IGNvbC1zbS1vZmZzZXQtMiI+Cg==</text>
+        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tOCBjb2wtc20tb2Zmc2V0LTIiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSIiPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYm9uZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9ImJvcmRlciI+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZT4KICAgIDwvc3R5bGU+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAubmF2YmFyIHsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgICAgICB9CgogICAgICAgIGg0LmRhZWJ1IHsKICAgICAgICAgICAgY29sb3I6ICNmZmY7CiAgICAgICAgICAgIGZvbnQtc2l6ZTogMS40cmVtOwogICAgICAgIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDVweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTQiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMiI+CgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEyIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAucmlnaHQgewogICAgICAgICAgICBkaXNwbGF5OiB0YWJsZS1jZWxsOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>panel</last-search>
+      <last-search>nav</last-search>
       <last-offset />
-      <last-pattern>panel</last-pattern>
+      <last-pattern>nav</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>post</last-substitute>
       <last-dir>1</last-dir>
@@ -1585,10 +1592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>File</entry>
-        <entry encoding="base64">PT4=</entry>
-        <entry>log</entry>
-        <entry>log_max</entry>
         <entry encoding="base64">XDxwb3N0QXN5bmNcPg==</entry>
         <entry>post</entry>
         <entry>=</entry>
@@ -1605,6 +1608,10 @@
         <entry>footer</entry>
         <entry>bg</entry>
         <entry>panel</entry>
+        <entry>time</entry>
+        <entry>350</entry>
+        <entry>nva</entry>
+        <entry>nav</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
