@@ -141,10 +141,11 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Notifications/LoanApply.php" timestamp="1514710652442">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/developements/snsl/app/Notifications/LoanApply.php" timestamp="1514711463479">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="9" column="58" />
+        <mark key="^" line="9" column="58" />
       </file>
       <file name="$USER_HOME$/developements/math/resources/views/point/transaction.blade.php" timestamp="1514183349408">
         <mark key="[" line="4" column="40" />
@@ -345,12 +346,11 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514558629762">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="15" column="22" />
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514712034692">
+        <mark key="[" line="33" column="15" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="17" />
+        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Tag.php" timestamp="1511202584283">
         <mark key="'" line="1" column="0" />
@@ -1343,12 +1343,13 @@
         <mark key="." line="17" column="91" />
         <mark key="^" line="18" column="122" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/LoanController.php" timestamp="1514710842163">
-        <mark key="'" line="33" column="31" />
-        <mark key="[" line="33" column="12" />
-        <mark key="m" line="35" column="14" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/LoanController.php" timestamp="1514711760231">
+        <mark key="'" line="39" column="31" />
+        <mark key="[" line="25" column="26" />
+        <mark key="m" line="42" column="14" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512909023819">
         <mark key="'" line="28" column="38" />
@@ -1586,7 +1587,7 @@
         <text>$wbbbllvey^lvepj</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JGxvYW4gPSA=</text>
+        <text>&quot;contact@snsl.kr&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1601,43 +1602,43 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGxvYW4gPSA=</text>
+        <text>&quot;contact@snsl.kr&quot;</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdzdGF0dXMnKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHNlc3Npb24oJ3N0YXR1cycpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCg==</text>
+      <register name="0" type="4">
+        <text>contact@snsl.kr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxvYW4tPm5vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUFJTF9EUklWRVI9c210cApNQUlMX0hPU1Q9c210cC5tYWlsdHJhcC5pbwpNQUlMX1BPUlQ9MjUyNQpNQUlMX1VTRVJOQU1FPW51bGwKTUFJTF9QQVNTV09SRD1udWxsCk1BSUxfRU5DUllQVElPTj1udWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9hbjo6Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9hbiA9IG5ldyBMb2FuKCk7CiAgICAgICAgJGxvYW4tPm5vdGlmeShuZXcgUHJvY2Vzc05vdGlmaWNhdGlvbnMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxvYW4gPSBMb2FuOjpmaW5kKCk7TG9hbjo6bm90aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvYW4tPm5vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBOb3RpZmlhYmxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZSBOb3RpZmlhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9hbjo6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvYW4gPSBMb2FuOjpmaW5kKCk7TG9hbjo6bm90aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZmlsbGFibGUgPSBbXTsK</text>
+        <text encoding="base64">ICAgIHVzZSBOb3RpZmlhYmxlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgIGRkKCRlKTsKICAgICAgICAgICAgTG9nOjplcnJvcigiW+uMgOy2nOyLoOyyrSDsi6TtjKhdIHskZS0+Z2V0TWVzc2FnZSgpfSIpOwoKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCktPmJhY2soKS0+d2l0aElucHV0KCktPndpdGgoJ2ZhaWwnLCAn7KOE7Iah7ZWp64uI64ukLiDrjIDstpzsi6Dssq3sl5Ag66y47KCc6rCAIOyeiOyKteuLiOuLpC4gW+qzoOqwneyEvO2EsDogMDItNTk4LTk5ODFd66GcIOyXsOudvSDso7zsi5zquLAg67CU656N64uI64ukLicpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHVzZSBOb3RpZmlhYmxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
