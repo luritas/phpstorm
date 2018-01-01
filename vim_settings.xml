@@ -350,9 +350,10 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514721401693">
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514822459897">
         <mark key="'" line="8" column="0" />
-        <mark key="]" line="30" column="27" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="98" />
         <mark key="." line="30" column="27" />
         <mark key="^" line="30" column="27" />
       </file>
@@ -1600,8 +1601,8 @@
       <register name="a" type="4">
         <text>$wbbbllvey^lvepj</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>www.snsl.kr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VOVFJZX0RTTj1odHRwczovL2QyYmRhNWE5OWE5MDQ5YjBiZGZiZWMwMWEyZjllNThlOmYxZDJhMDhjMjhlMjQ4NDI4NTliYTA3ZTc3ZjM2ZmFlQHd3dy5zbnNsLmtyLzIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1622,7 +1623,7 @@
         <text encoding="base64">XDxBUFBfTE9HX0xFVkVMXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWydtYWlsJywgJ3NsYWNrJ107Cg==</text>
+        <text encoding="base64">U0VOVFJZX0RTTj1odHRwczovL2QyYmRhNWE5OWE5MDQ5YjBiZGZiZWMwMWEyZjllNThlOmYxZDJhMDhjMjhlMjQ4NDI4NTliYTA3ZTc3ZjM2ZmFlQHd3dy5zbnNsLmtyLzIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
