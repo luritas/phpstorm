@@ -350,8 +350,8 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514824286953">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514826843559">
+        <mark key="'" line="44" column="11" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="98" />
         <mark key="." line="30" column="27" />
@@ -1179,7 +1179,7 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/composer.json" timestamp="1514547237207">
+      <file name="$USER_HOME$/developements/snsl/composer.json" timestamp="1514826829596">
         <mark key="'" line="12" column="33" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1496,7 +1496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="15" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="82" column="15" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="83" column="15" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="84" column="15" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
@@ -1596,6 +1595,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/developements/math/config/app.php" />
       <jump line="28" column="29" filename="$USER_HOME$/developements/math/config/app.php" />
       <jump line="125" column="24" filename="$USER_HOME$/developements/math/config/app.php" />
+      <jump line="44" column="11" filename="$USER_HOME$/developements/snsl/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
