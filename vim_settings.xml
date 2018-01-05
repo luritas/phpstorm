@@ -379,11 +379,11 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1515086270682">
-        <mark key="'" line="16" column="42" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="161" column="26" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1515169501795">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="53" column="74" />
+        <mark key="]" line="53" column="74" />
+        <mark key="." line="53" column="74" />
         <mark key="^" line="62" column="3" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/public/js/jquery.js" timestamp="1514003973878">
@@ -1302,12 +1302,12 @@
         <mark key="." line="13" column="55" />
         <mark key="^" line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1515088347919">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="258" column="33" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1515169519212">
+        <mark key="'" line="367" column="0" />
+        <mark key="[" line="96" column="85" />
+        <mark key="]" line="96" column="85" />
         <mark key="^" line="277" column="115" />
-        <mark key="." line="277" column="116" />
+        <mark key="." line="96" column="85" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1515087142808">
         <mark key="'" line="127" column="36" />
@@ -1570,8 +1570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
-      <jump line="427" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
       <jump line="21" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_investment.blade.php" />
       <jump line="463" column="28" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
       <jump line="89" column="0" filename="$USER_HOME$/developements/snsl/app/boot.php" />
@@ -1670,13 +1668,15 @@
       <jump line="17" column="7" filename="$USER_HOME$/developements/snsl/resources/views/settings/dashboard.blade.php" />
       <jump line="29" column="17" filename="$USER_HOME$/developements/snsl/resources/views/partials/settings_withdrawal.blade.php" />
       <jump line="243" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="68" column="0" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
+      <jump line="367" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>$wbbbllvey^lvepj</text>
       </register>
       <register name="&quot;" type="4">
-        <text>isNaN</text>
+        <text>example-</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1691,10 +1691,10 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>isNaN</text>
+        <text>example-</text>
       </register>
       <register name="/" type="4">
-        <text>deposit</text>
+        <text>carou</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHN0eWxlPSJ3aWR0aDogMTAwJSI=</text>
@@ -1734,9 +1734,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deposit</last-search>
+      <last-search>carou</last-search>
       <last-offset />
-      <last-pattern>deposit</last-pattern>
+      <last-pattern>carou</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1744,7 +1744,6 @@
     </search>
     <history>
       <history-search>
-        <entry>쿠폰</entry>
         <entry encoding="base64">XDxnZXTsg4HtmZjso7zquLBUeXBlRW51bUxpc3RcPg==</entry>
         <entry>amount</entry>
         <entry>coupon</entry>
@@ -1764,6 +1763,7 @@
         <entry>color</entry>
         <entry>예치금</entry>
         <entry>deposit</entry>
+        <entry>carou</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
