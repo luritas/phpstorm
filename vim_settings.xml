@@ -346,8 +346,8 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1514826843559">
-        <mark key="'" line="44" column="11" />
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1515255368746">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="98" />
         <mark key="." line="30" column="27" />
@@ -677,7 +677,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515247958400">
+      <file name="/Dummy.txt" timestamp="1515255366814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -1576,7 +1576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="44" filename="$USER_HOME$/developements/snsl/resources/views/settings/schedule.blade.php" />
       <jump line="672" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="74" column="0" filename="$USER_HOME$/developements/snsl/app/boot.php" />
       <jump line="598" column="4" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
@@ -1676,6 +1675,7 @@
       <jump line="22" column="18" filename="$USER_HOME$/developements/snsl/app/boot.php" />
       <jump line="67" column="9" filename="$USER_HOME$/developements/snsl/app/boot.php" />
       <jump line="24" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/developements/snsl/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1715,7 +1715,7 @@
         <text>string</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text>face</text>
       </register>
       <register name="0" type="4">
         <text>typeof($parameter) === 'array'</text>
@@ -1755,9 +1755,9 @@
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search>face</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern>face</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1765,7 +1765,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Account</entry>
         <entry encoding="base64">XDzsg4HtmZjqs4TsoozsmIjquIjso7xcPg==</entry>
         <entry encoding="base64">XDxzZXRCb25kU2NoZWR1bGVcPg==</entry>
         <entry>setBondS</entry>
@@ -1785,6 +1784,7 @@
         <entry>make</entry>
         <entry encoding="base64">XDxtYWtlSW5mb1w+</entry>
         <entry>detail</entry>
+        <entry>face</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
