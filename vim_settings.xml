@@ -180,9 +180,6 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/config/app.php" timestamp="1515257213540">
-        <mark key="'" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/study/myapp/database/factories/ArticleFactory.php" timestamp="1511203383953">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="34" />
@@ -400,9 +397,6 @@
         <mark key="^" line="486" column="19" />
         <mark key="." line="486" column="19" />
       </file>
-      <file name="$USER_HOME$/developements/math/config/app.php" timestamp="1515302357463">
-        <mark key="'" line="49" column="18" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_27_214022_create_class_room_user_table.php" timestamp="1509134040400">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="26" />
@@ -433,9 +427,6 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/developements/math/vendor/symfony/console/Helper/ProgressBar.php" timestamp="1515302505715">
-        <mark key="'" line="63" column="23" />
-      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/ClassRoomFactory.php" timestamp="1509161385052">
         <mark key="[" line="19" column="34" />
         <mark key="]" line="19" column="79" />
@@ -449,9 +440,6 @@
         <mark key="m" line="41" column="32" />
         <mark key="^" line="41" column="32" />
         <mark key="." line="41" column="32" />
-      </file>
-      <file name="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Console/Command.php" timestamp="1515301115379">
-        <mark key="'" line="67" column="32" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Exceptions/Handler.php" timestamp="1512810423050">
         <mark key="[" line="58" column="0" />
@@ -523,6 +511,12 @@
         <mark key="]" line="20" column="108" />
         <mark key="^" line="20" column="108" />
         <mark key="." line="20" column="108" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/BoardController.php" timestamp="1515313511549">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1512514146022">
         <mark key="[" line="47" column="35" />
@@ -839,12 +833,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1515307827388">
-        <mark key="'" line="128" column="11" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="23" column="2" />
-        <mark key="^" line="149" column="16" />
-        <mark key="." line="149" column="16" />
+      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1515313469198">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="151" column="4" />
+        <mark key="]" line="151" column="3" />
+        <mark key="^" line="154" column="2" />
+        <mark key="." line="151" column="3" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/auth/login.blade.php" timestamp="1508865093081">
         <mark key="[" line="65" column="50" />
@@ -966,7 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/developements/snsl/.env" />
       <jump line="21" column="63" filename="$USER_HOME$/developements/snsl/resources/views/loan_form.blade.php" />
       <jump line="24" column="4" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/LoanController.php" />
       <jump line="56" column="4" filename="$USER_HOME$/developements/snsl/app/Loan.php" />
@@ -1066,6 +1059,7 @@
       <jump line="24" column="42" filename="$USER_HOME$/developements/math/resources/views/home.blade.php" />
       <jump line="26" column="48" filename="$USER_HOME$/developements/math/resources/views/home.blade.php" />
       <jump line="13" column="0" filename="$USER_HOME$/developements/math/.env" />
+      <jump line="62" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,8 +1080,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>t.snsl.kr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1102,7 +1096,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>t.snsl.kr</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>us</text>
@@ -1111,34 +1105,34 @@
         <text encoding="base64">IyBzb2NpYWwgbG9naW4KRkFDRUJPT0tfSUQ9MTY4MDA5Mzc3MjkyMjM5CkZBQ0VCT09LX1NFQ1JFVD03YWNhNTYyNTFiYTBiMTVhMDc5YTQ2NThjODMyZjRmMwpGQUNFQk9PS19DQUxMQkFDSz1odHRwOi8vdC5zbnNsLmtyL3NvY2lhbC9sb2dpbi9mYWNlYm9vay9jYWxsYmFjawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayIgaHJlZj0ie3sgcm91dGUoJ3Bhc3N3b3JkLnJlcXVlc3QnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDruYTrsIDrsojtmLgg7LC+6riwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1saW5rIiBocmVmPSJ7eyByb3V0ZSgncGFzc3dvcmQucmVxdWVzdCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg67mE67CA67KI7Zi4IOywvuq4sAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayIgaHJlZj0ie3sgcm91dGUoJ3Bhc3N3b3JkLnJlcXVlc3QnKSB9fSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDruYTrsIDrsojtmLgg7LC+6riwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsiIGhyZWY9Int7IHJvdXRlKCdwYXNzd29yZC5yZXF1ZXN0JykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDruYTrsIDrsojtmLgg7LC+6riwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1saW5rIiBocmVmPSJ7eyByb3V0ZSgncGFzc3dvcmQucmVxdWVzdCcpIH19Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg67mE67CA67KI7Zi4IOywvuq4sAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRm9yZ290IFlvdXIgUGFzc3dvcmQ/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsiIGhyZWY9Int7IHJvdXRlKCdwYXNzd29yZC5yZXF1ZXN0JykgfX0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDruYTrsIDrsojtmLgg7LC+6riwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRm9yZ290IFlvdXIgUGFzc3dvcmQ/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2dpbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>158</text>
