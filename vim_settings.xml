@@ -251,17 +251,12 @@
         <mark key="." line="53" column="74" />
         <mark key="^" line="62" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/math/app/Console/Commands/PointsCalculator.php" timestamp="1515303093211">
-        <mark key="'" line="54" column="22" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" timestamp="1515672704566">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" timestamp="1515896807921">
+        <mark key="'" line="132" column="22" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="204" column="17" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505244239236">
         <mark key="'" line="17" column="20" />
@@ -276,12 +271,6 @@
         <mark key="]" line="71" column="6" />
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/app/Mail/LoanApplyMail.php" timestamp="1515323259357">
-        <mark key="'" line="37" column="31" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php" timestamp="1515499159709">
         <mark key="[" line="10" column="6" />
@@ -725,12 +714,6 @@
         <mark key="^" line="96" column="26" />
         <mark key="." line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/developements/math/app/Console/Kernel.php" timestamp="1515297009965">
-        <mark key="'" line="33" column="18" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1505059737250">
         <mark key="'" line="48" column="9" />
         <mark key="[" line="40" column="27" />
@@ -796,12 +779,6 @@
         <mark key="]" line="93" column="33" />
         <mark key="^" line="93" column="33" />
         <mark key="." line="93" column="33" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/investment/content.blade.php" timestamp="1515420839561">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/funding_investment.blade.php" timestamp="1515246244450">
         <mark key="'" line="1" column="0" />
@@ -986,7 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="6" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
       <jump line="104" column="10" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" />
       <jump line="114" column="41" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" />
       <jump line="115" column="11" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" />
@@ -1086,6 +1062,7 @@
       <jump line="55" column="4" filename="$USER_HOME$/developements/snsl/app/User.php" />
       <jump line="94" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" />
       <jump line="11" column="11" filename="$USER_HOME$/developements/snsl/resources/views/settings/dashboard.blade.php" />
+      <jump line="121" column="22" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1107,7 +1084,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxGdW5kaW5nOwp1c2UgQXBwXE1vZGVsXFN1bW1hcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1122,54 +1099,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;success&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoXD4=</text>
+        <text>Azure</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN3YWwoewogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogIu2IrOyekOyImOyglSIsCiAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICLtmITsnqwg7Yis7J6Q6riI7JWhKHt7IG51bWJlcl9mb3JtYXQoJGludmVzdG9yLT5nZXRJbnZlc3RtZW50QW1vdW50KCRib25kKSkgfX0p7J2AIOy3qOyGjOuQmOqzoFxuIOyDiOuhreqyjCDsnoXroKXrkJwg6riI7JWh7Jy866GcIO2IrOyekOulvCDtlanri4jri6QuXG4g7Yis7J6Q66W8IOyImOygle2VmOyLnOqyoOyKteuLiOq5jD8iLAogICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAid2FybmluZyIsCiAgICAgICAgICAgICAgICAgICAgICAgIHNob3dDYW5jZWxCdXR0b246IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZpcm1CdXR0b25DbGFzczogImJ0bi1wcmltYXJ5IiwKICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlybUJ1dHRvblRleHQ6ICLsiJjsoJXtlZjquLAiLAogICAgICAgICAgICAgICAgICAgICAgICBjYW5jZWxCdXR0b25UZXh0OiAi7Leo7IaM7ZWY6riwIiwKICAgICAgICAgICAgICAgICAgICAgICAgLy8gY2xvc2VPbkNvbmZpcm06IGZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICAvLyBjbG9zZU9uQ2FuY2VsOiBmYWxzZQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gKGlzQ29uZmlybSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaXNDb25maXJtKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCcjaW52ZXN0bWVudCcpLnN1Ym1pdCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewoKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbFxGdW5kaW5nOwp1c2UgQXBwXE1vZGVsXFN1bW1hcnk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2FsKCcnLCByZXNwb25zZS5tZXNzYWdlLCByZXNwb25zZS5yZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCBBdXRoIE1pZGRsZXdhcmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjcmVhdGUnLCAnc3RvcmUnLCAnZWRpdCcsICdkZWxldGUnLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-
-                            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkbXNnCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHNob3dDYW5jZWxCdXR0b246IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25maXJtQnV0dG9uQ2xhc3M6ICJidG4tcHJpbWFyeSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjb25maXJtQnV0dG9uVGV4dDogIuyImOygle2VmOq4sCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBjYW5jZWxCdXR0b25UZXh0OiAi7Leo7IaM7ZWY6riwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNsb3NlT25Db25maXJtOiBmYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGNsb3NlT25DYW5jZWw6IGZhbHNlCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAn7KCc66qpJyAgICAgID0+ICftiKzsnpDsi6Dssq0nLAogICAgICAgICAgICAn7IOB7ZKIJyAgICAgID0+ICRib25kLT5nZXTsoJzrqqkoKSwKICAgICAgICAgICAgJ+2IrOyekOq4iOyVoScgICAgPT4gJGFtb3VudCwKICAgICAgICAgICAgJ+2IrOyekOyekOydtOuplOydvCcgID0+IEF1dGg6OnVzZXIoKS0+ZW1haWwsCiAgICAgICAgICAgICftiKzsnpDsnpDsnbTrpoQnICAgPT4gJGludmVzdG9yLT5nZXROYW1lKCksCiAgICAgICAgICAgICftmITsnqzquYzsp4DrqqjquIjsnKgnID0+ICRib25kLT5nZXTtmITsnqztiKzsnpDruYTsnKjrsLHrtoTrpaAoKSwKICAgICAgICAgICAgJ+2YhOyerOq5jOyngOuqqOq4iOyVoScgPT4gJGJvbmQtPmdldO2YhOyerO2IrOyekOq4iOyVoSgpLAogICAgICAgIF07</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCcjbG9hZGluZycpLmhpZGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCcjaW52ZXN0bWVudCcpLnN1Ym1pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDsiqzrnpnsnLzroZwg64W47YuwIOuCoOumrOq4sAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcjbG9hZGluZycpLmhpZGUoKTsKICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbi5yZWxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOycoOyggCwg7LGE6raMIOuNsOydtO2EsCDqsIDsoLjsmKTripQgQVBJ66W8IO2XrO2NvO2VqOyImOuhnCDrp4zrk6TquLAhIQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICAgIH0sCg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbFxGdW5kaW5nOwp1c2UgQXBwXE1vZGVsXFN1bW1hcnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoXD4=</last-search>
+      <last-search>Azure</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoXD4=</last-pattern>
+      <last-pattern>Azure</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1177,7 +1152,6 @@
     </search>
     <history>
       <history-search>
-        <entry>route</entry>
         <entry>login</entry>
         <entry>투자현황</entry>
         <entry>예치금</entry>
@@ -1197,6 +1171,7 @@
         <entry>deposit</entry>
         <entry>getInvestmentAmount</entry>
         <entry encoding="base64">XDxhdXRoXD4=</entry>
+        <entry>Azure</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
