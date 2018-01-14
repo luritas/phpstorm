@@ -167,12 +167,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="121" column="69" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1515903144675">
-        <mark key="'" line="635" column="15" />
-        <mark key="[" line="75" column="19" />
-        <mark key="]" line="90" column="13" />
-        <mark key="." line="90" column="13" />
-        <mark key="^" line="90" column="13" />
+      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1515904811609">
+        <mark key="'" line="250" column="0" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="." line="246" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1505245831929">
         <mark key="'" line="48" column="0" />
@@ -284,8 +283,8 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1515902839049">
-        <mark key="'" line="774" column="0" />
+      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1515905073965">
+        <mark key="'" line="520" column="20" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -427,7 +426,7 @@
         <mark key="." line="103" column="20" />
         <mark key="^" line="103" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515902366744">
+      <file name="/Dummy.txt" timestamp="1515905114163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -779,12 +778,11 @@
         <mark key="^" line="31" column="22" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/assets/js/app.js" timestamp="1515903243657">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="16" column="64" />
-        <mark key="]" line="16" column="65" />
-        <mark key="." line="16" column="65" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/developements/snsl/resources/assets/js/app.js" timestamp="1515904814655">
+        <mark key="'" line="11" column="10" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1514009253665">
         <mark key="'" line="46" column="6" />
@@ -827,19 +825,19 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1515901821564">
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1515905121993">
         <mark key="'" line="257" column="96" />
-        <mark key="[" line="412" column="15" />
-        <mark key="]" line="406" column="39" />
-        <mark key="." line="406" column="39" />
+        <mark key="[" line="413" column="20" />
+        <mark key="]" line="392" column="13" />
+        <mark key="." line="392" column="13" />
         <mark key="^" line="406" column="39" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1515416631698">
+      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1515904601786">
         <mark key="'" line="96" column="75" />
-        <mark key="[" line="76" column="33" />
-        <mark key="]" line="76" column="50" />
-        <mark key="." line="76" column="50" />
-        <mark key="^" line="76" column="50" />
+        <mark key="[" line="25" column="172" />
+        <mark key="]" line="25" column="171" />
+        <mark key="^" line="25" column="171" />
+        <mark key="." line="25" column="171" />
       </file>
       <file name="$USER_HOME$/developements/p2p/.env" timestamp="1513451519444">
         <mark key="'" line="19" column="0" />
@@ -952,13 +950,6 @@
         <mark key="." line="46" column="19" />
         <mark key="^" line="72" column="26" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/settings/schedule_detail.blade.php" timestamp="1515899110980">
-        <mark key="'" line="66" column="47" />
-        <mark key="j" line="62" column="60" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1505242498078">
         <mark key="'" line="26" column="15" />
         <mark key="[" line="34" column="0" />
@@ -1003,13 +994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
-      <jump line="168" column="0" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
-      <jump line="44" column="30" filename="$USER_HOME$/developements/math/app/Http/Controllers/Auth/LoginController.php" />
-      <jump line="129" column="22" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
-      <jump line="76" column="60" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
-      <jump line="83" column="48" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
-      <jump line="33" column="21" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
       <jump line="45" column="42" filename="$USER_HOME$/developements/math/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="25" column="6" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
       <jump line="98" column="4" filename="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
@@ -1103,6 +1087,13 @@
       <jump line="631" column="15" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="11" column="14" filename="$USER_HOME$/developements/snsl/resources/assets/js/app.js" />
       <jump line="13" column="10" filename="$USER_HOME$/developements/snsl/resources/assets/js/app.js" />
+      <jump line="98" column="12" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="235" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="82" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="250" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="13" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="820" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="520" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1124,7 +1115,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>jjjjjj</text>
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1139,52 +1130,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>jjjjjj</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text>getInvestmentAmount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1ibG9jayBidG4tZGVmYXVsdCIgaHJlZj0ie3sgcm91dGUoJ3NldHRpbmdzLmRlcG9zaXQnLCBbJ3VzZXInID0+IEF1dGg6OnVzZXIoKS0+Z2V0RW1haWxJZCgpXSkgfX0iPuyYiOy5mOq4iCDstpzquIjtlZjquLA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZWxzZWlmICgkaW52ZXN0b3ItPmhhc0ludmVzdG1lbnQoJGJvbmQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGF1dGgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">e3sgZGQoKSB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBBdXRoOjpndWFyZCgnQWNhZGVteScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW52ZXN0b3JSYXcpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFybSk7Cg==</text>
+        <text encoding="base64">e3sgZGQoKSB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW52ZXN0b3IpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBBdXRoOjpndWFyZCgnQWNhZGVteScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaW52ZXN0b3JSYXcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW52ZXN0b3JSYXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nav</last-search>
+      <last-search>getInvestmentAmount</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern>getInvestmentAmount</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1183,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RpZnlcPg==</entry>
         <entry encoding="base64">XDxpbnZlc3RtZW50XD4=</entry>
         <entry>농협</entry>
         <entry>show</entry>
@@ -1203,7 +1193,6 @@
         <entry>출금</entry>
         <entry>despoit</entry>
         <entry>deposit</entry>
-        <entry>getInvestmentAmount</entry>
         <entry encoding="base64">XDxhdXRoXD4=</entry>
         <entry>Azure</entry>
         <entry encoding="base64">XDxjYW5jZWxJbnZlc3RtZW50XD4=</entry>
@@ -1211,7 +1200,9 @@
         <entry>이자</entry>
         <entry encoding="base64">XDxjYWxjXD4=</entry>
         <entry>profil</entry>
+        <entry>nva</entry>
         <entry>nav</entry>
+        <entry>getInvestmentAmount</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
