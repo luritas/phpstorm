@@ -391,12 +391,11 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1515323329282">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
-        <mark key="^" line="33" column="18" />
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1516517659662">
+        <mark key="'" line="19" column="18" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1505246376942">
         <mark key="'" line="142" column="32" />
@@ -953,7 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="41" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="97" column="41" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="98" column="41" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="99" column="41" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
@@ -1053,6 +1051,7 @@
       <jump line="132" column="12" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
       <jump line="9" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
       <jump line="38" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
+      <jump line="19" column="18" filename="$USER_HOME$/developements/snsl/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1074,7 +1073,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NoZWR1bGUtPmpvYigpLT5ldmVyeU1pbnV0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1089,43 +1088,43 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>new LoanApply</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>dash</text>
       </register>
       <register name="0" type="4">
-        <text>transactionsData</text>
+        <text>SLACK_WEBHOOK_URL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NoZWR1bGUtPmpvYigpLT5ldmVyeU1pbnV0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8g7YGQ66W8IDHsi5zqsITsl5Ag7ZWc67KI7JSpIOyLpO2WieyLnO2CpOqzoCDqs7zrtoDtlZjqsIAg6rGx7KCV65CY66m0IO2VmOujqOyXkCDtlZzrsogg7Iuk7ZaJ7Iuc7YKk6riwCg==</text>
+        <text encoding="base64">IyBTTEFDS19XRUJIT09LX1VSTD1odHRwczovL2hvb2tzLnNsYWNrLmNvbS9zZXJ2aWNlcy9UNDE3ODJXRFQvQjhMTDlSSFYwL2plaFA0UGo0WVhwczBHd0FPa0NkUGpPago=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RvdGFsJyAgICAgICAgPT4gJHRvdGFsLAogICAgICAgICAgICAnY3VycmVudCcgICAgICA9PiAkY3VycmVudCwK</text>
+        <text encoding="base64">ICAgICAgICAkc2NoZWR1bGUtPmpvYigpLT5ldmVyeU1pbnV0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXTskbmV3VHJhbnNhY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8g7YGQ66W8IDHsi5zqsITsl5Ag7ZWc67KI7JSpIOyLpO2WieyLnO2CpOqzoCDqs7zrtoDtlZjqsIAg6rGx7KCV65CY66m0IO2VmOujqOyXkCDtlZzrsogg7Iuk7ZaJ7Iuc7YKk6riwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RvdGFsJyAgICAgICAgPT4gJHRvdGFsLAogICAgICAgICAgICAnY3VycmVudCcgICAgICA9PiAkY3VycmVudCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRkKCRpbnZlc3Rvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXTskbmV3VHJhbnNhY3Rpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdHJhbnNhY3Rpb25zID0gJGludmVzdG9yLT5nZXREZXBvc2l0VHJhbnNhY3Rpb24oMCwgMyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaW52ZXN0b3IgPSBBdXRoOjp1c2VyKCktPmludmVzdG9yKCk7CiAgICAgICAgLy8gVE9ETyDtjpjsnbTsp4Ag64Sk7J207IWYIO2VmOq4sCEhISEgb2Zmc2V0IOydtOuekSBsaW1pdCDqsIAg7JWI66i57J2MISEhIHRvdGFsIHBhZ2Ug7JmAIOydtOyghCDsnbTtm4Qg7Y6Y7J207KeAIOumrO2EtO2VmOq4sCEhIQogICAgICAgICR0cmFuc2FjdGlvbnMgPSAkaW52ZXN0b3ItPmdldERlcG9zaXRUcmFuc2FjdGlvbigkb2Zmc2V0LCAkbGltaXQpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRpbnZlc3Rvcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkb2Zmc2V0ICAgPSAkcmVxdWVzdC0+Z2V0KCdvZmZzZXQnLCAwKTsKICAgICAgICAkbGltaXQgICAgPSAkcmVxdWVzdC0+Z2V0KCdsaW1pdCcsIDIwKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdHJhbnNhY3Rpb25zID0gJGludmVzdG9yLT5nZXREZXBvc2l0VHJhbnNhY3Rpb24oMCwgMyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
