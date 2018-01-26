@@ -657,11 +657,11 @@
         <mark key="^" line="264" column="20" />
         <mark key="." line="264" column="20" />
       </file>
-      <file name="$USER_HOME$/developements/vue/index.html" timestamp="1516977995576">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-        <mark key="^" line="6" column="26" />
+      <file name="$USER_HOME$/developements/vue/index.html" timestamp="1516984028617">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175539_create_articles_table.php" timestamp="1511201491440">
         <mark key="[" line="15" column="0" />
@@ -1826,7 +1826,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Greetings your Majesty</text>
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1841,7 +1841,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Greetings your Majesty</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElfVVBEQVRFX05BTUVcPg==</text>
