@@ -369,6 +369,12 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/public/wordpress/wp-config.php" timestamp="1517843473702">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="1" />
+        <mark key="." line="21" column="1" />
+        <mark key="^" line="21" column="1" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/.env" timestamp="1517720546409">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="6" column="45" />
@@ -770,6 +776,12 @@
         <mark key="]" line="99" column="3" />
         <mark key="." line="99" column="3" />
         <mark key="^" line="99" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1517720399154">
+        <mark key="[" line="25" column="133" />
+        <mark key="]" line="25" column="132" />
+        <mark key="." line="25" column="132" />
+        <mark key="^" line="25" column="132" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_27_214022_create_class_room_user_table.php" timestamp="1509134040400">
         <mark key="[" line="25" column="0" />
@@ -1850,7 +1862,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>14.63.213.128</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1865,7 +1877,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>14.63.213.128</text>
       </register>
       <register name="/" type="4">
         <text>funding-detail</text>
