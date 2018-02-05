@@ -54,12 +54,12 @@
         <mark key="." line="131" column="29" />
         <mark key="^" line="131" column="29" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1517733962489">
+      <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1517849075663">
         <mark key="'" line="15" column="16" />
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="58" column="4" />
-        <mark key="." line="58" column="4" />
-        <mark key="^" line="58" column="4" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1515499353447">
         <mark key="'" line="28" column="20" />
@@ -382,7 +382,7 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1517720546409">
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1517849596880">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="43" />
@@ -759,7 +759,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517842633167">
+      <file name="/Dummy.txt" timestamp="1517848616940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -790,7 +790,7 @@
         <mark key="." line="99" column="3" />
         <mark key="^" line="99" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1517720399154">
+      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1517849439253">
         <mark key="[" line="25" column="133" />
         <mark key="]" line="25" column="132" />
         <mark key="." line="25" column="132" />
@@ -1880,8 +1880,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>14.63.213.128</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFwaUZpbGUpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1896,7 +1896,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>14.63.213.128</text>
+        <text>storage/</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
@@ -1905,34 +1905,34 @@
         <text>t.snsl.kr/board</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFwaUZpbGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkKFMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CjQK</text>
+        <text encoding="base64">NAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Mwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Mgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIOuvuOuTpOybqOyWtOulvCDsoJXsnZjtlZjqs6AgdXJs7JeQIOuUsOudvCDsoIHsmqntlaAg7Y6Y7J207KeAIOyggeyaqQogKi8KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CjQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Mwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Mgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CnVzZSBcTW9ub2xvZ1xMb2dnZXIgYXMgTG9nZ2VyOwp1c2UgTW9ub2xvZ1xIYW5kbGVyXFN0cmVhbUhhbmRsZXI7CgovLyB3aG9vcHMKLy8kd2hvb3BzID0gbmV3IFxXaG9vcHNcUnVuOwovLyR3aG9vcHMtPnB1c2hIYW5kbGVyKG5ldyBcV2hvb3BzXEhhbmRsZXJcUHJldHR5UGFnZUhhbmRsZXIpOwovLyR3aG9vcHMtPnJlZ2lzdGVyKCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIOuvuOuTpOybqOyWtOulvCDsoJXsnZjtlZjqs6AgdXJs7JeQIOuUsOudvCDsoIHsmqntlaAg7Y6Y7J207KeAIOyggeyaqQogKi8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIExvYWQgYXV0b2xvYWQoY29tcG9zZXIpCiAqLwpyZXF1aXJlICd2ZW5kb3IvYXV0b2xvYWQucGhwJzsKCi8vdmFyX2R1bXAoZXhwbG9kZSgnLycsICRfU0VSVkVSWydSRVFVRVNUX1VSSSddKSk7Ci8vIGFwaeuKlCDtm4TtgrntlbTshJwg7LKY66as7ZWY6rOgIOyiheujjAoKJHBhdGggPSBhcnJheV9maWx0ZXIoYXJyYXlfbWFwKCd0cmltJywgZXhwbG9kZSgnLycsICRfU0VSVkVSWydSRVFVRVNUX1VSSSddKSkpOwokZmlsZSA9ICcnOwppZiAoaXNzZXQoJHBhdGhbMV0pICYmICRwYXRoWzFdID09PSAnYXBpJykgewogICAgaWYgKGluX2FycmF5KFVTRVJfSVAsIFdISVRFX0xJU1QpKSB7CiAgICB9CiAgICAkZmlsZSA9IF9fRElSX18gLiAiL2FwaS9tYWluL2RhdGEucGhwIjsKICAgIHJlcXVpcmUgJGZpbGU7CgogICAgaWYgKCRwYXRoWzJdID09PSAnbWFpbicpIHsKICAgICAgICBnZXRNYWluKCk7CiAgICB9IGVsc2UgaWYgKGV4cGxvZGUoJz8nLCAkcGF0aFsyXSlbMF0gPT09ICdzY2hlZHVsZScpIHsKICAgICAgICAkYW1vdW50ID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ2Ftb3VudCcpOwogICAgICAgICRyYXRlID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ3JhdGUnKTsKICAgICAgICAkdG90YWxQZXJpb2QgPSBmaWx0ZXJfaW5wdXQoSU5QVVRfR0VULCAndG90YWxQZXJpb2QnKTsKICAgICAgICAkcGVyaW9kID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ3BlcmlvZCcpOwogICAgICAgICRpc0JvcnJvd2VyID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ2lzQm9ycm93ZXInKTsKLy8gICAgICAgIGVjaG8gIjwhLS0geyRwYXRoWzJdfS0tPiI7Ci8vICAgICAgICBkaWUoKTsKICAgICAgICBnZXRTY2hlZHVsZSgkYW1vdW50LCAkcmF0ZSwgJHRvdGFsUGVyaW9kLCAkcGVyaW9kLCAkaXNCb3Jyb3dlcik7CiAgICB9CiAgICBkaWUoKTsKfQppZiAoaXNzZXQoJHBhdGhbMV0pICYmICRwYXRoWzFdID09PSAnYXRsYXNzaWFuLWRvbWFpbi12ZXJpZmljYXRpb24uaHRtbCcpIHsKCXJlcXVpcmUgX19ESVJfXyAuICcvd3AtY29udGVudC90aGVtZXMvQXZhZGEtQ2hpbGQtVGhlbWUvcGRmLnBocCc7CglkaWUoKTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
