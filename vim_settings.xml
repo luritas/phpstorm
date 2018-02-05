@@ -156,6 +156,13 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/wordpress/wp-config.php" timestamp="1517846160183">
+        <mark key="'" line="91" column="41" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="43" />
+        <mark key="^" line="20" column="39" />
+        <mark key="." line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1509127386582">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="38" />
@@ -561,6 +568,12 @@
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
         <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/wordpress/.gitignore" timestamp="1517845738908">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Books.php" timestamp="1511544245173">
         <mark key="[" line="9" column="28" />
@@ -1747,8 +1760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="585" column="27" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
-      <jump line="21" column="20" filename="$USER_HOME$/developements/snsl/app/Model/InvestorInterface.php" />
       <jump line="592" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="596" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="132" column="0" filename="$USER_HOME$/developements/snsl/resources/views/settings/dashboard.blade.php" />
@@ -1847,6 +1858,8 @@
       <jump line="616" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="586" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="539" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="54" column="24" filename="$USER_HOME$/developements/snsl/wordpress/wp-config.php" />
+      <jump line="91" column="41" filename="$USER_HOME$/developements/snsl/wordpress/wp-config.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1867,8 +1880,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIOuvuOuTpOybqOyWtOulvCDsoJXsnZjtlZjqs6AgdXJs7JeQIOuUsOudvCDsoIHsmqntlaAg7Y6Y7J207KeAIOyggeyaqQogKi8KCg==</text>
+      <register name="&quot;" type="4">
+        <text>14.63.213.128</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1883,16 +1896,16 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>14.63.213.128</text>
       </register>
       <register name="/" type="4">
-        <text>funding-detail</text>
+        <text>settings</text>
       </register>
       <register name="0" type="4">
-        <text>'SNSL 가상계좌 생성실패!!'</text>
+        <text>t.snsl.kr/board</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIOuvuOuTpOybqOyWtOulvCDsoJXsnZjtlZjqs6AgdXJs7JeQIOuUsOudvCDsoIHsmqntlaAg7Y6Y7J207KeAIOyggeyaqQogKi8KCg==</text>
+        <text encoding="base64">NAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1901,34 +1914,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnVzZSBcTW9ub2xvZ1xMb2dnZXIgYXMgTG9nZ2VyOwp1c2UgTW9ub2xvZ1xIYW5kbGVyXFN0cmVhbUhhbmRsZXI7CgovLyB3aG9vcHMKLy8kd2hvb3BzID0gbmV3IFxXaG9vcHNcUnVuOwovLyR3aG9vcHMtPnB1c2hIYW5kbGVyKG5ldyBcV2hvb3BzXEhhbmRsZXJcUHJldHR5UGFnZUhhbmRsZXIpOwovLyR3aG9vcHMtPnJlZ2lzdGVyKCk7Cg==</text>
+        <text encoding="base64">CjQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIExvYWQgYXV0b2xvYWQoY29tcG9zZXIpCiAqLwpyZXF1aXJlICd2ZW5kb3IvYXV0b2xvYWQucGhwJzsKCi8vdmFyX2R1bXAoZXhwbG9kZSgnLycsICRfU0VSVkVSWydSRVFVRVNUX1VSSSddKSk7Ci8vIGFwaeuKlCDtm4TtgrntlbTshJwg7LKY66as7ZWY6rOgIOyiheujjAoKJHBhdGggPSBhcnJheV9maWx0ZXIoYXJyYXlfbWFwKCd0cmltJywgZXhwbG9kZSgnLycsICRfU0VSVkVSWydSRVFVRVNUX1VSSSddKSkpOwokZmlsZSA9ICcnOwppZiAoaXNzZXQoJHBhdGhbMV0pICYmICRwYXRoWzFdID09PSAnYXBpJykgewogICAgaWYgKGluX2FycmF5KFVTRVJfSVAsIFdISVRFX0xJU1QpKSB7CiAgICB9CiAgICAkZmlsZSA9IF9fRElSX18gLiAiL2FwaS9tYWluL2RhdGEucGhwIjsKICAgIHJlcXVpcmUgJGZpbGU7CgogICAgaWYgKCRwYXRoWzJdID09PSAnbWFpbicpIHsKICAgICAgICBnZXRNYWluKCk7CiAgICB9IGVsc2UgaWYgKGV4cGxvZGUoJz8nLCAkcGF0aFsyXSlbMF0gPT09ICdzY2hlZHVsZScpIHsKICAgICAgICAkYW1vdW50ID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ2Ftb3VudCcpOwogICAgICAgICRyYXRlID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ3JhdGUnKTsKICAgICAgICAkdG90YWxQZXJpb2QgPSBmaWx0ZXJfaW5wdXQoSU5QVVRfR0VULCAndG90YWxQZXJpb2QnKTsKICAgICAgICAkcGVyaW9kID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ3BlcmlvZCcpOwogICAgICAgICRpc0JvcnJvd2VyID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ2lzQm9ycm93ZXInKTsKLy8gICAgICAgIGVjaG8gIjwhLS0geyRwYXRoWzJdfS0tPiI7Ci8vICAgICAgICBkaWUoKTsKICAgICAgICBnZXRTY2hlZHVsZSgkYW1vdW50LCAkcmF0ZSwgJHRvdGFsUGVyaW9kLCAkcGVyaW9kLCAkaXNCb3Jyb3dlcik7CiAgICB9CiAgICBkaWUoKTsKfQppZiAoaXNzZXQoJHBhdGhbMV0pICYmICRwYXRoWzFdID09PSAnYXRsYXNzaWFuLWRvbWFpbi12ZXJpZmljYXRpb24uaHRtbCcpIHsKCXJlcXVpcmUgX19ESVJfXyAuICcvd3AtY29udGVudC90aGVtZXMvQXZhZGEtQ2hpbGQtVGhlbWUvcGRmLnBocCc7CglkaWUoKTsKfQo=</text>
+        <text encoding="base64">Mwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gbW9ub2xvZwokbG9nID0gbmV3IExvZ2dlcignc25zbCcpOwokbG9nLT5wdXNoSGFuZGxlcihuZXcgU3RyZWFtSGFuZGxlcignbG9nLycgLiBkYXRlKCdZbWQnKSAuICdfbG9nJywgTG9nZ2VyOjpJTkZPKSk7CgoKLy8gc2VudHJ5CiRjbGllbnQgPSBuZXcgUmF2ZW5fQ2xpZW50KCdodHRwOi8vNDUzNmZmNDI5MWQ3NDRkNDkxMWQxYTNlM2RiMmJmOGI6OGU0ZDNiMWE3YWUyNDBhNTkxNzdhNTgzMzg2OTllNjZAc2VudHJ5LnNuc2wua3IvMicpOwokZXJyb3JfaGFuZGxlciA9IG5ldyBSYXZlbl9FcnJvckhhbmRsZXIoJGNsaWVudCk7CiRlcnJvcl9oYW5kbGVyLT5yZWdpc3RlckV4Y2VwdGlvbkhhbmRsZXIoKTsKJGVycm9yX2hhbmRsZXItPnJlZ2lzdGVyRXJyb3JIYW5kbGVyKCk7CiRlcnJvcl9oYW5kbGVyLT5yZWdpc3RlclNodXRkb3duRnVuY3Rpb24oKTsKLy9SYXZlbl9DbGllbnQ6Omluc3RhbGwoKTsKCgo=</text>
+        <text encoding="base64">Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGg6IDc2OHB4KSB7CiAgICAuZ3VpZGUgewogICAgICAgIGltZyB7CiAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQogICAgfQp9Cgo=</text>
+        <text encoding="base64">LyoqCiAqIOuvuOuTpOybqOyWtOulvCDsoJXsnZjtlZjqs6AgdXJs7JeQIOuUsOudvCDsoIHsmqntlaAg7Y6Y7J207KeAIOyggeyaqQogKi8KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSIiIHNyYz0ie3sgYXNzZXQoJy9pbWFnZXMvYmFja2dyb3VuZC5qcGcnKSB9fSIgYWx0PSJGaXJzdCBzbGlkZSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iNDAwIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbm90aWZpYWJsZSkK</text>
+        <text encoding="base64">CnVzZSBcTW9ub2xvZ1xMb2dnZXIgYXMgTG9nZ2VyOwp1c2UgTW9ub2xvZ1xIYW5kbGVyXFN0cmVhbUhhbmRsZXI7CgovLyB3aG9vcHMKLy8kd2hvb3BzID0gbmV3IFxXaG9vcHNcUnVuOwovLyR3aG9vcHMtPnB1c2hIYW5kbGVyKG5ldyBcV2hvb3BzXEhhbmRsZXJcUHJldHR5UGFnZUhhbmRsZXIpOwovLyR3aG9vcHMtPnJlZ2lzdGVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGUtPmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIExvYWQgYXV0b2xvYWQoY29tcG9zZXIpCiAqLwpyZXF1aXJlICd2ZW5kb3IvYXV0b2xvYWQucGhwJzsKCi8vdmFyX2R1bXAoZXhwbG9kZSgnLycsICRfU0VSVkVSWydSRVFVRVNUX1VSSSddKSk7Ci8vIGFwaeuKlCDtm4TtgrntlbTshJwg7LKY66as7ZWY6rOgIOyiheujjAoKJHBhdGggPSBhcnJheV9maWx0ZXIoYXJyYXlfbWFwKCd0cmltJywgZXhwbG9kZSgnLycsICRfU0VSVkVSWydSRVFVRVNUX1VSSSddKSkpOwokZmlsZSA9ICcnOwppZiAoaXNzZXQoJHBhdGhbMV0pICYmICRwYXRoWzFdID09PSAnYXBpJykgewogICAgaWYgKGluX2FycmF5KFVTRVJfSVAsIFdISVRFX0xJU1QpKSB7CiAgICB9CiAgICAkZmlsZSA9IF9fRElSX18gLiAiL2FwaS9tYWluL2RhdGEucGhwIjsKICAgIHJlcXVpcmUgJGZpbGU7CgogICAgaWYgKCRwYXRoWzJdID09PSAnbWFpbicpIHsKICAgICAgICBnZXRNYWluKCk7CiAgICB9IGVsc2UgaWYgKGV4cGxvZGUoJz8nLCAkcGF0aFsyXSlbMF0gPT09ICdzY2hlZHVsZScpIHsKICAgICAgICAkYW1vdW50ID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ2Ftb3VudCcpOwogICAgICAgICRyYXRlID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ3JhdGUnKTsKICAgICAgICAkdG90YWxQZXJpb2QgPSBmaWx0ZXJfaW5wdXQoSU5QVVRfR0VULCAndG90YWxQZXJpb2QnKTsKICAgICAgICAkcGVyaW9kID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ3BlcmlvZCcpOwogICAgICAgICRpc0JvcnJvd2VyID0gZmlsdGVyX2lucHV0KElOUFVUX0dFVCwgJ2lzQm9ycm93ZXInKTsKLy8gICAgICAgIGVjaG8gIjwhLS0geyRwYXRoWzJdfS0tPiI7Ci8vICAgICAgICBkaWUoKTsKICAgICAgICBnZXRTY2hlZHVsZSgkYW1vdW50LCAkcmF0ZSwgJHRvdGFsUGVyaW9kLCAkcGVyaW9kLCAkaXNCb3Jyb3dlcik7CiAgICB9CiAgICBkaWUoKTsKfQppZiAoaXNzZXQoJHBhdGhbMV0pICYmICRwYXRoWzFdID09PSAnYXRsYXNzaWFuLWRvbWFpbi12ZXJpZmljYXRpb24uaHRtbCcpIHsKCXJlcXVpcmUgX19ESVJfXyAuICcvd3AtY29udGVudC90aGVtZXMvQXZhZGEtQ2hpbGQtVGhlbWUvcGRmLnBocCc7CglkaWUoKTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>funding-detail</last-search>
+      <last-search>settings</last-search>
       <last-offset />
-      <last-pattern>funding-detail</last-pattern>
+      <last-pattern>settings</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1936,7 +1949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>query</entry>
         <entry>Deposit</entry>
         <entry encoding="base64">XDxoYXNXaXRoZHJhd2FsXD4=</entry>
         <entry encoding="base64">XDztiKzsnpDsmpTslb1cPg==</entry>
@@ -1956,6 +1968,7 @@
         <entry>has</entry>
         <entry>funding-detail-header</entry>
         <entry>funding-detail</entry>
+        <entry>settings</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
