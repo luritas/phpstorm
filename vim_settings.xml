@@ -305,18 +305,19 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" timestamp="1518013191989">
-        <mark key="'" line="53" column="35" />
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="20" />
-        <mark key="." line="54" column="20" />
-        <mark key="^" line="54" column="20" />
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" timestamp="1518092115939">
+        <mark key="'" line="52" column="35" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="53" column="20" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1518016485977">
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="679" column="0" />
-        <mark key="]" line="679" column="0" />
-        <mark key="." line="679" column="0" />
+      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1518092473916">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="609" column="0" />
+        <mark key="]" line="609" column="0" />
+        <mark key="." line="609" column="0" />
+        <mark key="^" line="611" column="63" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509284493007">
         <mark key="'" line="33" column="35" />
@@ -466,7 +467,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518089061628">
+      <file name="/Dummy.txt" timestamp="1518092113265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -695,12 +696,13 @@
         <mark key="." line="74" column="46" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" timestamp="1518016409507">
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" timestamp="1518091833348">
         <mark key="v" line="89" column="18" />
         <mark key="'" line="171" column="31" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="159" column="57" />
+        <mark key="]" line="159" column="57" />
+        <mark key="." line="159" column="57" />
+        <mark key="^" line="159" column="57" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Notifications/Message.php" timestamp="1517841793794">
         <mark key="'" line="24" column="26" />
@@ -820,12 +822,12 @@
         <mark key="." line="46" column="26" />
         <mark key="^" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Model/InvestorInterface.php" timestamp="1517731729192">
+      <file name="$USER_HOME$/developements/snsl/app/Model/InvestorInterface.php" timestamp="1518091823470">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="38" />
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="19" column="54" />
         <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
+        <mark key="." line="19" column="54" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/class/students.blade.php" timestamp="1509277837133">
         <mark key="'" line="8" column="23" />
@@ -1083,24 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="12" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
-      <jump line="489" column="12" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
-      <jump line="495" column="8" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
-      <jump line="62" column="50" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="65" column="12" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="99" column="4" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="112" column="0" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="40" column="40" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="107" column="43" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
-      <jump line="17" column="10" filename="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" />
-      <jump line="868" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
-      <jump line="66" column="0" filename="$USER_HOME$/developements/snsl/app/User.php" />
-      <jump line="539" column="4" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
-      <jump line="554" column="4" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
-      <jump line="227" column="6" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
-      <jump line="929" column="18" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
-      <jump line="534" column="15" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
-      <jump line="541" column="21" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="583" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="537" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="588" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
@@ -1183,6 +1167,24 @@
       <jump line="332" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
       <jump line="514" column="22" filename="$USER_HOME$/developements/snsl/app/Model/Bond.php" />
       <jump line="10" column="2" filename="$USER_HOME$/developements/snsl/public/index.php" />
+      <jump line="609" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="894" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="893" column="26" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="798" column="34" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="888" column="23" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="930" column="49" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="571" column="23" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="577" column="35" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="70" column="46" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="585" column="33" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="598" column="33" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="625" column="29" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="118" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="139" column="23" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="141" column="22" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="15" column="13" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="16" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1204,7 +1206,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0V2l0aGRyYXdhbCgpKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1219,52 +1221,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>get현주투자비율백분률</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
-        <text>get모금중여부</text>
+        <text>예치금출금신청</text>
       </register>
       <register name="0" type="4">
-        <text>get현재투자비율백분률</text>
+        <text>main()[$apiName]['url']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0V2l0aGRyYXdhbCgpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2Vzc2lvbigpLT5wdXQoJycpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">e3sgZGQoJGJvbmRzKSB9fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">e3sgZGQoJGJvbmRzKSB9fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">e3sgZGQoJGJvbmRzKSB9fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAkYm9uZC0+cGFnaW5hdGlvbigpIH19Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZChtYWluKClbJGFwaU5hbWVdWyd1cmwnXS4gJz8nIC4gaHR0cF9idWlsZF9xdWVyeSgkcGFyYW0pKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXTsmIjsuZjquIjstpzquIjsi6Dssq0oKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+7JiI7LmY6riI7Lac6riI7Iug7LKtOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgJOyYiOy5mOq4iOy2nOq4iOyLoOyyrTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cGhwaW5mbygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW52ZXN0bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDsmIjsuZjquIgg6rSA66CoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get모금중여부</last-search>
+      <last-search>예치금출금신청</last-search>
       <last-offset />
-      <last-pattern>get모금중여부</last-pattern>
+      <last-pattern>예치금출금신청</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1272,14 +1274,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
-        <entry>has</entry>
-        <entry>funding-detail-header</entry>
-        <entry>funding-detail</entry>
-        <entry>settings</entry>
-        <entry>profile</entry>
-        <entry>dash</entry>
-        <entry>rasising</entry>
         <entry>with</entry>
         <entry>list</entry>
         <entry>finish</entry>
@@ -1292,6 +1286,14 @@
         <entry encoding="base64">XDxib25kSW52ZXN0bWVudExpc3RcPg==</entry>
         <entry>get모금</entry>
         <entry>get모금중여부</entry>
+        <entry encoding="base64">XDxiYWxhbmNlX3JlcXVlc3RcPg==</entry>
+        <entry encoding="base64">XDxiYWxhbmNlX3VzZXJcPg==</entry>
+        <entry encoding="base64">XDxdXD4=</entry>
+        <entry>withdra</entry>
+        <entry>Deposit</entry>
+        <entry>예치금출금요청</entry>
+        <entry>withDrawal</entry>
+        <entry>예치금출금신청</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
