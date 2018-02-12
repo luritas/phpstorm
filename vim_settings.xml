@@ -440,11 +440,11 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1518348757033">
+      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1518447482366">
         <mark key="'" line="69" column="48" />
-        <mark key="[" line="26" column="107" />
-        <mark key="]" line="26" column="107" />
-        <mark key="." line="26" column="107" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="55" />
+        <mark key="." line="67" column="28" />
         <mark key="^" line="26" column="107" />
       </file>
       <file name="$USER_HOME$/developements/snsl/storage/app/api.json" timestamp="1517720025727" />
@@ -2011,8 +2011,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXJcTGFyYXZlbFxQcm92aWRlclxNb25vbG9nTXlzcWxIYW5kbGVyU2VydmljZVByb3ZpZGVyOjpjbGFzcywK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHN0eWxlPSJtYXJnaW4tdG9wOiAtNTBweDsi</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2027,7 +2027,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>asset('images/main/Logosystem/Tagline signature.png')</text>
+        <text encoding="base64">IHN0eWxlPSJtYXJnaW4tdG9wOiAtNTBweDsi</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
