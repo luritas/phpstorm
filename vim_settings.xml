@@ -453,6 +453,7 @@
         <mark key="." line="134" column="13" />
         <mark key="^" line="128" column="23" />
       </file>
+      <file name="$USER_HOME$/developements/math/app/Console/Commands/PointsCalculator.php" timestamp="1519053296366" />
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/public/js/jquery.js" timestamp="1514003973878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11025" column="3" />
@@ -839,9 +840,6 @@
         <mark key="^" line="460" column="36" />
         <mark key="." line="459" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1d3058b1-1b93-48d2-a342-fb21c4bac50f/console_1.sql" timestamp="1514690027384">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1505037896703">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="128" column="19" />
@@ -1058,6 +1056,9 @@
         <mark key="]" line="526" column="13" />
         <mark key="^" line="526" column="13" />
         <mark key="." line="526" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1d3058b1-1b93-48d2-a342-fb21c4bac50f/console_1.sql" timestamp="1514690027384">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/routes/web.php" timestamp="1511555011766">
         <mark key="[" line="14" column="36" />
@@ -2077,6 +2078,7 @@
     </search>
     <history>
       <history-search>
+        <entry>seo</entry>
         <entry>provi</entry>
         <entry>SEO</entry>
         <entry>my</entry>
@@ -2096,7 +2098,6 @@
         <entry>loan-desc</entry>
         <entry>footer</entry>
         <entry>close</entry>
-        <entry>invest</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
