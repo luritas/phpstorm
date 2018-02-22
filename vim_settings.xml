@@ -550,6 +550,12 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
+      <file name="$USER_HOME$/developements/genie/index.html" timestamp="1519282962104">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/developements/snsl-v2/.env" timestamp="1516277978399">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="1" column="13" />
@@ -1656,6 +1662,9 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
+      <file name="/JavaScript Console" timestamp="1519282977688">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505246093292">
         <mark key="'" line="480" column="0" />
         <mark key="[" line="477" column="34" />
@@ -1994,7 +2003,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Title</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2009,7 +2018,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Title</text>
       </register>
       <register name="/" type="4">
         <text>soft</text>
