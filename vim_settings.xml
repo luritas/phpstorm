@@ -550,11 +550,11 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/developements/genie/index.html" timestamp="1519282962104">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/developements/genie/index.html" timestamp="1519283240594">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/developements/snsl-v2/.env" timestamp="1516277978399">
         <mark key="'" line="10" column="16" />
@@ -1662,7 +1662,7 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519282977688">
+      <file name="/JavaScript Console" timestamp="1519283065542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505246093292">
@@ -2002,8 +2002,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2024,37 +2024,37 @@
         <text>soft</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZShmdW5jdGlvbiAoJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAkdXNlcl9pZCA9IFVzZXI6OndoZXJlKCdlbWFpbCcsIGVudignQURNSU4nKSktPnZhbHVlKCdpZCcpOwogICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndXNlcl9pZCcsICchPScsICR1c2VyX2lkKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRvdGFsID0gVHJhbnNhY3Rpb246OndpdGgoJ3VzZXInKQogICAgICAgICAgICAgICAgLT53aGVyZSgndXNlcl9pZCcsICR0cmFuc2FjdGlvbi0+dXNlci0+aWQpCiAgICAgICAgICAgICAgICAtPndoZXJlKCdhbW91bnQnLCAnPicsIDApCiAgICAgICAgICAgICAgICAtPnN1bSgnYW1vdW50Jyk7CgoK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoZnVuY3Rpb24gKCRxdWVyeSkgdXNlICgkdHJhbnNhY3Rpb24pIHsK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdXNlcl9pZCA9IFVzZXI6OndoZXJlKCdlbWFpbCcsIGVudignQURNSU4nKSktPnZhbHVlKCdpZCcpOwo=</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcXVlcnktPndoZXJlKCd1c2VyX2lkJywgJz0nLCkK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3VzZXJfaWQnKQo=</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2VsZWN0KCkK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhbnNhY3Rpb25zKTsK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwb2ludHMnICAgPT4gJHBvaW50cywK</text>
+        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
