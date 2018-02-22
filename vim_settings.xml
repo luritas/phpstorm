@@ -293,12 +293,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="121" column="69" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1518450226050">
-        <mark key="'" line="708" column="9" />
-        <mark key="[" line="711" column="17" />
-        <mark key="]" line="711" column="28" />
-        <mark key="." line="711" column="28" />
-        <mark key="^" line="711" column="28" />
+      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1519300317450">
+        <mark key="'" line="461" column="8" />
+        <mark key="[" line="554" column="9" />
+        <mark key="]" line="554" column="10" />
+        <mark key="." line="554" column="10" />
+        <mark key="^" line="554" column="10" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1505245831929">
         <mark key="'" line="48" column="0" />
@@ -357,12 +357,6 @@
         <mark key="]" line="9" column="6" />
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/config/app.php" timestamp="1518353717809">
-        <mark key="'" line="89" column="36" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/factories/ArticleFactory.php" timestamp="1511203383953">
         <mark key="[" line="4" column="30" />
@@ -434,12 +428,12 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1518450030292">
-        <mark key="'" line="205" column="9" />
-        <mark key="[" line="107" column="24" />
-        <mark key="]" line="107" column="37" />
-        <mark key="." line="107" column="37" />
-        <mark key="^" line="107" column="37" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1519299807521">
+        <mark key="'" line="207" column="0" />
+        <mark key="[" line="191" column="63" />
+        <mark key="]" line="191" column="63" />
+        <mark key="." line="191" column="63" />
+        <mark key="^" line="191" column="63" />
       </file>
       <file name="$USER_HOME$/developements/snsl/config/voyager.php" timestamp="1518344780025">
         <mark key="'" line="129" column="0" />
@@ -460,12 +454,6 @@
         <mark key="]" line="11025" column="3" />
         <mark key="^" line="11025" column="3" />
         <mark key="." line="11025" column="3" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" timestamp="1518958355152">
-        <mark key="'" line="201" column="24" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505244239236">
         <mark key="'" line="17" column="20" />
@@ -492,12 +480,6 @@
         <mark key="]" line="71" column="6" />
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" timestamp="1518349015616">
-        <mark key="'" line="36" column="23" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1514000981911">
         <mark key="[" line="135" column="87" />
@@ -789,12 +771,12 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding/list.blade.php" timestamp="1518347242738">
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding/list.blade.php" timestamp="1519300283055">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="49" column="72" />
-        <mark key="]" line="49" column="72" />
-        <mark key="." line="49" column="72" />
-        <mark key="^" line="49" column="72" />
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="40" />
+        <mark key="." line="62" column="40" />
+        <mark key="^" line="62" column="40" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/loan_form.blade.php" timestamp="1518337107667">
         <mark key="'" line="111" column="0" />
@@ -827,7 +809,7 @@
         <mark key="." line="97" column="43" />
         <mark key="^" line="97" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519232854409">
+      <file name="/Dummy.txt" timestamp="1519300328872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -1099,12 +1081,6 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/developements/snsl-v2/resources/views/home.blade.php" timestamp="1516278180623">
-        <mark key="'" line="81" column="25" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-      </file>
       <file name="$USER_HOME$/developements/math/resources/views/auth/login.blade.php" timestamp="1515308902197">
         <mark key="'" line="3" column="26" />
         <mark key="[" line="7" column="51" />
@@ -1151,6 +1127,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" timestamp="1519299739249">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="42" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/invitation.blade.php" timestamp="1508868165006">
         <mark key="'" line="63" column="88" />
@@ -1397,15 +1380,20 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/auth/register.blade.php" timestamp="1518010183321">
-        <mark key="'" line="9" column="18" />
-        <mark key="[" line="63" column="95" />
-        <mark key="]" line="63" column="95" />
-        <mark key="." line="63" column="95" />
-        <mark key="^" line="63" column="99" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/auth/register.blade.php" timestamp="1519299990314">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="59" column="82" />
+        <mark key="]" line="59" column="96" />
+        <mark key="." line="59" column="96" />
+        <mark key="^" line="59" column="96" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/helpers.php" timestamp="1512838014263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/aboutus.blade.php" timestamp="1519299464704">
+        <mark key="'" line="69" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/loan_complete.blade.php" timestamp="1514688421976">
         <mark key="[" line="16" column="61" />
@@ -1477,6 +1465,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="44" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" timestamp="1519299803145">
+        <mark key="'" line="389" column="0" />
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1514009253665">
         <mark key="'" line="46" column="6" />
@@ -1561,19 +1556,19 @@
         <mark key="." line="13" column="55" />
         <mark key="^" line="13" column="55" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1518448631296">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="219" column="48" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1519299179368">
+        <mark key="'" line="493" column="32" />
+        <mark key="[" line="218" column="56" />
+        <mark key="]" line="218" column="81" />
+        <mark key="." line="218" column="81" />
+        <mark key="^" line="218" column="81" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1518450096870">
-        <mark key="'" line="151" column="49" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="136" column="49" />
-        <mark key="." line="190" column="0" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1519299866104">
+        <mark key="'" line="172" column="27" />
+        <mark key="[" line="185" column="37" />
+        <mark key="]" line="185" column="59" />
+        <mark key="^" line="185" column="59" />
+        <mark key="." line="185" column="59" />
       </file>
       <file name="$USER_HOME$/developements/snsl-v2/resources/views/funding/list.blade.php" timestamp="1516277562026">
         <mark key="[" line="76" column="12" />
@@ -1594,12 +1589,6 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/app/User.php" timestamp="1518345441423">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="42" column="9" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/developements/math/resources/assets/js/bootstrap.js" timestamp="1514180946326">
         <mark key="[" line="13" column="23" />
@@ -1633,12 +1622,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1518353007266">
+      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1519299845346">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="201" column="25" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
-        <mark key="^" line="202" column="0" />
+        <mark key="[" line="204" column="44" />
+        <mark key="]" line="204" column="58" />
+        <mark key="." line="204" column="58" />
+        <mark key="^" line="204" column="58" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/test_funding-detail.php" timestamp="1512564297400">
         <mark key="'" line="507" column="6" />
@@ -1882,74 +1871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="48" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
-      <jump line="10" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" />
-      <jump line="49" column="27" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" />
-      <jump line="40" column="62" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" />
-      <jump line="36" column="23" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" />
-      <jump line="18" column="23" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="62" column="17" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="67" column="25" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="33" column="14" filename="$USER_HOME$/developements/snsl/composer.json" />
-      <jump line="11" column="19" filename="$USER_HOME$/developements/snsl/composer.json" />
-      <jump line="14" column="0" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="55" column="0" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="13" column="25" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/developements/snsl/config/app.php" />
-      <jump line="84" column="32" filename="$USER_HOME$/developements/snsl/config/app.php" />
-      <jump line="89" column="36" filename="$USER_HOME$/developements/snsl/config/app.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/developements/snsl/vendor/artesaos/seotools/composer.json" />
-      <jump line="2" column="18" filename="$USER_HOME$/developements/snsl/vendor/artesaos/seotools/composer.json" />
-      <jump line="24" column="35" filename="$USER_HOME$/developements/snsl/vendor/artesaos/seotools/composer.json" />
-      <jump line="29" column="17" filename="$USER_HOME$/developements/snsl/vendor/artesaos/seotools/composer.json" />
-      <jump line="59" column="0" filename="$USER_HOME$/developements/snsl/bootstrap/app.php" />
-      <jump line="97" column="0" filename="$USER_HOME$/developements/snsl/composer.json" />
-      <jump line="19" column="28" filename="$USER_HOME$/developements/snsl/composer.json" />
-      <jump line="198" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="31" column="1" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="8" column="26" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="54" column="31" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="36" column="15" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="37" column="43" filename="$USER_HOME$/developements/snsl/config/seotools.php" />
-      <jump line="74" column="38" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
-      <jump line="398" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="0" column="7" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="60" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
-      <jump line="310" column="2" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="541" column="10" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="540" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="64" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="1" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="313" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="314" column="15" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="614" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="911" column="17" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="95" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="240" column="2" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="236" column="10" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="133" column="44" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
-      <jump line="28" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="1005" column="6" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="1020" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="229" column="16" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="575" column="27" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="723" column="13" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="583" column="26" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="584" column="29" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="590" column="30" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="598" column="29" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="718" column="8" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="740" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="742" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="773" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="361" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="368" column="5" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="395" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="402" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="406" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="415" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="437" column="4" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="611" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="1006" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="205" column="9" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
@@ -1982,6 +1903,74 @@
       <jump line="24" column="6" filename="$USER_HOME$/developements/math/app/Transaction.php" />
       <jump line="38" column="0" filename="$USER_HOME$/developements/math/app/User.php" />
       <jump line="99" column="35" filename="$USER_HOME$/developements/math/app/Http/Controllers/HomeController.php" />
+      <jump line="1010" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="413" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="472" column="13" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="584" column="23" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="19" column="22" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="268" column="35" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="272" column="45" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="474" column="12" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="57" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="457" column="7" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="498" column="15" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="556" column="15" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="574" column="16" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="639" column="15" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="658" column="17" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="709" column="11" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="746" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="793" column="11" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="814" column="10" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="368" column="13" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="774" column="7" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="741" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="743" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="780" column="20" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="808" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="382" column="53" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="488" column="32" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="1005" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="1007" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="1015" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="19" column="13" filename="$USER_HOME$/developements/snsl/resources/views/aboutus.blade.php" />
+      <jump line="377" column="14" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="230" column="33" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="378" column="27" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="493" column="32" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="1029" column="2" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="64" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="65" column="21" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="320" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="69" column="25" filename="$USER_HOME$/developements/snsl/resources/views/aboutus.blade.php" />
+      <jump line="385" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" />
+      <jump line="121" column="5" filename="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" />
+      <jump line="139" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" />
+      <jump line="138" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" />
+      <jump line="376" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" />
+      <jump line="389" column="0" filename="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" />
+      <jump line="207" column="0" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
+      <jump line="172" column="27" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/developements/snsl/resources/views/auth/register.blade.php" />
+      <jump line="323" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="355" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="367" column="5" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="394" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="401" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="405" column="3" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="414" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="428" column="5" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="495" column="5" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="496" column="9" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="514" column="5" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="515" column="9" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="559" column="13" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="8" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
+      <jump line="461" column="8" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2002,8 +1991,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2018,52 +2007,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>soft</text>
+        <text>text-over</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciIgc3R5bGU9Im1hcmdpbi10b3A6IDEwMHB4OyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPmhpaGloPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAKICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
       </register>
     </registers>
     <search>
-      <last-search>soft</last-search>
+      <last-search>text-over</last-search>
       <last-offset />
-      <last-pattern>soft</last-pattern>
+      <last-pattern>text-over</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -2071,26 +2060,26 @@
     </search>
     <history>
       <history-search>
-        <entry>my</entry>
-        <entry>mono</entry>
-        <entry>mysql</entry>
-        <entry>url</entry>
-        <entry>page</entry>
-        <entry>daebu</entry>
-        <entry>statistics</entry>
-        <entry>320</entry>
-        <entry>480</entry>
-        <entry>479</entry>
-        <entry encoding="base64">ICAgIGZvbnQtc2l6ZTogMnJlbTsg</entry>
-        <entry encoding="base64">Zm9udC1zaXplOiAycmVtOyA=</entry>
-        <entry>2rem</entry>
-        <entry>funding</entry>
-        <entry>loan-desc</entry>
-        <entry>footer</entry>
-        <entry>close</entry>
-        <entry>clear</entry>
-        <entry encoding="base64">XDxjcmVhdGVkX2F0XD4=</entry>
         <entry>soft</entry>
+        <entry>25%</entry>
+        <entry>마감</entry>
+        <entry>상품 스케</entry>
+        <entry>title</entry>
+        <entry>summary</entry>
+        <entry>funding-detail</entry>
+        <entry>funding-detail-header</entry>
+        <entry>.investment-right</entry>
+        <entry>investment</entry>
+        <entry>funding-de</entry>
+        <entry encoding="base64">XDxpbnZlc3RtZW50XD4=</entry>
+        <entry>sboo</entry>
+        <entry>footer</entry>
+        <entry>이용약관</entry>
+        <entry>funding</entry>
+        <entry>elip</entry>
+        <entry>eli</entry>
+        <entry>single</entry>
+        <entry>text-over</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
