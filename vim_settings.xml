@@ -409,12 +409,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Traits/Azure.php" timestamp="1518349126356">
+      <file name="$USER_HOME$/developements/snsl/app/Traits/Azure.php" timestamp="1519895574748">
         <mark key="'" line="68" column="25" />
-        <mark key="[" line="32" column="54" />
-        <mark key="]" line="32" column="54" />
-        <mark key="." line="32" column="54" />
-        <mark key="^" line="32" column="54" />
+        <mark key="[" line="33" column="78" />
+        <mark key="]" line="33" column="78" />
+        <mark key="." line="33" column="78" />
+        <mark key="^" line="33" column="78" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1512567362393">
         <mark key="'" line="51" column="134" />
@@ -501,11 +501,11 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" timestamp="1518349015616">
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/HomeController.php" timestamp="1519896110497">
         <mark key="'" line="36" column="23" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1514000981911">
         <mark key="[" line="135" column="87" />
@@ -1587,12 +1587,12 @@
         <mark key="." line="218" column="81" />
         <mark key="^" line="218" column="81" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1519876175738">
+      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1519894835862">
         <mark key="'" line="203" column="15" />
         <mark key="[" line="29" column="120" />
-        <mark key="]" line="29" column="120" />
-        <mark key="." line="29" column="120" />
-        <mark key="^" line="29" column="120" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="9" />
       </file>
       <file name="$USER_HOME$/developements/snsl-v2/resources/views/funding/list.blade.php" timestamp="1516277562026">
         <mark key="[" line="76" column="12" />
@@ -2015,8 +2015,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>absolute</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2031,7 +2031,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>['psform']</text>
       </register>
       <register name="/" type="4">
         <text>laravel-mix</text>
@@ -2040,34 +2040,34 @@
         <text encoding="base64">ICAgICAgICAnanF1ZXJ5JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWFpbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBbGVydCBib2R5IC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQXBwOjplbnZpcm9ubWVudCgpICE9PSAncHJvZHVjdGlvbicpIHsKICAgICAgICAgICAgTG9nOjpkZWJ1ZyhBcHA6OmVudmlyb25tZW50KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3VtbWFyeSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L2J1dHRvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgIH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZWNobyBBcHA6OmVudmlyb25tZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICBBbGVydCBib2R5IC4uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyBhcHAoKS0+ZW52aXJvbm1lbnQoKTsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQXBwOjplbnZpcm9ubWVudCgpICE9PSAncHJvZHVjdGlvbicpIHsKICAgICAgICAgICAgTG9nOjpkZWJ1ZyhBcHA6OmVudmlyb25tZW50KCkpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZWNobyBhcHAoKS0+ZW52aXJvbm1lbnQoKTsKZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
