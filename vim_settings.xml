@@ -54,12 +54,11 @@
         <mark key="." line="131" column="29" />
         <mark key="^" line="131" column="29" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1517849075663">
+      <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1519896828876">
         <mark key="'" line="15" column="16" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1515499353447">
         <mark key="'" line="28" column="20" />
@@ -2016,7 +2015,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2031,7 +2030,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>['psform']</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>laravel-mix</text>
@@ -2040,34 +2039,34 @@
         <text encoding="base64">ICAgICAgICAnanF1ZXJ5JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWFpbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkYXBpRmlsZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3VtbWFyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWFpbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY29udGVudHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc3VtbWFyeSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBbGVydCBib2R5IC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJjbG9zZSIgZGF0YS1kaXNtaXNzPSJhbGVydCIgYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L2J1dHRvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQXBwOjplbnZpcm9ubWVudCgpICE9PSAncHJvZHVjdGlvbicpIHsKICAgICAgICAgICAgTG9nOjpkZWJ1ZyhBcHA6OmVudmlyb25tZW50KCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIH19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICBBbGVydCBib2R5IC4uLgo=</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
