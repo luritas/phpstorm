@@ -3,20 +3,63 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/layouts/app.blade.php" timestamp="1511286915409">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="75" column="108" />
+        <mark key="]" line="76" column="49" />
+        <mark key="." line="76" column="49" />
+        <mark key="^" line="76" column="49" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1512924210150">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="623" column="2" />
+        <mark key="." line="385" column="55" />
+        <mark key="^" line="384" column="78" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/partials/settings_deposit.blade.php" timestamp="1518015541791">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="35" column="43" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/.gitignore" timestamp="1510335630603">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Listeners/ArticlesEventListener.php" timestamp="1511459040810">
+        <mark key="'" line="25" column="6" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="14" />
+        <mark key="." line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/.env" timestamp="1512906088368">
+        <mark key="'" line="25" column="23" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
       <file name="/a.dummy" timestamp="1515322288580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/articles/show.blade.php" timestamp="1520070869152">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1512761433359">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="31" />
+        <mark key="." line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/articles/show.blade.php" timestamp="1520087570803">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="27" column="58" />
+        <mark key="]" line="27" column="69" />
+        <mark key="^" line="27" column="69" />
+        <mark key="." line="27" column="69" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1520059441930">
         <mark key="'" line="15" column="16" />
@@ -25,11 +68,32 @@
         <mark key="." line="83" column="39" />
         <mark key="^" line="8" column="43" />
       </file>
+      <file name="$USER_HOME$/developements/math/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1515499353447">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="51" column="4" />
+        <mark key="^" line="83" column="48" />
+        <mark key="." line="83" column="48" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Listeners/UserEventListener.php" timestamp="1511460140363">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="31" column="35" />
         <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/bootstrap/app.php" timestamp="1518352882484">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/config/app.php" timestamp="1511609903907">
+        <mark key="'" line="93" column="27" />
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="27" />
+        <mark key="." line="93" column="27" />
+        <mark key="^" line="93" column="27" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_22_165024_create_class_rooms_table.php" timestamp="1509160699840">
         <mark key="[" line="23" column="20" />
@@ -43,11 +107,25 @@
         <mark key="." line="19" column="71" />
         <mark key="^" line="19" column="70" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/Envoyf2182b02a7ce6eac4c4714c7629fb6ab.php" timestamp="1519903769870">
+        <mark key="'" line="54" column="9" />
+        <mark key="[" line="54" column="19" />
+        <mark key="]" line="54" column="19" />
+        <mark key="^" line="54" column="19" />
+        <mark key="." line="54" column="19" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/resources/lang/vendor/laravel-user-verification/ko/user-verification.php" timestamp="1520067272753">
         <mark key="[" line="15" column="41" />
         <mark key="]" line="15" column="44" />
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/Envoyc9ddbe9a8fa295436ad077e67dbe97f5.php" timestamp="1519903671255">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="51" column="20" />
+        <mark key="]" line="51" column="20" />
+        <mark key="^" line="51" column="20" />
+        <mark key="." line="51" column="20" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointFactory.php" timestamp="1509279890213">
         <mark key="[" line="17" column="16" />
@@ -73,11 +151,32 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="16" column="51" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/api/index.php" timestamp="1504422080123">
+        <mark key="'" line="47" column="14" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="46" column="8" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/Auth/RegisterController.php" timestamp="1508443782771">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="43" />
         <mark key="." line="83" column="12" />
         <mark key="^" line="76" column="20" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/User.php" timestamp="1519232639225">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/schedule.blade.php" timestamp="1519839351037">
+        <mark key="'" line="16" column="43" />
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175141_create_posts_table.php" timestamp="1511200353511">
         <mark key="[" line="16" column="37" />
@@ -85,11 +184,25 @@
         <mark key="^" line="18" column="32" />
         <mark key="." line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/wordpress/wp-config.php" timestamp="1518089899640">
+        <mark key="'" line="91" column="41" />
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="37" />
+        <mark key="^" line="31" column="37" />
+        <mark key="." line="31" column="37" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1509127386582">
         <mark key="[" line="20" column="30" />
         <mark key="]" line="20" column="38" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="20" column="38" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Notifications/LoanApply.php" timestamp="1514713285936">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="22" column="7" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
       </file>
       <file name="$USER_HOME$/developements/math/resources/views/point/transaction.blade.php" timestamp="1514183349408">
         <mark key="[" line="4" column="40" />
@@ -103,17 +216,59 @@
         <mark key="^" line="25" column="33" />
         <mark key="." line="25" column="33" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1512511037552">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="61" column="55" />
+        <mark key="." line="61" column="55" />
+        <mark key="^" line="61" column="55" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/config/app.php" timestamp="1513449726322">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="21" />
+        <mark key="." line="67" column="21" />
+        <mark key="^" line="67" column="21" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Http/Controllers/Auth/LoginController.php" timestamp="1515499725874">
+        <mark key="'" line="89" column="4" />
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="67" column="53" />
+        <mark key="." line="67" column="53" />
+        <mark key="^" line="67" column="53" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/resources/views/articles/create.blade.php" timestamp="1511286410901">
+        <mark key="'" line="20" column="10" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/articles/edit.blade.php" timestamp="1520070802072">
         <mark key="[" line="18" column="58" />
         <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/PointController.php" timestamp="1509160177178">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="51" />
+        <mark key="." line="59" column="51" />
+        <mark key="^" line="59" column="51" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/deposit-withdraw.php" timestamp="1512513842199">
         <mark key="[" line="123" column="130" />
         <mark key="]" line="123" column="131" />
         <mark key="." line="123" column="131" />
         <mark key="^" line="123" column="134" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/User.php" timestamp="1512794061907">
+        <mark key="'" line="361" column="30" />
+        <mark key="[" line="250" column="59" />
+        <mark key="]" line="250" column="59" />
+        <mark key="." line="250" column="59" />
+        <mark key="^" line="250" column="59" />
       </file>
       <file name="$USER_HOME$/developements/snsl/.gitignore" timestamp="1520055415438">
         <mark key="[" line="7" column="17" />
@@ -127,8 +282,29 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashBoardTeacherController.php" timestamp="1514654091978">
+        <mark key="'" line="40" column="10" />
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="22" />
+        <mark key="." line="64" column="22" />
+        <mark key="^" line="64" column="22" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" timestamp="1520068177687">
         <mark key="'" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/loan_apply.blade.php" timestamp="1515081719835">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/developements/vue/ch4-2.html" timestamp="1517010715944">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/ArticlesTableSeeder.php" timestamp="1511203214760">
         <mark key="[" line="15" column="37" />
@@ -145,11 +321,53 @@
       <file name="$USER_HOME$/developements/snsl/app/Jobs/ProcessNotifications.php" timestamp="1514712864915">
         <mark key="[" line="32" column="5" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule.php" timestamp="1514008343243">
+        <mark key="'" line="112" column="12" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="121" column="69" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" timestamp="1519870961500">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="78" column="20" />
+        <mark key="]" line="78" column="20" />
+        <mark key="^" line="78" column="20" />
+        <mark key="." line="78" column="20" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Http/Kernel.php" timestamp="1520066891176">
+        <mark key="'" line="46" column="25" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+        <mark key="^" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1505245831929">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/app/Classes/Funding.php" timestamp="1512793808602">
+        <mark key="'" line="17" column="10" />
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/CheckTeacher.php" timestamp="1509127843415">
         <mark key="[" line="19" column="66" />
         <mark key="]" line="19" column="70" />
         <mark key="^" line="19" column="70" />
         <mark key="." line="19" column="70" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_detail.blade.php" timestamp="1514892672861">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="260" column="71" />
+        <mark key="]" line="260" column="72" />
+        <mark key="." line="260" column="72" />
+        <mark key="^" line="260" column="70" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/User.php" timestamp="1509284584999">
         <mark key="[" line="126" column="38" />
@@ -162,6 +380,13 @@
         <mark key="]" line="13" column="20" />
         <mark key="." line="13" column="20" />
         <mark key="^" line="12" column="23" />
+      </file>
+      <file name="$USER_HOME$/developements/math/config/services.php" timestamp="1515340238430">
+        <mark key="'" line="22" column="29" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="36" column="3" />
+        <mark key="^" line="36" column="3" />
+        <mark key="." line="36" column="3" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Console/Kernel.php" timestamp="1511621599570">
         <mark key="[" line="31" column="23" />
@@ -187,17 +412,52 @@
         <mark key="^" line="17" column="42" />
         <mark key="." line="17" column="42" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/config/app.php" timestamp="1508518167282">
+        <mark key="'" line="201" column="0" />
+        <mark key="[" line="187" column="74" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
+        <mark key="^" line="189" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/public/wordpress/wp-config.php" timestamp="1517843759869">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1519906066669">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="42" column="18" />
+        <mark key="]" line="42" column="94" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Tag.php" timestamp="1511202584283">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1512567362393">
+        <mark key="'" line="51" column="134" />
+        <mark key="[" line="44" column="78" />
+        <mark key="]" line="44" column="82" />
+        <mark key="." line="44" column="82" />
+        <mark key="^" line="44" column="82" />
+      </file>
       <file name="$USER_HOME$/developements/study/identify/resources/views/book/create.blade.php" timestamp="1511555259872">
         <mark key="[" line="5" column="48" />
         <mark key="]" line="5" column="49" />
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1514048068428">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="60" column="41" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1520074472954">
         <mark key="'" line="74" column="49" />
@@ -206,11 +466,39 @@
         <mark key="^" line="65" column="31" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/config/voyager.php" timestamp="1518344780025">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="134" column="13" />
+        <mark key="]" line="134" column="13" />
+        <mark key="." line="134" column="13" />
+        <mark key="^" line="128" column="23" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Console/Commands/PointsCalculator.php" timestamp="1519055000817">
+        <mark key="'" line="83" column="50" />
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="52" column="72" />
+        <mark key="." line="52" column="72" />
+        <mark key="^" line="52" column="72" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/public/js/jquery.js" timestamp="1514003973878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11025" column="3" />
         <mark key="^" line="11025" column="3" />
         <mark key="." line="11025" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" timestamp="1520057573767">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="47" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/app/Classes/User.php" timestamp="1505244239236">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="229" column="133" />
+        <mark key="]" line="229" column="133" />
+        <mark key="." line="229" column="133" />
+        <mark key="^" line="229" column="170" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_25_021400_create_invitations_table.php" timestamp="1509124270957">
         <mark key="[" line="22" column="74" />
@@ -236,6 +524,13 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/api/routes.php" timestamp="1505646959921">
+        <mark key="'" line="67" column="12" />
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="71" column="6" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/schedule-detail.php" timestamp="1514000981911">
         <mark key="[" line="135" column="87" />
         <mark key="]" line="135" column="87" />
@@ -248,11 +543,32 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1518324605140">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="887" column="16" />
+        <mark key="]" line="887" column="24" />
+        <mark key="." line="887" column="24" />
+        <mark key="^" line="887" column="24" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/ProductFactory.php" timestamp="1509132065353">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashboardStudentController.php" timestamp="1509284493007">
+        <mark key="'" line="33" column="35" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/package.json" timestamp="1519872333481">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="26" />
+        <mark key="." line="16" column="26" />
+        <mark key="^" line="26" column="32" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/partials/settings_virtual.blade.php" timestamp="1517732469948">
         <mark key="[" line="30" column="0" />
@@ -260,10 +576,10 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/articles/partial/article.blade.php" timestamp="1520074576256">
-        <mark key="[" line="9" column="78" />
-        <mark key="]" line="9" column="77" />
-        <mark key="." line="9" column="77" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/articles/partial/article.blade.php" timestamp="1520087582528">
+        <mark key="[" line="3" column="60" />
+        <mark key="]" line="3" column="60" />
+        <mark key="." line="3" column="60" />
         <mark key="^" line="9" column="77" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/DatabaseSeeder.php" timestamp="1511203287460">
@@ -278,8 +594,22 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="$USER_HOME$/developements/snsl-v2/.env" timestamp="1516277978399">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_181625_create_tags_table.php" timestamp="1511201833915">
         <mark key="[" line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/app/Http/Controllers/ContentController.php" timestamp="1513452100359">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Traits/LoginHook.php" timestamp="1520059608061">
         <mark key="'" line="21" column="15" />
@@ -288,11 +618,25 @@
         <mark key="^" line="62" column="18" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/math/routes/web.php" timestamp="1515499073107">
+        <mark key="'" line="41" column="20" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="38" column="3" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="48" column="48" />
+      </file>
       <file name="$USER_HOME$/developements/p2p/app/Company.php" timestamp="1513448840821">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="28" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Product.php" timestamp="1509279686597">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="5" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/resources/assets/sass/app.scss" timestamp="1511555445455">
         <mark key="[" line="11" column="0" />
@@ -324,6 +668,13 @@
         <mark key="." line="59" column="42" />
         <mark key="^" line="59" column="42" />
       </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/ArticlesController.php" timestamp="1512810589020">
+        <mark key="'" line="57" column="28" />
+        <mark key="[" line="71" column="5" />
+        <mark key="]" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="72" column="25" />
+      </file>
       <file name="$USER_HOME$/developements/p2p/resources/assets/sass/app.scss" timestamp="1513451605114">
         <mark key="[" line="8" column="55" />
       </file>
@@ -339,11 +690,53 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/app/Providers/RouteServiceProvider.php" timestamp="1508435686932">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="71" column="48" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Middleware/CheckUserType.php" timestamp="1509127764314">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/class.blade.php" timestamp="1509137856903">
+        <mark key="'" line="123" column="78" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="148" column="19" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/auth/register.blade.php" timestamp="1508441789783">
+        <mark key="'" line="253" column="44" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="26" column="58" />
+        <mark key="^" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+      </file>
+      <file name="$USER_HOME$/developements/vue/ch3.html" timestamp="1517008846789">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="6" />
+        <mark key="." line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/schedule.php" timestamp="1512762143446">
+        <mark key="'" line="22" column="23" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/StudentController.php" timestamp="1508867131116">
+        <mark key="'" line="30" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="27" column="10" />
+        <mark key="." line="23" column="51" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/point/create.blade.php" timestamp="1514181368382">
         <mark key="[" line="4" column="26" />
@@ -362,6 +755,20 @@
         <mark key="]" line="22" column="28" />
         <mark key="." line="22" column="20" />
         <mark key="^" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/migrations/2016_01_01_000000_create_pages_table.php" timestamp="1513500657285">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/app/Classes/User.php" timestamp="1519050872802">
+        <mark key="'" line="451" column="31" />
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="264" column="20" />
+        <mark key="." line="264" column="20" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/articles/index.blade.php" timestamp="1520074548795">
         <mark key="[" line="53" column="0" />
@@ -392,17 +799,45 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/app/Loan.php" timestamp="1515315054324">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="32" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/app/Post.php" timestamp="1518345452488">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/User.php" timestamp="1511460009789">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="22" column="5" />
+        <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/.env" timestamp="1511609876523">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="37" column="95" />
+        <mark key="^" line="37" column="95" />
+        <mark key="." line="37" column="95" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/app/Http/Controllers/DocsController.php" timestamp="1512909570005">
         <mark key="[" line="49" column="48" />
         <mark key="]" line="38" column="32" />
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding/list.blade.php" timestamp="1519839024110">
+        <mark key="'" line="40" column="19" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="85" column="27" />
+        <mark key="." line="85" column="27" />
+        <mark key="^" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PostFactory.php" timestamp="1508514679730">
         <mark key="[" line="10" column="9" />
@@ -431,12 +866,33 @@
       <file name="/Dummy.txt" timestamp="1520069426649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" timestamp="1520070754856">
-        <mark key="'" line="55" column="9" />
-        <mark key="[" line="43" column="35" />
-        <mark key="]" line="43" column="35" />
-        <mark key="." line="43" column="35" />
-        <mark key="^" line="43" column="35" />
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
+        <mark key="'" line="44" column="3" />
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="50" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" timestamp="1520087772338">
+        <mark key="'" line="82" column="20" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="42" />
+        <mark key="." line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1505037896703">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="128" column="19" />
+        <mark key="]" line="128" column="30" />
+        <mark key="." line="128" column="30" />
+        <mark key="^" line="128" column="30" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/assets/bank.csv" timestamp="1505241374574">
+        <mark key="'" line="82" column="3" />
+        <mark key="[" line="99" column="4" />
+        <mark key="]" line="99" column="3" />
+        <mark key="." line="99" column="3" />
+        <mark key="^" line="99" column="3" />
       </file>
       <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1517849439253">
         <mark key="[" line="25" column="133" />
@@ -480,6 +936,13 @@
         <mark key="." line="19" column="79" />
         <mark key="^" line="19" column="79" />
       </file>
+      <file name="$USER_HOME$/developements/math/.env" timestamp="1519233551706">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="35" column="6" />
+        <mark key="]" line="35" column="6" />
+        <mark key="^" line="26" column="12" />
+        <mark key="." line="35" column="6" />
+      </file>
       <file name="$USER_HOME$/developements/math/.gitignore" timestamp="1519055100746">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="15" />
@@ -491,6 +954,48 @@
         <mark key="]" line="9" column="20" />
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/emails/loan/apply.blade.php" timestamp="1515327721450">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_close.blade.php" timestamp="1518450189252">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="3" column="49" />
+        <mark key="." line="11" column="31" />
+      </file>
+      <file name="$USER_HOME$/developements/vue/ch4-1.html" timestamp="1517009847660">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="59" column="6" />
+        <mark key="." line="20" column="45" />
+        <mark key="^" line="21" column="76" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/resources/views/company-list.blade.php" timestamp="1513451831617">
+        <mark key="'" line="0" column="23" />
+        <mark key="[" line="35" column="110" />
+        <mark key="]" line="35" column="110" />
+        <mark key="^" line="35" column="116" />
+        <mark key="." line="35" column="110" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1514223993450">
+        <mark key="'" line="160" column="68" />
+        <mark key="[" line="223" column="73" />
+        <mark key="]" line="223" column="74" />
+        <mark key="^" line="223" column="74" />
+        <mark key="." line="223" column="74" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Model/BondInterface.php" timestamp="1517653522001">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
       </file>
       <file name="$USER_HOME$/developements/snsl-v2/app/Http/Controllers/HomeController.php" timestamp="1516278545986">
         <mark key="[" line="41" column="77" />
@@ -516,11 +1021,25 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/routes/web.php" timestamp="1514289483399">
+        <mark key="'" line="48" column="14" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="38" column="50" />
+        <mark key="^" line="38" column="50" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/plugins/ultimate-member/core/um-builtin.php" timestamp="1514224600901">
         <mark key="[" line="969" column="98" />
         <mark key="]" line="969" column="98" />
         <mark key="." line="969" column="98" />
         <mark key="^" line="969" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/views/home.blade.php" timestamp="1519232429805">
+        <mark key="'" line="26" column="48" />
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="49" />
+        <mark key="^" line="32" column="49" />
+        <mark key="." line="32" column="49" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsld/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1512761762311">
         <mark key="[" line="14" column="99" />
@@ -539,11 +1058,39 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="33" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/.env" timestamp="1515255434925">
+        <mark key="'" line="43" column="48" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/routes/web.php" timestamp="1514474700120">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="69" column="54" />
+        <mark key="." line="69" column="54" />
+        <mark key="^" line="69" column="54" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/PointsTableSeeder.php" timestamp="1509130072875">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/app/Http/Controllers/HomeController.php" timestamp="1513450745207">
+        <mark key="'" line="46" column="52" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/composer.json" timestamp="1514288914231">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="71" column="7" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Http/Middleware/CreateVirtualAccount.php" timestamp="1517840477967">
         <mark key="[" line="16" column="5" />
@@ -556,6 +1103,13 @@
         <mark key="]" line="2" column="24" />
         <mark key="." line="2" column="24" />
         <mark key="^" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1514224655123">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="526" column="17" />
+        <mark key="]" line="526" column="13" />
+        <mark key="^" line="526" column="13" />
+        <mark key="." line="526" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/1d3058b1-1b93-48d2-a342-fb21c4bac50f/console_1.sql" timestamp="1514690027384">
         <mark key="[" line="0" column="0" />
@@ -572,11 +1126,32 @@
         <mark key="^" line="20" column="108" />
         <mark key="." line="20" column="108" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/app/Jobs/LoanApply.php" timestamp="1517721051256">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="21" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/assets/sass/_variables.scss" timestamp="1518331445874">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1512514146022">
         <mark key="[" line="47" column="35" />
         <mark key="]" line="47" column="39" />
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
+      </file>
+      <file name="$USER_HOME$/developements/math/resources/views/auth/login.blade.php" timestamp="1515308902197">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_23_174616_add_last_login_column_on_users_table.php" timestamp="1511459187430">
         <mark key="[" line="15" column="60" />
@@ -590,10 +1165,45 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="63" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/app/Controller.php" timestamp="1505553455904">
+        <mark key="'" line="318" column="247" />
+        <mark key="[" line="214" column="8" />
+        <mark key="]" line="214" column="7" />
+        <mark key="." line="214" column="7" />
+        <mark key="^" line="214" column="7" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/app/Tag.php" timestamp="1520069801934">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/helper.php" timestamp="1514298694327">
+        <mark key="'" line="287" column="0" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="32" />
+        <mark key="." line="278" column="0" />
+        <mark key="^" line="274" column="31" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/auth/login.blade.php" timestamp="1518334482323">
+        <mark key="'" line="40" column="77" />
+        <mark key="[" line="55" column="110" />
+        <mark key="]" line="55" column="111" />
+        <mark key="." line="55" column="111" />
+        <mark key="^" line="55" column="111" />
+      </file>
+      <file name="$USER_HOME$/developements/git/address/index.php" timestamp="1505651124065">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="4" column="48" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/terms/privacy.blade.php" timestamp="1519299739249">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="42" />
       </file>
       <file name="$USER_HOME$/developements/snsl/vendor/jrean/laravel-user-verification/src/resources/migrations/2016_09_13_070520_add_verification_to_user_table.php" timestamp="1520068113657">
         <mark key="'" line="44" column="60" />
@@ -602,11 +1212,32 @@
         <mark key="." line="44" column="63" />
         <mark key="^" line="44" column="63" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/invitation.blade.php" timestamp="1508868165006">
+        <mark key="'" line="63" column="88" />
+        <mark key="[" line="105" column="66" />
+        <mark key="]" line="110" column="36" />
+        <mark key="." line="110" column="36" />
+        <mark key="^" line="110" column="36" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/app/Http/Middleware/LoginHook.php" timestamp="1514899848632">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/investment/list.blade.php" timestamp="1517732170141">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app.blade.php" timestamp="1509132542046">
+        <mark key="'" line="16" column="5" />
+        <mark key="[" line="49" column="75" />
+        <mark key="]" line="49" column="75" />
+        <mark key="." line="49" column="75" />
+        <mark key="^" line="49" column="74" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175358_add_name_to_authors_table.php" timestamp="1511200457428">
         <mark key="[" line="16" column="39" />
@@ -614,11 +1245,53 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
       </file>
+      <file name="$USER_HOME$/developements/math/resources/views/admin.blade.php" timestamp="1519234101548">
+        <mark key="'" line="75" column="15" />
+        <mark key="[" line="60" column="49" />
+        <mark key="]" line="60" column="53" />
+        <mark key="." line="60" column="53" />
+        <mark key="^" line="60" column="53" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Notifications/Message.php" timestamp="1517841793794">
+        <mark key="'" line="24" column="26" />
+        <mark key="[" line="72" column="30" />
+        <mark key="]" line="72" column="30" />
+        <mark key="." line="72" column="30" />
+        <mark key="^" line="73" column="35" />
+      </file>
       <file name="$USER_HOME$/developements/math/resources/assets/js/app.js" timestamp="1514182049607">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="2" />
         <mark key="." line="16" column="2" />
         <mark key="^" line="16" column="2" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" timestamp="1514474037660">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Transaction.php" timestamp="1519233759582">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="24" column="71" />
+        <mark key="]" line="24" column="83" />
+        <mark key="^" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+      </file>
+      <file name="$USER_HOME$/developements/math/app/Http/Controllers/HomeController.php" timestamp="1519235060830">
+        <mark key="'" line="98" column="35" />
+        <mark key="[" line="98" column="44" />
+        <mark key="]" line="99" column="13" />
+        <mark key="." line="99" column="13" />
+        <mark key="^" line="99" column="13" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/deposit.blade.php" timestamp="1519839375237">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="41" />
+        <mark key="." line="19" column="41" />
+        <mark key="^" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/seeds/AcademyTableSeeder.php" timestamp="1509126054513">
         <mark key="[" line="13" column="37" />
@@ -632,6 +1305,13 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/vue/ch4.html" timestamp="1517009196512">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="26" column="11" />
+      </file>
       <file name="$USER_HOME$/developements/math/database/seeds/DatabaseSeeder.php" timestamp="1513500427966">
         <mark key="[" line="13" column="46" />
       </file>
@@ -640,6 +1320,20 @@
         <mark key="]" line="10" column="17" />
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/dashboard.php" timestamp="1505246376942">
+        <mark key="'" line="142" column="32" />
+        <mark key="[" line="142" column="34" />
+        <mark key="]" line="142" column="34" />
+        <mark key="." line="142" column="34" />
+        <mark key="^" line="142" column="34" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Http/Requests/ArticleRequest.php" timestamp="1511457470147">
+        <mark key="'" line="43" column="9" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="44" column="9" />
+        <mark key="." line="44" column="9" />
+        <mark key="^" line="44" column="9" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/api.json" timestamp="1513883399676">
         <mark key="[" line="0" column="7976" />
@@ -658,6 +1352,20 @@
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/developements/math/database/seeds/PointsTableSeeder.php" timestamp="1513499907912">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="27" />
+        <mark key="^" line="60" column="27" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/layouts/app-example.blade.php" timestamp="1508434561859">
+        <mark key="'" line="258" column="53" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/t-funding-detail.php" timestamp="1512565515138">
         <mark key="[" line="2" column="26" />
@@ -689,6 +1397,20 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/funding-list.php" timestamp="1505245506350">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="56" column="51" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/app/Notifications/SlackNotification.php" timestamp="1511609474204">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="61" column="23" />
+        <mark key="]" line="62" column="26" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="62" column="26" />
+      </file>
       <file name="$USER_HOME$/developements/vue/ch5.html" timestamp="1517011017968">
         <mark key="[" line="48" column="36" />
         <mark key="]" line="57" column="17" />
@@ -701,11 +1423,32 @@
         <mark key="." line="7" column="55" />
         <mark key="^" line="7" column="55" />
       </file>
+      <file name="$USER_HOME$/developements/study/identify/app/User.php" timestamp="1511549432904">
+        <mark key="'" line="23" column="5" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/fundingDetail1.php" timestamp="1514203267833">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="384" column="0" />
+        <mark key="^" line="96" column="26" />
+        <mark key="." line="96" column="26" />
+      </file>
       <file name="$USER_HOME$/developements/math/app/Providers/AppServiceProvider.php" timestamp="1514720444453">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="^" line="17" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/includes/deposit-list.php" timestamp="1505059737250">
+        <mark key="'" line="48" column="9" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="12" column="51" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/auth/register.blade.php" timestamp="1520056403145">
         <mark key="'" line="2" column="0" />
@@ -733,17 +1476,52 @@
         <mark key="^" line="16" column="66" />
         <mark key="." line="16" column="66" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/app/Model/Funding.php" timestamp="1519903400324">
+        <mark key="'" line="61" column="10" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="63" column="7" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/database/migrations/2017_11_20_175205_create_authors_table.php" timestamp="1511200388876">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="25" />
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/app/Model/InvestorInterface.php" timestamp="1518091823470">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="19" column="54" />
+        <mark key="]" line="19" column="54" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="19" column="54" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/class/students.blade.php" timestamp="1509277837133">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="41" />
+        <mark key="^" line="20" column="41" />
+        <mark key="." line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/resources/views/home.blade.php" timestamp="1511555284028">
+        <mark key="'" line="52" column="39" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="50" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/composer.json" timestamp="1518352792572">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="32" column="22" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/assets/js/app.js" timestamp="1519871526495">
+        <mark key="'" line="114" column="18" />
+        <mark key="[" line="15" column="64" />
+        <mark key="]" line="15" column="65" />
+        <mark key="." line="15" column="65" />
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/PointTransactionFactory.php" timestamp="1509278643756">
         <mark key="[" line="22" column="9" />
@@ -763,6 +1541,27 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/terms/service.blade.php" timestamp="1519299803145">
+        <mark key="'" line="389" column="0" />
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1514009253665">
+        <mark key="'" line="46" column="6" />
+        <mark key="[" line="557" column="21" />
+        <mark key="]" line="557" column="22" />
+        <mark key="^" line="560" column="41" />
+        <mark key="." line="557" column="22" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/error/developing.blade.php" timestamp="1515246572882">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="50" />
+        <mark key="." line="3" column="50" />
+        <mark key="^" line="10" column="64" />
+      </file>
       <file name="$USER_HOME$/developements/study/myapp/database/seeds/UsersTablesSeeder.php" timestamp="1511202778021">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="31" />
@@ -774,6 +1573,13 @@
         <mark key="]" line="8" column="58" />
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="52" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/ClassRoom.php" timestamp="1509817057726">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="93" column="35" />
+        <mark key="]" line="93" column="33" />
+        <mark key="^" line="93" column="33" />
+        <mark key="." line="93" column="33" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/partials/footer/class/students.blade.php" timestamp="1509135797888">
         <mark key="[" line="1" column="91" />
@@ -787,6 +1593,13 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_investment.blade.php" timestamp="1515246244450">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="30" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/migrations/2017_10_23_235523_create_point_transactions_table.php" timestamp="1513403909444">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="65" />
@@ -798,6 +1611,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="30" column="53" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/app/Academy.php" timestamp="1508439710611">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/developements/p2p/.gitignore" timestamp="1513452214718">
         <mark key="[" line="11" column="4" />
@@ -818,11 +1638,32 @@
         <mark key="." line="262" column="59" />
         <mark key="^" line="262" column="59" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1520066068781">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="4" />
+        <mark key="^" line="146" column="7" />
+        <mark key="." line="147" column="4" />
+      </file>
       <file name="$USER_HOME$/developements/snsl-v2/resources/views/funding/list.blade.php" timestamp="1516277562026">
         <mark key="[" line="76" column="12" />
         <mark key="]" line="76" column="9" />
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="9" />
+      </file>
+      <file name="$USER_HOME$/developements/vue/ch3-1.html" timestamp="1517008970895">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="6" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
+      </file>
+      <file name="$USER_HOME$/developements/p2p/.env" timestamp="1513451519444">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/User.php" timestamp="1520069758984">
         <mark key="'" line="12" column="0" />
@@ -837,11 +1678,25 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/config/services.php" timestamp="1515284021613">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="39" />
+        <mark key="^" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+      </file>
       <file name="$USER_HOME$/developements/study/identify/app/Book.php" timestamp="1511554404791">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/app.js" timestamp="1514003723620">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
       </file>
       <file name="$USER_HOME$/developements/math/app/Point.php" timestamp="1519232633879">
         <mark key="[" line="9" column="0" />
@@ -856,13 +1711,20 @@
         <mark key="^" line="217" column="32" />
         <mark key="." line="217" column="25" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/test_funding-detail.php" timestamp="1512564297400">
+        <mark key="'" line="507" column="6" />
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/database/migrations/2018_03_03_182527_create_articles_table.php" timestamp="1520070245757">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="34" />
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
-      <file name="/PHP Console" timestamp="1520074552497">
+      <file name="/PHP Console" timestamp="1520087691549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/auth/login.blade.php" timestamp="1508865093081">
@@ -880,6 +1742,41 @@
       <file name="/JavaScript Console" timestamp="1519283065542">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/style.css" timestamp="1505246093292">
+        <mark key="'" line="480" column="0" />
+        <mark key="[" line="477" column="34" />
+        <mark key="]" line="478" column="19" />
+        <mark key="." line="478" column="19" />
+        <mark key="^" line="478" column="19" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/functions.php" timestamp="1517717127850">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="17" column="91" />
+        <mark key="]" line="17" column="91" />
+        <mark key="." line="17" column="91" />
+        <mark key="^" line="18" column="122" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/LoanController.php" timestamp="1517733802880">
+        <mark key="'" line="88" column="4" />
+        <mark key="[" line="66" column="48" />
+        <mark key="]" line="67" column="16" />
+        <mark key="." line="67" column="17" />
+        <mark key="^" line="67" column="16" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/investment.blade.php" timestamp="1517667129180">
+        <mark key="'" line="30" column="23" />
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="25" />
+      </file>
+      <file name="$USER_HOME$/developements/study/myapp/app/Documentation.php" timestamp="1512909023819">
+        <mark key="'" line="28" column="38" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/wordpress/wp-content/themes/twentyseventeen/functions.php" timestamp="1518090180654">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="24" />
@@ -892,17 +1789,52 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/dashboard.blade.php" timestamp="1518337284000">
+        <mark key="'" line="134" column="27" />
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/storage/framework/views/e898171bcbbb451228e919a02fbf6b991d0b6e5a.php" timestamp="1516510402531">
         <mark key="[" line="121" column="143" />
         <mark key="]" line="121" column="142" />
         <mark key="." line="121" column="142" />
         <mark key="^" line="121" column="142" />
       </file>
+      <file name="$USER_HOME$/developements/git/point/app/Point.php" timestamp="1509280122637">
+        <mark key="'" line="16" column="27" />
+        <mark key="[" line="62" column="5" />
+        <mark key="]" line="54" column="89" />
+        <mark key="." line="54" column="89" />
+        <mark key="^" line="54" column="89" />
+      </file>
+      <file name="$USER_HOME$/developements/math/config/voyager.php" timestamp="1515287079248">
+        <mark key="'" line="89" column="5" />
+        <mark key="[" line="209" column="12" />
+        <mark key="]" line="209" column="16" />
+        <mark key="." line="209" column="16" />
+        <mark key="^" line="209" column="16" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/config/project.php" timestamp="1520065479525">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" timestamp="1518013748925">
+        <mark key="'" line="294" column="0" />
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="72" column="26" />
       </file>
       <file name="$USER_HOME$/developements/git/point/routes/api.php" timestamp="1508517825056">
         <mark key="[" line="17" column="3" />
@@ -928,6 +1860,13 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="61" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/auth/passwords/email.blade.php" timestamp="1518334467930">
+        <mark key="'" line="35" column="36" />
+        <mark key="[" line="20" column="78" />
+        <mark key="]" line="20" column="80" />
+        <mark key="^" line="20" column="80" />
+        <mark key="." line="20" column="80" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/database/migrations/2017_12_28_152924_create_social_logins_table.php" timestamp="1514474990196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="1" />
@@ -946,11 +1885,39 @@
         <mark key="." line="8" column="64" />
         <mark key="^" line="8" column="64" />
       </file>
+      <file name="$USER_HOME$/PhpstormProjects/newSNSL/wp-content/themes/Avada-Child-Theme/taxinfo.php" timestamp="1505242498078">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/raising.blade.php" timestamp="1514609454852">
+        <mark key="'" line="15" column="41" />
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/database/factories/AcademyFactory.php" timestamp="1509125853573">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/teacher/dashboard.blade.php" timestamp="1509136185300">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="4" column="25" />
+        <mark key="." line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/developements/git/point/resources/views/student.blade.php" timestamp="1508867065384">
+        <mark key="'" line="85" column="27" />
+        <mark key="[" line="119" column="20" />
+        <mark key="]" line="119" column="20" />
+        <mark key="." line="119" column="20" />
+        <mark key="^" line="109" column="95" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Http/Middleware/CheckInvestorInformation.php" timestamp="1514906515134">
         <mark key="[" line="16" column="5" />
@@ -982,6 +1949,20 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/partials/settings_withdrawal.blade.php" timestamp="1518016093168">
+        <mark key="'" line="31" column="55" />
+        <mark key="[" line="24" column="71" />
+        <mark key="]" line="24" column="71" />
+        <mark key="^" line="24" column="71" />
+        <mark key="." line="24" column="71" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/resources/views/notice.blade.php" timestamp="1515943266654">
+        <mark key="'" line="3" column="78" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="22" column="10" />
+        <mark key="." line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/database/migrations/2017_12_31_165443_create_loans_table.php" timestamp="1514715165698">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="30" column="0" />
@@ -990,10 +1971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/developements/snsl/public/index.php" />
-      <jump line="5" column="32" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
-      <jump line="1" column="11" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
-      <jump line="6" column="32" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="0" column="11" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="32" column="39" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="16" column="16" filename="$USER_HOME$/developements/snsl/.env" />
@@ -1078,7 +2055,6 @@
       <jump line="10" column="6" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
       <jump line="197" column="4" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
       <jump line="39" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
-      <jump line="75" column="25" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
       <jump line="56" column="4" filename="$USER_HOME$/developements/snsl/app/User.php" />
       <jump line="32" column="0" filename="$USER_HOME$/developements/snsl/app/User.php" />
       <jump line="102" column="4" filename="$USER_HOME$/developements/snsl/app/User.php" />
@@ -1090,6 +2066,11 @@
       <jump line="15" column="39" filename="$USER_HOME$/developements/snsl/resources/views/articles/index.blade.php" />
       <jump line="34" column="58" filename="$USER_HOME$/developements/snsl/resources/views/articles/index.blade.php" />
       <jump line="27" column="43" filename="$USER_HOME$/developements/snsl/resources/views/articles/index.blade.php" />
+      <jump line="64" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
+      <jump line="75" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/developements/snsl/resources/views/articles/show.blade.php" />
+      <jump line="13" column="7" filename="$USER_HOME$/developements/snsl/resources/views/articles/show.blade.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/developements/snsl/resources/views/articles/show.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1111,7 +2092,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICRyZXF1ZXN0LT5nZXQoJ3R5cGUnKTsKICAgICAgICBpZiAoIWluX2FycmF5KCR0eXBlLCAkdGhpcy0+dHlwZXMpKSB7CiAgICAgICAgICAgIGFib3J0KDQwNCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1126,52 +2107,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmctIA==</text>
+        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2aWV3TmFtZVw+</text>
+        <text>search</text>
       </register>
-      <register name="0" type="4">
-        <text>primary-bg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICRyZXF1ZXN0LT5nZXQoJ3R5cGUnKTsKICAgICAgICBpZiAoIWluX2FycmF5KCR0eXBlLCAkdGhpcy0+dHlwZXMpKSB7CiAgICAgICAgICAgIGFib3J0KDQwNCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvYXJkJyAgID0+ICRhcnRpY2xlLT50aXRsZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWNlbnRlciB0ZXh0LWRhbmdlciI+6riA7J20IOyXhuyKteuLiOuLpDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgdHJhbnMoJ2ZvcnVtLmFydGljbGVzLmluZGV4JykgfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJtZWRpYSB0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9ImluZGV4Ij48L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idGl0bGUiPuq4gCDsoJzrqqk8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0id3JpdGVyIj7snpHshLHsnpAgLyDsg53shLHsnbw8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGhlYWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHRyYW5zKCdmb3J1bS5hcnRpY2xlcy5kZXN0cm95JykgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHRyYW5zKCdmb3J1bS5hcnRpY2xlcy5lZGl0JykgfX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtY2VudGVyIGFjdGlvbl9fYXJ0aWNsZSI+CiAgICAgICAgICAgICAgICAgICAgQGNhbigndXBkYXRlJywgJGFydGljbGUpCiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Int7IHJvdXRlKCdhcnRpY2xlcy5lZGl0JywgJGFydGljbGUtPmlkKSB9fSIgY2xhc3M9ImJ0biBidG4taW5mbyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtcGVuY2lsIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyB0cmFucygnZm9ydW0uYXJ0aWNsZXMuZWRpdCcpIH19CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICBAZW5kY2FuCiAgICAgICAgICAgICAgICAgICAgQGNhbignZGVsZXRlJywgJGFydGljbGUpCiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGFuZ2VyIGJ1dHRvbl9fZGVsZXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS10cmFzaC1vIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyB0cmFucygnZm9ydW0uYXJ0aWNsZXMuZGVzdHJveScpIH19CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIEBlbmRjYW4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnYXJ0aWNsZXMuaW5kZXgnKSB9fSIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1saXN0Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIHt7IHRyYW5zKCdmb3J1bS5hcnRpY2xlcy5pbmRleCcpIH19CiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgPC9kaXY+Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAubWVkaWEtYm9keSB7CiAgICAgICAgICAgIGZsb2F0OiBsZWZ0OwogICAgICAgIH0KCiAgICAgICAgLm1lZGlhLWJvZHkgcCB7CiAgICAgICAgICAgIGZsb2F0OiByaWdodDsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+7IOd7ISx7J28PC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2aWV3TmFtZVw+</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2aWV3TmFtZVw+</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1179,8 +2160,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
-        <entry>service_info</entry>
         <entry encoding="base64">XDxnZXRGdW5kaW5nQ29udGVudHNcPg==</entry>
         <entry>service</entry>
         <entry>close</entry>
@@ -1199,6 +2178,8 @@
         <entry>pagin</entry>
         <entry encoding="base64">XDxjYWNoZV9rZXlcPg==</entry>
         <entry encoding="base64">XDx2aWV3TmFtZVw+</entry>
+        <entry>show</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
