@@ -192,6 +192,10 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/vendor/laravel/framework/src/Illuminate/Routing/Router.php" timestamp="1520142713100">
+        <mark key="[" line="1123" column="0" />
+        <mark key="]" line="1123" column="59" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashBoardTeacherController.php" timestamp="1514654091978">
         <mark key="'" line="40" column="10" />
         <mark key="[" line="64" column="24" />
@@ -199,12 +203,12 @@
         <mark key="." line="64" column="22" />
         <mark key="^" line="64" column="22" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" timestamp="1520139912315">
-        <mark key="'" line="53" column="20" />
-        <mark key="[" line="57" column="70" />
-        <mark key="]" line="57" column="78" />
-        <mark key="." line="57" column="78" />
-        <mark key="^" line="57" column="78" />
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" timestamp="1520144406399">
+        <mark key="'" line="161" column="32" />
+        <mark key="[" line="214" column="14" />
+        <mark key="]" line="214" column="12" />
+        <mark key="." line="214" column="12" />
+        <mark key="^" line="214" column="12" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/loan_apply.blade.php" timestamp="1515081719835">
         <mark key="'" line="1" column="0" />
@@ -295,6 +299,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/app/Traits/Azure.php" timestamp="1520059494983">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1512567362393">
         <mark key="'" line="51" column="134" />
@@ -519,7 +529,7 @@
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520139753358">
+      <file name="/Dummy.txt" timestamp="1520142302823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -557,14 +567,18 @@
         <mark key="." line="99" column="3" />
         <mark key="^" line="99" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1520139481850">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="11" column="63" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1520142781872">
+        <mark key="[" line="74" column="13" />
+        <mark key="]" line="74" column="33" />
+        <mark key="^" line="74" column="33" />
+        <mark key="." line="74" column="33" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/config/auth.php" timestamp="1520139622167">
+      <file name="$USER_HOME$/developements/snsl/config/auth.php" timestamp="1520142200126">
         <mark key="'" line="60" column="46" />
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
       </file>
       <file name="$USER_HOME$/developements/math/.env" timestamp="1519233551706">
         <mark key="'" line="13" column="0" />
@@ -766,6 +780,12 @@
         <mark key="." line="49" column="75" />
         <mark key="^" line="49" column="74" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/RegisterController.php" timestamp="1520059542472">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/math/resources/views/admin.blade.php" timestamp="1519234101548">
         <mark key="'" line="75" column="15" />
         <mark key="[" line="60" column="49" />
@@ -859,6 +879,9 @@
         <mark key="]" line="62" column="26" />
         <mark key="^" line="62" column="26" />
         <mark key="." line="62" column="26" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/_ide_helper.php" timestamp="1520141752138">
+        <mark key="'" line="6667" column="26" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/User.php" timestamp="1511549432904">
         <mark key="'" line="23" column="5" />
@@ -973,8 +996,11 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="38" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1520139813829">
+      <file name="$USER_HOME$/developements/snsl/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" timestamp="1520143337985">
         <mark key="'" line="161" column="5" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="78" column="4" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/funding_investment.blade.php" timestamp="1515246244450">
         <mark key="'" line="1" column="0" />
@@ -1039,8 +1065,8 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1520131810091">
-        <mark key="'" line="17" column="17" />
+      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1520142277925">
+        <mark key="'" line="228" column="0" />
         <mark key="[" line="17" column="17" />
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
@@ -1053,7 +1079,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1520138306380">
+      <file name="/PHP Console" timestamp="1520144134833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1519283065542">
@@ -1187,31 +1213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="21" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
-      <jump line="41" column="0" filename="$USER_HOME$/developements/snsl/.env" />
-      <jump line="44" column="13" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/RegisterController.php" />
-      <jump line="49" column="23" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/RegisterController.php" />
-      <jump line="23" column="0" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="205" column="3" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="188" column="6" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="74" column="14" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/RegisterController.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/RegisterController.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
-      <jump line="9" column="0" filename="$USER_HOME$/developements/snsl/app/User.php" />
-      <jump line="34" column="0" filename="$USER_HOME$/developements/snsl/app/User.php" />
-      <jump line="30" column="9" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
-      <jump line="46" column="38" filename="$USER_HOME$/developements/snsl/vendor/jrean/laravel-user-verification/src/resources/migrations/2016_09_13_070520_add_verification_to_user_table.php" />
-      <jump line="32" column="29" filename="$USER_HOME$/developements/snsl/vendor/jrean/laravel-user-verification/src/resources/migrations/2016_09_13_070520_add_verification_to_user_table.php" />
-      <jump line="44" column="60" filename="$USER_HOME$/developements/snsl/vendor/jrean/laravel-user-verification/src/resources/migrations/2016_09_13_070520_add_verification_to_user_table.php" />
-      <jump line="44" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Kernel.php" />
-      <jump line="52" column="15" filename="$USER_HOME$/developements/snsl/app/Http/Kernel.php" />
-      <jump line="34" column="25" filename="$USER_HOME$/developements/snsl/app/Http/Kernel.php" />
-      <jump line="46" column="25" filename="$USER_HOME$/developements/snsl/app/Http/Kernel.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/developements/snsl/config/mail.php" />
-      <jump line="51" column="71" filename="$USER_HOME$/developements/snsl/config/mail.php" />
-      <jump line="16" column="5" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="210" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
-      <jump line="3" column="0" filename="$USER_HOME$/developements/snsl/config/app.php" />
       <jump line="74" column="22" filename="$USER_HOME$/developements/snsl/config/app.php" />
       <jump line="91" column="4" filename="$USER_HOME$/developements/snsl/app/User.php" />
       <jump line="17" column="9" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
@@ -1287,6 +1288,31 @@
       <jump line="57" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
       <jump line="161" column="5" filename="$USER_HOME$/developements/snsl/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
       <jump line="53" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="126" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="69" column="6" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="114" column="9" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="95" column="13" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="103" column="13" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="228" column="0" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="1658" column="10" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="2226" column="24" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="2232" column="31" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="2234" column="55" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="6553" column="56" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="6665" column="53" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="6667" column="26" filename="$USER_HOME$/developements/snsl/_ide_helper.php" />
+      <jump line="120" column="34" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="55" column="4" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="107" column="29" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="154" column="15" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="106" column="4" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="70" column="4" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="164" column="16" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="200" column="13" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="178" column="37" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="75" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
+      <jump line="161" column="32" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/LoginController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1307,8 +1333,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>first</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1323,52 +1349,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXV0aCgpLT4=</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</text>
+        <text>crea</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">REJfREFUQUJBU0U9c25zbApEQl9VU0VSTkFNRT1yb290CkRCX1BBU1NXT1JEPXBhc3N3b3JkCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">REI6OnRhYmxlKCdzbnNsX3VzZXJzJykKICAgICAgICAgICAgLT53aGVyZSgndXNlcl9zdGF0dXMnLCAnPScsIDApCiAgICAgICAgICAgIC0+d2hlcmUoJ3VzZXJfZW1haWwnLCAnPScsICRjcmVkZW50aWFsc1snZW1haWwnXSkKICAgICAgICAgICAgLT5maXJzdCgpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkKQo=</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGVudGlhbHNbJ2NyZWF0ZWRfYXQnXSAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRGF0YWJhc2VcU2NoZW1hXEJsdWVwcmludDsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkd3BDcmVkZW50aWFscyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDquLDsobQg7JuM65Oc7ZSE66CI7Iqk7JeQ7IScIOqwgOyehe2WiOydhCDqsr3smrAg7LK07YGs7ZWY6rOgIOuEmOyWtOqwkAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkKCRjb21tYW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRkKCRjb21tYW5kKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDquLDsobQg7JuM65Oc7ZSE66CI7Iqk7JeQ7IScIOqwgOyehe2WiOydhCDqsr3smrAg7LK07YGs7ZWY6rOgIOuEmOyWtOqwkAogICAgICAgIGlmIChXcFBhc3N3b3JkOjpjaGVjaygkY3JlZGVudGlhbHNbJ3Bhc3N3b3JkJ10sICR3cENyZWRlbnRpYWxzWyd1c2VyX3Bhc3MnXSkpIHsKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5taWdyYXRlV29yZHByZXNzVG9MYXJhdmVsKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHdwQ3JlZGVudGlhbHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5jb21tZW50KCcnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>113</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-search>
+      <last-search>crea</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</last-pattern>
+      <last-pattern>crea</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1376,13 +1402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>from</entry>
-        <entry>locale</entry>
-        <entry>pagin</entry>
-        <entry encoding="base64">XDxjYWNoZV9rZXlcPg==</entry>
-        <entry encoding="base64">XDx2aWV3TmFtZVw+</entry>
-        <entry>search</entry>
-        <entry>create</entry>
         <entry>list__commen</entry>
         <entry>comment</entry>
         <entry>voya</entry>
@@ -1396,6 +1415,13 @@
         <entry>문의하기</entry>
         <entry>guar</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdGVcPg==</entry>
+        <entry>login</entry>
+        <entry>auth</entry>
+        <entry>route</entry>
+        <entry>guard</entry>
+        <entry encoding="base64">XDxtaWdyYXRlV29yZHByZXNzVG9MYXJhdmVsXD4=</entry>
+        <entry>create</entry>
+        <entry>crea</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
