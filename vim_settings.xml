@@ -286,12 +286,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Traits/Azure.php" timestamp="1520160498746">
+      <file name="$USER_HOME$/developements/snsl/app/Traits/Azure.php" timestamp="1520347879244">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="37" column="16" />
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="31" />
+        <mark key="." line="58" column="31" />
+        <mark key="^" line="58" column="31" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/js/components/fundRaising.vue" timestamp="1512567362393">
         <mark key="'" line="51" column="134" />
@@ -1076,7 +1076,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="/PHP Console" timestamp="1520251150280">
+      <file name="/PHP Console" timestamp="1520348002178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1519283065542">
@@ -1338,7 +1338,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{{ $redirectTo or ''}}</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1353,7 +1353,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>{{ $redirectTo or ''}}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>예금주 조회</text>
