@@ -1851,11 +1851,11 @@
         <mark key="." line="17" column="91" />
         <mark key="^" line="18" column="122" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/Envoy.blade.php" timestamp="1520165806311">
-        <mark key="'" line="71" column="37" />
-        <mark key="[" line="95" column="13" />
-        <mark key="]" line="93" column="19" />
-        <mark key="." line="93" column="19" />
+      <file name="$USER_HOME$/developements/snsl/Envoy.blade.php" timestamp="1520357177148">
+        <mark key="'" line="68" column="50" />
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="55" />
         <mark key="^" line="83" column="7" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/LoanController.php" timestamp="1520161731655">
@@ -2093,7 +2093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="600" column="20" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="585" column="9" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="608" column="46" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="612" column="38" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
@@ -2193,6 +2192,7 @@
       <jump line="70" column="94" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
       <jump line="81" column="47" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
       <jump line="176" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
+      <jump line="68" column="50" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2213,8 +2213,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZsYWdFc2Nyb3dBY2NvdW50ID0gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2229,7 +2229,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>ajax</text>
