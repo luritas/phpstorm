@@ -293,10 +293,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/articles/partial/list.blade.php" timestamp="1520680830614">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/articles/partial/list.blade.php" timestamp="1520682621370">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/developements/git/point/app/Http/Controllers/DashBoardTeacherController.php" timestamp="1514654091978">
         <mark key="'" line="40" column="10" />
@@ -427,8 +428,8 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/config/app.php" timestamp="1520353365924">
-        <mark key="'" line="186" column="0" />
+      <file name="$USER_HOME$/developements/snsl/config/app.php" timestamp="1520682767464">
+        <mark key="'" line="178" column="0" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
@@ -506,12 +507,12 @@
         <mark key="^" line="161" column="78" />
         <mark key="." line="161" column="78" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/config/voyager.php" timestamp="1520443201499">
-        <mark key="'" line="150" column="9" />
+      <file name="$USER_HOME$/developements/snsl/config/voyager.php" timestamp="1520682941652">
+        <mark key="'" line="218" column="46" />
         <mark key="[" line="107" column="17" />
-        <mark key="]" line="107" column="17" />
-        <mark key="." line="107" column="17" />
-        <mark key="^" line="107" column="23" />
+        <mark key="]" line="114" column="45" />
+        <mark key="." line="114" column="45" />
+        <mark key="^" line="114" column="45" />
       </file>
       <file name="$USER_HOME$/developements/math/app/Console/Commands/PointsCalculator.php" timestamp="1519055000817">
         <mark key="'" line="83" column="50" />
@@ -817,11 +818,11 @@
         <mark key="^" line="264" column="20" />
         <mark key="." line="264" column="20" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/articles/index.blade.php" timestamp="1520680834165">
-        <mark key="[" line="39" column="47" />
-        <mark key="]" line="39" column="47" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/articles/index.blade.php" timestamp="1520682650235">
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
         <mark key="^" line="47" column="45" />
-        <mark key="." line="39" column="47" />
+        <mark key="." line="56" column="36" />
       </file>
       <file name="$USER_HOME$/developements/vue/index.html" timestamp="1516984246657">
         <mark key="[" line="10" column="0" />
@@ -911,10 +912,6 @@
         <mark key="]" line="26" column="5" />
         <mark key="^" line="26" column="5" />
         <mark key="." line="26" column="5" />
-      </file>
-      <file name="$USER_HOME$/developements/snsl/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php" timestamp="1520446102612">
-        <mark key="'" line="694" column="23" />
-        <mark key="^" line="699" column="21" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/article/partial/list.php" timestamp="1520680709408">
         <mark key="[" line="3" column="55" />
@@ -1100,6 +1097,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="^" line="54" column="53" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/developements/snsl/vendor/tcg/voyager/src/Http/Controllers/VoyagerBreadController.php" timestamp="1520683061057">
+        <mark key="'" line="205" column="42" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/languages/plugins/ultimate-member-ko_KR.po" timestamp="1514224555981">
         <mark key="[" line="3735" column="8" />
@@ -1742,6 +1742,9 @@
         <mark key="^" line="93" column="33" />
         <mark key="." line="93" column="33" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/resources/lang/vendor/chatter/ko/alert.php" timestamp="1520435639528">
+        <mark key="'" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/developements/git/point/resources/views/partials/footer/class/students.blade.php" timestamp="1509135797888">
         <mark key="[" line="1" column="91" />
         <mark key="]" line="1" column="97" />
@@ -1927,12 +1930,12 @@
         <mark key="." line="17" column="91" />
         <mark key="^" line="18" column="122" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/Envoy.blade.php" timestamp="1520435248596">
+      <file name="$USER_HOME$/developements/snsl/Envoy.blade.php" timestamp="1520683598037">
         <mark key="'" line="68" column="50" />
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+        <mark key="[" line="88" column="19" />
+        <mark key="]" line="88" column="26" />
+        <mark key="." line="88" column="26" />
+        <mark key="^" line="88" column="26" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/LoanController.php" timestamp="1520161731655">
         <mark key="'" line="87" column="4" />
@@ -2058,6 +2061,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/vendor/tcg/voyager/src/Http/Controllers/Controller.php" timestamp="1520683391397">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/config/chatter.php" timestamp="1520622011483">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="15" column="25" />
@@ -2136,6 +2144,9 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
+      <file name="$USER_HOME$/developements/snsl/vendor/tcg/voyager/resources/views/master.blade.php" timestamp="1520442862328">
+        <mark key="'" line="117" column="31" />
+      </file>
       <file name="$USER_HOME$/developements/snsl/database/migrations/2018_03_03_182712_create_tags_table.php" timestamp="1520069252174">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -2170,9 +2181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="47" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
-      <jump line="176" column="20" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
-      <jump line="68" column="50" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="85" column="0" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
       <jump line="30" column="0" filename="$USER_HOME$/developements/snsl/config/chatter.php" />
       <jump line="13" column="14" filename="$USER_HOME$/developements/snsl/resources/lang/vendor/chatter/ko/alert.php" />
@@ -2270,6 +2278,9 @@
       <jump line="157" column="10" filename="$USER_HOME$/developements/snsl/routes/web.php" />
       <jump line="27" column="1" filename="$USER_HOME$/developements/snsl/app/Article.php" />
       <jump line="138" column="1" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/ArticleController.php" />
+      <jump line="178" column="0" filename="$USER_HOME$/developements/snsl/config/app.php" />
+      <jump line="218" column="46" filename="$USER_HOME$/developements/snsl/config/voyager.php" />
+      <jump line="205" column="42" filename="$USER_HOME$/developements/snsl/vendor/tcg/voyager/src/Http/Controllers/VoyagerBreadController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2290,8 +2301,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>boolean</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2306,54 +2317,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
-        <text>notice</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTAgY29sLW1kLW9mZnNldC0xIj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdXNlciI+PC9pPiB7eyAkYXJ0aWNsZS0+dXNlci0+bmFtZSB9fSAvCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpZiAoQXV0aDo6Y2hlY2soKSkKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2FydGljbGVzLmNyZWF0ZScpIH19IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1wbHVzLWNpcmNsZSI+PC9pPiDsg4gg6riAIOyTsOq4sAogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICBAZWxzZQogICAgICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0idGV4dC1yZWQiPuuhnOq3uOyduOydhCDtlZjshZTslbwg6riA7J2EIOyekeyEse2VoOyImCDsnojsirXri4jri6Q8L3NtYWxsPgoKICAgICAgICAgICAgICAgIEBlbmRpZgoK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JvYXJkJyAgICA9PiAkdGhpcy0+Ym9hcmRbJHR5cGVdLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZChDYXJib246Om5vdygpLT5mb3JtYXQoJ1ktbS1kIEg6aTpzJykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnICAgICA9PiAkdHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndHlwZScsICR0eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdXNlciI+PC9pPiB7eyAkYXJ0aWNsZS0+dXNlci0+bmFtZSB9fSAvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBpZiAoQXV0aDo6Y2hlY2soKSkKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2FydGljbGVzLmNyZWF0ZScpIH19IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1wbHVzLWNpcmNsZSI+PC9pPiDsg4gg6riAIOyTsOq4sAogICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICBAZWxzZQogICAgICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0idGV4dC1yZWQiPuuhnOq3uOyduOydhCDtlZjshZTslbwg6riA7J2EIOyekeyEse2VoOyImCDsnojsirXri4jri6Q8L3NtYWxsPgoKICAgICAgICAgICAgICAgIEBlbmRpZgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICRyZXF1ZXN0LT5nZXQoJ3R5cGUnKTsKICAgICAgICBpZiAoIWluX2FycmF5KCR0eXBlLCAkdGhpcy0+dHlwZXMpKSB7CiAgICAgICAgICAgIGFib3J0KDQwNCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JvYXJkJyAgICA9PiAkdGhpcy0+Ym9hcmRbJHR5cGVdLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>function () {
-
-    }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnICAgICA9PiAkdHlwZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgpCiAgICB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgndHlwZScsICR0eXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>117</text>
       </register>
     </registers>
     <search>
-      <last-search>notice</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>notice</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -2361,7 +2370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chatter</entry>
         <entry>chatter_header</entry>
         <entry>chatter_avatar</entry>
         <entry>목록</entry>
@@ -2381,6 +2389,7 @@
         <entry>login_or_register</entry>
         <entry>auth</entry>
         <entry>notice</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>351</entry>
