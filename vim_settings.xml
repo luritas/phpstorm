@@ -1889,11 +1889,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/database/migrations/2018_03_03_182527_create_articles_table.php" timestamp="1520680372733">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="54" />
-        <mark key="." line="22" column="54" />
-        <mark key="^" line="22" column="54" />
+      <file name="$USER_HOME$/developements/snsl/database/migrations/2018_03_03_182527_create_articles_table.php" timestamp="1520681494022">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
       <file name="/PHP Console" timestamp="1520619288046">
         <mark key="[" line="0" column="0" />
@@ -2291,7 +2291,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">7J6R7ISx7J6QIC8g</text>
+        <text>boolean</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2306,7 +2306,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">7J6R7ISx7J6QIC8g</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text>notice</text>
