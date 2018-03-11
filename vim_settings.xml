@@ -111,12 +111,11 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/settings/schedule.blade.php" timestamp="1520756189172">
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/schedule.blade.php" timestamp="1520759143109">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="26" column="65" />
-        <mark key="]" line="26" column="65" />
-        <mark key="." line="26" column="65" />
-        <mark key="^" line="26" column="65" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/developements/snsl/wordpress/wp-config.php" timestamp="1518089899640">
         <mark key="'" line="91" column="41" />
@@ -1410,7 +1409,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Lm5hdmJhci1jb2xsYXBzZSB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBkZCgkc2NoZWR1bGUtPmJvbmQpIH19Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1434,34 +1433,34 @@
         <text encoding="base64">Zm9vdGVyIHsKICBwYWRkaW5nOiA1MHB4OwogIGNvbG9yOiAjMWUxZTFlOwogIGZvbnQtc2l6ZTogMTJweDsKICBmb250LXdlaWdodDogbGlnaHRlcjsKICB1bC5wYXJ0bmVycyB7CiAgICBwYWRkaW5nLWxlZnQ6IDA7CiAgICBsaSB7CiAgICAgIGZsb2F0OiBsZWZ0OwogICAgICBtYXgtd2lkdGg6IDIzJTsKICAgICAgcGFkZGluZy1yaWdodDogMTBweDsKICAgICAgaW1nIHsKICAgICAgICBwYWRkaW5nOiAwIDIwcHggMCAwOwogICAgICAgIHdpZHRoOiAxMDAlOwogICAgICB9CiAgICB9CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lm5hdmJhci1jb2xsYXBzZSB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBkZCgkc2NoZWR1bGUtPmJvbmQpIH19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBkZCgkc2NoZWR1bGUtPmJvbmQpIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxMHB4Owo=</text>
+        <text encoding="base64">Lm5hdmJhci1jb2xsYXBzZSB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDIzJTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdDogbGVmdDsK</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxMHB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy1sZWZ0OiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXgtd2lkdGg6IDIzJTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDUwcHg7CiAgICBjb2xvcjogIzFlMWUxZTsKICAgIGZvbnQtc2l6ZTogMTJweDsKICAgIGZvbnQtd2VpZ2h0OiBsaWdodGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBmbG9hdDogbGVmdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYWluYmFubmVyX21vYmlsZTIucG5nCiAgbWFpbmJhbm5lcjIucG5nCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy1sZWZ0OiAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDjiJzsmIjsiqTquIjsnLXrjIDrtoAKICAgICAgICAgICAgICAgICAgICB8IOyCrOyXheyekOuTseuhneuyiO2YuCAyMDYtODYtODUzMjk8YnI+CiAgICAgICAgICAgICAgICAgICAgfCDrjIDrtoDsl4Xrk7HroZ3rsojtmLggMjAxMy3shJzsmrjqtJHsp4QtMDA1Mzxicj4KICAgICAgICAgICAgICAgICAgICB8IOyEnOyauOyLnCDqtJHsp4Tqtawg6rWs7J2Y66GcIDE4LCAyMDHtmLggKOq1rOydmOuPmSk8YnI+CiAgICAgICAgICAgICAgICAgICAgfCAwNzAtNzUyMi02NDU1PGJyPgogICAgICAgICAgICAgICAgICAgIHwg64yA7ZGcIOycoOuvuOyXsAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDUwcHg7CiAgICBjb2xvcjogIzFlMWUxZTsKICAgIGZvbnQtc2l6ZTogMTJweDsKICAgIGZvbnQtd2VpZ2h0OiBsaWdodGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
