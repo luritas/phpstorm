@@ -807,12 +807,12 @@
         <mark key="." line="60" column="53" />
         <mark key="^" line="60" column="53" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" timestamp="1520952178772">
-        <mark key="'" line="148" column="30" />
-        <mark key="[" line="159" column="45" />
-        <mark key="]" line="159" column="44" />
-        <mark key="." line="159" column="44" />
-        <mark key="^" line="159" column="44" />
+      <file name="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" timestamp="1520953310391">
+        <mark key="'" line="163" column="38" />
+        <mark key="[" line="263" column="50" />
+        <mark key="]" line="264" column="33" />
+        <mark key="." line="264" column="33" />
+        <mark key="^" line="264" column="33" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Notifications/Message.php" timestamp="1517841793794">
         <mark key="'" line="24" column="26" />
@@ -1166,12 +1166,11 @@
         <mark key="." line="209" column="16" />
         <mark key="^" line="209" column="16" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" timestamp="1520952004021">
-        <mark key="'" line="172" column="44" />
-        <mark key="[" line="195" column="85" />
-        <mark key="]" line="195" column="94" />
-        <mark key="." line="195" column="85" />
-        <mark key="^" line="191" column="117" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" timestamp="1520953414023">
+        <mark key="'" line="62" column="61" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/identify/app/Http/Controllers/BookController.php" timestamp="1511609666523">
         <mark key="'" line="70" column="0" />
@@ -1252,8 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="15" filename="$USER_HOME$/developements/snsl/app/boot.php" />
-      <jump line="90" column="7" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="3" column="58" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="71" column="37" filename="$USER_HOME$/developements/snsl/Envoy.blade.php" />
       <jump line="47" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
@@ -1352,6 +1349,8 @@
       <jump line="617" column="13" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="630" column="60" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="634" column="38" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="163" column="38" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/SettingController.php" />
+      <jump line="62" column="61" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1373,7 +1372,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wcmU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1388,52 +1387,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>분</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRXaXRoZHJhd2FsXD4=</text>
+        <text>상환</text>
       </register>
       <register name="0" type="4">
         <text>getRecommendCode</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wcmU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHByZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJ0ZXh0LXJlZCI+MjM6MzDrtoDthLAgMDA6MzDquYzsp4Ag7Iuc7Iqk7YWcIOygkOqygOyLnOqwhOyeheuLiOuLpDwvc21hbGw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZzo6YWxlcnQoIlvsmIjsuZjquIjstpzquIjsmpTssq1d7JeQ65+s66mU7Iuc7KeAOiB7JGRhdGFbJ01lc3NhZ2UnXX0iLCBbCiAgICAgICAgICAgICAgICAgICAgJ3VzZXInID0+IEF1dGg6OnVzZXIoKS0+ZW1haWwsCiAgICAgICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c21hbGwgY2xhc3M9InRleHQtcmVkIj4yMzozMOu2gO2EsCAwMDozMOq5jOyngCDsi5zsiqTthZwg7KCQ6rKA7Iuc6rCE7J6F64uI64ukPC9zbWFsbD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZXNjcm93QWNjb3VudElucXVpcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wcmU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHByZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V064K07LaU7LKc7L2U65OcKCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPuuCtOy2lOyynOy9lOuTnDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZzo6YWxlcnQoIlvsmIjsuZjquIjstpzquIjsmpTssq1d7JeQ65+s66mU7Iuc7KeAOiB7JGRhdGFbJ01lc3NhZ2UnXX0iLCBbCiAgICAgICAgICAgICAgICAgICAgJ3VzZXInID0+IEF1dGg6OnVzZXIoKS0+ZW1haWwsCiAgICAgICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChBdXRoOjp1c2VyKCktPmludmVzdG9yKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>654</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRXaXRoZHJhd2FsXD4=</last-search>
+      <last-search>상환</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRXaXRoZHJhd2FsXD4=</last-pattern>
+      <last-pattern>상환</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1441,11 +1440,9 @@
     </search>
     <history>
       <history-search>
-        <entry>투자</entry>
         <entry>자주</entry>
         <entry>맞습</entry>
         <entry>dd</entry>
-        <entry>ajax</entry>
         <entry>redi</entry>
         <entry>error</entry>
         <entry>profile</entry>
@@ -1461,6 +1458,8 @@
         <entry>__con</entry>
         <entry>deposit</entry>
         <entry encoding="base64">XDxnZXRXaXRoZHJhd2FsXD4=</entry>
+        <entry>ajax</entry>
+        <entry>상환</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
