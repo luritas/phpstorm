@@ -273,8 +273,8 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1521133885868">
-        <mark key="'" line="44" column="0" />
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1521134936592">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
@@ -1278,7 +1278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="69" filename="$USER_HOME$/developements/snsl/resources/views/home.blade.php" />
       <jump line="51" column="27" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="55" column="62" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="54" column="50" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
@@ -1378,6 +1377,7 @@
       <jump line="25" column="9" filename="$USER_HOME$/developements/snsl/routes/web.php" />
       <jump line="116" column="23" filename="$USER_HOME$/developements/snsl/routes/web.php" />
       <jump line="44" column="0" filename="$USER_HOME$/developements/snsl/.env" />
+      <jump line="20" column="0" filename="$USER_HOME$/developements/snsl/.env" />
     </jumps>
     <registers>
       <register name="a" type="4">
