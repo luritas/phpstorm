@@ -585,12 +585,12 @@
         <mark key="." line="171" column="0" />
         <mark key="^" line="60" column="41" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1520954186730">
-        <mark key="'" line="26" column="69" />
-        <mark key="[" line="87" column="58" />
-        <mark key="]" line="87" column="59" />
-        <mark key="^" line="87" column="59" />
-        <mark key="." line="87" column="59" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/home.blade.php" timestamp="1521553933240">
+        <mark key="'" line="27" column="69" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="86" />
+        <mark key="." line="24" column="86" />
+        <mark key="^" line="24" column="86" />
       </file>
       <file name="$USER_HOME$/developements/snsl/config/voyager.php" timestamp="1520682941652">
         <mark key="'" line="218" column="46" />
@@ -1396,7 +1396,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1420,34 +1420,34 @@
         <text encoding="base64">Lmd1aWRlIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7CiAgICAgICAgLy8g6riw67O47KCV67O0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmVydGljYWwtYWxpZ24K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YSB7CiAgJmhvdmVyIHsKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZSAhaW1wb3J0YW50OwogIH0KfQoK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlcik7CiAgICAgICAgLy8g6riw67O47KCV67O0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmVydGljYWwtYWxpZ24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhIHsKICAgICZob3ZlciB7CiAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">YSB7CiAgJmhvdmVyIHsKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZSAhaW1wb3J0YW50OwogIH0KfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjIj4K</text>
+        <text encoding="base64">ICBhIHsKICAgICZob3ZlciB7CiAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgIH0KICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>654</text>
