@@ -692,11 +692,12 @@
         <mark key="^" line="58" column="33" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1521546731515">
-        <mark key="'" line="988" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1521903605149">
+        <mark key="'" line="732" column="32" />
+        <mark key="[" line="123" column="39" />
+        <mark key="]" line="123" column="46" />
+        <mark key="." line="123" column="46" />
+        <mark key="^" line="123" column="46" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Model/InvestorInterface.php" timestamp="1518091823470">
         <mark key="'" line="21" column="20" />
@@ -1275,8 +1276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="787" column="11" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
-      <jump line="796" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="798" column="10" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="804" column="13" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="807" column="1" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
@@ -1375,6 +1374,8 @@
       <jump line="56" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/sass/app.scss" />
       <jump line="988" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="44" column="0" filename="$USER_HOME$/developements/snsl/.env" />
+      <jump line="135" column="0" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="733" column="32" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1414,7 +1415,7 @@
         <text encoding="base64">e3sgcm91dGUoJ2Z1bmRpbmcuc2hvdycsIFsnbXlJbmRleCcgPT4gJGJvbmQtPmdldE15SW5kZXgoKV0pIH19</text>
       </register>
       <register name="/" type="4">
-        <text>a</text>
+        <text>Code</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Lmd1aWRlIHsK</text>
@@ -1454,9 +1455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>a</last-search>
+      <last-search>Code</last-search>
       <last-offset />
-      <last-pattern>a</last-pattern>
+      <last-pattern>Code</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1464,7 +1465,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5UmVjb21tZW5kQ29kZVw+</entry>
         <entry>동의</entry>
         <entry>동의함</entry>
         <entry>투자수정</entry>
@@ -1484,6 +1484,7 @@
         <entry>bond-schedule</entry>
         <entry>vertical-align</entry>
         <entry>a</entry>
+        <entry>Code</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
