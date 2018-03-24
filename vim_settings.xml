@@ -693,11 +693,7 @@
         <mark key="." line="58" column="30" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1521903605149">
-        <mark key="'" line="732" column="32" />
-        <mark key="[" line="123" column="39" />
-        <mark key="]" line="123" column="46" />
-        <mark key="." line="123" column="46" />
-        <mark key="^" line="123" column="46" />
+        <mark key="'" line="733" column="32" />
       </file>
       <file name="$USER_HOME$/developements/snsl/app/Model/InvestorInterface.php" timestamp="1518091823470">
         <mark key="'" line="21" column="20" />
@@ -1167,7 +1163,7 @@
         <mark key="." line="99" column="3" />
         <mark key="^" line="99" column="3" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1520748898623">
+      <file name="$USER_HOME$/developements/snsl/routes/console.php" timestamp="1521910882622">
         <mark key="'" line="61" column="13" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
