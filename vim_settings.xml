@@ -1025,11 +1025,11 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/webpack.mix.js" timestamp="1521945419013">
-        <mark key="[" line="13" column="49" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
+      <file name="$USER_HOME$/developements/snsl/webpack.mix.js" timestamp="1521967101791">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/snsl/wp-content/themes/Avada-Child-Theme/funding-detail.php" timestamp="1514009253665">
         <mark key="'" line="46" column="6" />
@@ -1081,15 +1081,15 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1521966403037">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="596" column="47" />
-        <mark key="]" line="596" column="47" />
-        <mark key="." line="596" column="47" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1521967406852">
+        <mark key="'" line="323" column="89" />
+        <mark key="[" line="596" column="48" />
+        <mark key="]" line="596" column="48" />
         <mark key="^" line="596" column="47" />
+        <mark key="." line="596" column="48" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1521966379413">
-        <mark key="'" line="229" column="6" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1521967137974">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="8" />
         <mark key="^" line="230" column="8" />
@@ -1302,9 +1302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="69" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
-      <jump line="346" column="25" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
-      <jump line="200" column="66" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
       <jump line="345" column="17" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
       <jump line="205" column="0" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
       <jump line="343" column="17" filename="$USER_HOME$/developements/snsl/resources/views/settings/profile.blade.php" />
@@ -1402,6 +1399,9 @@
       <jump line="220" column="11" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
       <jump line="229" column="6" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
       <jump line="9" column="19" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="14" column="0" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
+      <jump line="592" column="17" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="323" column="89" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1422,8 +1422,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldChtaXgoJ2pzL2ludmVzdG1lbnQuanMpKSB9fSI+PC9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1438,52 +1438,52 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGJvbmQtPmdldOyduOuzhOy1nOuMgOywuOyXrOq4iOyVoSgpIDwg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>쿠폰</text>
+        <text>총투자</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtWydjb3Vwb25fYW1vdW50J10gPSAkY291cG9uWydhbW91bnQnXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldChtaXgoJ2pzL2ludmVzdG1lbnQuanMpKSB9fSI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4gPGxhYmVsIGNsYXNzPSJzci1vbmx5IiBmb3I9InRvdGFsIj7stJ3tiKzsnpDquIjslaE8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiBpbnB1dC10ZXh0Ij7stJ3tiKzsnpDquIjslaE8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIG5ldy1pbnB1dC10ZXh0IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkPSJ0b3RhbCIgbmFtZT0idG90YWwiIHZhbHVlPSJ7eyBvbGQoJ3RvdGFsJykgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6ICNmZmYgIWltcG9ydGFudDsiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IiIgbnVtYmVyIHJlYWRvbmx5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24gaW5wdXQtdGV4dCI+66eM7JuQPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHZ1ZSBmb3JtIHZ1ZQo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJ7eyBhc3NldChtaXgoJ2pzL2ludmVzdG1lbnQuanMpKSB9fSI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHZ1ZSBmb3JtIHZ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aHIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAtMTVweDsgbWFyZ2luLXJpZ2h0OiAtMTVweDsgbWFyZ2luLXRvcDogMDtib3JkZXItYm90dG9tOiBub25lOyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aHIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAtMTVweDsgbWFyZ2luLXJpZ2h0OiAtMTVweDsgbWFyZ2luLXRvcDogMDtib3JkZXItYm90dG9tOiBub25lOyI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>654</text>
       </register>
     </registers>
     <search>
-      <last-search>쿠폰</last-search>
+      <last-search>총투자</last-search>
       <last-offset />
-      <last-pattern>쿠폰</last-pattern>
+      <last-pattern>총투자</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1491,8 +1491,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
-        <entry>user</entry>
         <entry>친구</entry>
         <entry>해습</entry>
         <entry>targ</entry>
@@ -1511,6 +1509,8 @@
         <entry>부실률</entry>
         <entry>vue</entry>
         <entry>쿠폰</entry>
+        <entry>ven</entry>
+        <entry>총투자</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
