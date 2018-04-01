@@ -544,7 +544,7 @@
         <mark key="]" line="22" column="75" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522368704709">
+      <file name="/Dummy.txt" timestamp="1522574079220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -789,11 +789,12 @@
         <mark key="." line="278" column="0" />
         <mark key="^" line="274" column="31" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/auth/login.blade.php" timestamp="1520252053577">
+      <file name="$USER_HOME$/developements/snsl/resources/views/auth/login.blade.php" timestamp="1522574089604">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="86" column="36" />
-        <mark key="." line="86" column="36" />
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="13" column="67" />
+        <mark key="." line="13" column="67" />
+        <mark key="^" line="13" column="67" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/vendor/chatter/home.blade.php" timestamp="1522167287926">
         <mark key="'" line="92" column="55" />
@@ -978,12 +979,12 @@
         <mark key="." line="40" column="27" />
         <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/auth/register.blade.php" timestamp="1521941633172">
+      <file name="$USER_HOME$/developements/snsl/resources/views/auth/register.blade.php" timestamp="1522574066336">
         <mark key="'" line="106" column="27" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="48" />
+        <mark key="[" line="11" column="65" />
+        <mark key="]" line="11" column="65" />
         <mark key="^" line="108" column="27" />
-        <mark key="." line="108" column="27" />
+        <mark key="." line="11" column="65" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/helpers.php" timestamp="1512838014263">
         <mark key="[" line="0" column="0" />
@@ -1428,8 +1429,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1444,7 +1445,7 @@
         <text>kkkjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, '-');</text>
+        <text>pg</text>
       </register>
       <register name="/" type="4">
         <text>admin</text>
@@ -1483,12 +1484,12 @@
         <text encoding="base64">ICAgICAgICBkdW1wKCR0aXRsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
       <last-search>admin</last-search>
-      <last-offset />
+      <last-offset>/</last-offset>
       <last-pattern>admin</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
@@ -1519,7 +1520,6 @@
         <entry>admin</entry>
       </history-search>
       <history-cmd>
-        <entry>39</entry>
         <entry>57</entry>
         <entry>28</entry>
         <entry>260</entry>
@@ -1539,6 +1539,7 @@
         <entry>65</entry>
         <entry>654</entry>
         <entry>w</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
