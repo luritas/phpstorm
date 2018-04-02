@@ -510,7 +510,7 @@
         <mark key="^" line="37" column="95" />
         <mark key="." line="37" column="95" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522684247294">
+      <file name="/Dummy.txt" timestamp="1522686394623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/Seoul/seoul/wp-config.php" timestamp="1504422190086">
@@ -1064,8 +1064,8 @@
         <mark key="." line="22" column="12" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1522237877411">
-        <mark key="'" line="15" column="11" />
+      <file name="$USER_HOME$/developements/snsl/routes/web.php" timestamp="1522686388125">
+        <mark key="'" line="30" column="17" />
         <mark key="[" line="18" column="57" />
         <mark key="]" line="18" column="61" />
         <mark key="." line="18" column="61" />
@@ -1233,10 +1233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="64" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/FundingController.php" />
-      <jump line="178" column="68" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
-      <jump line="270" column="36" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
-      <jump line="302" column="32" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="442" column="47" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="126" column="66" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="160" column="63" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
@@ -1333,6 +1329,10 @@
       <jump line="98" column="18" filename="$USER_HOME$/developements/snsl/app/Traits/Azure.php" />
       <jump line="12" column="0" filename="$USER_HOME$/developements/snsl/.env" />
       <jump line="29" column="0" filename="$USER_HOME$/developements/snsl/.env" />
+      <jump line="214" column="15" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="31" column="17" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="24" column="9" filename="$USER_HOME$/developements/snsl/routes/web.php" />
+      <jump line="30" column="17" filename="$USER_HOME$/developements/snsl/routes/web.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1372,7 +1372,7 @@
         <text>view</text>
       </register>
       <register name="/" type="4">
-        <text>send</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
         <text>$content['InvestSuccess']</text>
@@ -1412,9 +1412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>send</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>send</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,8 +1422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>v-mode</entry>
-        <entry>v-model</entry>
         <entry encoding="base64">XDxhZGp1c3RBbW91bnRcPg==</entry>
         <entry>status</entry>
         <entry>statistics</entry>
@@ -1442,6 +1440,8 @@
         <entry>MUST</entry>
         <entry>MAIL</entry>
         <entry>send</entry>
+        <entry>lgoin</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
