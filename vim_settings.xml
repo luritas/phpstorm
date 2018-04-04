@@ -62,8 +62,8 @@
         <mark key="^" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1522682699907">
-        <mark key="'" line="106" column="15" />
+      <file name="$USER_HOME$/developements/snsl/app/boot.php" timestamp="1522841679645">
+        <mark key="'" line="64" column="10" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -515,7 +515,7 @@
         <mark key="." line="189" column="0" />
         <mark key="^" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1522684246793">
+      <file name="$USER_HOME$/developements/snsl/.env" timestamp="1522841691626">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="20" />
@@ -686,7 +686,7 @@
         <mark key="^" line="58" column="33" />
         <mark key="." line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1522758087490">
+      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1522841566485">
         <mark key="'" line="683" column="22" />
         <mark key="[" line="691" column="20" />
         <mark key="]" line="691" column="43" />
@@ -835,12 +835,13 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1522763264355">
-        <mark key="'" line="131" column="37" />
-        <mark key="[" line="149" column="93" />
-        <mark key="]" line="165" column="24" />
-        <mark key="." line="165" column="24" />
-        <mark key="^" line="165" column="24" />
+      <file name="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" timestamp="1522841476519">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="117" column="27" />
+        <mark key="]" line="117" column="27" />
+        <mark key="^" line="117" column="27" />
+        <mark key="." line="117" column="27" />
+        <mark key="n" line="117" column="27" />
       </file>
       <file name="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" timestamp="1522755468899">
         <mark key="'" line="31" column="19" />
@@ -1238,8 +1239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="17" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
-      <jump line="200" column="0" filename="$USER_HOME$/developements/snsl/resources/views/layouts/app.blade.php" />
       <jump line="138" column="0" filename="$USER_HOME$/developements/snsl/resources/assets/js/investment.js" />
       <jump line="101" column="21" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="453" column="39" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
@@ -1338,6 +1337,8 @@
       <jump line="683" column="22" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="213" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="120" column="37" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="141" column="0" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
+      <jump line="64" column="10" filename="$USER_HOME$/developements/snsl/app/boot.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1358,8 +1359,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRleHQtcmVkIg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1377,49 +1378,49 @@
         <text encoding="base64">IHRleHQtcmVkIg==</text>
       </register>
       <register name="/" type="4">
-        <text>투자요약</text>
+        <text encoding="base64">PGZvcm0=</text>
       </register>
       <register name="0" type="4">
         <text>getTotalInvestmentAmount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJzci1vbmx5IiBmb3I9IiI+7Yis7J6Q6riI7JWhPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24gaW5wdXQtdGV4dCI+7Yis7J6Q6riI7JWhPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCBuZXctaW5wdXQtdGV4dCB0ZXh0LXJlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0iIiBuYW1lPSIiIHZhbHVlPSJ7eyBudW1iZXJfZm9ybWF0KCRpbnZlc3Rvci0+Z2V0VG90YWxJbnZlc3RtZW50QW1vdW50KCkpIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtYmVyIHJlYWRvbmx5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24gaW5wdXQtdGV4dCI+7JuQPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZGQoJGludmVzdG9yKSB9fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMS41cmVtOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGVyc29uYWxpYToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGVnZW5kPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsZWdlbmQ+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJzci1vbmx5IiBmb3I9IiI+7Yis7J6Q6riI7JWhPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24gaW5wdXQtdGV4dCI+7Yis7J6Q6riI7JWhPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCBuZXctaW5wdXQtdGV4dCB0ZXh0LXJlZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZD0iIiBuYW1lPSIiIHZhbHVlPSJ7eyBudW1iZXJfZm9ybWF0KCRpbnZlc3Rvci0+Z2V0VG90YWxJbnZlc3RtZW50QW1vdW50KCkpIH19IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVtYmVyIHJlYWRvbmx5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYWRkb24gaW5wdXQtdGV4dCI+7JuQPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge3sgZGQoJGludmVzdG9yKSB9fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMS41cmVtOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUGVyc29uYWxpYToK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogI2ZmZiAhaW1wb3J0YW50OyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGVnZW5kPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3sgZGQoJGludmVzdG9yLT4pIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsZWdlbmQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
       </register>
     </registers>
     <search>
-      <last-search>투자요약</last-search>
+      <last-search encoding="base64">PGZvcm0=</last-search>
       <last-offset />
-      <last-pattern>투자요약</last-pattern>
+      <last-pattern encoding="base64">PGZvcm0=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1427,8 +1428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uncomma</entry>
-        <entry encoding="base64">XDx1bmNvbW1hXD4=</entry>
         <entry>target</entry>
         <entry>만원</entry>
         <entry>show</entry>
@@ -1447,6 +1446,8 @@
         <entry>unit</entry>
         <entry>잔여투자한도</entry>
         <entry>투자요약</entry>
+        <entry>getMax</entry>
+        <entry encoding="base64">PGZvcm0=</entry>
       </history-search>
       <history-cmd>
         <entry>28</entry>
