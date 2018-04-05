@@ -686,8 +686,8 @@
         <mark key="^" line="58" column="33" />
         <mark key="." line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1522849359459">
-        <mark key="'" line="729" column="18" />
+      <file name="$USER_HOME$/developements/snsl/app/Model/Investor.php" timestamp="1522927413608">
+        <mark key="'" line="709" column="36" />
         <mark key="[" line="755" column="43" />
         <mark key="]" line="755" column="47" />
         <mark key="." line="755" column="47" />
@@ -972,7 +972,7 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1522850607820">
+      <file name="/PHP Console" timestamp="1522927377109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/developements/study/myapp/app/User.php" timestamp="1511460009789">
@@ -1239,8 +1239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="87" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
-      <jump line="11" column="8" filename="$USER_HOME$/developements/snsl/resources/assets/js/investment.js" />
       <jump line="325" column="38" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="187" column="56" filename="$USER_HOME$/developements/snsl/resources/views/funding_show.blade.php" />
       <jump line="141" column="8" filename="$USER_HOME$/developements/snsl/resources/assets/js/investment.js" />
@@ -1339,6 +1337,8 @@
       <jump line="728" column="18" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="729" column="18" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
       <jump line="17" column="0" filename="$USER_HOME$/developements/snsl/app/Http/Controllers/Auth/RegisterController.php" />
+      <jump line="801" column="4" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
+      <jump line="709" column="36" filename="$USER_HOME$/developements/snsl/app/Model/Investor.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1378,7 +1378,7 @@
         <text>jsone</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>투자내역</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHJlc3VsdHNbJG5hbWVdLT5nZXRCb2R5KCktPmdldENvbnRlbnRzKCk=</text>
@@ -1418,9 +1418,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>투자내역</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>투자내역</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>휴대폰</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,7 +1428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>만원</entry>
         <entry>show</entry>
         <entry>window</entry>
         <entry>전액</entry>
@@ -1448,6 +1447,7 @@
         <entry encoding="base64">PGZvcm0=</entry>
         <entry>coupon</entry>
         <entry>login</entry>
+        <entry>투자내역</entry>
       </history-search>
       <history-cmd>
         <entry>260</entry>
